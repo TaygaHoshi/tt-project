@@ -210,7 +210,7 @@
 
 ## Enhanced Guard
 **Category:** Weapon attack
-**Execution Time:** Full-turn action 
+**Execution Time:** Prepared action 
 **Cost:** 2 stamina, varies
 **Range:** 2 meters
 **Requirements:**
