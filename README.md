@@ -3,7 +3,7 @@
 
 Tayga's Tabletop Project (placeholder name) is a work-in-progress tabletop role playing game being created by me, [TaygaHoshi](https://github.com/TaygaHoshi). 
 
-Start reading at [INTRODUCTION.md](INTRODUCTION.md) for theme, goals and more.
+Start reading at [INTRODUCTION.md](INTRODUCTION.md) for theme, goals and more. Since Github's markdown syntax is different from what I use, I recommend using the "code" view instead of the "preview" view to read the files.
 
 This repository is for keeping track of changes to the game rules between versions. 
 This repository may or may not be up to date. Playable books will be posted in the releases page after they are made publicly available.
