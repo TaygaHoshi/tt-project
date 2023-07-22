@@ -81,11 +81,12 @@ war drums        |     -    |     1     | 10m   |  -
 + Precision: ACU
 + (Projectile) Shoot
 	+ Range: 15 meters
-	+ Ignores weapon precision against targets within 5 meters.
+	+ Receives a -1 penalty to precision rolls against targets within 5 meters.
 	+ Deals 28 damage.
 + (Projectile) Dual Shot
 	+ Range: 15 meters
 	+ This attack's precision rolls are made against Evasion.
+	+ Receives a -1 penalty to precision rolls against targets within 5 meters.
 	+ Deals 14 damage.
 	+ Hits two adjacent targets within range.
 + (Prepared) (Projectile) Half-drawn Shot
