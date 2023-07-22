@@ -3,7 +3,7 @@
 
 Stargazer Chronicles (placeholder) is a work-in-progress tabletop role playing game being created by me, [TaygaHoshi](https://github.com/TaygaHoshi). 
 
-Start reading at [INTRODUCTION.md](Games/stargazer-chronicles/INTRODUCTION.md) for theme, goals and more.
+Start reading at [INTRODUCTION.md](INTRODUCTION.md) for theme, goals and more.
 
 This repository is for keeping track of changes to the game rules between versions. 
 This repository may or may not be up to date. Playable books will be posted in the releases page after they are made publicly available.
@@ -14,7 +14,7 @@ Currently, the game is not in a playable state. When a usable version is release
 However feel free to play it from these notes if you want. You can also convert these notes into your own e-rulebook if you like books.
 
 # Contributing
-Feel free to submit a PR, but you must read [INTRODUCTION.md](Games/stargazer-chronicles/INTRODUCTION.md).
+Feel free to submit a PR, but you must read [INTRODUCTION.md](INTRODUCTION.md).
 
 I use [Obsidian](https://obsidian.md/) to edit of these notes. You can simply fork this repo.
 Then clone your fork into Obsidian or any equivalent software:
@@ -24,7 +24,7 @@ git clone your-fork
 ```
 
 # Formatting
-1. All links between the files in this repository must be formatted like this -> [[Games/stargazer-chronicles/INTRODUCTION]]. 
+1. All links between the files in this repository must be formatted like this -> [[INTRODUCTION]]. 
 2. Newlines *should not* have empty lines between them in Obsidian. 
 3. Paragraphs *should* have empty lines between them in Obsidian.
 
