@@ -1,7 +1,7 @@
-# Stargazer Chronicles
+# Tayga's Tabletop Project
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
-Stargazer Chronicles (placeholder) is a work-in-progress tabletop role playing game being created by me, [TaygaHoshi](https://github.com/TaygaHoshi). 
+Tayga's Tabletop Project (placeholder name) is a work-in-progress tabletop role playing game being created by me, [TaygaHoshi](https://github.com/TaygaHoshi). 
 
 Start reading at [INTRODUCTION.md](INTRODUCTION.md) for theme, goals and more.
 
@@ -34,7 +34,7 @@ The only exception to the rules above is this README.md file.
 This work is licensed under a
 [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa]. See [LICENCE.md](LICENCE.md) for full text of the licence.
 
-Stargazer Chronicles consists of assets in the form of gameplay rules, art, music, books, e-books and more. Assets may or may not be in this repository. Unless explicitly told, all assets share this licence.
+Tayga's Tabletop Project consists of assets in the form of gameplay rules, art, music, books, e-books and more. Assets may or may not be in this repository. Unless explicitly told, all assets share this licence.
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
 

@@ -1,4 +1,4 @@
-(see: [[Games/stargazer-chronicles/Content/Combat|Combat]])
+(see: [[Combat]])
 
 # Movement
 #TODO: Add explanations for movement within combat.
