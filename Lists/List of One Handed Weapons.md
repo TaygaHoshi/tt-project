@@ -1,4 +1,4 @@
-(see: [[Weapons]])
+	(see: [[Weapons]])
 
 # One Handed Weapons
 One handed weapons are divided into two: heavy weapons and light weapons. Light weapons can be wielded with off-hand. All weapon attacks tagged (Prepared) are prepared actions and they require the weapon to be wielded with the off-hand.

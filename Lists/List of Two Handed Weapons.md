@@ -102,7 +102,7 @@ war drums        |     -    |     1     | 10m   |  -
 	+ Deals 24 damage.
 	+ Pierces 50% armor.
 + (Projectile) Pinning Shot
-+ Range: 15 meters.
+	+ Range: 15 meters.
 	+ Ignores weapon precision against targets within 5 meters.
 	+ This attack's precision roll is made against Constitution.
 	+ Deals 12 damage. 
@@ -115,10 +115,10 @@ war drums        |     -    |     1     | 10m   |  -
 ## Shortbow
 + Precision: ACU
 + (Projectile) Shoot
-	+ Range: 15 meters.
+	+ Range: 10 meters.
 	+ Deals 20 damage.
 + (Projectile) Shoot Vitals
-	+ Range: 15 meters.
+	+ Range: 10 meters.
 	+ This attack's precision roll is made against Constitution.
 	+ Ignores weapon damage.
 	+ Applies (3 + POW/4) turns of bleeding on hit.
