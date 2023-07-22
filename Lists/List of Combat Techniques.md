@@ -1,0 +1,244 @@
+(see: [[Combat Techniques]])
+
+# Simple Combat Techniques
+## Tackle
+**Category:** Weapon attack
+**Execution Time:** Action
+**Cost:** 2 stamina
+**Range:** 1 meter
+**Effect**
+	Ignores weapon damage and precision.
+	Tackle your target, making them fall prone.
+
+## Peeking
+**Category:** Mobility
+**Execution Time:** Special
+**Cost:** 1 stamina
+**Requirements:**
+	Any bow.
+**Effect**
+	When you attempt any bow weapon attack during your turn, you can move up to (2 + POW/4) meters before attacking as a part of that action.
+
+## Crushing Charge
+**Category:** Weapon attack
+**Execution Time:** Special
+**Cost:** 2 stamina
+**Range:** 1 meter
+**Duration:** (1 + POW/4) rounds
+**Effect**
+	This attack's precision roll is made against Constitution.
+	You can choose to activate this technique when you take the Charge action.
+	At the end of this Charge, your attack deals no damage and instead stuns the target for the duration.
+
+## Reaching Attack
+**Category:** Weapon attack
+**Execution Time:** Action 
+**Cost:** 1 stamina
+**Range:** Double weapon range
+**Requirements:**
+	Any melee weapon in main hand.
+**Effect**
+	Ignores weapon precision.
+	Deals half damage.
+
+## Counter
+**Category:** Weapon attack
+**Execution Time:** Prepared action 
+**Cost:** 2 stamina
+**Range:** Weapon range
+**Requirements:**
+	Any melee weapon in main hand.
+**Effect**
+	Ignores weapon precision.
+	Next time any target within range attacks you, you counter attack them.
+
+## Shield Bash
+**Category:** Weapon attack
+**Execution Time:** Rapid action
+**Cost:** 1 stamina
+**Range:** 1 meter
+**Requirements:**
+	A blocking shield or a buckler in off-hand.
+**Effect**
+	Ignores weapon damage and precision.
+	Deals 5 damage to target foe.
+
+## Scattering Shot
+**Category:** Weapon attack
+**Execution Time:** Action
+**Cost:** 2 stamina
+**Range:** Weapon range
+**Radius:** 2 meters
+**Requirements:**
+	Any bow.
+	1 x Cluster Arrow or 1 x Cluster Bolt for a crossbow.
+**Effect**
+	(Projectile)
+	This attack's precision rolls are made against Evasion.
+	Ignores weapon precision.
+	Deals half damage.
+	Shoot an arrow which splits into 3 parts. Choose any 3 foes within radius, and your arrows will target those foes.
+
+## Defensive Strike
+**Category:** Weapon attack
+**Execution Time:** Action
+**Cost:** 1 stamina
+**Range:** Weapon range
+**Duration:** 1 turn
+**Requirements:**
+	Any melee weapon in main hand.
+**Effect**
+	Deals half damage.
+	Choose a resistance. You gain a (1 + POW/4) bonus to a resistance of your choosing against attacks from this target.
+
+## Apply Poison
+**Category:** Weapon attack
+**Execution Time:** Rapid action
+**Cost:** 1 stamina
+**Range:** Weapon range
+**Requirements:**
+	Any melee weapon.
+	Any full vial of poison. 
+**Effect**
+	You quickly spread a vial of poison on your weapon in the heat of battle.
+
+## Webshot Bolt
+**Category:** Weapon attack
+**Execution Time:** Action
+**Cost:** 2 stamina
+**Range:** Half weapon range
+**Duration:** (1 + POW/4) rounds
+**Requirements:**
+	A crossbow.
+	1 x Webshot bolt.
+**Effect**
+	(Projectile)
+	This attack's precision roll is made against Constitution.
+	Ignores weapon damage and precision.
+	Immobilizes the target for the duration.
+
+# Advanced Combat Techniques
+## Wrestling 
+**Category:** Attack
+**Execution Time:** Full-turn action
+**Cost:** 4 stamina
+**Range:** 1 meter
+**Requirements:**
+	Unarmed off-hand.
+**Effect**
+	This attack's precision rolls are made with your POW against target's Parry.
+	Ignores weapon damage and precision. 
+	Try to hold the target and lock them in an inescapable position. On success, both of you fall prone and can't get up.
+	At the start of your turn, you can either release the target or spend 1 stamina and make another precision roll for Wrestling. On failure, the target escapes your hold and both of you can get up on your respective turns.
+	You can only wrestle one target at any time.
+
+## Disarm
+**Category:** Attack
+**Execution Time:** Action
+**Cost:** 1 stamina
+**Range:** 1 meter
+**Effect**
+	Ignores weapon damage and precision. 
+	You disarm one of the weapons of the target if they have one. This weapon falls below the target.
+	This technique can't disarm natural weapons.
+
+## Cleave
+**Category:** Weapon attack
+**Execution Time:** Full-turn action  
+**Cost:** 3 stamina
+**Range:** Weapon range
+**Radius:** Weapon range
+**Requirements:**
+	Either a curved sword, a reinforced club, a two-handed sword, a hammer or a glaive.
+**Effect**
+	This attack's precision rolls are made against Evasion.
+	Ignores weapon precision.
+	Choose a direction: clockwise or counter-clockwise. Attack a target with your weapon. If this target dies or falls unconscious, you attack the next closest foe in the direction you chose. Cleave continues until either you miss or one of the foes survive your attack.
+
+## Dazzling Shot
+**Category:** Weapon attack
+**Execution Time:** Action
+**Cost:** 3 stamina
+**Range:** Half weapon range
+**Radius:** 2 meters
+**Duration:** 2 rounds
+**Requirements:**
+	Any bow.
+	1 x Firework Arrow or 1 x Firework Bolt for a crossbow.
+**Effect**
+	(Projectile)
+	This attack's precision rolls are made against Evasion.
+	Ignores weapon damage and precision.
+	Choose a square within range. Every creature within the radius around this square is disoriented for the duration.
+
+## Flaming Shot
+**Category:** Weapon attack
+**Execution Time:** Action
+**Cost:** 3 stamina
+**Range:** Half weapon range
+**Radius:** 2 meters
+**Duration:** 2 turns
+**Requirements:**
+	Any bow.
+	1 x Oil Flask Arrow or 1 x Oil Flask Bolt for a crossbow.
+**Effect**
+	(Projectile)
+	This attack's precision rolls are made against Evasion.
+	Ignores weapon damage and precision.
+	Choose a square within range. Flaming oil splatters onto an area around this square. Make a precision roll against any creature walking into or ending their turn within this area. On success, the creature starts Burning for 1 round.
+	This effect does not stack.
+
+## Ambidextrous Strike
+**Category:** Weapon attack
+**Execution Time:** Special
+**Cost:** 1 stamina
+**Range:** 1 meter
+**Requirements:**
+	Dual wielding two weapons.
+**Effect**
+	Choose one:
+	Attack with your off-hand weapon as if it were your main hand weapon. You can choose any weapon attack of your off-hand weapon.
+	Take the dual strike action with your off-hand as if it were your main hand, and your main hand as if it were your off-hand.
+
+## Adrenaline Leap
+**Category:** Mobility
+**Execution Time:** Special
+**Cost:** 2 stamina
+**Effect**
+	You can choose to activate this technique when you take any Full-turn action. 
+	You can move up to (2 + POW/4) meters before taking that action.
+
+## Enhanced Guard
+**Category:** Weapon attack
+**Execution Time:** Full-turn action 
+**Cost:** 2 stamina, varies
+**Range:** 2 meters
+**Requirements:**
+	Any melee weapon.
+**Effect**
+	Ignores weapon range and precision.
+	Next time a foe walks into or within the range, you attack them with your weapon. For each stamina you additionally spend, you can attack an extra time in this way. You can spend up to 2 stamina. 
+
+## Curving Arrow
+**Category:** Weapon attack
+**Execution Time:** Action
+**Cost:** 1 stamina
+**Range:** Weapon range
+**Requirements:**
+	A longbow or a shortbow.
+**Effect**
+	(Projectile)
+	Ignores weapon precision. 
+	Shoot an arrow in a way that it bends and curves around objects. 
+	This attack ignores non-magical covers. 
+
+## Rapid Draw
+**Category:** Weapon attack
+**Execution Time:** Rapid action
+**Cost:** 3 stamina
+**Requirements:**
+	Any bow.
+	You attacked with a bow this turn.
+**Effect**
+	(Projectile)
+	You can shoot with this bow again, as a rapid action.
