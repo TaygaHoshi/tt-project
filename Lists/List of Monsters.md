@@ -33,7 +33,7 @@
 	Low level bandit swordsmen and swordswomen are heavily armored, strong combatants found primarily near remote or deserted locations. They live in small or large groups and attack, pillage and loot whatever they can. 
 
 ---
-## Bandit (Archer Lv1)
+## Bandit Archer
 **Level:** 1
 **Health:** 60
 **Aptitudes:**
@@ -63,6 +63,37 @@
 	+ On hit, target falls prone.
 **Lore**
 	Low level bandit archers wear medium armor. They can shoot targets from long distances. They are found primarily near remote or deserted locations. They live in small or large groups and attack, pillage and loot whatever they can. 
+
+---
+## Wild Dog
+**Level:** 1
+**Health:** 70
+**Aptitudes:**
+	1 POW / 0 ACU
+	0 VIT / 1 SPD
+**Initiative:** 1
+	+1 from SPD
+**Movement:** 11
+	+1 from SPD
+**Physical Armor:** 5
+	+5 from natural armor
+**Magic Armor:** 0
+**Weapons:** 
+	Claws and teeth (natural)
+**Precision roll:** (ACU) d10 + 1
+**Resistances:** 6
+**Skills**
++ Bite
+	+ Deals 20 physical damage.
++ (Combat Technique) Ferocious Bite
+	+ This attack's precision roll is made against Constitution.
+	+ Applies bleeding (5 damage) for 4 rounds.
++ (Combat Technique) Tackle
+	+ -2 penalty on precision roll.
+	+ Deals no damage.
+	+ On hit, target falls prone.
+**Lore**
+	While domesticated dogs are great companions, wild dogs are not. These dogs will do everything to ensure their survival. Wild dogs are usually found in small packs.
 
 ---
 ## Vampire Bloodstealer
