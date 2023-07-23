@@ -63,6 +63,10 @@ Base movement speed of a creature is calculated with the formula below:
 	+ Magical remote eyes and ears count as sight and hearing for the purposes of these kind of effects.
 	+ There may be magical effects which can break line of sight or block sounds.
 
+# Flanking
++ During battle, whenever a creature has two or more adjacent melee combatants, they are considered flanked.
++ Flanked creatures receive a -1 penalty to all resistances from precision rolls done by these melee combatants.
+
 # Terrain Obstacles
 #TODO 
 
