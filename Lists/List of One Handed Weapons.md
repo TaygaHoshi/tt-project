@@ -20,8 +20,7 @@ unarmed         |    16    |         0        |  1m   |       -
 + Slash
 	+ Deals 28 damage.
 + Feint
-	+ Deals 14 damage.
-	+ Potency bonus to damage is doubled for this attack. 
+	+ Deals 14 damage. Potency bonus to damage is doubled for this attack. 
 	+ 1 + POW/4 bonus to weapon precision.
 
 ## Reinforced Club (Heavy)
@@ -30,7 +29,7 @@ unarmed         |    16    |         0        |  1m   |       -
 	+ Deals 24 damage.
 	+ Pierces 50% armor.
 + Pulverize
-	+ Deals 12 damage.
+	+ Deals 12 damage. Potency bonus to damage is doubled for this attack. 
 	+ Pierces 50% armor.
 	+ If you hit, make another precision roll against Constitution of the target. If you succeed, this attack applies (1 + POW/4) turns of stunned.
 
@@ -40,7 +39,7 @@ unarmed         |    16    |         0        |  1m   |       -
 	+ Deals 24 damage.
 + Sweep
 	+ This attack's precision roll is made against Evasion.
-	+ Deals 12 damage.
+	+ Deals 12 damage. Potency bonus to damage is doubled for this attack. 
 	+ Ignores weapon precision.
 	+ Hits 3 squares in front of you.
 
@@ -53,9 +52,8 @@ unarmed         |    16    |         0        |  1m   |       -
 	+ This attack's precision roll is made against Constitution.
 	+ Ignores weapon damage.
 	+ Immobilizes for (1 + WRA/4) turns.
-+ (Prepared) Protective Reflex
-	+ Choose a target ally other than you.
-	+ Grants (3 + WRA/2) temporary physical and magical armor for 1 round to the that ally, if they are within range, just before the next time they get hit.
++ (Prepared) Attack 3
+	+ #TODO 
 
 ## Elemental Wand (Light)
 + Precision: PEN
@@ -63,10 +61,12 @@ unarmed         |    16    |         0        |  1m   |       -
 	+ Range: 5 meters.
 	+ Deals 24 damage.
 + Elemental Orb
+	+ Range: 5 meters.
 	+ This attack's precision rolls are made against Evasion.
 	+ Ignores weapon precision.
 	+ Create an elemental orb, which falls to the ground and explodes, dealing 12 damage to all creatures within 1 meter radius..
 + (Prepared) Counterspell
+	+ Range: 5 meters.
 	+ Ignores weapon damage and precision.
 	+ Choose a target. 
 	+ Next time this target attempts to cast a spell within range, make a precision roll. If you succeed, they are interrupted, and their action fails.
@@ -81,7 +81,8 @@ unarmed         |    16    |         0        |  1m   |       -
 	+ Applies (3 + POW/4) turns of bleeding on hit.
 + (Prepared) Quick Stab
 	+ Ignores weapon precision.
-	+ Choose a target. 
+	+ Deals 12 damage. Potency bonus to damage is doubled for this attack. 
+	+ Choose a target.
 	+ Attack this target next time they move into or out of range.
 
 ## Dagger (Light)
@@ -94,6 +95,7 @@ unarmed         |    16    |         0        |  1m   |       -
 	+ You attack the target twice.
 + (Prepared) Preemptive Strike
 	+ Ignores weapon damage and precision.
+	+ Deals 10 damage. Potency bonus to damage is doubled for this attack. 
 	+ Choose a target within range. 
 	+ Next time this target attempts to attack you or another ally within range, you attack this target before it attacks.
 	+ Target continues their attack normally unless it dies, falls prone or otherwise becomes unable to attack.  

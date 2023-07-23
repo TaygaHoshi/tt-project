@@ -10,6 +10,15 @@
 	Ignores weapon damage and precision.
 	Tackle your target, making them fall prone.
 
+## Extend Preparation
+**Category:** Utility
+**Execution Time:** Special
+**Cost:** 1 stamina
+**Requirements:**
+	A prepared weapon attack or combat technique.
+**Effect**
+	You can choose to activate this ability when you use a prepared action. This prepared action lasts until your next turn.
+
 ## Peeking
 **Category:** Mobility
 **Execution Time:** Special
@@ -25,6 +34,8 @@
 **Cost:** 2 stamina
 **Range:** 1 meter
 **Duration:** (1 + POW/4) rounds
+**Requirements:**
+	Charge action
 **Effect**
 	This attack's precision roll is made against Constitution.
 	You can choose to activate this technique when you take the Charge action.
@@ -38,8 +49,7 @@
 **Requirements:**
 	Any melee weapon in main hand.
 **Effect**
-	Ignores weapon precision.
-	Deals half damage.
+	This attack deals half damage, but potency bonus to its damage is doubled.
 
 ## Counter
 **Category:** Weapon attack
@@ -76,7 +86,7 @@
 	(Projectile)
 	This attack's precision rolls are made against Evasion.
 	Ignores weapon precision.
-	Deals half damage.
+	This attack deals half damage, but potency bonus to its damage is doubled.
 	Shoot an arrow which splits into 3 parts. Choose any 3 foes within radius, and your arrows will target those foes.
 
 ## Defensive Strike
@@ -84,11 +94,12 @@
 **Execution Time:** Action
 **Cost:** 1 stamina
 **Range:** Weapon range
-**Duration:** 1 turn
+**Duration:** 1 round
 **Requirements:**
 	Any melee weapon in main hand.
 **Effect**
-	Deals half damage.
+	Ignores weapon precision.
+	This attack deals half damage, but potency bonus to its damage is doubled.
 	Choose a resistance. You gain a (1 + POW/4) bonus to a resistance of your choosing against attacks from this target.
 
 ## Apply Poison
@@ -211,25 +222,25 @@
 ## Enhanced Guard
 **Category:** Weapon attack
 **Execution Time:** Prepared action 
-**Cost:** 2 stamina, varies
-**Range:** 2 meters
+**Cost:** 2 stamina
+**Range:** 1 meter
 **Requirements:**
 	Any melee weapon.
 **Effect**
 	Ignores weapon range and precision.
-	Next time a foe walks into or within the range, you attack them with your weapon. For each stamina you additionally spend, you can attack an extra time in this way. You can spend up to 2 stamina. 
+	Next time a foe walks into, out of or within the range, you attack them with your weapon. For each stamina you additionally spend, you can attack an extra time in this way. You can spend up to 2 additional stamina. 
 
 ## Curving Arrow
 **Category:** Weapon attack
 **Execution Time:** Action
-**Cost:** 1 stamina
+**Cost:** 2 stamina
 **Range:** Weapon range
 **Requirements:**
 	A longbow or a shortbow.
 **Effect**
 	(Projectile)
 	Ignores weapon precision. 
-	Shoot an arrow in a way that it bends and curves around objects. 
+	Shoot an arrow in a way that it bends and curves around objects.
 	This attack ignores non-magical covers. 
 
 ## Rapid Draw

@@ -25,11 +25,11 @@ war drums        |     -    |     1     | 10m   |  -
 + Wide Slash
 	+ This attack's precision rolls are made against Evasion.
 	+ Ignores weapon precision.
-	+ Deals 16 damage.
+	+ Deals 16 damage. Potency bonus to damage is doubled for this attack. 
 	+ Hits all creatures in 8 squares in a cone shape in front of you.
-+ (Prepared) Countering Thrust
++ (Prepared) Opportunistic Slash
 	+ Range: 2 meters.
-	+ Deals 8 damage.
+	+ Deals 16 damage. Potency bonus to damage is doubled for this attack. 
 	+ Choose a target. 
 	+ Attack this target next time they attack or cast a spell within range.
 
@@ -40,11 +40,12 @@ war drums        |     -    |     1     | 10m   |  -
 	+ Deals 28 damage.
 + Keep At Bay
 	+ Range: 2 meters.
-	+ Deals 20 damage.
+	+ Deals 14 damage. Potency bonus to damage is doubled for this attack. 
 	+ Target is pushed (2 + POW/4) meters away from you.
 + (Prepared) Opportunistic Thrust
 	+ Range: 2 meters.
 	+ Ignores weapon precision.
+	+ Deals 14 damage. Potency bonus to damage is doubled for this attack. 
 	+ Choose a target. 
 	+ Attack this target next time they move into or out of range.
 
@@ -64,7 +65,7 @@ war drums        |     -    |     1     | 10m   |  -
 	+ Pierces 50% armor.
 + Momentum Swing
 	+ This attack's precision rolls are made against Evasion.
-	+ Deals 14 damage.
+	+ Deals 14 damage. 
 	+ Hits all creatures within range, stunning the creatures you hit for 1 round.
 + (Prepared) Blind Swing
 	+ This attack's precision roll is made against Evasion.
@@ -87,11 +88,11 @@ war drums        |     -    |     1     | 10m   |  -
 	+ Range: 15 meters
 	+ This attack's precision rolls are made against Evasion.
 	+ Receives a -1 penalty to precision rolls against targets within 5 meters.
-	+ Deals 14 damage.
+	+ Deals 14 damage. Potency bonus to damage is doubled for this attack. 
 	+ Hits two adjacent targets within range.
 + (Prepared) (Projectile) Half-drawn Shot
-	+ Deals 14 damage.
 	+ Ignores weapon precision.
+	+ Deals 14 damage. Potency bonus to damage is doubled for this attack. 
 	+ Choose a target. 
 	+ Shoot this target next time they move into or out of a radius of 5 meters.
 
@@ -106,11 +107,11 @@ war drums        |     -    |     1     | 10m   |  -
 	+ Range: 15 meters.
 	+ Ignores weapon precision against targets within 5 meters.
 	+ This attack's precision roll is made against Constitution.
-	+ Deals 12 damage. 
+	+ Deals 12 damage. Potency bonus to damage is doubled for this attack. 
 	+ Slows the target for (1 + POW/4) rounds.
 + (Prepared) (Projectile) Crossbow Bash
-	+ Range: 15 meters.
-	+ Deals 12 damage.
+	+ Range: 2 meters.
+	+ Deals 5 damage.
 	+ Next time an adjacent foe attempts to attack or cast a spell, it is interrupted and their action fails.
 
 ## Shortbow
