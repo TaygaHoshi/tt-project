@@ -56,11 +56,11 @@
 	+ Range: 15 meters.
 	+ -1 penalty on precision roll against targets within 5 meters.
 	+ Deals 28 physical damage.
-+ (Combat Technique) Tackle
-	+ Range: 1 meter.
-	+ +2 penalty on precision roll.
++ (Combat Technique) Dazzling Shot
+	+ This attack's precision rolls are made against Evasion.
 	+ Deals no damage.
-	+ On hit, target falls prone.
+	+ This bandit chooses a square within 7 meters. Every creature within 2 meters around this square is disoriented for the duration.
+	+ Can be used only once a day.
 **Lore**
 	Low level bandit archers wear medium armor. They can shoot targets from long distances. They are found primarily near remote or deserted locations. They live in small or large groups and attack, pillage and loot whatever they can. 
 
