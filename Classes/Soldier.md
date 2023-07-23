@@ -51,8 +51,10 @@ level | simple techniques | advanced techniques
 		One handed specialization: 
 			#TODO 
 		Two handed specialization: 
-			For 1 stamina, you can do a main hand unarmed attack as a rapid action after hitting with a two handed weapon.
-		Dual wielding melee specialization: 
+			#TODO 
+		Bow specialization:
+			If you choose to stand still this turn, your ranged weapon attacks gain a +1 bonus to precision rolls. You can't move this turn if you use this ability.
+		Dual wielding specialization: 
 			You can spend 1 stamina to remove the -2 penalty on the attack with your off-hand weapon when performing a Dual Strike.
 		Wand and staff specialization:
 			#TODO 
@@ -63,11 +65,9 @@ level | simple techniques | advanced techniques
 **Style Specialization 2**
 	Choose one style to gain further expertise with it. You gain all of the listed benefits of that style.
 	Advanced melee specialization:
-		When you kill a foe with a melee weapon, you can do a followup basic attack to a foe adjacent to you. This attack deals half damage, has a -2 penalty to its precision roll and does not gain potency bonus to its damage. 
-		You can use this ability once per round, up to (2 + POW/4) times a day.
+		When you hit a foe with a melee weapon, you can do a followup basic attack to that foe. This attack deals half damage and has a -2 penalty on its precision roll.
 	Advanced ranged specialization:
 		Your ranged attacks ignore quarter cover penalty from shooting or throwing through creatures.
-		Your bow attacks ignore penalty to precision rolls when target is within close range.
 		#TODO 
 	Magical specialization: 
 			Choose any simple novice spell. You can cast this spell once a day by spending stamina instead.
