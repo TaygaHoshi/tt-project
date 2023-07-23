@@ -39,7 +39,7 @@
 **Effect**
 	This attack's precision roll is made against Constitution.
 	You can choose to activate this technique when you take the Charge action.
-	At the end of this Charge, your attack deals no damage and instead stuns the target for the duration.
+	At the end of this Charge, your attack additionally stuns the target for the duration.
 
 ## Reaching Attack
 **Category:** Weapon attack
@@ -71,7 +71,8 @@
 	A blocking shield or a buckler in off-hand.
 **Effect**
 	Ignores weapon damage and precision.
-	Deals 5 damage to target foe.
+	Deals 5 damage to target foe. 
+	Alternatively, you can spend an additional stamina to deal 10 damage instead.
 
 ## Scattering Shot
 **Category:** Weapon attack
@@ -188,7 +189,7 @@
 **Cost:** 3 stamina
 **Range:** Half weapon range
 **Radius:** 2 meters
-**Duration:** 2 turns
+**Duration:** 2 rounds
 **Requirements:**
 	Any bow.
 	1 x Oil Flask Arrow or 1 x Oil Flask Bolt for a crossbow.
@@ -216,7 +217,7 @@
 **Execution Time:** Special
 **Cost:** 2 stamina
 **Effect**
-	You can choose to activate this technique when you take any Full-turn action. 
+	You can choose to activate this technique when you take any full-turn action. 
 	You can move up to (2 + POW/4) meters before taking that action.
 
 ## Enhanced Guard
