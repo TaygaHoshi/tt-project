@@ -38,7 +38,7 @@ While the GM can freely determine the success threshold, a list of sample succes
 + Identifying
 	+ Learning about the magical properties of an item or a building.
 
-# Divine Aptitude Skills
+# Divine Skills
 + Lore keeping
 	+ Knowledge of historical events, ancient civilizations and hidden societies.
 + Religion
@@ -46,13 +46,13 @@ While the GM can freely determine the success threshold, a list of sample succes
 + Healing
 	+ Treating minor wounds, applying first aid and stabilizing a patient.
 
-# Endurance Aptitude Skills
+# Endurance Skills
 + Durability
 	+ Holding breath, enduring pain, travelling long distances and persistence chasing.
 + Athletics
 	+ Swimming, jumping over and climbing.
 
-# Social Aptitude Skills
+# Social Skills
 + Insight
 	+ Understanding lies, intentions and ulterior motives.
 + Performing
