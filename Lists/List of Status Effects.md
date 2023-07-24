@@ -27,6 +27,10 @@
 	(1 + potency/2) penalty on Evasion and initiative.
 	Does not stack. If target is already slowed, only the one with higher potency applies.
 
+**Soaked**
+	Soaked creatures receive more damage from lightning attacks.
+	Does not stack. If target is already soaked, only the one with higher potency applies.
+
 ---
 # Harming Effects
 **Bleeding**
