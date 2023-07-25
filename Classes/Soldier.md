@@ -48,29 +48,31 @@ level | simple techniques | advanced techniques
 
 **Style Specialization 1**
 	Choose one style to start specializing in. You gain all of the listed benefits of that style.
-		One handed specialization: 
-			#TODO 
-		Two handed specialization: 
-			#TODO 
-		Dual wielding specialization: 
-			When performing a Dual Strike, your off-hand weapon doesn't gain a -2 penalty to its precision roll.
-		Bow specialization:
-			If you choose to stand still this turn, your ranged weapon attacks gain a +1 bonus to precision rolls. You can't move this turn if you use this ability.
-		Wand and staff specialization:
-			#TODO 
+	Strength specialization:
+		#TODO 
+	Endurance specialization:
+		Your maximum health is increased by 2 per VIT you currently have. 
+		Whenever you spend an aptitude point in VIT, your maximum health is increased by 2.
+	Magical specialization: 
+		Choose any simple novice spell. You can cast this spell once a day by spending stamina instead.
+		You can choose to use your POW as potency and ACU as precision for the spell you cast in this way.
 
 **Armor Specialization 1**
-	#TODO
+	Choose an armor weight category. You get the following benefits while wearing an armor in that category.
+	Lightweight armor:
+		Robes and light armor are considered lightweight armors.
+		#TODO  
+	Heavyweight armor:
+		Adventurer armor and heavy armor are considered heavyweight armors.
+		#TODO  
 
 **Style Specialization 2**
 	Choose one style to gain further expertise with it. You gain all of the listed benefits of that style.
 	Advanced melee specialization:
 		After you hit a creature with your melee weapon, you can do a basic attack to another adjacent creature for 1 stamina. This attack deals half damage and has a -2 penalty on its precision roll. You can use this ability once per turn.
 	Advanced ranged specialization:
-		#TODO 
-	Magical specialization: 
-			Choose any simple novice spell. You can cast this spell once a day by spending stamina instead.
-			You can choose to use your POW as potency and ACU as precision for the spell you cast in this way.
+		If you choose to stand still this turn, your ranged weapon attacks gain a +1 bonus to precision rolls. You can't move this turn if you use this ability.
+		Additionally, you can spend 1 stamina to #TODO.
 
 **Armor Specialization 2**
 	 #TODO 
