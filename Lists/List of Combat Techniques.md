@@ -131,7 +131,7 @@
 
 # Advanced Combat Techniques
 ## Wrestling 
-**Category:** Attack
+**Category:** Weapon attack
 **Execution Time:** Full-turn action
 **Cost:** 4 stamina
 **Range:** 1 meter
@@ -145,7 +145,7 @@
 	You can only wrestle one target at any time.
 
 ## Disarm
-**Category:** Attack
+**Category:** Weapon attack
 **Execution Time:** Action
 **Cost:** 1 stamina
 **Range:** 1 meter
@@ -186,7 +186,7 @@
 ## Flaming Shot
 **Category:** Weapon attack
 **Execution Time:** Action
-**Cost:** 3 stamina
+**Cost:** 2 stamina
 **Range:** Half weapon range
 **Radius:** 2 meters
 **Duration:** 2 rounds
