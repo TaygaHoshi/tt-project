@@ -68,9 +68,9 @@ level | simple techniques | advanced techniques
 
 **Style Specialization 2**
 	Choose one style to gain further expertise with it. You gain all of the listed benefits of that style.
-	Advanced melee specialization:
+	Melee specialization:
 		After you hit a creature with your melee weapon, you can do a basic attack to another adjacent creature for 1 stamina. This attack deals half damage and has a -2 penalty on its precision roll. You can use this ability once per turn.
-	Advanced ranged specialization:
+	Ranged specialization:
 		If you choose to stand still this turn, your ranged weapon attacks gain a +1 bonus to precision rolls. You can't move this turn if you use this ability.
 		Additionally, you can spend 1 stamina to #TODO.
 
