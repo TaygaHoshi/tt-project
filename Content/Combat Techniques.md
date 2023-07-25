@@ -1,7 +1,7 @@
 # Combat Techniques
 Warrior might not be able to cast spells like a magician or a shaman, but they can take on their enemies their own way: brute force, complex movement, advanced techniques and alternative uses of weapons. 
 
-There are two kinds of combat techniques: Simple and complex. A list of those can be found in the [[List of Combat Techniques]].
+There are two kinds of combat techniques: Simple and advanced. A list of techniques can be found in the [[List of Combat Techniques]].
 
 # Stamina Scaling
 ```stamina_scaling_table
