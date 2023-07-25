@@ -53,7 +53,7 @@ level | simple techniques | advanced techniques
 		Two handed specialization: 
 			#TODO 
 		Dual wielding specialization: 
-			You can spend 1 stamina to remove the -2 penalty on the attack with your off-hand weapon when performing a Dual Strike.
+			When performing a Dual Strike, your off-hand weapon doesn't gain a -2 penalty to its precision roll.
 		Bow specialization:
 			If you choose to stand still this turn, your ranged weapon attacks gain a +1 bonus to precision rolls. You can't move this turn if you use this ability.
 		Wand and staff specialization:
@@ -65,7 +65,7 @@ level | simple techniques | advanced techniques
 **Style Specialization 2**
 	Choose one style to gain further expertise with it. You gain all of the listed benefits of that style.
 	Advanced melee specialization:
-		#TODO
+		After you hit a creature with your melee weapon, you can do a basic attack to another adjacent creature for 1 stamina. This attack deals half damage and has a -2 penalty on its precision roll. You can use this ability once per turn.
 	Advanced ranged specialization:
 		#TODO 
 	Magical specialization: 
