@@ -119,7 +119,7 @@
 **Duration:** 1 round
 **Effect**
 	(Projectile)
-	Choose an element. A powerful arc of lightning leaves your hand and strikes your target, dealing 15 damage. If the target is soaked, it is no longer soaked and is instead electrified.
+	A powerful arc of lightning leaves your hand and strikes your target, dealing 10 damage. If the target is soaked, it is also electrified.
 
 
 
