@@ -62,7 +62,7 @@ level | simple techniques | advanced techniques
 	Robes and light armor:
 		When you Charge or run, you gain a +1 bonus to Parry and Evasion.
 	Adventurer armor and heavy armor:
-		When you are stunned or prone, you do not gain the resistance penalties.
+		When you are stunned or prone, you do not gain the resistance penalties from those conditions.
 
 **Style Specialization 2**
 	Choose one style to gain further expertise with it. You gain all of the listed benefits of that style.
@@ -73,11 +73,13 @@ level | simple techniques | advanced techniques
 		Additionally, you can spend 1 stamina to #TODO.
 
 **Armor Specialization 2**
-	You increase your effectiveness further while wearing the armor weight you specialized in.
-	Robes and light armor:
-		#TODO 
-	Adventurer armor and heavy armor:
-		#TODO
+	Choose one passive effect. You gain that effect while wearing the armor weight you specialized in, further increasing your effectiveness.
+	Ease of movement:
+		You gain a +3 bonus to movement speed. 
+	Impenetrable defense:
+		You are immune to physical and magical armor piercing.
+	Reinforcement:
+		When you gain temporary armor of one type, you also gain an equal amount of the other type.
 
 **Favored Weapon Expertise**
 	If you roll a 9 for a precision roll for a weapon attack with your favored weapon, you can convert this attack to a critical hit by using 2 stamina.
