@@ -11,7 +11,7 @@ two-handed sword |    28    |     1     |  1m   |  -
 hammer           |    28    |     0     |  1m   | 50%
 occultic staff   |    24    |     0     | 10m   |  -
 divine staff     |    24    |     0     | 10m   |  -
-longbow          |    28    |     0     | 15m   |  -
+longbow          |    24    |     0     | 15m   |  -
 crossbow         |    24    |     1     | 15m   | 50%
 shortbow         |    20    |     1     | 10m   |  -
 war drums        |     -    |     1     | 10m   |  -
@@ -83,16 +83,16 @@ war drums        |     -    |     1     | 10m   |  -
 + (Projectile) Shoot
 	+ Range: 15 meters
 	+ Receives a -1 penalty to precision rolls against targets within 5 meters.
-	+ Deals 28 damage.
+	+ Deals 24 damage.
 + (Projectile) Dual Shot
 	+ Range: 15 meters
 	+ This attack's precision rolls are made against Evasion.
 	+ Receives a -1 penalty to precision rolls against targets within 5 meters.
-	+ Deals 14 damage. Potency bonus to damage is doubled for this attack. 
+	+ Deals 12 damage. Potency bonus to damage is doubled for this attack. 
 	+ Hits two adjacent targets within range.
 + (Prepared) (Projectile) Half-drawn Shot
 	+ Ignores weapon precision.
-	+ Deals 14 damage. Potency bonus to damage is doubled for this attack. 
+	+ Deals 12 damage. Potency bonus to damage is doubled for this attack. 
 	+ Choose a target. 
 	+ Shoot this target next time they move into or out of a radius of 5 meters.
 

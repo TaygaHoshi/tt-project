@@ -55,7 +55,7 @@
 + (Projectile) Shoot
 	+ Range: 15 meters.
 	+ -1 penalty on precision roll against targets within 5 meters.
-	+ Deals 28 physical damage.
+	+ Deals 24 physical damage.
 + (Combat Technique) Dazzling Shot
 	+ This attack's precision rolls are made against Evasion.
 	+ Deals no damage.
