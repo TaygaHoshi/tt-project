@@ -60,7 +60,7 @@ level | simple techniques | advanced techniques
 **Armor Specialization 1**
 	Choose an armor weight category. You get the following benefits while wearing an armor in that category.
 	Robes and light armor:
-		#TODO 
+		When you Charge or run, you gain a +1 bonus to Parry and Evasion.
 	Adventurer armor and heavy armor:
 		When you are stunned or prone, you do not gain the resistance penalties.
 
@@ -73,11 +73,11 @@ level | simple techniques | advanced techniques
 		Additionally, you can spend 1 stamina to #TODO.
 
 **Armor Specialization 2**
-	Choose an armor weight category. You get the following benefits while wearing an armor in that category.
+	You increase your effectiveness further while wearing the armor weight you specialized in.
 	Robes and light armor:
 		#TODO 
 	Adventurer armor and heavy armor:
-		#TODO 
+		#TODO
 
 **Favored Weapon Expertise**
 	If you roll a 9 for a precision roll for a weapon attack with your favored weapon, you can convert this attack to a critical hit by using 2 stamina.
