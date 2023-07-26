@@ -9,7 +9,7 @@ Soldiers can be honorable warriors, bounty hunters, master swordsmen and more. T
 	Stamina: 6 (High)
 	Starter equipment:
 		A regular weapon set.
-		Any armor of choice
+		Any armor of choice.
 		#TODO 
 
 ```soldier_class_features
@@ -59,23 +59,25 @@ level | simple techniques | advanced techniques
 
 **Armor Specialization 1**
 	Choose an armor weight category. You get the following benefits while wearing an armor in that category.
-	Lightweight armor:
-		Robes and light armor are considered lightweight armors.
-		#TODO  
-	Heavyweight armor:
-		Adventurer armor and heavy armor are considered heavyweight armors.
-		#TODO  
+	Robes and light armor:
+		#TODO 
+	Adventurer armor and heavy armor:
+		When you are stunned or prone, you do not gain the resistance penalties.
 
 **Style Specialization 2**
 	Choose one style to gain further expertise with it. You gain all of the listed benefits of that style.
 	Melee specialization:
-		After you hit a creature with your melee weapon, you can do a basic attack to another adjacent creature for 1 stamina. This attack deals half damage and has a -2 penalty on its precision roll. You can use this ability once per turn.
+		After you hit a creature with your melee weapon, you can do a basic attack, with your two handed or main hand weapon, to another adjacent creature for 1 stamina. This attack deals half damage and has a -2 penalty on its precision roll. You can use this ability once per turn.
 	Ranged specialization:
 		If you choose to stand still this turn, your ranged weapon attacks gain a +1 bonus to precision rolls. You can't move this turn if you use this ability.
 		Additionally, you can spend 1 stamina to #TODO.
 
 **Armor Specialization 2**
-	 #TODO 
+	Choose an armor weight category. You get the following benefits while wearing an armor in that category.
+	Robes and light armor:
+		#TODO 
+	Adventurer armor and heavy armor:
+		#TODO 
 
 **Favored Weapon Expertise**
 	If you roll a 9 for a precision roll for a weapon attack with your favored weapon, you can convert this attack to a critical hit by using 2 stamina.
