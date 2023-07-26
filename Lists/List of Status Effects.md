@@ -64,11 +64,13 @@
 
 **Temporary Physical Armor**
 	Protects target against physical damage until it breaks or the duration ends.
+	One point of temporary physical armor breaks for every point of physical damage reduced by it.
 	Affected by damage before armor.
 	Does not stack. If target already has temporary armor, only larger the one applies.
 
 **Temporary Magical Armor**
 	Protects target against magical damage until it breaks or the duration ends.
+	One point of temporary magical armor breaks for every point of magical damage reduced by it.
 	Affected by damage before armor.
 	Does not stack. If target already has temporary armor, only larger the one applies.
 
