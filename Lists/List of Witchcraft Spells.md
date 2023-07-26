@@ -81,10 +81,10 @@
 # Veteran Spells
 ## Rain
 **Complexity:** Simple
-**Casting Time:** Action
+**Casting Time:** Full-turn action
 **Cost:** 4 mana
 **Range:** Self
-**Radius:** 1 kilometer square
+**Radius:** 100 meters square
 **Duration:** (60 + 10xARC) minutes
 **Effect**
 	You generate a stationary cloud above you, which starts to rain immediately. 
