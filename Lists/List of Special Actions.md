@@ -31,7 +31,7 @@
 **Explanation:** 
 	Ignores weapon precision.
 	You gain a (5 + SPD/2) bonus to your movement speed, and you charge your target using your movement speed. Then, you attack once with your weapon.
-	You receive a -1 penalty to all resistances for 1 round.
+	You receive a -2 penalty to all resistances for 1 round.
 	This penalty increases by 1 for every 5 meters you move after your base movement speed.
 
 # Dual Strike

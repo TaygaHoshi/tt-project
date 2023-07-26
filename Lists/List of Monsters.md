@@ -28,7 +28,7 @@
 + (Full-turn action) Charge
 	+ -2 penalty on precision roll.
 	+ Can charge for 12 meters and attack with Slash.
-	+ -1 penalty to all resistances for 1 round.
+	+ -2 penalty to all resistances for 1 round.
 **Lore**
 	Low level bandit swordsmen and swordswomen are heavily armored, strong combatants found primarily near remote or deserted locations. They live in small or large groups and attack, pillage and loot whatever they can. 
 
