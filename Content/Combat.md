@@ -64,10 +64,10 @@ A precision roll is calculated according to this formula:
 
 Terms in this formula are explained below:
 	**Precision of relevant aptitude:** Equal to the precision stat of the weapon's or the spell's aptitude. For example, an elemental wand uses PEN. A shortsword uses ACU. A social spell uses PER.
-	**Weapon precision bonus:** A weapon's precision is determined by the type of the weapon held in main hand or the wielded two-handed weapon.
+	**Weapon precision bonus:** A weapon's precision type and bonus is determined by the type of the weapon held in main hand or the wielded two-handed weapon.
 	**Other bonuses:** These are bonuses or penalties which come from various sources like status effects, environment and the like.
 
-In some cases, a specific spell, an ability or an attack might include a precision bonus or penalty itself. For example, "thrust" attack of a longsword doesn't include "weapon precision bonus" in its precision roll. We know this because "thrust" has the phrase "ignores weapon precision" in its explanation.
+In some cases, a specific spell, an ability or an attack might include a precision bonus or penalty itself. For example, "wide slash" attack of a glaive doesn't include "weapon precision bonus" in its precision roll. We know this because "wide slash" has the phrase "ignores weapon precision" in its explanation. A weapon precision bonus only applies when a precision roll matches the weapon's precision type. For example, a wand of any type normally doesn't affect ACU rolls.
 
 ## Critical Hits
 An attack or a damaging spell can incur a critical hit. For them to be considered a critical hit, the d10 in the precision roll must be a 10. 
