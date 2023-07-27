@@ -8,7 +8,7 @@ weapon           |  damage  | precision | range | armor piercing
 glaive           |    32    |     0     |  2m   |  -
 spear            |    28    |     1     |  2m   |  -
 two-handed sword |    28    |     1     |  1m   |  -
-hammer           |    28    |     0     |  1m   | 50%
+war hammer       |    28    |     0     |  1m   | 50%
 occultic staff   |    24    |     0     | 10m   |  -
 divine staff     |    24    |     0     | 10m   |  -
 longbow          |    24    |     0     | 15m   |  -
@@ -58,7 +58,7 @@ war drums        |     -    |     1     | 10m   |  -
 + (Prepared) Defensive Stance
 	+ Gain a (1 + POW/4) bonus to Parry against the next physical attack.
 
-## Hammer
+## War hammer
 + Precision: ACU
 + Smash
 	+ Deals 28 damage.

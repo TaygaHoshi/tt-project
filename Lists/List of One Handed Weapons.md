@@ -1,4 +1,4 @@
-	(see: [[Weapons]])
+(see: [[Weapons]])
 
 # One Handed Weapons
 One handed weapons are divided into two: heavy weapons and light weapons. Light weapons can be wielded with off-hand. All weapon attacks tagged (Prepared) are prepared actions and they require the weapon to be wielded with the off-hand.
@@ -21,7 +21,7 @@ unarmed         |    16    |         0        |  1m   |       -
 	+ Deals 28 damage.
 + Feint
 	+ Deals 14 damage. Potency bonus to damage is doubled for this attack. 
-	+ 1 + POW/4 bonus to weapon precision.
+	+ You have a (1 + POW/4) bonus to precision roll of this attack.
 
 ## Reinforced Club (Heavy)
 + Precision: ACU
@@ -29,7 +29,7 @@ unarmed         |    16    |         0        |  1m   |       -
 	+ Deals 24 damage.
 	+ Pierces 50% armor.
 + Pulverize
-	+ Deals 12 damage. Potency bonus to damage is doubled for this attack. 
+	+ Deals 12 damage. Potency bonus to damage is doubled for this attack.
 	+ Pierces 50% armor.
 	+ If you hit, make another precision roll against Constitution of the target. If you succeed, this attack applies (1 + POW/4) turns of stunned.
 
@@ -39,8 +39,8 @@ unarmed         |    16    |         0        |  1m   |       -
 	+ Deals 24 damage.
 + Sweep
 	+ This attack's precision roll is made against Evasion.
-	+ Deals 12 damage. Potency bonus to damage is doubled for this attack. 
 	+ Ignores weapon precision.
+	+ Deals 12 damage. Potency bonus to damage is doubled for this attack. 
 	+ Hits 3 squares in front of you.
 
 ## Divine Wand (Light)
@@ -64,7 +64,7 @@ unarmed         |    16    |         0        |  1m   |       -
 	+ Range: 5 meters.
 	+ This attack's precision rolls are made against Evasion.
 	+ Ignores weapon precision.
-	+ Create an elemental orb, which falls to the ground and explodes, dealing 12 damage to all creatures within 1 meter radius..
+	+ Create an elemental orb, which falls to the ground and explodes, dealing 12 damage to all creatures within 1 meter radius. Potency bonus to damage is doubled for this attack. 
 + (Prepared) Counterspell
 	+ Range: 5 meters.
 	+ Ignores weapon damage and precision.

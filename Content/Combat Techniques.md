@@ -1,5 +1,5 @@
 # Combat Techniques
-Warrior might not be able to cast spells like a magician or a shaman, but they can take on their enemies their own way: brute force, complex movement, advanced techniques and alternative uses of weapons. 
+Warrior might not be able to cast spells like a magician or a shaman, but they can take on their enemies their own way: brute force, complex movement, advanced techniques and alternative uses of weapons. By default, all combat techniques use POW and ACU.
 
 There are two kinds of combat techniques: Simple and advanced. A list of techniques can be found in the [[List of Combat Techniques]].
 

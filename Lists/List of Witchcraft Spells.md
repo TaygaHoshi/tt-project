@@ -80,14 +80,14 @@
 ---
 # Veteran Spells
 ## Rain
-**Complexity:** Simple
+**Complexity:** Complex
 **Casting Time:** Full-turn action
 **Cost:** 4 mana
 **Range:** Self
 **Radius:** 100 meters square
 **Duration:** (60 + 10xARC) minutes
 **Effect**
-	You generate a stationary cloud above you, which starts to rain immediately. 
+	You generate a large and stationary raincloud above you, and it starts to rain immediately. 
 	All creatures below this cloud are soaked every round unless they have cover from rain.
 
 ## Armor of Branches
@@ -103,7 +103,7 @@
 
 ## Rune of Growth
 **Level:** Novice
-**Complexity:** Complex
+**Complexity:** Simple
 **Casting Time:** 1 hour
 **Cost:** 6 mana
 **Radius:** 50 meters + 5 x ARC
