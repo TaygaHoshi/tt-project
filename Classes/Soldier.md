@@ -54,8 +54,7 @@ level | simple techniques | advanced techniques
 		Your maximum health is increased by 2 per VIT you currently have. 
 		Whenever you spend an aptitude point in VIT, your maximum health is increased by 2.
 	Magical specialization: 
-		Choose any simple novice spell. You can cast this spell once a day by spending stamina instead.
-		You can choose to use your POW as potency and ACU as precision for the spell you cast in this way.
+		Choose any simple novice spell. You can cast this spell by spending stamina instead.
 
 **Armor Specialization 1**
 	Choose an armor weight category. You get the following benefits while wearing an armor in that category.
@@ -67,10 +66,10 @@ level | simple techniques | advanced techniques
 **Style Specialization 2**
 	Choose one style to gain further expertise with it. You gain all of the listed benefits of that style.
 	Melee specialization:
-		After you hit a creature with your melee weapon, you can do a basic attack, with your two handed or main hand weapon, to another adjacent creature for 1 stamina. This attack deals half damage and has a -2 penalty on its precision roll. You can use this ability once per turn.
+		After you hit a creature with your melee weapon, you can do a basic attack, with your two handed or main hand weapon, to another adjacent creature for 2 stamina. This attack deals half damage and has a -2 penalty on its precision roll. You can use this ability once per turn.
 	Ranged specialization:
-		If you choose to stand still this turn, your ranged weapon attacks gain a +1 bonus to precision rolls. You can't move this turn if you use this ability.
-		Additionally, you can spend 1 stamina to #TODO.
+		Basic ranged weapon attacks you make before moving this turn gain a +1 to their precision rolls.
+		Additionally, you can spend 2 stamina before a basic ranged attack to add a bonus damage equal to your ACU to this attack.
 
 **Armor Specialization 2**
 	Choose one passive effect. You gain that effect while wearing the armor weight you specialized in, further increasing your effectiveness.
