@@ -66,7 +66,7 @@ level | simple techniques | advanced techniques
 **Style Specialization 2**
 	Choose one style to gain further expertise with it. You gain all of the listed benefits of that style.
 	Melee specialization:
-		First basic melee weapon attack you make has a +1 bonus to its precision roll.
+		First basic melee weapon attack you make this round has a +1 bonus to its precision roll.
 		For 2 stamina, you can choose to attack two creatures within range. You make two basic attacks, and each deal half damage.
 	Ranged specialization:
 		Basic ranged weapon attacks you make before moving this turn gain a +1 to their precision rolls.
