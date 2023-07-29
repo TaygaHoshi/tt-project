@@ -58,7 +58,7 @@ war drums        |     -    |     1     | 10m   |  -
 + (Prepared) Defensive Stance
 	+ Gain a (1 + POW/4) bonus to Parry against the next physical attack.
 
-## War hammer
+## War Hammer
 + Precision: ACU
 + Smash
 	+ Deals 28 damage.
@@ -76,7 +76,15 @@ war drums        |     -    |     1     | 10m   |  -
 #TODO 
 
 ## Divine Staff
-#TODO 
++ Precision: PRA
++ (Projectile) Divine Arrow
+	+ Range: 10 meters
+	+ Deals 24 damage. 
++ Pillar from Heaven 
+	+ Ignores weapon damage. 
+	+ A bright pillar of light descents from the sky around you, dealing 12 damage to a 2 meter radius around you.
++ (Prepared) Attack 3
+	+ #TODO 
 
 ## Longbow
 + Precision: ACU
