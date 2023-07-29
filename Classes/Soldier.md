@@ -49,7 +49,7 @@ level | simple techniques | advanced techniques
 **Style Specialization 1**
 	Choose one style to start specializing in. You gain all of the listed benefits of that style.
 	Strength specialization:
-		#TODO 
+		Combat techniques you perform are considered to have +1 POW and gain a +1 bonus to their precision rolls.  
 	Endurance specialization:
 		Your maximum health is increased by 2 per VIT you currently have. 
 		Whenever you spend an aptitude point in VIT, your maximum health is increased by 2.
@@ -66,7 +66,8 @@ level | simple techniques | advanced techniques
 **Style Specialization 2**
 	Choose one style to gain further expertise with it. You gain all of the listed benefits of that style.
 	Melee specialization:
-		After you hit a creature with your melee weapon, you can do a basic attack, with your two handed or main hand weapon, to another adjacent creature for 2 stamina. This attack deals half damage and has a -2 penalty on its precision roll. You can use this ability once per turn.
+		First basic melee weapon attack you make has a +1 bonus to its precision roll.
+		For 2 stamina, you can choose to attack two creatures within range. You make two basic attacks, and each deal half damage.
 	Ranged specialization:
 		Basic ranged weapon attacks you make before moving this turn gain a +1 to their precision rolls.
 		Additionally, you can spend 2 stamina before a basic ranged attack to add a bonus damage equal to your ACU to this attack.
