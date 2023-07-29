@@ -45,7 +45,7 @@ unarmed         |    16    |         0        |  1m   |       -
 
 ## Divine Wand (Light)
 + Precision: PRA
-+ (Projectile) Bolt of Banishment
++ (Projectile) Bolt of Exorcism
 	+ Range: 5 meters.
 	+ Deals 24 damage.
 + Binding Light
