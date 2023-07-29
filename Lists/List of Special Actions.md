@@ -12,6 +12,7 @@
 	(Projectile)
 	Ignores weapon precision.
 	You throw your weapon to a target or to a square within (5 + POW/2) meters.
+	This action is considered a weapon attack.
 
 # Retrieve Weapon
 **Activation time:** Action
@@ -22,6 +23,7 @@
 	Ignores weapon precision.
 	You retrieve the weapon stuck in the target.
 	Weapon damage is equal to half of stuck weapon's damage.
+	This action is considered a weapon attack.
 
 # Charge
 **Activation time:** Full-turn action
@@ -33,6 +35,7 @@
 	You gain a (5 + SPD/2) bonus to your movement speed, and you charge your target using your movement speed. Then, you attack once with your weapon.
 	You receive a -2 penalty to all resistances for 1 round.
 	This penalty increases by 1 for every 5 meters you move after your base movement speed.
+	This action is considered a weapon attack.
 
 # Dual Strike
 **Activation time:** Full-turn action
@@ -42,6 +45,7 @@
 **Explanation:** 
 	You attack with both your main weapon and off-hand weapon.
 	Your off-hand weapon receives a -2 penalty to its precision roll and does half damage before armor. 
+	This action is considered a weapon attack.
 
 # Prepare
 **Activation time:** Action
