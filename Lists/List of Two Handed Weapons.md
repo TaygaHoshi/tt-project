@@ -56,7 +56,7 @@ war drums        |     -    |     1     | 10m   |  -
 + Attack 2
 	+ #TODO 
 + (Prepared) Defensive Stance
-	+ Gain a (1 + POW/4) bonus to Parry against the next physical attack.
+	+ You have a (1 + POW/4) bonus to Parry against the next physical attack.
 
 ## War Hammer
 + Aptitude: Strength
@@ -82,18 +82,25 @@ war drums        |     -    |     1     | 10m   |  -
 	+ Ignores weapon precision.
 	+ Hardened vines grow from the tip of your staff, hitting all creatures on 3 squares in a line in front of you. 
 	+ Deals 12 damage. Potency bonus to damage is doubled for this attack.
-+ (Prepared) Attack 3
-	+ #TODO 
++ (Prepared) Staff Strike
+	+ Range: 2 meters.
+	+ Ignores weapon precision.
+	+ Choose a target. 
+	+ Attack this target next time they move into or out of range.
+	+ Deals 10 physical damage.
 
 ## Divine Staff
 + Aptitude: Divine
 + (Projectile) Arrow of Light
 	+ Range: 10 meters
 	+ Deals 24 damage. 
-+ Attack 2
-	+ #TODO 
-+ (Prepared) Attack 3
-	+ #TODO 
++ Projectile Shielding
+	+ Range: 5 meters
+	+ Choose a 1 meter square area. You create a magical shield there.
+	+ This ward acts like quarter cover against projectiles passing through it.
+	+ This ward lasts for one round.
++ (Prepared) Warding
+	+ You have a (1 + WRA/4) bonus to Faith, Willpower and Reflection against the next magical attack.
 
 ## Longbow
 + Aptitude: Strength
