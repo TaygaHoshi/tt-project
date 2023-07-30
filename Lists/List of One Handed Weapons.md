@@ -8,15 +8,15 @@ weapon          |  damage  | weapon precision | range | armor piercing
 curved sword    |    28    |         1        |  1m   |       -
 reinforced club |    24    |         0        |  1m   |      50%
 throwing spear  |    24    |         0        |  1m   |       -
-divine wand     |    24    |         0        |  5m   |       -
 elemental wand  |    24    |         0        |  5m   |       -
+divine wand     |    24    |         0        |  5m   |       -
 shortsword      |    24    |         2        |  1m   |       -
 dagger          |    20    |         2        |  1m   |       -
 unarmed         |    16    |         0        |  1m   |       -
 ```
 
 ## Curved Sword (Heavy)
-+ Precision: ACU
++ Aptitude: Strength
 + Slash
 	+ Deals 28 damage.
 + Feint
@@ -24,7 +24,7 @@ unarmed         |    16    |         0        |  1m   |       -
 	+ You have a (1 + POW/4) bonus to precision roll of this attack.
 
 ## Reinforced Club (Heavy)
-+ Precision: ACU
++ Aptitude: Strength
 + Bash
 	+ Deals 24 damage.
 	+ Pierces 50% armor.
@@ -34,7 +34,7 @@ unarmed         |    16    |         0        |  1m   |       -
 	+ If you hit, make another precision roll against Constitution of the target. If you succeed, this attack applies (1 + POW/4) turns of stunned.
 
 ## Throwing Spear (Heavy)
-+ Precision: ACU
++ Aptitude: Strength
 + Thrust
 	+ Deals 24 damage.
 + Sweep
@@ -43,20 +43,8 @@ unarmed         |    16    |         0        |  1m   |       -
 	+ Deals 12 damage. Potency bonus to damage is doubled for this attack. 
 	+ Hits 3 squares in front of you.
 
-## Divine Wand (Light)
-+ Precision: PRA
-+ (Projectile) Bolt of Exorcism
-	+ Range: 5 meters.
-	+ Deals 24 damage.
-+ Binding Light
-	+ This attack's precision roll is made against Constitution.
-	+ Ignores weapon damage.
-	+ Immobilizes for (1 + WRA/4) turns.
-+ (Prepared) Attack 3
-	+ #TODO 
-
 ## Elemental Wand (Light)
-+ Precision: PEN
++ Aptitude: Witchcraft
 + (Projectile) Ball of Elements
 	+ Range: 5 meters.
 	+ Deals 24 damage.
@@ -71,8 +59,20 @@ unarmed         |    16    |         0        |  1m   |       -
 	+ Choose a target. 
 	+ Next time this target attempts to cast a spell within range, make a precision roll. If you succeed, they are interrupted, and their action fails.
 
+## Divine Wand (Light)
++ Aptitude: Divine
++ (Projectile) Bolt of Exorcism
+	+ Range: 5 meters.
+	+ Deals 24 damage.
++ Binding Light
+	+ This attack's precision roll is made against Constitution.
+	+ Ignores weapon damage.
+	+ Immobilizes for (1 + WRA/4) turns.
++ (Prepared) Attack 3
+	+ #TODO 
+
 ## Shortsword (Light)
-+ Precision: ACU
++ Aptitude: Strength
 + Slash
 	+ Deals 24 damage.
 + Severing Strike
@@ -86,7 +86,7 @@ unarmed         |    16    |         0        |  1m   |       -
 	+ Attack this target next time they move into or out of range.
 
 ## Dagger (Light)
-+ Precision: ACU
++ Aptitude: Strength
 + Stab
 	+ Deals 20 damage.
 	+ Potency bonus to damage is doubled for this attack against a stunned, disoriented or prone target.
@@ -101,7 +101,7 @@ unarmed         |    16    |         0        |  1m   |       -
 	+ Target continues their attack normally unless it dies, falls prone or otherwise becomes unable to attack.  
 
 ## Unarmed (Light)
-+ Precision: ACU
++ Aptitude: Strength
 + Punch
 	+ Deals 16 damage.
 + Stunning Blow 

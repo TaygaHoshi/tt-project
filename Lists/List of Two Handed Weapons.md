@@ -18,7 +18,7 @@ war drums        |     -    |     1     | 10m   |  -
 ```
 
 ## Glaive
-+ Precision: ACU
++ Aptitude: Strength
 + Slash
 	+ Range: 2 meters.
 	+ Deals 32 damage.
@@ -29,12 +29,12 @@ war drums        |     -    |     1     | 10m   |  -
 	+ Hits all creatures in 8 squares in a cone shape in front of you.
 + (Prepared) Opportunistic Slash
 	+ Range: 2 meters.
-	+ Deals 16 damage. Potency bonus to damage is doubled for this attack. 
 	+ Choose a target. 
 	+ Attack this target next time they attack or cast a spell within range.
+	+ Deals 16 damage. Potency bonus to damage is doubled for this attack. 
 
 ## Spear
-+ Precision: ACU
++ Aptitude: Strength
 + Thrust
 	+ Range: 2 meters.
 	+ Deals 28 damage.
@@ -45,12 +45,12 @@ war drums        |     -    |     1     | 10m   |  -
 + (Prepared) Opportunistic Thrust
 	+ Range: 2 meters.
 	+ Ignores weapon precision.
-	+ Deals 14 damage. Potency bonus to damage is doubled for this attack. 
 	+ Choose a target. 
 	+ Attack this target next time they move into or out of range.
+	+ Deals 14 damage. Potency bonus to damage is doubled for this attack. 
 
 ## Two-handed Sword
-+ Precision: ACU
++ Aptitude: Strength
 + Slash
 	+ Deals 28 damage.
 + Attack 2
@@ -59,7 +59,7 @@ war drums        |     -    |     1     | 10m   |  -
 	+ Gain a (1 + POW/4) bonus to Parry against the next physical attack.
 
 ## War Hammer
-+ Precision: ACU
++ Aptitude: Strength
 + Smash
 	+ Deals 28 damage.
 	+ Pierces 50% armor.
@@ -72,22 +72,31 @@ war drums        |     -    |     1     | 10m   |  -
 	+ Ignores weapon precision.
 	+ Attack any creature, including allies, who moves into or out of range.
 
-## Occult Staff
-#TODO 
-
-## Divine Staff
-+ Precision: PRA
-+ (Projectile) Divine Arrow
+## Nature Staff
++ Aptitude: Witchcraft
++ (Projectile) Elemental Bolt
 	+ Range: 10 meters
 	+ Deals 24 damage. 
-+ Pillar from Heaven 
-	+ Ignores weapon damage. 
-	+ A bright pillar of light descents from the sky around you, dealing 12 damage to a 2 meter radius around you.
++ Vine Growth
+	+ This attack's precision roll is made against Evasion.
+	+ Ignores weapon precision.
+	+ Hardened vines grow from the tip of your staff, hitting all creatures on 3 squares in a line in front of you. 
+	+ Deals 12 damage. Potency bonus to damage is doubled for this attack.
++ (Prepared) Attack 3
+	+ #TODO 
+
+## Divine Staff
++ Aptitude: Divine
++ (Projectile) Arrow of Light
+	+ Range: 10 meters
+	+ Deals 24 damage. 
++ Attack 2
+	+ #TODO 
 + (Prepared) Attack 3
 	+ #TODO 
 
 ## Longbow
-+ Precision: ACU
++ Aptitude: Strength
 + (Projectile) Shoot
 	+ Range: 15 meters
 	+ Receives a -1 penalty to precision rolls against targets within 5 meters.
@@ -96,16 +105,15 @@ war drums        |     -    |     1     | 10m   |  -
 	+ Range: 15 meters
 	+ This attack's precision rolls are made against Evasion.
 	+ Receives a -1 penalty to precision rolls against targets within 5 meters.
-	+ Deals 12 damage. Potency bonus to damage is doubled for this attack. 
-	+ Hits two adjacent targets within range.
+	+ You shoot an arrow each to two targets adjacent to each other within range.
+	+ These arrows each deal 12 damage. Potency bonus to damage is doubled for these attacks. 
 + (Prepared) (Projectile) Half-drawn Shot
 	+ Ignores weapon precision.
-	+ Deals 12 damage. Potency bonus to damage is doubled for this attack. 
 	+ Choose a target. 
-	+ Shoot this target next time they move into or out of a radius of 5 meters.
+	+ Shoot this target next time they move into or out of a radius of 5 meters, dealing 12 damage.
 
 ## Crossbow
-+ Precision: ACU
++ Aptitude: Strength
 + (Projectile) Shoot
 	+ Range: 15 meters.
 	+ Ignores weapon precision against targets within 5 meters.
@@ -119,11 +127,11 @@ war drums        |     -    |     1     | 10m   |  -
 	+ Slows the target for (1 + POW/4) rounds.
 + (Prepared) (Projectile) Crossbow Bash
 	+ Range: 2 meters.
-	+ Deals 5 damage.
-	+ Next time an adjacent foe attempts to attack or cast a spell, it is interrupted and their action fails.
+	+ Ignores weapon damage and precision.
+	+ Next time a foe within range attempts to attack or cast a spell, it is interrupted and their action fails.
 
 ## Shortbow
-+ Precision: ACU
++ Aptitude: Strength
 + (Projectile) Shoot
 	+ Range: 10 meters.
 	+ Deals 20 damage.
@@ -139,7 +147,7 @@ war drums        |     -    |     1     | 10m   |  -
 	+ When this target attempts to attack with a weapon within range, they are interrupted on hit, and their action fails.
 
 ## War Drums
-+ Precision: PER
++ Aptitude: Social
 + Allies who are unable to hear are not affected by war drums. 
 + (Rapid Action) Beat of Swords
 	+ Radius: 10 meters.
