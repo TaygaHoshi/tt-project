@@ -250,7 +250,7 @@
 **Cost:** 3 stamina
 **Requirements:**
 	Any bow.
-	You attacked with a bow this turn.
+	You hit with a bow this turn.
 **Effect**
 	(Projectile)
 	You can shoot with this bow again, as a rapid action.
