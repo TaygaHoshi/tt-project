@@ -53,8 +53,10 @@ war drums        |     -    |     1     | 10m   |  -
 + Aptitude: Strength
 + Slash
 	+ Deals 28 damage.
-+ Attack 2
-	+ #TODO 
++ Double Slash
+	+ This attack's precision rolls are made against Evasion.
+	+ Ignores weapon precision.
+	+ You slash all creatures in 3 squares in in front of you twice, dealing 14 damage with each hit.
 + (Prepared) Defensive Stance
 	+ You have a (1 + POW/4) bonus to Parry against the next physical attack.
 
