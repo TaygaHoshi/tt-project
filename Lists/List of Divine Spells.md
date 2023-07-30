@@ -33,7 +33,7 @@
 **Radius:** 3 meters by 1 meters
 **Duration:** (2 + WRA/4) rounds
 **Effect**
-	Create a horizontal or vertical wall of light which blocks movement. This wall is 3 meters tall, and it blocks line of sight for any creature shorter than the wall. For creatures slightly taller than the wall, it acts as a full cover.
+	Create a horizontal or vertical wall of hardened light which blocks movement. This wall is 3 meters tall, and it blocks line of sight for any creature shorter than the wall. For creatures slightly taller than the wall, it acts as a full cover.
 	Area spells can't be overlapped.
 
 ## Call Fairy, Novice
