@@ -44,9 +44,8 @@ Base movement speed of a creature is calculated with the formula below:
 + At the end phase of each turn, the summoner can give an order to their summons freely. 
 + Summoners must give these orders by shouting in a language of their choosing unless specified otherwise. A summon must be able to hear the summoner clearly. Any creatures in the vicinity can also understand the orders, if they know the language used. 
 + Summoners have a simple telepathic bond to their summons. A summoner will know where the summon is and how much damage it suffered at all times. 
-+ The minions follow the regular initiative order:
-	+ If the summons have equal or higher initiative than the summoner, they move immediately after the summoner during the round they are summoned. 
-	+ If the summons have lower speed, they are placed in the turn order accordingly. This may mean a d20 roll may be necessary to solve conflicting turn orders. 
++ The minions follow the regular initiative order. On the turn a minion is summoned, if they have higher initiative than  
++ Summons gain potency bonus to their damage normally, according to their relevant potency stat.
 
 # Cover and Line of Sight
 + When a character is behind cover, they are semi-protected against projectile attacks or projectile spells.
