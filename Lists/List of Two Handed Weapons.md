@@ -9,7 +9,7 @@ glaive           |    32    |     0     |  2m   |  -
 spear            |    28    |     1     |  2m   |  -
 two-handed sword |    28    |     1     |  1m   |  -
 war hammer       |    28    |     0     |  1m   | 50%
-occultic staff   |    24    |     0     | 10m   |  -
+nature staff   |    24    |     0     | 10m   |  -
 divine staff     |    24    |     0     | 10m   |  -
 longbow          |    24    |     0     | 15m   |  -
 crossbow         |    24    |     1     | 15m   | 50%
@@ -56,7 +56,7 @@ war drums        |     -    |     1     | 10m   |  -
 + Double Slash
 	+ This attack's precision rolls are made against Evasion.
 	+ Ignores weapon precision.
-	+ You slash all creatures in 3 squares in in front of you twice, dealing 14 damage with each hit.
+	+ You slash all creatures in 3 squares in front of you twice, dealing 14 damage with each hit.
 + (Prepared) Defensive Stance
 	+ You have a (1 + POW/4) bonus to Parry against the next physical attack.
 
