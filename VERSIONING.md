@@ -26,5 +26,5 @@ This sample tag means (3rd feature freeze release of version 1).
 # Full Version Release
 At this point, an ebook for this version will be released. This is where players can pick up the game and play. The cycle begins with the first alpha for the next version.
 
-Full versions will be tagged in this format: v2
+Full versions will be tagged in this format: v2. 
 This sample tag means (version 2).

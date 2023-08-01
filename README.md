@@ -14,7 +14,7 @@ Currently, the game is not in a playable state. When a usable version is release
 However feel free to play it from these notes if you want. You can also convert these notes into your own e-rulebook if you like books.
 
 # Contributing
-Feel free to submit a PR, but you must read [INTRODUCTION.md](INTRODUCTION.md).
+Feel free to submit a PR, but you must read [INTRODUCTION.md](INTRODUCTION.md) and [VERSIONING.md](VERSIONING.md).
 
 I use [Obsidian](https://obsidian.md/) to edit of these notes. You can simply fork this repo.
 Then clone your fork into Obsidian or any equivalent software:
