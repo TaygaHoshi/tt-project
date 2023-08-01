@@ -24,6 +24,7 @@
 + (Projectile) Fairy Bolt
 	+ Range: 5 meters
 	+ Deals 10 magical damage.
+	+ Applies disoriented for (level) rounds.
 **Lore**
 	#TODO  
 
@@ -98,7 +99,7 @@
 	+5 from armor
 **Weapons:** 
 	Claws
-**Precision roll:** d10 + 1 + PEN
+**Precision roll:** (d10 + 1 + PEN)
 **Resistances:** 5 + level, +1 Parry
 **Skills**
 + (Passive) Fairy Affinity
@@ -140,7 +141,7 @@
 	+ Range: 5 meters
 	+ This attack's precision rolls are made against Evasion.
 	+ Shoot numerous but small shards of stone, dealing 10 physical damage to all creatures within a 1 meter radius.
-+ (Combat technique) Reinforce Armor
++ (Rapid action) (Combat technique) Reinforce Armor
 	+ This summon gains 5 temporary physical armor for 3 rounds.
 	+ Can only be used once per summon.
 **Lore**
@@ -170,7 +171,7 @@
 + (Full-turn action) (Witchcraft spell) Repulsion
 	+ This attack's precision rolls are made against Evasion.
 	+ Generate a strong impulse, pushing all adjacent creatures for 2 meters while dealing 10 magical damage.
-+ (Witchcraft spell) Magnetic Shield
++ (Rapid action) (Witchcraft spell) Magnetic Shield
 	+ This summon gains 5 temporary magical armor for 3 rounds.
 	+ Can only be used once per summon.
 **Lore**

@@ -36,16 +36,14 @@ Base movement speed of a creature is calculated with the formula below:
 + If a character is healed to at least 1 health during unconscious state, they become conscious again and they are considered prone.
 
 # Summoning
-+ When a creature summons minions, as a part of the same action, they can give their summon simple orders. Some examples are given below:
-	+ Attack this target
-	+ Run back to me
-	+ Take this action
-	+ Go there
-+ At the end phase of each turn, the summoner can give an order to their summons freely. 
-+ Summoners must give these orders by shouting in a language of their choosing unless specified otherwise. A summon must be able to hear the summoner clearly. Any creatures in the vicinity can also understand the orders, if they know the language used. 
-+ Summoners have a simple telepathic bond to their summons. A summoner will know where the summon is and how much damage it suffered at all times. 
-+ The minions follow the regular initiative order. On the turn a minion is summoned, if they have higher initiative than their summoner, they take their turn immediately after the summoner.
-+ Summons gain potency bonus to their damage normally, according to their relevant potency stat.
++ Summoner can control their minions during combat.
++ Summoners have a simple telepathic bond to their minions. A summoner will know where a minion is and how much damage it suffered at all times. 
++ The minions follow the regular initiative order. On a turn a minion is summoned, if they have higher initiative than their summoner, they take their turn immediately after the summoner.
++ Minions gain potency bonus to their damage normally, according to their relevant potency stat.
++ Minions don't use mana and stamina for their skills, unless specified otherwise.
+
+# Transformation and Transforming
+#TODO 
 
 # Cover and Line of Sight
 + When a character is behind cover, they are semi-protected against projectile attacks or projectile spells.
@@ -67,10 +65,9 @@ Base movement speed of a creature is calculated with the formula below:
 + Flanked creatures receive a -1 penalty to all resistances from precision rolls done by these melee combatants.
 
 # Terrain Obstacles
-#TODO 
-
 + Walking through other creatures:
 	+ A creature can move through its allies. Each square passed in this way count as two squares. 
+#TODO 
 
 # Falling Prone
 + A creature can go into prone voluntarily if they give up half of their base movement speed as a part of their movement during their turn.
