@@ -9,7 +9,7 @@ glaive           |    32    |     0     |  2m   |  -
 spear            |    28    |     1     |  2m   |  -
 two-handed sword |    28    |     1     |  1m   |  -
 war hammer       |    28    |     0     |  1m   | 50%
-nature staff   |    24    |     0     | 10m   |  -
+nature staff     |    24    |     0     | 10m   |  -
 divine staff     |    24    |     0     | 10m   |  -
 longbow          |    24    |     0     | 15m   |  -
 crossbow         |    24    |     1     | 15m   | 50%
