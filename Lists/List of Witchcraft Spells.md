@@ -48,7 +48,7 @@
 **Range:** 1 meter
 **Duration:** (3 + ARC/2) rounds
 **Effect**
-	Summon a creature from novice spirit list. Its level equals to your (ARC) up to a maximum of 3. This ally can't speak but it understands orders. 
+	Summon a creature from the spirits list. Its level equals to your (ARC) up to a maximum of 3. This ally can't speak but it understands orders. 
 	You can only have one summoned or raised creature at any time. 
 
 ## Elemental Arrow
