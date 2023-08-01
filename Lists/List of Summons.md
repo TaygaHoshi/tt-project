@@ -199,6 +199,7 @@
 + Slash
 	+ Deals 10 physical damage.
 + (Witchcraft spell) Binding
+	+ Range: 5 meters
 	+ This attack's precision rolls are made against Constitution.
 	+ Tens of branches emerge from this summon, binding a target. This target is immobilized for (level) turns.
 **Lore**
@@ -227,9 +228,11 @@
 	+ Range: 10 meters
 	+ Deals 10 physical damage.
 + (Combat technique) Apply Sickening Poison
+	+ Range: 5 meters
 	+ This attack's precision roll is made against Constitution.
 	+ Applies sickened for (level) rounds.
 + (Combat technique) Apply Slowing Poison
+	+ Range: 5 meters
 	+ This attack's precision roll is made against Constitution.
 	+ Applies slowed for (level) rounds.
 **Lore**
