@@ -6,7 +6,7 @@ Weapons are what creatures use to hit their foes. Most creatures with body parts
 3. [[List of Two Handed Weapons|Two handed weapons]]
 
 # Weapon Sets
-Weapon sets are helpful guides used primarily in [[Character Creation]] of TT Project.
+Weapon sets are helpful guides used primarily in [[Player Characters#Character Creation|Character Creation]] of TT Project.
 
 **Regular weapon set**
 1. Any one handed weapon and any off-hand weapon.

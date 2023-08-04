@@ -5,10 +5,10 @@ It is played with a game master (GM) and one or more players. The GM builds and 
 
 # Reading Order
 Unfortunately, putting things in a proper reading order like a book is difficult. Until then, I recommend following this order:
-1. README
-2. INTRODUCTION
-3. Character Creation
-4. Combat
+1. [[README]]
+2. [[INTRODUCTION]]
+3. [[Player Characters]]
+4. [[Combat]]
 
 # Features
 **A base rule set to build and play different types of campaigns**
@@ -18,7 +18,7 @@ While no OSR, rules in this game are trimmed before they are added. This makes T
 TT Project has owl vampires, charming snake monsters able to transform into a human form, Central Asian spells and rituals, interesting abilities and more.
 
 **Character creation full of meaningful choice.**
-See [[Character Creation]]
+See [[Player Characters]]
 Additionally, see [[Classes]], [[Weapons]], [[Spells]], [[Combat Techniques]] and other content.
 
 **Fun and engaging turn-based combat.**
