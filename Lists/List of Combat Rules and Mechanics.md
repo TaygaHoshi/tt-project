@@ -41,7 +41,7 @@ Base movement speed of a creature is calculated with the formula below:
 + If a character is healed to at least 1 health during unconscious state, they become conscious again and they are considered prone.
 
 # Summoning
-+ Summoner can control their minions during combat.
++ Summoner can control their minions during combat. A minion disappears immediately when its summoner dies.
 + Summoners have a simple telepathic bond to their minions. A summoner will know where a minion is and how much damage it suffered at all times. 
 + The minions follow the regular initiative order. On a turn a minion is summoned, if they have higher initiative than their summoner, they take their turn immediately after the summoner.
 + Minions gain potency bonus to their damage normally, according to their relevant potency stat.
