@@ -1,7 +1,8 @@
 (see: [[Combat]])
 
 # Movement
-#TODO: Add explanations for movement within combat.
+(see: [[Combat#Battle Map|Battle Map]])
+During combat, a creature can move within the battle map grid. There are various types of moving, which are explained below.
 
 Movement speed of a creature is equal to:
 	(base movement speed + other bonuses) meters/round
@@ -10,17 +11,21 @@ Base movement speed of a creature is calculated with the formula below:
 	(10 + SPD) meters/round
 
 ## Walking
-* Walking speed is equal to the default movement speed.
+* Walking is the simplest way of movement. a creature's walking speed is equal to its movement speed, normally.
+* A walking character can't take full-turn actions.
 
 ## Running
-+ Instead of taking an action, a character might move twice. This is called "running" and unless specified, it is equal to double the walking speed.
-+ A running character can't take actions, rapid actions or prepared actions.
++ Instead of taking an action, a character might "walk" twice. This is called "running" and unless specified otherwise, it is equal to double the walking speed.
++ A running character can't take actions, rapid actions, prepared actions or full-turn actions.
 
 ## Flying
+#TODO 
 
 ## Climbing
+#TODO 
 
 ## Jumping
+#TODO 
 
 # Death
 + When a player character falls below 0 health, they are considered "unconscious".
