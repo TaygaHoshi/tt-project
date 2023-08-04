@@ -41,9 +41,9 @@ Each character starts the game with some equipment, which are detailed on the re
 
 # Character Mechanics
 ## Resting and Sleeping
-Usually, a character requires 6 to 8 hours of sleep per day. While it is most optimal to sleep at night, it is not rare to see parties resting during the day. When the players decide the party should rest or sleep, they must declare this to the GM. In the case of just resting, the players should also explain what their characters will be doing while resting. There are a few basic requirements to resting and sleeping.
+Usually, a character requires 6 to 8 hours of sleep per day. While it is most optimal to sleep at night, it is not rare to see parties resting during the day. When the players decide the party should rest or sleep, they must declare this to the GM. In the case of just resting, the players should also explain what their characters will be doing while resting. In this case, the GM can determine whether or not these activities are allowed as a part of resting.
 
-For a character to be able to rest, they should:
+There are a few basic requirements to resting and sleeping. For a character to be able to rest, they should:
 1. Be able to sit or lie down. 
 2. Be relaxed.
 3. Be in a safe environment.
