@@ -96,7 +96,7 @@
 	While domesticated dogs are great companions, wild dogs are not. These dogs will do everything to ensure their survival. Wild dogs are usually found in small packs.
 
 ---
-## Vampire Bloodstealer
+## Bloodstealer Vampire
 **Level:** 3
 **Health:** 60
 **Aptitudes:** 
@@ -106,7 +106,7 @@
 **Initiative:** 0
 **Movement:** 9 meters
 	-1 from armor
-**Armor:** 0
+**Physical Armor:** 0
 **Magic Armor:** 5
 **Weapons:**
 	Divine focus
@@ -117,7 +117,7 @@
 + (Passive) Vampiric Affinity
 	+ Receives double damage from burning.
 	+ Receives burning while in direct sunlight.
-	+ When this vampire falls below 10 health, Owl Form is automatically triggered.
+	+ When this vampire falls below 10 health, Owl Form is automatically triggered. This can happen only once a day.
 + (Triggered ability) Owl Form
 	+ Full-turn action.
 	+ Transform into an owl for 1 round.
@@ -150,10 +150,10 @@
 	+1 from SPD
 **Movement:** 11 meters
 	+1 from SPD
-**Armor:** 0
+**Physical Armor:** 0
 **Magic Armor:** 0
 **Weapons:** 
-	Unarmed
+	Claws
 **Precision roll:** (ACU) d10
 **Resistances:** 6 (7 Evasion)
 **Skills** 
@@ -161,5 +161,44 @@
 	+ Deals 15 physical damage.
 **Lore**
 	Low level vampire kins like this one are flightless beasts. They are exclusively found as summons from low level vampires.
+
+---
+## Hunter Vampire
+**Level:** 3
+**Health:** 70
+**Aptitudes:** 
+	2 POW / 1 ACU
+	1 VIT / 1 SPD
+**Initiative:** 1
+**Movement:** 10 meters
+	-1 from armor
+	+1 from SPD
+**Physical Armor:** 5
+**Magic Armor:** 0
+**Weapons:**
+	Shortsword
+**Precision roll:** (ACU) d10 + 2
+**Resistances:** 7 (10 Parry)
+**Skills**
++ (Passive) Vampiric Affinity
+	+ Receives double damage from burning.
+	+ Receives burning while in direct sunlight.
+	+ When this vampire falls below 10 health, Owl Form is automatically triggered. This can happen only once a day.
++ (Triggered ability) Owl Form
+	+ Full-turn action.
+	+ Transform into an owl for 1 round.
+	+ In this form, this monster gains 10 flight speed and a +1 bonus to all resistances except Parry.
++ Slash
+	+ Deals 26 physical damage.
++ Severing Strike
+	+ This attack's precision roll is made against Constitution.
+	+ Ignores weapon damage.
+	+ Applies 3 turns of bleeding (6 damage/round) on hit.
++ (Combat technique) Simple Blood Manipulation
+	+ Range: 5 meters
+	+ This attack's precision roll is made against Constitution.
+	+ Target a bleeding creature. You steal 10 health from that creature.
+**Lore**
+	Vampires are the reason why forests at night are dangerous. Lesser vampires are almost always found working or studying under a higher vampire. However, there are sightings of rogue vampires, leading bandits or beasts.
 
 ---
