@@ -22,10 +22,12 @@
 **Skills**
 + Slash
 	+ Deals 29 physical damage
-+ (Rapid action) (Combat Technique) Shield Bash
++ (Combat Technique) Shield Bash
+	+ Rapid action. 
 	+ -2 penalty on precision roll.
 	+ Deals 6 physical damage.
-+ (Full-turn action) Charge
++ Charge
+	+ Full-turn action. 
 	+ -2 penalty on precision roll.
 	+ Can charge for 12 meters and attack with Slash.
 	+ -2 penalty to all resistances for 1 round.
@@ -197,8 +199,10 @@
 + (Combat technique) Simple Blood Manipulation
 	+ Range: 5 meters
 	+ This attack's precision roll is made against Constitution.
-	+ Target a bleeding creature. You steal 10 health from that creature.
+	+ Target a bleeding creature. You steal 10 health from it. 
+	+ If this attack hits, this creature stops bleeding.
 **Lore**
 	Vampires are the reason why forests at night are dangerous. Lesser vampires are almost always found working or studying under a higher vampire. However, there are sightings of rogue vampires, leading bandits or beasts.
 
 ---
+
