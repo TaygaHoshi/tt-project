@@ -65,11 +65,13 @@ unarmed         |    16    |         0        |  1m   |       -
 	+ Range: 5 meters.
 	+ Deals 24 damage.
 + Magical Bind
+	+ Range: 5 meters.
 	+ This attack's precision roll is made against Constitution.
 	+ Ignores weapon damage.
-	+ Immobilizes for (1 + WRA/4) turns.
-+ (Prepared) Attack 3
-	+ #TODO 
+	+ Immobilizes the target for (1 + WRA/4) turns.
++ (Prepared) Protecting from Magic
+	+ Range: 5 meters.
+	+ Choose an ally. Next time they are attacked, grant them (3 + WRA/2) temporary magical armor for 1 round.
 
 ## Shortsword (Light)
 + Aptitude: Strength
