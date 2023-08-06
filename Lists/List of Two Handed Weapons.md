@@ -93,12 +93,12 @@ war drums        |     -    |     1     | 10m   |  -
 
 ## Divine Staff
 + Aptitude: Divine
-+ (Projectile) Arrow of Light
++ (Projectile) Bolt of Exorcism
 	+ Range: 10 meters
 	+ Deals 24 damage. 
 + Projectile Shielding
 	+ Range: 5 meters
-	+ Choose a 1 meter square area. You create a magical shield there.
+	+ Choose a 2 meters by 2 meters area. You create a magical shield there.
 	+ This ward acts like quarter cover against projectiles passing through it.
 	+ This ward lasts for one round.
 + (Prepared) Warding

@@ -25,15 +25,15 @@
 	Heal all allies within radius for 1d6 + WRA/2 and grant them Protected for the duration.
 	A creature can only have one Protected effect at the any time.
 
-## Wall of Light
+## Create Magical Walls
 **Complexity:** Simple
 **Casting Time:** Action 
 **Cost:** 2 mana
 **Range:** 5 meters
-**Radius:** 3 meters by 1 meters
 **Duration:** (2 + WRA/4) rounds
 **Effect**
-	Create a horizontal or vertical wall of hardened light which blocks movement. This wall is 3 meters tall, and it blocks line of sight for any creature shorter than the wall. For creatures slightly taller than the wall, it acts as a full cover.
+	You create 5 walls of hardened mana which blocks movement. These walls are 1 meters long, 1 meters wide and 3 meters tall. They block line of sight for any creature shorter than them. For creatures slightly taller than these walls, they act as a full cover.
+	You can spend 1 additional mana to create 2 extra walls.
 	Area spells can't be overlapped.
 
 ## Call Fairy, Novice
@@ -42,7 +42,7 @@
 **Cost:** 4 mana
 **Range:** 1 meter
 **Radius:** 5 meters
-**Duration:** (3 + ARC/2) rounds
+**Duration:** (3 + WRA/2) rounds
 **Effect**
 	Summon a creature from the fairies list. Its level equals to your (WRA) up to a maximum of 3. This ally can't speak but it understands orders. 
 	You can only have one summoned or raised creature at any time. 
@@ -84,7 +84,7 @@
 **Radius:** 2 meters
 **Duration:** (2 + WRA/4) rounds
 **Effect**
-	Your magic erupts chains of hardened light from below. Make a precision roll against Evasion of all creatures within the radius. If you succeed against a creature, the chains catch it and it is Immobilized for the duration of this spell. At the end of the turn of a creature who is affected by this spell, make a precision roll against Constitution of that creature. If you fail, the creature is released from the chains.
+	Your magic erupts iron chains from below. Make a precision roll against Evasion of all creatures within the radius. If you succeed against a creature, the chains catch it and it is Immobilized for the duration of this spell. At the end of the turn of a creature who is affected by this spell, make a precision roll against Constitution of that creature. If you fail, the creature is released from the chains.
 
 ## Object Sense
 **Complexity:** Complex

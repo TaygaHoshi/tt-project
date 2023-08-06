@@ -64,7 +64,7 @@ unarmed         |    16    |         0        |  1m   |       -
 + (Projectile) Bolt of Exorcism
 	+ Range: 5 meters.
 	+ Deals 24 damage.
-+ Binding Light
++ Magical Bind
 	+ This attack's precision roll is made against Constitution.
 	+ Ignores weapon damage.
 	+ Immobilizes for (1 + WRA/4) turns.
