@@ -205,4 +205,57 @@
 	Vampires are the reason why forests at night are dangerous. Lesser vampires are almost always found working or studying under a higher vampire. However, there are sightings of rogue vampires, leading bandits or beasts.
 
 ---
+## Mystical Deer
+**Level:** 6
+**Health:** 90
+**Aptitudes:** 
+	4 POW / 3 ACU
+	3 VIT / 1 SPD
+**Initiative:** 1
+**Movement:** 10
+**Physical Armor:** 5
+**Magic Armor:** 5
+**Weapons:**
+	Antlers
+**Precision roll:** (ACU) d10 + 4, (PER) d10 + 2
+**Resistances:** 9 (12 Parry, 11 Constitution, 11 Willpower)
+**Skills**
++ (Passive) Nature Bond
+	+ This beast gains 10 health per round while near a naturally created magical point of interest.
+	+ This point of interest must be undisturbed.
++ Strike
+	+ Deals 30 physical damage.
++ (Combat Technique) Crushing Charge
+	+ Full-turn action. 
+	+ -1 penalty on precision roll.
+	+ Can charge for 15 meters and attack with Strike. If this attack hits, it also applies stunned for 1 round. 
+	+ -2 penalty to all resistances for 1 round. 
++ (Social spell) Gaze of the Deer
+	+ Range: 15 meters.
+	+ Target creature is disoriented (-2) and slowed (-2) for 2 rounds.
+**Lore**
+	A large, pure white deer. They are thought to be normal deer infused with the magic from a magical point of interest found naturally.
+
+---
+## Magicspawn
+**Level:** 1
+**Health:** 20
+**Aptitudes:** 
+	2 PEN
+**Initiative:** 0
+**Movement:** 10
+**Physical Armor:** 0
+**Magic Armor:** 5
+**Weapons:**
+	Elemental wand
+**Precision roll:** (PEN) d10 + 3
+**Resistances:** 6
+**Skills**
++ (Projectile) Magic Blast
+	+ Range: 10 meters.
+	+ Deals 15 magical damage.
+**Lore**
+	The magicspawn are small, unconscious beings found near magically active places. They attack anything they find a disturbance to the place they are guarding.
+
+---
 
