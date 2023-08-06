@@ -18,7 +18,7 @@ While no OSR, rules in this game are trimmed before they are added. This makes T
 TT Project has owl vampires, charming snake monsters able to transform into a human form, Central Asian spells and rituals, interesting abilities and more.
 
 **Character creation full of meaningful choice.**
-See [[Player Characters]]
+See [[Player Characters]].
 Additionally, see [[Classes]], [[Weapons]], [[Spells]], [[Combat Techniques]] and other content.
 
 **Fun and engaging turn-based combat.**
@@ -44,5 +44,7 @@ https://paratic.com/turk-mitolojisi/ (Turkish)
 You can contact me through Github or Discord. My Discord username is taygahoshi.
 
 # Credits & Contributors
-Project owner: TaygaHoshi
-Special thanks for their help: oddspelunker
+```
+Project owner   : TaygaHoshi
+Special thanks  : oddspelunker
+```
