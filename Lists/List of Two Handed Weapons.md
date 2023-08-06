@@ -134,7 +134,7 @@ war drums        |     -    |     1     | 10m   |  -
 	+ This attack's precision roll is made against Constitution.
 	+ Deals 12 damage. Potency bonus to damage is doubled for this attack. 
 	+ Slows the target for (1 + POW/4) rounds.
-+ (Prepared) (Projectile) Crossbow Bash
++ (Prepared) Crossbow Bash
 	+ Range: 2 meters.
 	+ Ignores weapon damage and precision.
 	+ Next time a foe within range attempts to attack or cast a spell, it is interrupted and their action fails.
