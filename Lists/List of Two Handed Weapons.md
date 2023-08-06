@@ -12,7 +12,7 @@ war hammer       |    28    |     0     |  1m   | 50%
 nature staff     |    24    |     0     | 10m   |  -
 divine staff     |    24    |     0     | 10m   |  -
 longbow          |    24    |     0     | 15m   |  -
-crossbow         |    24    |     1     | 15m   | 50%
+crossbow         |    24    |     1     | 10m   | 50%
 shortbow         |    20    |     1     | 10m   |  -
 war drums        |     -    |     1     | 10m   |  -
 ```
@@ -124,20 +124,20 @@ war drums        |     -    |     1     | 10m   |  -
 ## Crossbow
 + Aptitude: Strength
 + (Projectile) Shoot
-	+ Range: 15 meters.
+	+ Range: 10 meters.
 	+ Ignores weapon precision against targets within 5 meters.
 	+ Deals 24 damage.
 	+ Pierces 50% armor.
 + (Projectile) Pinning Shot
-	+ Range: 15 meters.
+	+ Range: 10 meters.
 	+ Ignores weapon precision against targets within 5 meters.
 	+ This attack's precision roll is made against Constitution.
 	+ Deals 12 damage. Potency bonus to damage is doubled for this attack. 
 	+ Slows the target for (1 + POW/4) rounds.
 + (Prepared) Crossbow Bash
-	+ Range: 2 meters.
+	+ Range: 1 meter.
 	+ Ignores weapon damage and precision.
-	+ Next time a foe within range attempts to attack or cast a spell, it is interrupted and their action fails.
+	+ Next time an adjacent foe attempts to attack or cast a spell, it is interrupted and their action fails.
 
 ## Shortbow
 + Aptitude: Strength
@@ -148,12 +148,14 @@ war drums        |     -    |     1     | 10m   |  -
 	+ Range: 10 meters.
 	+ This attack's precision roll is made against Constitution.
 	+ Ignores weapon damage.
-	+ Applies (3 + POW/4) turns of bleeding on hit.
-+ (Prepared) (Projectile) Disrupting Shot
-	+ Range: 5 meters.
+	+ Applies (3 + POW/2) turns of bleeding on hit.
++ (Prepared) (Projectile) Preemptive Shot
+	+ Range: 10 meters.
 	+ Ignores weapon damage and precision.
-	+ Choose a target. 
-	+ When this target attempts to attack with a weapon within range, they are interrupted on hit, and their action fails.
+	+ Deals 10 damage. Potency bonus to damage is doubled for this attack. 
+	+ Choose a target within range. 
+	+ Next time this target attempts to attack or cast a spell within range, you attack this target before it attacks.
+	+ Target continues their attack normally unless it dies, falls prone or otherwise becomes unable to attack.  
 
 ## War Drums
 + Aptitude: Social

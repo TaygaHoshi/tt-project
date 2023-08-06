@@ -78,7 +78,7 @@ unarmed         |    16    |         0        |  1m   |       -
 + Severing Strike
 	+ This attack's precision roll is made against Constitution.
 	+ Ignores weapon damage.
-	+ Applies (3 + POW/4) turns of bleeding on hit.
+	+ Applies (3 + POW/2) turns of bleeding on hit.
 + (Prepared) Quick Stab
 	+ Ignores weapon precision.
 	+ Deals 12 damage. Potency bonus to damage is doubled for this attack. 
