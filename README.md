@@ -36,6 +36,7 @@ This work is licensed under a
 Tayga's Tabletop Project consists of assets in the form of gameplay rules, art, music, books, e-books and more. Assets may or may not be in this repository. Unless explicitly told, all assets share this licence.
 
 In the future, I will have a separate licence for commercial usage. 
+
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
 
 [cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
