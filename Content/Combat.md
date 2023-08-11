@@ -36,7 +36,6 @@ At the start phase of every round, turn order will be calculated for this round.
 
 # Action Types and Timing
 Each turn takes approximately 5 seconds in game.
-
 ## Action
 These are regular actions. Mostly, only one action can be taken during a turn.
 

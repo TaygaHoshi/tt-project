@@ -86,6 +86,11 @@ Base movement speed of a creature is calculated with the formula below:
 + The damage from fall is armor-ignoring and it is calculated as such:
 	+ Fall damage = 10 x (fall distance in meters - 3)
 
+# High and Low Ground
+A significant difference in elevation affects projectile attacks' precision rolls:
+1. Attacking from high ground grants you a +1 bonus.
+2. Attacking from low ground gives you a -1 penalty.
+
 # Ambushes
 When the party ambushes or gets ambushed by one or more foes, the ambushed side is considered disadvantageous and they receive the following effects for the first round of combat:
 + -2 penalty on SPD

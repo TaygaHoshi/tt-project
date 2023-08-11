@@ -25,6 +25,13 @@
 	Weapon damage is equal to half of stuck weapon's damage.
 	This action is considered a weapon attack.
 
+# Improved Aiming
+**Activation time:** Full-turn action
+**Requirements:**
+	Any bow.
+**Explanation:**
+	You remove the penalty from Quick Aiming by taking your time with your shot.
+
 # Charge
 **Activation time:** Full-turn action
 **Requirements:** 

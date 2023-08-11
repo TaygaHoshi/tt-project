@@ -106,14 +106,15 @@ war drums        |     -    |     1     | 10m   |  -
 
 ## Longbow
 + Aptitude: Strength
++ (Passive) Quick Aiming
+	+ Unless you use Improved Aiming, your projectile attacks with bows have a -2 penalty on precision rolls. 
+	+ Does not affect prepared actions.
 + (Projectile) Shoot
-	+ Range: 15 meters
-	+ Receives a -1 penalty to precision rolls against targets within 5 meters.
+	+ Range: 15 meters.
 	+ Deals 24 damage.
 + (Projectile) Dual Shot
-	+ Range: 15 meters
+	+ Range: 15 meters.
 	+ This attack's precision rolls are made against Evasion.
-	+ Receives a -1 penalty to precision rolls against targets within 5 meters.
 	+ You shoot an arrow each to two targets adjacent to each other within range.
 	+ These arrows each deal 12 damage. Potency bonus to damage is doubled for these attacks. 
 + (Prepared) (Projectile) Half-drawn Shot
@@ -123,14 +124,15 @@ war drums        |     -    |     1     | 10m   |  -
 
 ## Crossbow
 + Aptitude: Strength
++ (Passive) Quick Aiming
+	+ Unless you use Improved Aiming, your projectile attacks with bows have a -2 penalty on precision rolls. 
+	+ Does not affect prepared actions.
 + (Projectile) Shoot
 	+ Range: 10 meters.
-	+ Ignores weapon precision against targets within 5 meters.
 	+ Deals 24 damage.
 	+ Pierces 50% armor.
 + (Projectile) Pinning Shot
 	+ Range: 10 meters.
-	+ Ignores weapon precision against targets within 5 meters.
 	+ This attack's precision roll is made against Constitution.
 	+ Deals 12 damage. Potency bonus to damage is doubled for this attack. 
 	+ Slows the target for (1 + POW/4) rounds.
@@ -141,6 +143,9 @@ war drums        |     -    |     1     | 10m   |  -
 
 ## Shortbow
 + Aptitude: Strength
++ (Passive) Quick Aiming
+	+ Unless you use Improved Aiming, your projectile attacks with bows have a -2 penalty on precision rolls. 
+	+ Does not affect prepared actions.
 + (Projectile) Shoot
 	+ Range: 10 meters.
 	+ Deals 20 damage.
