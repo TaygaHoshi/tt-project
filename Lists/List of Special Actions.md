@@ -30,7 +30,7 @@
 **Requirements:**
 	Any bow.
 **Explanation:**
-	You remove the penalty from Quick Aiming by taking your time with your shot.
+	As a part of this action, you can use any bow attack affected by Quick Aiming. This attack does not gain the penalty from Quick Aiming.
 
 # Charge
 **Activation time:** Full-turn action

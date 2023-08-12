@@ -69,7 +69,7 @@ level | simple techniques | advanced techniques
 		First basic melee weapon attack you make this round has a +1 bonus to its precision roll.
 		For 2 stamina, you can choose to attack two creatures within range. You make two basic attacks, and each deal half damage.
 	Ranged specialization:
-		Basic ranged weapon attacks you make before moving this turn gain a +1 to their precision rolls.
+		You gain a 5 bonus damage while attacking from high ground, and you don't get the precision penalty from attacking from low ground.
 		Additionally, you can spend 2 stamina before a basic ranged attack to add a bonus damage equal to your ACU to this attack.
 
 **Armor Specialization 2**
