@@ -48,37 +48,37 @@ level | simple techniques | advanced techniques
 
 **Style Specialization 1**
 	Choose one style to start specializing in. You gain all of the listed benefits of that style.
-	Strength specialization:
+	1. Strength specialization:
 		Combat techniques you perform are considered to have +1 POW and gain a +1 bonus to their precision rolls.  
-	Endurance specialization:
+	2. Endurance specialization:
 		Your maximum health is increased by 2 per VIT you currently have. 
 		Whenever you spend an aptitude point in VIT, your maximum health is increased by 2.
-	Magical specialization: 
+	3. Magical specialization: 
 		Choose any simple novice spell. You can cast this spell by spending stamina instead.
 
 **Armor Specialization 1**
 	Choose an armor weight category. You get the following benefits while wearing an armor in that category.
-	Robes and light armor:
+	1. Robes and light armor:
 		When you Charge or run, you gain a +1 bonus to Parry and Evasion.
-	Adventurer armor and heavy armor:
+	2. Adventurer armor and heavy armor:
 		When you are stunned or prone, you do not gain the resistance penalties from those conditions.
 
 **Style Specialization 2**
 	Choose one style to gain further expertise with it. You gain all of the listed benefits of that style.
-	Melee specialization:
+	1. Melee specialization:
 		First basic melee weapon attack you make this round has a +1 bonus to its precision roll.
 		For 2 stamina, you can choose to attack two creatures within range. You make two basic attacks, and each deal half damage.
-	Ranged specialization:
+	2. Ranged specialization:
 		You gain a 5 bonus damage while attacking from high ground, and you don't get the precision penalty from attacking from low ground.
 		Additionally, you can spend 2 stamina before a basic ranged attack to add a bonus damage equal to your ACU to this attack.
 
 **Armor Specialization 2**
 	Choose one passive effect. You gain that effect while wearing the armor weight you specialized in, further increasing your effectiveness.
-	Ease of movement:
+	1. Ease of movement:
 		You gain a +3 bonus to movement speed. 
-	Impenetrable defense:
+	2. Impenetrable defense:
 		You are immune to physical and magical armor piercing.
-	Reinforcement:
+	3. Reinforcement:
 		When you gain temporary armor of one type, you also gain an equal amount of the other type.
 
 **Favored Weapon Expertise**
