@@ -56,6 +56,9 @@ Resting and sleeping, normally, have the following benefits:
 1. Characters heal 10 health per hour while sleeping.
 2. Similarly, 2 points of mana and stamina regenerates per hour while sleeping.
 3. While only resting, these regeneration rates are halved.
+4. In case a character has both mana and stamina, these rates are halved.
+	1. While sleeping, these characters gain 1 point of mana and stamina per hour.
+	2. While resting, they gain 1 point of mana and stamina per 2 hours of rest. Depending on the circumstances, the GM may allow these 2 hours to be non-consecutive.
 
 However, not all damage and status effects can be healed this way. What makes sense and what does not is left primarily to the GM.
 
