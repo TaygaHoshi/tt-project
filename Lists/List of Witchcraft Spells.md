@@ -81,14 +81,15 @@
 # Veteran Spells
 ## Rain
 **Complexity:** Complex
-**Casting Time:** Full-turn action
+**Casting Time:** Action
 **Cost:** 4 mana
 **Range:** Self
-**Radius:** 100 meters square
-**Duration:** (60 + 10xARC) minutes
+**Radius:** 5 meters
+**Duration:** (10 + 10xARC) minutes
 **Effect**
-	You generate a large and stationary raincloud above you, and it starts to rain immediately. 
+	You generate a large and stationary rain cloud above you, and it starts to rain immediately. 
 	All creatures below this cloud are soaked every round unless they have cover from rain.
+	This spell can only be used when there is a sufficient range.
 
 ## Armor of Branches
 **Complexity:** Complex
