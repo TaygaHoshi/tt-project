@@ -14,3 +14,6 @@ level |  1|  2|  3|  4|  5|  6|  7|  8|  9| 10
 high  |  8| 10| 12| 14| 16| 18| 20| 22| 24| 24
 low   |  4|  4|  6|  6|  8|  8| 10| 10| 12| 12
 ```
+
+# Damaging Spells
+For a spell to be considered a "damaging spell", it should have a base damage. Examples could be "Stone Blades", "Elemental Arrow" or "Dissonance". Some spells such as "Severing Mark" only apply a status effect, but do not have a base damage. These spells are not considered damaging spells.
