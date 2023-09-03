@@ -114,20 +114,33 @@
 **Effect**
 	You quickly spread a vial of poison on your weapon in the heat of battle.
 
-## Webshot Bolt
+## Use Special Arrow
 **Category:** Weapon attack
 **Execution Time:** Action
 **Cost:** 2 stamina
 **Range:** Half weapon range
-**Duration:** (1 + POW/4) rounds
+**Radius:** 2 meters
+**Duration:** 2 rounds
 **Requirements:**
-	A crossbow.
-	1 x Webshot bolt.
+	A longbow or a shortbow.
+	1 x Special Arrow
 **Effect**
 	(Projectile)
-	This attack's precision roll is made against Constitution.
-	Ignores weapon damage and precision.
-	Immobilizes the target for the duration.
+	You shoot a special arrow, such as an oil flask arrow or a firework arrow.
+
+## Use Special Bolt
+**Category:** Weapon attack
+**Execution Time:** Action
+**Cost:** 2 stamina
+**Range:** Half weapon range
+**Radius:** 2 meters
+**Duration:** 2 rounds
+**Requirements:**
+	A crossbow.
+	1 x Special Bolt
+**Effect**
+	(Projectile)
+	You shoot a special bolt, such as a webshot bolt or a firework bolt.
 
 # Advanced Combat Techniques
 ## Wrestling 
@@ -167,39 +180,6 @@
 	Ignores weapon precision.
 	Choose a direction: clockwise or counter-clockwise. Attack a target with your weapon. If this target dies or falls unconscious, you attack the next closest foe in the direction you chose. Cleave continues until either you miss or one of the foes survive your attack.
 
-## Dazzling Shot
-**Category:** Weapon attack
-**Execution Time:** Action
-**Cost:** 3 stamina
-**Range:** Half weapon range
-**Radius:** 2 meters
-**Duration:** 2 rounds
-**Requirements:**
-	Any bow.
-	1 x Firework Arrow or 1 x Firework Bolt for a crossbow.
-**Effect**
-	(Projectile)
-	This attack's precision rolls are made against Evasion.
-	Ignores weapon damage and precision.
-	Choose a square within range. Every creature within the radius around this square is disoriented for the duration.
-
-## Flaming Shot
-**Category:** Weapon attack
-**Execution Time:** Action
-**Cost:** 2 stamina
-**Range:** Half weapon range
-**Radius:** 2 meters
-**Duration:** 2 rounds
-**Requirements:**
-	Any bow.
-	1 x Oil Flask Arrow or 1 x Oil Flask Bolt for a crossbow.
-**Effect**
-	(Projectile)
-	This attack's precision rolls are made against Evasion.
-	Ignores weapon damage and precision.
-	Choose a square within range. Flaming oil splatters onto an area around this square. Make a precision roll against any creature walking into or ending their turn within this area. On success, the creature starts Burning for 1 round.
-	This effect does not stack.
-
 ## Ambidextrous Strike
 **Category:** Weapon attack
 **Execution Time:** Special
@@ -211,6 +191,7 @@
 	Choose one:
 	Attack with your off-hand weapon as if it were your main hand weapon. You can choose any weapon attack of your off-hand weapon.
 	Take the dual strike action with your off-hand as if it were your main hand, and your main hand as if it were your off-hand.
+
 
 ## Adrenaline Leap
 **Category:** Mobility
