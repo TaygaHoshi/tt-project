@@ -5,6 +5,8 @@ Tayga's Tabletop Project (placeholder name) is a work-in-progress tabletop role 
 
 Start reading at [INTRODUCTION.md](INTRODUCTION.md) for theme, goals and more. Since Github's markdown syntax is different from what I use, I recommend using the "code" view instead of the "preview" view to read the files.
 
+You can send me feedback from this form: https://forms.gle/7NwTYqGUWpBfBWNg8
+
 This repository is for keeping track of changes to the game rules between versions. It may or may not be up to date. Playable books will be posted in the releases page after they are made publicly available.
 
 # Playing the game
