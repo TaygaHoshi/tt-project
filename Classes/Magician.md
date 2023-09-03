@@ -21,7 +21,7 @@ level | features
  5    | Branch Feature
  6    | Spell Modifiers 2
  7    | Branch Feature
- 8    | 
+ 8    | #TODO 
  9    | Branch Feature
 10    | Elemental Mastery
 ```
@@ -49,15 +49,24 @@ level |   novice spells   |  veteran spells  | expert spells |
 **Spell Modifiers**
 	Choose two modifiers each at levels 2 and 6. 
 	These modifiers cost 1 mana to apply to the next spell you cast, and a spell can have multiple modifiers.
-	1. Magical shielding: This spell also grants you your choice of temporary armor equal to the base mana cost of it, for a round.
-	2. #TODO 
+	1. Shielded casting: 
+		While you are casting this spell, you have a +2 bonus to all resistances against prepared actions such as interrupts, preemptive attacks and opportunistic attacks. 
+	2. Armor piercing: 
+		This damaging spell pierces 50% armor. This modifier can't be used on spells which can pierce armor.
+	3. Improved range: 
+		This spell has an extra 3 meter range. This modifier does not affect radius of a spell.
+	4. #TODO 
 
 **Witchcraft Style**
 	As you progress with your magic, you become adept at a style of witchcraft magic. Choose one ability.
-	1. Offensive magician: You gain a +1 bonus to precision rolls for your damaging spells.
-	2. Defensive magician: While you are casting a spell, you gain a +2 bonus to all resistances against prepared actions such as interrupts, preemptive attacks and opportunistic attacks. 
-	3. Weapon enhancement: Your current weapon is always considered a magical weapon, and deal magical damage. This ability does not change a weapon's aptitude.
-	4. Physical conversion: You can spend up to 4 mana and heal yourself as a full-turn action. Each point of mana you spend gives you 2 health.
+	1. Offensive magician :
+		You gain a +1 bonus to precision rolls for your damaging spells.
+	2. Defensive magician:
+		Whenever you successfully cast a spell, you gain your choice of temporary armor equal to half of the base mana cost of it, for a round.
+	3. Weapon enhancement: 
+		Your current weapon is always considered a magical weapon, and deal magical damage. This ability does not change a weapon's aptitude.
+	4. Physical conversion: 
+			You can spend up to 4 mana and heal yourself as a full-turn action. Each point of mana you spend gives you 2 health.
 	5. #TODO 
 
 **Elemental Mastery**
