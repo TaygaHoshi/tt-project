@@ -15,17 +15,27 @@ Currently, the game is in alpha state. This means it is not ready for running ca
 If you want to play the game anyway, I recommend sticking to one version and only updating if the newer version doesn't break the balance of the campaign.
 
 # Contributing
-Feel free to submit a PR, but you must read [INTRODUCTION.md](INTRODUCTION.md) and [VERSIONING.md](VERSIONING.md).
+Feel free to submit a pull request, but you must read [INTRODUCTION.md](INTRODUCTION.md) and [VERSIONING.md](VERSIONING.md). You can contribute to most of the places labeled with "#TODO".
 
-I use [Obsidian](https://obsidian.md/) to edit of these notes. You can simply fork this repo.
-Then clone your fork into Obsidian or any equivalent software:
+I use [Obsidian](https://obsidian.md/) to edit of these notes. To contribute, you can simply fork this repo, then clone your fork into Obsidian or any equivalent software:
 ```bash
 cd /path/to/obsidian/vault
 git clone your-fork
 ```
 
+Then you can create a branch, make your changes, and create a commit:
+```bash
+git checkout -b your-branch-name
+# make your changes here
+git add -A
+git commit -m "useful commit mesage"
+git push
+```
+
+Lastly, you can send a pull request to my repository through GitHub.
+
 # Formatting
-1. All links between the files in this repository must be formatted like this -> [[INTRODUCTION]]. 
+1. All links between the files in this repository *must be* formatted like this -> [[INTRODUCTION]]. 
 2. Newlines *should not* have empty lines between them in Obsidian. 
 3. Paragraphs *should* have empty lines between them in Obsidian.
 
