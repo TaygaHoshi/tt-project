@@ -11,6 +11,6 @@ Spells are split into three branches:
 # Mana Scaling
 ```mana_scaling_table
 level |  1|  2|  3|  4|  5|  6|  7|  8|  9| 10
-high  |  8| 10| 12| 14| 16| 18| 20| 22| 24| 26
+high  |  8| 10| 12| 14| 16| 18| 20| 22| 24| 24
 low   |  4|  4|  6|  6|  8|  8| 10| 10| 12| 12
 ```
