@@ -41,7 +41,9 @@ https://dergipark.org.tr/en/download/article-file/810705#page=2&zoom=120,-282,80
 https://paratic.com/turk-mitolojisi/ (Turkish)
 
 # Contact Me
-You can contact me through Github or Discord. My Discord username is taygahoshi.
+You can contact me through Github or Discord. My Discord username is taygahoshi. Additionally, you can fill this form to send feedback directly to me: https://forms.gle/7NwTYqGUWpBfBWNg8
+
+Do not contact anyone else in the "Credits & Contributors" section.
 
 # Credits & Contributors
 ```
