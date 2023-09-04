@@ -49,25 +49,21 @@ level |   novice spells   |  veteran spells  | expert spells |
 **Spell Modifiers**
 	Choose two modifiers each at levels 2 and 6. 
 	These modifiers cost 1 mana to apply to the next spell you cast, and a spell can have multiple modifiers.
-	1. Shielded casting: 
+	1. Defensive casting: 
 		While you are casting this spell, you have a +2 bonus to all resistances against prepared actions such as interrupts, preemptive attacks and opportunistic attacks. 
 	2. Armor piercing: 
 		This damaging spell pierces 50% armor. This modifier can't be used on spells which can pierce armor.
 	3. Improved range: 
-		This spell has an extra 3 meter range. This modifier does not affect radius of a spell.
-	4. #TODO 
+		This spell's range is increased by 3 meters. This modifier does not affect radius of a spell.
+	4. Shielded casting:
+		This spell grants you either physical or magical temporary armor equal to half its mana cost. You can choose which type of temporary armor while applying this modifier.
+	5. #TODO 
 
 **Witchcraft Style**
 	As you progress with your magic, you become adept at a style of witchcraft magic. Choose one ability.
-	1. Offensive magician :
+	1. Precise magician:
 		You gain a +1 bonus to precision rolls for your damaging spells.
-	2. Defensive magician:
-		Whenever you successfully cast a spell, you gain your choice of temporary armor equal to half of the base mana cost of it, for a round.
-	3. Weapon enhancement: 
-		Your current weapon is always considered a magical weapon, and deal magical damage. This ability does not change a weapon's aptitude.
-	4. Physical conversion: 
-			You can spend up to 4 mana and heal yourself as a full-turn action. Each point of mana you spend gives you 2 health.
-	5. #TODO 
+	2. #TODO 
 
 **Elemental Mastery**
 	Before casting an elemental spell, you can choose to activate the effects of two elements for that spell by spending double the mana cost. You can choose which element's effect activates first. You can use this ability only once per round.
