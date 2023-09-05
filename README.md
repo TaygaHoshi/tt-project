@@ -34,6 +34,8 @@ git push
 
 Lastly, you can send a pull request to my repository through GitHub.
 
+Alternatively, you can fork this repo, go to your fork and press "." (dot). This opens the repo in a text editor, and you can commit to your fork directly from there. 
+
 # Formatting
 1. All links between the files in this repository *must be* formatted like this -> [[INTRODUCTION]]. 
 2. Newlines *should not* have empty lines between them in Obsidian. 
