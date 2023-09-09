@@ -19,7 +19,7 @@ level | features
  3    | Branch Feature
  4    | Spell Modifiers 1
  5    | Branch Feature
- 6    | #TODO
+ 6    | Magical Enhancement
  7    | Branch Feature
  8    | Spell Modifiers 2
  9    | Branch Feature
@@ -68,6 +68,14 @@ level |   novice spells   |  veteran spells  | expert spells |
 	6. #TODO 
 	7. #TODO 
 	8. #TODO 
+
+**Magical Enhancement**
+	Whenever you attempt a weapon attack, you can choose one of the following benefits for 1 mana. A weapon attack can only have one enhancement. You can use this ability only once per round.
+	1. Guidance:
+		This attack has a +1 bonus to its precision rolls.
+	2. Simple infusion:
+		This weapon is considered a magical weapon and this attack deals magical damage instead of physical damage. This ability is considered an infusion.
+	3. #TODO 
 
 **Elemental Mastery**
 	Before casting an elemental spell, you can choose to activate the effects of two elements for that spell by spending double the mana cost. You can choose which element's effect activates first. You can use Elemental Mastery only once per round.
