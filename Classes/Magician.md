@@ -15,7 +15,7 @@
 ```magician_class_features
 level | features
  1    | Magician Branches, Elemental Affinity
- 2    | #TODO
+ 2    | Attuning
  3    | Branch Feature
  4    | Spell Modifiers 1
  5    | Branch Feature
@@ -45,6 +45,13 @@ level |   novice spells   |  veteran spells  | expert spells |
 
 **Elemental Affinity**
 	Choose an element. Spells you cast and abilities you use with that element are considered to have a bonus +1 ARC.
+
+**Attuning**
+	As a rapid action, you can attune to the forces of nature. While attuned:
+	1. Your spells are considered to have a bonus +1 ARC and gain a +1 bonus to their precision rolls.
+	2. You can't use weapon attacks and combat techniques.
+	3. You walk at half speed and can't fly, climb, swim or run.
+	Attuning lasts at least until the end of next round. In the following rounds, you can stop attuning as a rapid action.
 
 **Spell Modifiers**
 	Choose two modifiers each at levels 4 and 8. 
