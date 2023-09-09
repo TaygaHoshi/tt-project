@@ -47,7 +47,7 @@ level |   novice spells   |  veteran spells  | expert spells |
 	Choose an element. Spells you cast and abilities you use with that element are considered to have a bonus +1 ARC.
 
 **Spell Modifiers**
-	Choose two modifiers each at levels 4 and 8. 
+	Choose two modifiers each at levels 2 and 6. 
 	These modifiers cost 1 mana to apply to the next spell you cast, and a spell can have multiple modifiers.
 	1. Defensive casting: 
 		While you are casting this spell, you have a +2 bonus to all resistances against prepared actions such as interrupts, preemptive attacks and opportunistic attacks. 
