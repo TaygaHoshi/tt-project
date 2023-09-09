@@ -77,16 +77,6 @@
 	Choose an element when you cast this spell. This infusion can be consumed as an action to cast Elemental Arrow with that element for no mana cost. 
 	An item can have only one infusion at any time.
 
-## Simple Infusion
-**Complexity:** Simple
-**Casting Time:** Full-turn action
-**Cost:** 1 mana
-**Duration:** 6 hours
-**Effect**
-	Infuse the weapon you are wielding with your mana. This weapon is considered a magical weapon and it deals magical damage instead of physical damage. If this weapon is somehow separated from you, this infusion ends.
-	An item can have only one infusion at any time.
-
-
 ---
 # Veteran Spells
 ## Rain
