@@ -17,7 +17,7 @@ level | features
  1    | Magician Branches, Elemental Affinity
  2    | Spell Modifiers 1
  3    | Branch Feature
- 4    | Witchcraft Style
+ 4    | #TODO
  5    | Branch Feature
  6    | Spell Modifiers 2
  7    | Branch Feature
@@ -58,12 +58,6 @@ level |   novice spells   |  veteran spells  | expert spells |
 	4. Shielded casting:
 		This spell grants you either physical or magical temporary armor equal to half its mana cost. You can choose which type of temporary armor while applying this modifier.
 	5. #TODO 
-
-**Witchcraft Style**
-	As you progress with your magic, you become adept at a style of witchcraft magic. Choose one ability.
-	1. Precise magician:
-		You gain a +1 bonus to precision rolls for your damaging spells.
-	2. #TODO 
 
 **Elemental Mastery**
 	Before casting an elemental spell, you can choose to activate the effects of two elements for that spell by spending double the mana cost. You can choose which element's effect activates first. You can use this ability only once per round.
