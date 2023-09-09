@@ -15,13 +15,13 @@
 ```magician_class_features
 level | features
  1    | Magician Branches, Elemental Affinity
- 2    | Attuning
+ 2    | Spell Modifiers 1
  3    | Branch Feature
- 4    | Spell Modifiers 1
+ 4    | Attuning
  5    | Branch Feature
- 6    | Magical Enhancement
+ 6    | Spell Modifiers 2
  7    | Branch Feature
- 8    | Spell Modifiers 2
+ 8    | Magical Enhancement, Extra Spell
  9    | Branch Feature
 10    | Elemental Mastery
 ```
@@ -46,13 +46,6 @@ level |   novice spells   |  veteran spells  | expert spells |
 **Elemental Affinity**
 	Choose an element. Spells you cast and abilities you use with that element are considered to have a bonus +1 ARC.
 
-**Attuning**
-	As a rapid action, you can attune to the forces of nature. While attuned:
-	1. Your spells are considered to have a bonus +1 ARC and gain a +1 bonus to their precision rolls.
-	2. You can't use weapon attacks and combat techniques.
-	3. You walk at half speed and can't fly, climb, swim or run.
-	Attuning lasts at least until the end of next round. In the following rounds, you can stop attuning as a rapid action.
-
 **Spell Modifiers**
 	Choose two modifiers each at levels 4 and 8. 
 	These modifiers cost 1 mana to apply to the next spell you cast, and a spell can have multiple modifiers.
@@ -69,13 +62,18 @@ level |   novice spells   |  veteran spells  | expert spells |
 	7. #TODO 
 	8. #TODO 
 
+**Attuning**
+	As a rapid action, you can attune to the forces of nature. While attuned:
+	1. Your spells are considered to have a bonus +1 ARC and gain a +1 bonus to their precision rolls.
+	2. You can't use weapon attacks and combat techniques.
+	3. You walk at half speed and can't fly, climb, swim or run.
+	Attuning lasts at least until the end of next round. In the following rounds, you can stop attuning as a rapid action.
+
 **Magical Enhancement**
-	Whenever you attempt a weapon attack, you can choose one of the following benefits for 1 mana. A weapon attack can only have one enhancement. You can use this ability only once per round.
-	1. Guidance:
-		This attack has a +1 bonus to its precision rolls.
-	2. Simple infusion:
-		This weapon is considered a magical weapon and this attack deals magical damage instead of physical damage. This ability is considered an infusion.
-	3. #TODO 
+	For 1 mana, you can enhance your body and weapon with your magic as a part of a weapon attack. This attack has a +1 bonus to its precision rolls and deals magical damage instead of physical damage. For this attack, your weapon is considered a magical weapon. You can use this ability only once per round.
+
+**Extra Spell**
+	You can learn an additional novice spell at level 8. This ability is already applied to the spell amount table.
 
 **Elemental Mastery**
 	Before casting an elemental spell, you can choose to activate the effects of two elements for that spell by spending double the mana cost. You can choose which element's effect activates first. You can use Elemental Mastery only once per round.
