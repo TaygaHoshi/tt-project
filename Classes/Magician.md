@@ -57,7 +57,7 @@ level |   novice spells   |  veteran spells  | expert spells |
 		This spell's range is increased by 3 meters. This modifier does not affect radius of a spell.
 	4. Shielded casting:
 		This spell grants you either physical or magical temporary armor equal to half its mana cost. You can choose which type of temporary armor while applying this modifier.
-	5. #TODO 
+	5. #TODO
 
 **Elemental Mastery**
 	Before casting an elemental spell, you can choose to activate the effects of two elements for that spell by spending double the mana cost. You can choose which element's effect activates first. You can use this ability only once per round.
