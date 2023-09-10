@@ -19,7 +19,7 @@
 **Effect**
 	Mark a creature. 
 	This creature is bleeding as long as it is marked. 
-	At the end of marked creature's turn, make a precision roll against their Constitution. On failure, the mark ends. A creature can have only one mark from you at any time.
+	At the end of marked creature's turn, make a precision roll against its Constitution. On failure, the mark ends. A creature can have only one mark from you at any time.
 
 ## End Marks
 **Complexity:** Simple

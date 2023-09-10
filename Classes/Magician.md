@@ -56,7 +56,7 @@ level |   novice spells   |  veteran spells  | expert spells |
 	3. Improved range: 
 		This spell's range is increased by 3 meters. This modifier does not affect radius of a spell.
 	4. Shielded casting:
-		This spell grants you either physical or magical temporary armor equal to half its mana cost. You can choose which type of temporary armor while applying this modifier.
+		This spell grants you either physical or magical temporary armor equal to half its mana cost. You can choose the type of temporary armor while applying this modifier.
 	5. #TODO 
 	6. #TODO 
 	7. #TODO 
