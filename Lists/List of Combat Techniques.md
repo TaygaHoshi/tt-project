@@ -11,7 +11,7 @@
 	Tackle your target, making them fall prone.
 
 ## Extend Preparation
-**Category:** Utility
+**Category:** General
 **Execution Time:** Special
 **Cost:** 1 stamina
 **Requirements:**
