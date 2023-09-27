@@ -73,23 +73,6 @@
 	Ignores weapon damage and precision.
 	Deals 5 damage to target foe. 
 	Alternatively, you can spend an additional stamina to deal 10 damage instead.
-
-## Scattering Shot
-**Category:** Weapon attack
-**Execution Time:** Action
-**Cost:** 2 stamina
-**Range:** Weapon range
-**Radius:** 2 meters
-**Requirements:**
-	Any bow.
-	1 x Cluster Arrow or 1 x Cluster Bolt for a crossbow.
-**Effect**
-	(Projectile)
-	This attack's precision rolls are made against Evasion.
-	Ignores weapon precision.
-	This attack deals half damage, but potency bonus to its damage is doubled.
-	Shoot an arrow which splits into 3 parts. Choose any 3 foes within radius, and your arrows will target those foes.
-
 ## Defensive Strike
 **Category:** Weapon attack
 **Execution Time:** Action
