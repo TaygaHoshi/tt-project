@@ -70,7 +70,7 @@ level |   novice spells   |  veteran spells  | expert spells |
 	Attuning lasts at least until the end of next round. In the following rounds, you can stop attuning as a rapid action.
 
 **Magical Enhancement**
-	For 1 mana, you can enhance your body and weapon with your magic as a part of a weapon attack. This attack has a +1 bonus to its precision rolls and deals magical damage instead of physical damage. For this attack, your weapon is considered a magical weapon. You can use this ability only once per round.
+	For 1 mana, you can enhance your body and weapon with your magic as a part of a weapon attack. This attack has a +1 bonus to its precision rolls and deals magical damage instead of physical damage, and you can choose to use your ARC instead of your POW for its potency bonus. For this attack, your weapon is considered a magical weapon. You can use this ability only once per round.
 
 **Extra Spell**
 	You can learn an additional novice spell at level 8. This ability is already applied to the spell amount table.
