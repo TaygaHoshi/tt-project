@@ -85,11 +85,11 @@
 **Cost:** 4 mana
 **Range:** Self
 **Radius:** 5 meters
-**Duration:** (10 + 10xARC) minutes
+**Duration:** (5 + ARC/2) minutes
 **Effect**
 	You generate a large and stationary rain cloud above you, and it starts to rain immediately. 
 	All creatures below this cloud are soaked every round unless they have cover from rain.
-	This spell can only be used when there is a sufficient range.
+	This spell can only be used outside or interiors with sufficient space.
 
 ## Armor of Branches
 **Complexity:** Complex
