@@ -55,7 +55,7 @@
 **Radius:** (10 + WRA) meters
 **Duration:** 5 minutes
 **Effect**
-    Your magic finds all living creatures within radius, unless they are magically protected in some way. You see a glowing effect on these creatures. This glow can be seen through walls. The glow lasts for the duration of this spell.
+    Your magic finds all living creatures within radius, unless they are magically protected in some way. You see a glowing effect on these creatures. This glow can be seen through walls and it lasts for the duration of this spell.
 
 ## Stone Blades
 **Complexity:** Simple
@@ -64,7 +64,7 @@
 **Range:** 5 meters
 **Effect**
 	You create two blades of stone and throw them to one or more targets within range. These blades each deal 10 physical damage.
-	Precision roll of these blades are done against Parry of your targets.
+	Precision rolls of these blades are done against Parry of your targets.
 
 ## Simple Divination
 **Complexity:** Simple
@@ -103,6 +103,13 @@
 
 ---
 # Expert Spells
-
+## Prayer of Luck
+**Complexity:** Complex
+**Casting Time:** 1 minute
+**Cost:** 10 mana
+**Duration:** 1 hour
+**Effect**
+	You pray for good luck​. When you cast this spell, the GM can decide to increase the amount or improve the quality of any of the treasures you may find within the duration. 
+	Additionally, you gain a +5 bonus to all skill rolls involving detecting a treasure for the duration of this spell. 
 
 ---
