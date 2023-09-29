@@ -27,8 +27,7 @@ While the GM can freely determine the success threshold, a list of sample succes
 	+ Scaring, intimidating and bullying.
 + Carrying
 	+ Handling heavy objects or creatures.
-+ Acrobatics
-	+ Balancing, moving around, not triggering traps and avoiding.
++ #TODO 
 
 # Witchcraft Skills
 + Scribing
@@ -39,7 +38,7 @@ While the GM can freely determine the success threshold, a list of sample succes
 	+ Learning about the magical properties of an item or a building.
 
 # Divine Skills
-+ Lore keeping
++ Lorekeeping
 	+ Knowledge of historical events, ancient civilizations and hidden societies.
 + Religion
 	+ Knowledge of religions and their sacred texts, scripts, characters, important elements and relevant themes.
@@ -51,6 +50,8 @@ While the GM can freely determine the success threshold, a list of sample succes
 	+ Holding breath, enduring pain, travelling long distances and persistence chasing.
 + Athletics
 	+ Swimming, jumping over and climbing.
++ Reflexes
+	+ Balancing, moving around, not triggering traps and avoiding.
 
 # Social Skills
 + Insight
