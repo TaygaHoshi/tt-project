@@ -6,6 +6,12 @@ At any point, the GM might ask for a skill roll from a player. This can be becau
 
 While the GM can freely determine the success threshold, a list of sample success thresholds for common situations will be supplied.
 
+Players gain a set amount of Skill Points (SP) on each level up. A skill can be increased only once per level. A total of 22 SP can be earned. SPs gained per level are given in this table:
+```skill_table
+lvl | 1| 2| 3| 4| 5| 6| 7| 8| 9|10
+sp  |+4|+2|+2|+2|+2|+2|+2|+2|+2|+2
+```
+
 # Independent Skills
 + Engineering
 	+ Crafting simple or complex mechanisms.
