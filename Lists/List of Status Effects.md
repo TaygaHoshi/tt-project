@@ -1,3 +1,5 @@
+(see: Content/Combat)
+
 # Debilitating Effects
 **Immobilized**
 	Lowers movement, swimming, climbing and flying speeds to 0.

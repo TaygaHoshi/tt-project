@@ -1,7 +1,7 @@
-(see: [[Combat]])
+(see: Content/Combat/Combat)
 
 # Movement
-(see: [[Combat#Battle Map|Battle Map]])
+(see: Content/Combat/Battle Map)
 During combat, a creature can move within the battle map grid. There are various types of moving, which are explained below.
 
 Movement speed of a creature is equal to:

@@ -2,15 +2,15 @@
 #TODO 
 
 **Base features**
-	Main resistance: Reflection, Evasion or Constitution
-	Main skill aptitude: Witchcraft
-	Health: 60
-	Mana: 8 (High)
-	Stamina: 0
-	Starter equipment:
-		A regular weapon set.
-		Any armor of choice.
-		#TODO 
+* Main resistance: Reflection, Evasion or Constitution
+* Main skill aptitude: Witchcraft
+* Health: 60
+* Mana: 8 (High)
+* Stamina: 0
+* Starter equipment:
+	* A regular weapon set.
+	* Any armor of choice.
+	* #TODO 
 
 ```magician_class_features
 level | features

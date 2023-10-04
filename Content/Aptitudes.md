@@ -12,7 +12,7 @@ apt |+3|+1|+1|+2|+2|+2|+3|+3|+3|+3
 List of aptitudes is given below:
 
 **Strength Aptitude**
-	Potency: Power (POW)
+    Potency: Power (POW)
 	Precision: Accuracy (ACU)
 
 **Endurance Aptitude**

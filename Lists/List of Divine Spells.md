@@ -1,4 +1,4 @@
-(see: [[Spells]])
+(see: Content/Spells)
 
 # Novice Spells
 ## Novice Defense Infusion
@@ -55,7 +55,7 @@
 **Radius:** (10 + WRA) meters
 **Duration:** 5 minutes
 **Effect**
-    Your magic finds all living creatures within radius, unless they are magically protected in some way. You see a glowing effect on these creatures. This glow can be seen through walls and it lasts for the duration of this spell.
+    Your magic finds all living creatures within radius, unless they are magically protected in some way. You see a glowing effect on these creatures. This glow can be seen through walls and it lasts for the duration of this spell.
 
 ## Stone Blades
 **Complexity:** Simple

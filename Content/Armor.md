@@ -1,5 +1,5 @@
 # Armor
-This equipment protects its wearer from physical and magical damage, depending on its type. See the [[Combat#Damage#Armor|Armor section in Combat.md]].
+This equipment protects its wearer from physical and magical damage, depending on its type. See the Content/Combat/Damage/Armor.
 
 # Armor Types and Armor Rating
 ```armor_rating_table

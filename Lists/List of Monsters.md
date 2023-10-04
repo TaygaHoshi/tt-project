@@ -1,3 +1,5 @@
+(see: Content/Combat)
+
 ## Bandit Swordsman
 **Level:** 1
 **Health:** 70

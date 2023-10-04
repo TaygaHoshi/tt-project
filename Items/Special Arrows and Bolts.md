@@ -1,3 +1,7 @@
+(see: Content/Items, Crafting and Inventory Management)
+(see: Lists/List of Combat Techniques/Use Special Arrow)
+(see: Lists/List of Combat Techniques/Use Special Bolt)
+
 # Firework
 **Variants**: Arrow and bolt.
 **Effect:**

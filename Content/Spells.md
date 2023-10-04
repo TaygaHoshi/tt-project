@@ -3,10 +3,10 @@ Normally, magic and magical power is found all around the world of TT Project. S
 
 Spells are, simply put, known shapes and forms of magic. Spells need to be trained like a soldier trains with a weapon, and casting one requires a similar amount of muscle memory to martial arts. Similar to stamina, a magician has a definite amount of mana in their body. Mana is gained passively from the environment while sleeping or resting.
 
-Spells are split into three branches:
-1. [[List of Witchcraft Spells]]
-2. [[List of Divine Spells]]
-3. [[List of Social Spells]]
+Spells are split into three branches. Each of these can be found in their respective list:
+1. Witchcraft Spells
+2. Divine Spells
+3. Social Spells
 
 # Mana Scaling
 ```mana_scaling_table

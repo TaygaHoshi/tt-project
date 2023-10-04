@@ -1,4 +1,4 @@
-(see: [[Weapons]])
+(see: Content/Weapons)
 
 # Two-handed
 Two-handed weapons have three weapon attacks. All weapon attacks tagged (Prepared) are prepared actions.

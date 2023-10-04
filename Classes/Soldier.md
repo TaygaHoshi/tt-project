@@ -2,15 +2,15 @@
 Soldiers can be honorable warriors, bounty hunters, master swordsmen and more. They can take any size, shape or form; some of them are lone wolves who rely only on brute force, some know a difficult task requires strong allies and some can even use magic. However, they have one common trait: they are very skilled when it comes to down to combat.
 
 **Base features**
-	Main resistance: Parry, Evasion or Constitution
-	Main skill aptitude: Strength or Endurance
-	Health: 80
-	Mana: 0
-	Stamina: 6 (High)
-	Starter equipment:
-		A regular weapon set.
-		Any armor of choice.
-		#TODO 
+* Main resistance: Parry, Evasion or Constitution
+* Main skill aptitude: Strength or Endurance
+* Health: 80
+* Mana: 0
+* Stamina: 6 (High)
+* Starter equipment:
+	* A regular weapon set.
+	* Any armor of choice.
+	* #TODO 
 
 ```soldier_class_features
 level | features

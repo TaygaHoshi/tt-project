@@ -1,4 +1,4 @@
-(see: [[Combat Techniques]])
+(see: Content/Combat Techniques)
 
 # Simple Combat Techniques
 ## Tackle

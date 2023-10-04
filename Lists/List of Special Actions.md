@@ -1,3 +1,5 @@
+(see: Content/Combat)
+
 # Swap Weapons
 **Activation time:** Rapid Action
 **Explanation:**

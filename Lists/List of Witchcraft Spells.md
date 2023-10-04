@@ -1,4 +1,4 @@
-(see: [[Spells]])
+(see: Content/Spells)
 
 # Novice Spells
 ## Painful Mark
