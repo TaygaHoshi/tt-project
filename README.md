@@ -3,7 +3,7 @@
 
 Tayga's Tabletop Project (placeholder name) is a work-in-progress tabletop role playing game being created by me, [TaygaHoshi](https://github.com/TaygaHoshi). The game is currently in alpha stage.
 
-Start reading at [INTRODUCTION.md](https://github.com/TaygaHoshi/tt-project/blob/main/INTRODUCTION.md?plain=1) for theme, goals and more. Since Github's markdown syntax is different from what I use, I recommend using the "code" view instead of the "preview" view to read the files.
+You can start reading the rules from [this website](https://taygahoshi.github.io/tt-project/games/tt-project/introduction.html).
 
 You can send me feedback from this form: https://forms.gle/7NwTYqGUWpBfBWNg8
 
@@ -15,7 +15,7 @@ Currently, the game is in alpha state. This means it is not ready for running ca
 If you want to play the game anyway, I recommend sticking to one version and only updating if the newer version doesn't break the balance of the campaign.
 
 # Contributing
-Feel free to submit a pull request, but you must read [INTRODUCTION.md](https://github.com/TaygaHoshi/tt-project/blob/main/INTRODUCTION.md?plain=1) and [VERSIONING.md](https://github.com/TaygaHoshi/tt-project/blob/main/VERSIONING.md?plain=1). You can contribute to most of the places labeled with "#TODO".
+Feel free to submit a pull request, but you must read [the introduction](https://taygahoshi.github.io/tt-project/games/tt-project/introduction.html) and [VERSIONING.md](https://github.com/TaygaHoshi/tt-project/blob/main/VERSIONING.md?plain=1). You can contribute to most of the places labeled with "#TODO".
 
 I use [Obsidian](https://obsidian.md/) to edit of these notes. To contribute, you can simply fork this repo, then clone your fork into Obsidian or any equivalent software:
 ```bash
