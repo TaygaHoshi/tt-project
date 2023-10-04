@@ -3,6 +3,10 @@ Tayga's Tabletop Project (placeholder name) is a work-in-progress fantasy tablet
 
 It is played with a game master (GM) and one or more players. The GM builds and runs the campaign, enforces the rules of the game, applies or creates resolution mechanics as necessary, and controls the non-player characters (NPCs). Players, on the other hand, are responsible from their characters, which are called player characters (PCs). Each player is assumed to bring only one PC. With the use of their PCs, players can explore places, fight foes, deceive or help NPCs, take on quests, collect items and more.
 
+This project resides in this GitHub repository: <https://github.com/TaygaHoshi/tt-project>
+
+You can send me feedback through this form: <https://forms.gle/7NwTYqGUWpBfBWNg8>
+
 # Features
 **A base rule set to build and play different types of campaigns**
 While no OSR, rules in this game are trimmed before they are added. This makes TT Project a good base to build campaigns upon.
@@ -24,6 +28,11 @@ Exploration, inventory management, economy, travelling, interactions with NPCs a
 # Theme
 TT Project is an alternate history fantasy game. This means we are not bound strictly by Turkic mythology and lifestyle from early middle age and before. Things can be added, changed and removed. I highly recommend reading the resources in the section below.
 
+# Playing the game
+Currently, the game is in alpha state. This means it is not ready for running campaigns yet. When the first full version is released, [it will be in the releases page of this repository](https://github.com/TaygaHoshi/tt-project/releases). 
+
+If you want to play the game anyway, I recommend sticking to one version and only updating if the newer version doesn't break the balance of the campaign.
+
 # Resources
 There are not many resources on this topic. If you know helpful articles, images, videos or anything please let me know or send a PR.
 
@@ -33,11 +42,10 @@ There are not many resources on this topic. If you know helpful articles, images
 <https://paratic.com/turk-mitolojisi/> (Turkish)
 
 # Contact Me
-You can contact me through Github or Discord. My Discord username is taygahoshi. Additionally, you can fill this form to send feedback directly to me: <https://forms.gle/7NwTYqGUWpBfBWNg8>
-
-Do not contact anyone else in the "Credits & Contributors" section.
+You can contact me through Github or Discord. My Discord username is taygahoshi. 
 
 # Credits & Contributors
+Do not contact anyone other than me in the "Credits & Contributors" section.
 ```
 Project owner   : TaygaHoshi
 Special thanks  : oddspelunker
