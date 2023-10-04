@@ -3,13 +3,6 @@ Tayga's Tabletop Project (placeholder name) is a work-in-progress fantasy tablet
 
 It is played with a game master (GM) and one or more players. The GM builds and runs the campaign, enforces the rules of the game, applies or creates resolution mechanics as necessary, and controls the non-player characters (NPCs). Players, on the other hand, are responsible from their characters, which are called player characters (PCs). Each player is assumed to bring only one PC. With the use of their PCs, players can explore places, fight foes, deceive or help NPCs, take on quests, collect items and more.
 
-# Reading Order
-Unfortunately, putting things in a proper reading order like a book is difficult. Until then, I recommend following this order:
-1. [[README]]
-2. [[INTRODUCTION]]
-3. [[Player Characters]]
-4. [[Combat]]
-
 # Features
 **A base rule set to build and play different types of campaigns**
 While no OSR, rules in this game are trimmed before they are added. This makes TT Project a good base to build campaigns upon.
