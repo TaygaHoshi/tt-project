@@ -8,9 +8,9 @@ Soldiers can be honorable warriors, bounty hunters, master swordsmen and more. T
 * Mana: 0
 * Stamina: 6 (High)
 * Starter equipment:
-	* A regular weapon set.
-	* Any armor of choice.
-	* #TODO 
+    * A regular weapon set.
+    * Any armor of choice.
+    * #TODO 
 
 ```soldier_class_features
 level | features
@@ -49,7 +49,7 @@ level | simple techniques | advanced techniques
 **Style Specialization 1**
 	Choose one style to start specializing in. You gain all of the listed benefits of that style.
 	1. Strength specialization:
-		Combat techniques you perform are considered to have +1 POW and gain a +1 bonus to their precision rolls.  
+	    Combat techniques you perform are considered to have +1 POW and gain a +1 bonus to their precision rolls.  
 	2. Endurance specialization:
 		Your maximum health is increased by 2 per VIT you currently have. 
 		Whenever you spend an aptitude point in VIT, your maximum health is increased by 2.

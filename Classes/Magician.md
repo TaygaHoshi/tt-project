@@ -8,9 +8,9 @@
 * Mana: 8 (High)
 * Stamina: 0
 * Starter equipment:
-	* A regular weapon set.
-	* Any armor of choice.
-	* #TODO 
+    * A regular weapon set.
+    * Any armor of choice.
+    * #TODO 
 
 ```magician_class_features
 level | features
