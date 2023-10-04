@@ -9,11 +9,6 @@ You can send me feedback from this form: https://forms.gle/7NwTYqGUWpBfBWNg8
 
 This repository is for keeping track of changes to the game rules between versions. It may or may not be up to date. Playable books will be posted in the releases page after they are made publicly available.
 
-# Playing the game
-Currently, the game is in alpha state. This means it is not ready for running campaigns yet. When the first full version is released, it will be in the releases page of this repository. 
-
-If you want to play the game anyway, I recommend sticking to one version and only updating if the newer version doesn't break the balance of the campaign.
-
 # Contributing
 Feel free to submit a pull request, but you must read [the introduction](https://taygahoshi.github.io/tt-project/games/tt-project/introduction.html) and [VERSIONING.md](https://github.com/TaygaHoshi/tt-project/blob/main/VERSIONING.md?plain=1). You can contribute to most of the places labeled with "#TODO".
 
