@@ -12,6 +12,8 @@ divine focus    |  -  |   -   |   1   |       0        |       5       |    0
 light weapon    |  -  |   -   |   -   |       0        |       0       |    0
 ```
 
+The "SPD" penalty from Blocking Shield affect Evasion, movement speed and initiative. It however does not affect the SPD aptitude itself on the character sheet.
+
 ## Blocking Shield
 + (Passive) Defensive Stance
 	+ If a foe misses an ACU precision roll against you by 2 or less, you gain a +1 bonus to Parry until the end of this round.

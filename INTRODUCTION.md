@@ -9,7 +9,7 @@ You can send me feedback through this form: <https://forms.gle/7NwTYqGUWpBfBWNg8
 
 # Features
 **A base rule set to build and play different types of campaigns**
-While no OSR, rules in this game are trimmed before they are added. This makes TT Project a good base to build campaigns upon.
+Rules in this game are trimmed before they are added. This makes TT Project a good base to build campaigns upon.
 
 **Uniquely themed items, skills, magic, NPCs and monsters.**
 TT Project has owl vampires, charming snake monsters able to transform into a human form, Central Asian spells and rituals, interesting abilities and more.
@@ -23,7 +23,7 @@ Classes have both shared and unique abilities. Weapons have active and passive a
 Furthermore, there are not many calculations to slow turns down during combat. Most numbers like damage of a weapon can be calculated beforehand. With proper notes, turns can get very fast.
 
 **Soft mechanics and rules for role playing**
-Exploration, inventory management, economy, travelling, interactions with NPCs and similar activities mostly have only general rules and suggestions. While no OSR, imagination in these situations can open up a good amount of possibilities.
+TT Project is a simplified take on modern TTRPGs. Exploration, inventory management, economy, travelling, interactions with NPCs and similar activities mostly have only general rules and suggestions. Imagination in these situations can open up a good amount of possibilities.
 
 # Theme
 TT Project is an alternate history fantasy game. This means we are not bound strictly by Turkic mythology and lifestyle from early middle age and before. Things can be added, changed and removed. I highly recommend reading the resources in the section below.
