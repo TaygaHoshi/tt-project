@@ -32,7 +32,7 @@ List of aptitudes is given below:
 	Precision: Praying (PRA)
 
 # Resistances
-Resistances lowers the accuracy of incoming hits. They act as the success thresholds of precision rolls. Resistances are determined by stats, equipment, class and other various things.
+Resistances lower the accuracy of incoming hits. They act as the success thresholds of precision rolls. Resistances are determined by stats, equipment, class and other various things.
 
 Resistances are calculated with the following formula:
 	5 + (total level + 1)/2 + (potency of relevant aptitude)/4 + other bonuses
