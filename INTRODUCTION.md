@@ -27,13 +27,13 @@ TT Project is an alternate history fantasy game. This means we are not bound str
 # Resources
 There are not many resources on this topic. If you know helpful articles, images, videos or anything please let me know or send a PR.
 
-https://en.wikipedia.org/wiki/Turkic_mythology (English)
-https://en.wikipedia.org/wiki/List_of_Turkic_mythological_figures (English)
-https://dergipark.org.tr/en/download/article-file/810705#page=2&zoom=120,-282,808 (English & Turkish)
-https://paratic.com/turk-mitolojisi/ (Turkish)
+<https://en.wikipedia.org/wiki/Turkic_mythology> (English)
+<https://en.wikipedia.org/wiki/List_of_Turkic_mythological_figures> (English)
+<https://dergipark.org.tr/en/download/article-file/810705#page=2&zoom=120,-282,808> (English & Turkish)
+<https://paratic.com/turk-mitolojisi/> (Turkish)
 
 # Contact Me
-You can contact me through Github or Discord. My Discord username is taygahoshi. Additionally, you can fill this form to send feedback directly to me: https://forms.gle/7NwTYqGUWpBfBWNg8
+You can contact me through Github or Discord. My Discord username is taygahoshi. Additionally, you can fill this form to send feedback directly to me: <https://forms.gle/7NwTYqGUWpBfBWNg8>
 
 Do not contact anyone else in the "Credits & Contributors" section.
 
