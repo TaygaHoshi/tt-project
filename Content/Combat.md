@@ -22,7 +22,7 @@
 A battle map is a grid of squares overlaid on top of a map, a sketch or a similar image depicting a location that the combat takes place in. Each square in a battle map is considered to be a 1 square meter area. Creatures can be represented with tokens or similar objects on this battle map.
 
 # Rules of Combat
-Combat has rules for resolving various situations that players and the GM might come across. These can be found in the [[List of Combat Rules and Mechanics]].
+Combat has rules for resolving various situations that players and the GM might come across. These can be found in the List of Combat Rules and Mechanics.
 
 # Turn Order
 At the start phase of every round, turn order will be calculated for this round. There are several rules:
@@ -36,6 +36,7 @@ At the start phase of every round, turn order will be calculated for this round.
 
 # Action Types and Timing
 Each turn takes approximately 5 seconds in game.
+
 ## Action
 These are regular actions. Mostly, only one action can be taken during a turn.
 
@@ -68,7 +69,7 @@ In some cases, a specific spell, an ability or an attack might include a precisi
 
 ## Critical Hits
 An attack or a damaging spell can incur a critical hit. For them to be considered a critical hit, the d10 in the precision roll must be a 10. 
-Effects of critical hits are discussed in the [[Combat#Damage|Damage]] section.
+Effects of critical hits are discussed in the Damage section.
 
 # Damage
 When a creature takes damage, this damage value reduces their health.
@@ -81,7 +82,7 @@ Terms in this formula are explained below:
 	**Action damage:** Action damage is the damage of an attack or a damaging spell. This value is given for each weapon and spell in the description of it. 
 	**Potency of relevant aptitude:** Equal to the potency stat of the weapon's or the spell's aptitude. For example, a saber uses POW. A divine spell uses WRA.
 	**Other bonuses:**  These are bonuses or penalties which come from various sources like status effects, environment and the like.
-	**Target's armor:** Armor is explained in the [[Combat#Armor|Armor]] section. 
+	**Target's armor:** Armor is explained in the Armor section. 
 
 In some cases, a specific spell or attack might include a potency bonus or penalty itself. As an example, let's take the spell [[List of Witchcraft Spells#Elemental Infusion|Elemental Infusion]]. This spell includes the phrase "potency bonus to damage is halved for this spell". This simply means "potency of relevant aptitude" is divided by two in the formula:
 	Action damage + (potency of relevant aptitude)/2 + other bonuses - target's armor

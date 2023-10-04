@@ -11,8 +11,7 @@ While no OSR, rules in this game are trimmed before they are added. This makes T
 TT Project has owl vampires, charming snake monsters able to transform into a human form, Central Asian spells and rituals, interesting abilities and more.
 
 **Character creation full of meaningful choice.**
-See [[Player Characters]].
-Additionally, see [[Classes]], [[Weapons]], [[Spells]], [[Combat Techniques]] and other content.
+See Content/Player Characters.
 
 **Fun and engaging turn-based combat.**
 Classes have both shared and unique abilities. Weapons have active and passive abilities, spells are varied and carry an impact while not being overpowered, armors are strong. Additionally there is no arbitrarily locking players out of features. A magician can wear any type of armor and wield all weapons without penalties to their spell casting.
