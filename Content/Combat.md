@@ -51,7 +51,7 @@ Prepared actions last until end of this round, unless explicitly told otherwise.
 A prepared action is mutually exclusive with a rapid action. Only one of them can be taken during a turn.
 
 ## Special Actions
-These actions can be taken by any player character as long as they fulfill the requirements. See [[List of Special Actions]].
+These actions can be taken by any player character as long as they fulfill the requirements. See List of Special Actions.
 
 # Precision Rolls
 A precision roll is done against a resistance, such as Parry or Evasion. If the result of this roll exceeds or is equal to the resistance it is rolled against, the roll succeeds and the spell or attack connects. 
@@ -84,7 +84,7 @@ Terms in this formula are explained below:
 	**Other bonuses:**  These are bonuses or penalties which come from various sources like status effects, environment and the like.
 	**Target's armor:** Armor is explained in the Armor section. 
 
-In some cases, a specific spell or attack might include a potency bonus or penalty itself. As an example, let's take the spell [[List of Witchcraft Spells#Elemental Infusion|Elemental Infusion]]. This spell includes the phrase "potency bonus to damage is halved for this spell". This simply means "potency of relevant aptitude" is divided by two in the formula:
+In some cases, a specific spell or attack might include a potency bonus or penalty itself. As an example, let's take the Witchcraft spell Elemental Infusion. This spell includes the phrase "potency bonus to damage is halved for this spell". This simply means "potency of relevant aptitude" is divided by two in the formula:
 	Action damage + (potency of relevant aptitude)/2 + other bonuses - target's armor
 
 ## Critical Hits
