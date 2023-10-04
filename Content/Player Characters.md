@@ -7,6 +7,7 @@
 3. [[Scout]]
 4. [[Magician]]
 5. [[Warden]]
+6. [[Performer]]
 
 ## Choosing a Race
 #TODO
