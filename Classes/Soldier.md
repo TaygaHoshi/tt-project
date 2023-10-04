@@ -44,7 +44,7 @@ level | simple techniques | advanced techniques
 	#TODO 
 
 **Favored Weapon**
-	Choose a weapon. You have a +1 bonus to precision rolls for weapon attacks with that weapon.
+	Choose a weapon type. You have a +1 bonus to precision rolls for weapon attacks with that weapon type.
 
 **Style Specialization 1**
 	Choose one style to start specializing in. You gain all of the listed benefits of that style.
