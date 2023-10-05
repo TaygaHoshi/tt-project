@@ -1,4 +1,4 @@
-(see: Content/Weapons)
+(see: [[Weapons]])
 
 # Off-hand Weapons
 All weapon attacks tagged (Prepared) are prepared actions and they require the weapon to be wielded with the off-hand. All weapon attacks tagged (Passive) are passive abilities which work only when the weapon is actively wielded in your off-hand.

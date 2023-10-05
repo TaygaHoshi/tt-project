@@ -2,12 +2,12 @@
 
 # Character Creation
 ## Choosing a Class
-1. Soldier
-2. Shaman
-3. Scout
-4. Magician
-5. Warden
-6. Performer
+1. [[Soldier]]
+2. [[Shaman]]
+3. [[Scout]]
+4. [[Magician]]
+5. [[Warden]]
+6. [[Performer]]
 
 ## Choosing a Race
 #TODO
@@ -21,24 +21,21 @@ High   : 80 health
 ```
 
 ## Mana and Stamina
-For mana scaling, see: Content/Spells 
-For stamina scaling, see: Content/Combat Techniques 
+For mana scaling, see: [[Spells]].
+For stamina scaling, see: [[Combat Techniques]].
 
-## Movement Speed
-See: Lists/List of Combat Rules and Mechanics/Movement
+## Movement Speed and Initiative
+See: [[List of Combat Rules and Mechanics#Movement|Movement]] and [[Combat#Turn Order|Turn Order]].
 
 ## Choosing Aptitudes
-See: Content/Aptitudes
-
-A level 1 character starts with 3 aptitudes.
+See: [[Aptitudes]]
 
 ## Choosing Starter Equipment
-See: Choosing a Class above
-See: Content/Weapons
-See: Content/Armor
-See: Content/Items, Crafting and Inventory Management
+Each player character can choose a starting equipment from choices given by their class and race. Most commonly: 
++ [[Weapons]]
++ [[Armor]]
++ [[Items, Crafting and Inventory Management]]
 
-Each character starts the game with some equipment, which are detailed on the respective class pages.
 
 # Character Mechanics
 ## Resting and Sleeping

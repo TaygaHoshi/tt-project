@@ -1,5 +1,5 @@
 # Release Cycle
-TT Project will use a simple release cycle consisting of the following stages:
+Sigil of Uchma will use a simple release cycle consisting of the following stages:
 1. Alpha of next version
 2. Beta of next version
 3. Feature freeze of next version

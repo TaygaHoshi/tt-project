@@ -1,4 +1,4 @@
-(see: Content/Spells)
+(see: [[Spells]])
 
 # Novice Spells
 ## Novice Defense Infusion

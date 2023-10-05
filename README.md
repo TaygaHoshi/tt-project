@@ -1,7 +1,7 @@
-# Tayga's Tabletop Project
+# Sigil of Uchma
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
-Tayga's Tabletop Project (placeholder name) is a work-in-progress tabletop role playing game being created by me, [TaygaHoshi](https://github.com/TaygaHoshi). The game is currently in alpha stage.
+Sigil of Uchma (formerly TT Project) is a work-in-progress tabletop role playing game being created by me, [TaygaHoshi](https://github.com/TaygaHoshi). The game is currently in alpha stage.
 
 You can start reading the rules from [this website](https://taygahoshi.github.io/tt-project/games/tt-project/introduction.html).
 
@@ -32,17 +32,13 @@ Lastly, you can send a pull request to my repository through GitHub.
 Alternatively, you can fork this repo, go to your fork and press "." (dot). This opens the repo in a text editor, and you can commit to your fork directly from there. 
 
 # Formatting
-1. All links between the files in this repository *must be* formatted like this -> [[INTRODUCTION]]. 
-2. Newlines *should not* have empty lines between them in Obsidian. 
-3. Paragraphs *should* have empty lines between them in Obsidian.
-
-The only exception to the rules above is this README.md file.
+This project uses [Obsidian Flavored Markdown](https://help.obsidian.md/Editing+and+formatting/Obsidian+Flavored+Markdown) except for this README.md file. It uses Github Flavored Markdown instead.
 
 # License
 This work is licensed under a
 [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa]. See [LICENCE.md](LICENCE.md) for full text of the licence.
 
-Tayga's Tabletop Project consists of assets in the form of gameplay rules, art, music, books, e-books and more. Assets may or may not be in this repository. Unless explicitly told, all assets share this licence.
+Sigil of Uchma consists of assets in the form of gameplay rules, art, music, books, e-books and more. Assets may or may not be in this repository. Unless explicitly told, all assets share this licence.
 
 In the future, I will have a separate licence for commercial usage. 
 

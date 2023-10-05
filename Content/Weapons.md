@@ -1,12 +1,12 @@
 # Weapons
 Weapons are what creatures use to hit their foes. Most creatures with body parts similar to arms and hands can use every weapon. There are several categories of weapons. Each of these can be found in their respective list:
 
-1. One Handed Weapons
+1. One Handed weapons
 2. Off-hand weapons
 3. Two handed weapons
 
 # Weapon Sets
-Weapon sets are helpful guides used primarily in Character Creation of TT Project.
+Weapon sets are helpful guides used primarily during character creation.
 
 **Regular weapon set**
 1. Any one handed weapon and any off-hand weapon.

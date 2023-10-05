@@ -1,4 +1,4 @@
-(see: Lists/List of Combat Rules and Mechanics/Summoning) 
+(see: [[[List of Combat Rules and Mechanics#Summoning|Summoning]]) 
 
 # Fairy Minions
 ## Fairy of War

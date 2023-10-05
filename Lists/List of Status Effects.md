@@ -1,4 +1,4 @@
-(see: Content/Combat)
+(see: [[Combat]])
 
 # Debilitating Effects
 **Immobilized**

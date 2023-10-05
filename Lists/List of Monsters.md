@@ -1,4 +1,4 @@
-(see: Content/Combat)
+(see: [[Combat]])
 
 ## Bandit Swordsman
 **Level:** 1
