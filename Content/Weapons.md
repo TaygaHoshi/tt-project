@@ -1,5 +1,5 @@
 # Weapons
-Weapons are what creatures use to hit their foes. Most creatures with body parts similar to arms and hands can use every weapon. There are several types of weapons. Each of these can be found in their respective list:
+Weapons are what creatures use to hit their foes. Most creatures with body parts similar to arms and hands can use every weapon. There are several categories of weapons. Each of these can be found in their respective list:
 
 1. One Handed Weapons
 2. Off-hand weapons
