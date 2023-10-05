@@ -14,7 +14,7 @@
 
 ```magician_class_features
 level | features
- 1    | Magician Branches, Elemental Affinity
+ 1    | Magician Branches, Witchcraft Expert, Elemental Affinity
  2    | Spell Modifiers 1
  3    | Branch Feature
  4    | Attuning
@@ -45,6 +45,9 @@ level |   novice spells   |  veteran spells  | expert spells |
 
 **Elemental Affinity**
 	Choose an element. Spells you cast and abilities you use with that element are considered to have a bonus +1 ARC.
+
+**Witchcraft Expert**
+	As a Magician, you are able to cast both simple and complex witchcraft spells.
 
 **Spell Modifiers**
 	Choose two modifiers each at levels 2 and 6. 
