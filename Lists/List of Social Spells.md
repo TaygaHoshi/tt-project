@@ -50,7 +50,7 @@
 **Radius:** 5 meters
 **Duration:** (2 + EXP/4) rounds
 **Effect**
-	Make a precision roll against Evasion of all foes within radius. If you succeed against one, that foe is applied Dissonance. Foes with Dissonance are dealt 6 magical damage at the start of their turn.
+	Make a precision roll against Evasion of all foes within radius. If you succeed against one, that foe is applied Dissonance. Foes with Dissonance are dealt 6 magical damage at the start of their turn. This ability does not gain potency bonus to its damage.
 
 ## Song of Discord
 **Complexity:** Simple
