@@ -51,6 +51,19 @@
 	Summon a creature from the spirits list. Its level equals to your (ARC) up to a maximum of 3. This ally can't speak but it understands orders. 
 	You can only have one summoned or raised creature at any time. 
 
+## Sprout
+**Complexity:** Simple
+**Casting Time:** Action 
+**Cost:** 2 mana
+**Range:** 1 meter 
+**Radius:** 3 meters
+**Duration:** 5 minutes
+**Effect**
+	You grow a stationary and autonomous plant next to you, which shoots needles to your foes within radius, right after your turn. It can shoot one needle per round, dealing 5 physical damage if it hits.
+	This plant uses half of your PEN and ARC for its precision rolls and damage, respectively. It has 10 hp, and its resistances are equal to 5. 
+	A sprout created by this spell is immune to debilitating status effects.
+	A sprout does not count towards your summon limit, and you can have up to (1 + ARC/4) sprouts at any time.
+
 ## Elemental Arrow
 **Complexity:** Simple
 **Casting Time:** Action
@@ -76,19 +89,6 @@
 	Infuse a weapon you can touch with your mana, and it deals an extra 5 magical damage. Potency bonus to damage is halved for this spell. This weapon is considered a magical weapon as long as it is infused.
 	Choose an element when you cast this spell. This infusion can be consumed as an action to cast Elemental Arrow with that element for no mana cost. 
 	An item can have only one infusion at any time.
-
-## Sprout
-**Complexity:** Simple
-**Casting Time:** Action 
-**Cost:** 2 mana
-**Range:** 1 meter 
-**Radius:** 3 meters
-**Duration:** 5 minutes
-**Effect**
-	You grow a stationary and autonomous plant next to you, which shoots needles to your foes within radius, right after your turn. It can shoot one needle per round, dealing 5 physical damage if it hits.
-	This plant uses half of your PEN and ARC for its precision rolls and damage, respectively. It has 10 hp, and its resistances are equal to 5. 
-	A sprout created by this spell is immune to debilitating status effects.
-	A sprout does not count towards your summon limit, and you can have up to (1 + ARC/4) sprouts at any time.
 
 ---
 # Veteran Spells

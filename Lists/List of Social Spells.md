@@ -21,6 +21,17 @@
 	Choose an ally. Whenever that ally casts a novice damaging spell, they can cast it again as a rapid action. This ally must be able to cast this spell normally.
 	If this ally makes use of this ability, Rhythmic Casting ends.
 
+## Blazing Harmony
+**Complexity:** Simple
+**Casting Time:** Action 
+**Cost:** 2 mana
+**Range:** 1 meters
+**Duration:** 1 round
+**Effect**
+	Touch an ally other than yourself. This ally's next weapon attack, damaging spell or damaging ability gains 5 bonus damage. Potency bonus to this spell's damage is halved.
+	You can choose to spend 2 more mana to cast this spell as a rapid action.
+	This effect does not stack.
+
 ## Resonance
 **Complexity:** Simple
 **Casting Time:** Action
@@ -57,19 +68,10 @@
 **Cost:** 2 mana
 **Range:** Self
 **Radius:** (5 + EXP/2) meters
+**Duration:** 5 minutes
 **Explanation**
-	This spell increases your sensitivity to vibrations of the echoes of the sounds you create, making you able to detect current position of invisible objects and creatures within radius.
+	This spell increases your sensitivity to vibrations of the echoes of every sound, making you able to detect current position of invisible objects and creatures within radius.
 
-## Blazing Harmony
-**Complexity:** Simple
-**Casting Time:** Action 
-**Cost:** 2 mana
-**Range:** 1 meters
-**Duration:** 1 round
-**Effect**
-	Touch an ally other than yourself. This ally's next weapon attack, damaging spell or damaging ability gains 5 bonus damage. Potency bonus to this spell's damage is halved.
-	You can choose to spend 2 more mana to cast this spell as a rapid action.
-	This effect does not stack.
 
 ---
 # Veteran Spells
