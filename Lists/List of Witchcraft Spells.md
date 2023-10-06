@@ -29,6 +29,20 @@
 **Effect**
 	Remove a mark from the target. This spell can be used for no mana cost to remove one of marks you applied.
 
+## Alteration
+**Complexity:** Simple
+**Casting Time:** Action
+**Cost:** 2 mana
+**Range:** 1 meter
+**Duration:** 1 hour
+**Effect**
+	You can precisely manipulate a lifeless object smaller than 25 square centimeters. You can apply the following:
+	1. Change the shape.
+	2. Shrink down to at most half size.
+	3. Enlarge up to double size or 25 square centimeters, whichever is smaller.
+	4. Cut or open holes.
+	This object returns to its original shape after the duration. This ability can't be used on magical items.
+
 ## Unsteady Ground
 **Complexity:** Complex
 **Casting Time:** Full-turn action
@@ -104,6 +118,15 @@
 	All creatures below this cloud are soaked every round unless they have cover from rain.
 	This spell can only be used outside or interiors with sufficient space.
 
+## Terraform
+**Complexity:** Simple
+**Casting Time:** Full-turn action
+**Cost:** 4 mana
+**Radius:** 5 meters
+**Duration:** 6 hours
+**Effect**
+	You can vaguely guide the natural features of the geography around you to change shape. After half of this spell's duration has passed, the geography starts slowly returning to its original shape.
+
 ## Armor of Branches
 **Complexity:** Complex
 **Casting Time:** Rapid action
@@ -134,8 +157,6 @@
 **Effect**
 	(Projectile)
 	A powerful arc of lightning leaves your hand and strikes your target, dealing 10 damage. If the target is soaked, it is also electrified.
-
-
 
 ---
 # Expert Spells
