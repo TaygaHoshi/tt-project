@@ -125,7 +125,7 @@
 **Radius:** 5 meters
 **Duration:** 6 hours
 **Effect**
-	You can vaguely guide the natural features of the geography around you to change shape. After half of this spell's duration has passed, the geography starts slowly returning to its original shape. While casting this spell, you can choose to spend double the mana cost instead. In this case, the spell takes 1 hour of uninterrupted casting but its effects stay permanent.  
+	You can vaguely guide the natural features of the geography around you to change shape. After half of this spell's duration has passed, the geography starts slowly returning to its original shape. While casting this spell, you can choose to spend double the mana cost instead. In this case, the spell requires 1 hour of uninterrupted casting but its effects stay permanent.  
 
 ## Armor of Branches
 **Complexity:** Complex
