@@ -36,10 +36,10 @@
 **Range:** 1 meter
 **Duration:** 1 hour
 **Effect**
-	You can precisely manipulate a lifeless object smaller than 25 square centimeters. You can apply the following:
+	You can precisely manipulate a lifeless object smaller than 25 cubic centimeters. You can apply one of the following:
 	1. Change the shape.
 	2. Shrink down to at most half size.
-	3. Enlarge up to double size or 25 square centimeters, whichever is smaller.
+	3. Enlarge up to double size or 25 cubic centimeters, whichever is smaller.
 	4. Cut or open holes.
 	This object returns to its original shape after the duration. This ability can't be used on magical items.
 
@@ -125,7 +125,7 @@
 **Radius:** 5 meters
 **Duration:** 6 hours
 **Effect**
-	You can vaguely guide the natural features of the geography around you to change shape. After half of this spell's duration has passed, the geography starts slowly returning to its original shape.
+	You can vaguely guide the natural features of the geography around you to change shape. After half of this spell's duration has passed, the geography starts slowly returning to its original shape. While casting this spell, you can choose to spend double the mana cost instead. In this case, the spell takes 1 hour of uninterrupted casting but its effects stay permanent.  
 
 ## Armor of Branches
 **Complexity:** Complex
