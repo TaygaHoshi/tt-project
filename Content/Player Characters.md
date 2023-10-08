@@ -1,4 +1,4 @@
-#TODO: This page should be a proper guide instead of an index page.
+(see: [[INTRODUCTION]])
 
 # Character Creation
 ## Choosing a Class
