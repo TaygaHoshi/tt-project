@@ -6,7 +6,7 @@ Each aptitude is further divided into two stats: a potency stat and a precision 
 A total of 23 Aptitude Points (AP) can be earned. APs gained per level are given in this table:
 ```aptitude_table
 lvl | 1| 2| 3| 4| 5| 6| 7| 8| 9|10
-AP |+3|+1|+1|+2|+2|+2|+3|+3|+3|+3
+AP  |+3|+1|+1|+2|+2|+2|+3|+3|+3|+3
 ```
 
 List of aptitudes is given below:
