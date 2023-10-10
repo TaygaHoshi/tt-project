@@ -59,9 +59,9 @@ List of resistances is given below:
 	Increases with WRA.
 
 **Constitution**
-	Counters attacks that give status effects.
+	Usually counters attacks that give status effects.
 	Increases with VIT.
 
 **Evasion**
-	Counters area of effect attacks.
+	Usually counters area of effect attacks.
 	Increases with SPD.
