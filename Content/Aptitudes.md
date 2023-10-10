@@ -3,10 +3,10 @@ Aptitudes are main traits of a character which take values between 0 and 10. The
 
 Each aptitude is further divided into two stats: a potency stat and a precision stat, respectively. Two stats of an aptitude can't add up to more than the aptitude itself. 
 
-A total of 23 Aptitude Points can be earned. Aptitude Points gained per level are given in this table:
+A total of 23 Aptitude Points (AP) can be earned. APs gained per level are given in this table:
 ```aptitude_table
 lvl | 1| 2| 3| 4| 5| 6| 7| 8| 9|10
-apt |+3|+1|+1|+2|+2|+2|+3|+3|+3|+3
+AP |+3|+1|+1|+2|+2|+2|+3|+3|+3|+3
 ```
 
 List of aptitudes is given below:
