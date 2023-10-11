@@ -2,12 +2,15 @@
 
 # Character Creation
 ## Choosing a Class
+A player character can start with choosing a class:
 1. [[Soldier]]
 2. [[Shaman]]
 3. [[Scout]]
 4. [[Magician]]
 5. [[Warden]]
 6. [[Performer]]
+
+Classes are further divided into subclasses called branches. Description of branches will be added to the relevant class page. Currently, branches are #TODO.
 
 ## Choosing a Race
 #TODO
