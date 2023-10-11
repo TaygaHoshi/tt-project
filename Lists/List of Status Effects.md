@@ -33,6 +33,11 @@
 	If a creature is soaked and frostbitten, electrified or burning at the start of its turn, it is no longer soaked and that damaging effect deals double damage this turn. If this creature has multiple, soaked affects the status effect with the lowest damage. 
 	Does not stack. If target is already soaked, only the longer one applies.
 
+**Fatigued**
+	Reduces movement speed by 2 per stack.
+	Applies a -2 penalty on precision rolls and all resistances per stack.
+	Stacks up to 5. If target already has 5 fatigue stacks, an application with longer duration will override the stack with the shortest duration.
+
 ---
 # Harming Effects
 **Bleeding**
