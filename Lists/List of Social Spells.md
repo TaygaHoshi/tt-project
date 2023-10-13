@@ -13,7 +13,7 @@
 
 ## Rhythmic Casting
 **Complexity:** Complex
-**Casting Time:** Full-turn Action
+**Casting Time:** Full-turn action
 **Cost:** 2 mana
 **Range:** 5 meters
 **Duration:** (1 + EXP/4) rounds
