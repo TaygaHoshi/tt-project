@@ -83,9 +83,10 @@
 **Radius:** 5 meters
 **Duration:** 3 rounds
 **Effect**
-	Choose a magical banner. You call this banner for the duration. This banner affects all creatures within radius as long as they can see or otherwise sense this banner. Any creature adjacent to a banner created by this spell can destroy it as a full-turn action.
+	Choose a magical banner. You call this banner for the duration. This banner has 20 health and affects all creatures within radius as long as they can see or otherwise sense this banner.
 	Banner of Clarity: Reduces all covers by one level. Quarter covers become ineffective.
 	Banner of Obscurity: Increases all covers by one level. Creatures without any cover gain quarter cover. Full covers break line of sight. 
+	Banner of Alacrity: Grants a +2 SPD bonus.
 	You can only have one summoned banner at any time.
 
 
