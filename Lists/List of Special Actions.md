@@ -32,7 +32,7 @@
 **Requirements:**
 	Any bow.
 **Explanation:**
-	As a part of this action, you can use any bow attack affected by Quick Aiming. This attack does not gain the penalty from Quick Aiming.
+	As a part of this action, you can use any bow attack affected by Unsteady Aiming. This attack does not gain the penalty from Unsteady Aiming.
 
 # Charge
 **Activation time:** Full-turn action

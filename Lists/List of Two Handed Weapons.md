@@ -106,7 +106,7 @@ war drums        |     -    |     1     | 10m   |  -
 
 ## Longbow
 + Aptitude: Strength
-+ (Passive) Quick Aiming
++ (Passive) Unsteady Aiming
 	+ Unless you use Improved Aiming, your projectile attacks with bows have a -2 penalty on precision rolls. 
 	+ Does not affect prepared actions.
 + (Projectile) Shoot
@@ -124,7 +124,7 @@ war drums        |     -    |     1     | 10m   |  -
 
 ## Crossbow
 + Aptitude: Strength
-+ (Passive) Quick Aiming
++ (Passive) Unsteady Aiming
 	+ Unless you use Improved Aiming, your projectile attacks with bows have a -2 penalty on precision rolls. 
 	+ Does not affect prepared actions.
 + (Projectile) Shoot
@@ -143,7 +143,7 @@ war drums        |     -    |     1     | 10m   |  -
 
 ## Shortbow
 + Aptitude: Strength
-+ (Passive) Quick Aiming
++ (Passive) Unsteady Aiming
 	+ Unless you use Improved Aiming, your projectile attacks with bows have a -2 penalty on precision rolls. 
 	+ Does not affect prepared actions.
 + (Projectile) Shoot
