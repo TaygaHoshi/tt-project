@@ -163,18 +163,15 @@ war drums        |     -    |     1     | 10m   |  -
 
 ## War Drums
 + Aptitude: Social
-+ Allies who are unable to hear are not affected by war drums. 
++ (Passive) Playing Drums
+	+ Allies who are unable to hear are not affected by war drums. 
+	+ Being stunned, falling or going prone, diving underwater or becoming unavailable to cast spells in any way stops the bonuses granted by this weapon. 
 + (Rapid Action) Beat of Swords
 	+ Radius: 10 meters.
-	+ All other allies within range gain a 5 bonus damage until your next turn. Potency bonus to damage is halved for this ability.
-	+ This bonus doesn't affect damaging status effects such as bleeding and burning.
-	+ This bonus doesn't affect lingering area effects such as Dissonance.
-	+ Being stunned, falling or going prone, diving under water or becoming unavailable to cast spells in any way stops the bonuses granted by this weapon attack.
+	+ All other allies within range gain a (5 + EXP/3) bonus to damage until your next turn. 
+	+ This bonus doesn't affect damaging status effects such as bleeding and burning, or area effects such as Dissonance. 
 + (Rapid Action) Beat of Shields
-	+ All other allies within range gain (5 + EXP/2) temporary physical armor and temporary magical armor until your next turn.
-	+ Being stunned, falling or going prone, diving under water or becoming unavailable to cast spells in any way stops the bonuses granted by this weapon attack.
-	+ Does not stack.
+	+ All other allies within range gain (5 + EXP/3) temporary physical armor and temporary magical armor until your next turn.
 + (Rapid Action) Beat of Haste
-    + All allies within range gain (1 + EXP/2) bonus to movement speed until your next turn.
-    + Being stunned, falling or going prone, diving under water or becoming unavailable to cast spells in any way stops the bonuses granted by this weapon attack.
-    + Does not stack.
+	+ All allies within range gain (3 + EXP/3) bonus to movement speed until your next turn.
+	+ Does not stack with itself. 
