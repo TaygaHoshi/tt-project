@@ -28,10 +28,12 @@
 	This action is considered a weapon attack.
 
 # Improved Aiming
-**Activation time:** Full-turn action
+**Activation time:** Action
 **Requirements:**
 	Any bow.
+	You haven't moved this turn.
 **Explanation:**
+	Your movement speed drops to zero.
 	As a part of this action, you can use any bow attack affected by Unsteady Aiming. This attack does not gain the penalty from Unsteady Aiming.
 
 # Charge
@@ -55,11 +57,6 @@
 	You attack with both your main weapon and off-hand weapon.
 	Your off-hand weapon receives a -2 penalty to its precision roll and does half damage before armor. 
 	This action is considered a weapon attack.
-
-# Prepare
-**Activation time:** Action
-**Explanation:** 
-	You take a prepared action, and instead of until the end of this round, it lasts until your next turn.
 
 # First Aid
 **Activation time:** Action

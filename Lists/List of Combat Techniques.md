@@ -211,7 +211,7 @@
 ## Rapid Draw
 **Category:** Weapon attack
 **Execution Time:** Rapid action
-**Cost:** 2 stamina
+**Cost:** 3 stamina
 **Requirements:**
 	Any bow.
 	You hit with a bow this turn.
