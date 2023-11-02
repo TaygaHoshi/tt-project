@@ -109,7 +109,7 @@
 	1 x Special Arrow
 **Effect**
 	(Projectile)
-	You shoot a special arrow, such as an oil flask arrow or a firework arrow.
+	You shoot a [[Special Arrows and Bolts|special arrow]], such as an oil flask arrow or a firework arrow.
 
 ## Use Special Bolt
 **Category:** Weapon attack
@@ -123,7 +123,7 @@
 	1 x Special Bolt
 **Effect**
 	(Projectile)
-	You shoot a special bolt, such as a webshot bolt or a firework bolt.
+	You shoot a [[Special Arrows and Bolts|special bolt]], such as a webshot bolt or a firework bolt.
 
 # Advanced Combat Techniques
 ## Wrestling 
