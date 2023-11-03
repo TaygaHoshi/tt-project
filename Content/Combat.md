@@ -35,7 +35,7 @@ At the start phase of every round, turn order will be calculated for this round.
 	+ If there is a draw, another set of d20s must be rolled between the drawing sides.
 
 # Action Types and Timing
-Each turn takes approximately 5 seconds in game.
+Each turn takes approximately 10 seconds in game.
 
 ## Action
 These are regular actions. Mostly, only one action can be taken during a turn.

@@ -12,20 +12,22 @@ Base movement speed of a creature is calculated with the formula below:
 
 ## Walking
 * Walking is the simplest way of movement. a creature's walking speed is equal to its movement speed, normally.
-* A walking character can't take full-turn actions.
+* Creatures who have walked during their turns can't take full-turn actions.
 
 ## Running
-+ Instead of taking an action, a character might "walk" twice. This is called "running" and unless specified otherwise, it is equal to double the walking speed.
-+ A running character can't take actions, rapid actions, prepared actions or full-turn actions.
++ Instead of taking an action, a creature might "walk" twice. This is called "running" and unless specified otherwise, it is equal to double the walking speed.
++ A running creature can't take actions, rapid actions, prepared actions or full-turn actions.
 
 ## Flying
-#TODO 
++ If a creature can fly, their flight speed is equal to their walking speed. Flight speed can be used vertically or horizontally. However, ascending takes up 4 flight speed per meter ascended.
++ A flying creature can't use its walking speed unless they land.
++ If a creature is flying, they are unaffected by any effects on the ground, unless the effect is tall enough to reach it.
 
-## Climbing
-#TODO 
-
-## Jumping
-#TODO 
+## Rough Terrain
++ There are two kinds of rough terrain: light and heavy.
+	+ Walking or running through light rough terrain such as soft sand or shallow water takes up 2 walking speed per meter walked.
+	+ Walking through heavy rough terrain such as quicksand takes up 4 walking speed per meter walked.
+	+ Swimming in deep water, climbing and crawling are considered heavy rough terrain.
 
 # Death
 + When a player character falls below 0 health, they are considered "unconscious".
