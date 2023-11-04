@@ -3,9 +3,10 @@ Sigil of Uchma (formerly TT Project) is a work-in-progress fantasy tabletop role
 
 It is played with a game master (GM) and one or more players. The GM builds and runs the campaign, enforces the rules of the game, applies or creates resolution mechanics as necessary, and controls the non-player characters (NPCs). Players, on the other hand, are responsible from their characters, which are called player characters (PCs). Each player is assumed to bring only one PC. With the use of their PCs, players can explore places, fight foes, deceive or help NPCs, take on quests, collect items and more.
 
-This project resides in this GitHub repository: <https://github.com/TaygaHoshi/tt-project>
-
-You can send me feedback through this form: <https://forms.gle/7NwTYqGUWpBfBWNg8>
+# Links
++ GitHub repository: <https://github.com/TaygaHoshi/tt-project>
++ YouTube channel: <https://www.youtube.com/@SigilofUchma>
++ Feedback through this form: <https://forms.gle/7NwTYqGUWpBfBWNg8>
 
 # Features
 **A base rule set to build and play different types of campaigns**

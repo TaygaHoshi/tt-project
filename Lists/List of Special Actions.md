@@ -71,4 +71,4 @@
 **Activation time:** Action
 **Explanation:** 
 	You use a usable item from your inventory.
-	This action can be used to apply a potion on an adjacent target.
+	This action can be used to apply a potion on an adjacent target.-
