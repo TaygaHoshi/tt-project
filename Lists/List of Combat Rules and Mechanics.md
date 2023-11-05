@@ -71,11 +71,6 @@ Base movement speed of a creature is calculated with the formula below:
 + During battle, whenever a creature has two or more adjacent melee combatants, they are considered flanked.
 + Flanked creatures receive a -1 penalty to all resistances from precision rolls done by these melee combatants.
 
-# Terrain Obstacles
-+ Walking through other creatures:
-	+ A creature can move through its allies. Each square passed in this way count as two squares. 
-#TODO 
-
 # Falling Prone
 + A creature can go into prone voluntarily if they give up half of their base movement speed as a part of their movement during their turn.
 + When a creature falls or goes prone, they have to be in movement phase of their turn and use half of their base movement speed to get up.
