@@ -41,9 +41,10 @@ There are not many resources on this topic. If you know helpful articles, images
 <https://en.wikipedia.org/wiki/List_of_Turkic_mythological_figures> (English)
 <https://dergipark.org.tr/en/download/article-file/810705#page=2&zoom=120,-282,808> (English & Turkish)
 <https://paratic.com/turk-mitolojisi/> (Turkish)
+<https://www.kayipdunya.com/wp-content/uploads/kalins-pdf/singles/turk-mitolojisi-sozlugu-r-s.pdf> (Turkish)
 
 # Contact Me
-You can contact me through Github or Discord. My Discord username is taygahoshi. The aforementioned [feedback form](https://forms.gle/7NwTYqGUWpBfBWNg8) is the best way for reaching me.
+You can contact me through GitHub or Discord. My Discord username is taygahoshi. The aforementioned [feedback form](https://forms.gle/7NwTYqGUWpBfBWNg8) is the best way for reaching me.
 
 # Credits & Contributors
 Please do not contact anyone other than me in this section.
