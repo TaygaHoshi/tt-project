@@ -206,7 +206,7 @@
 	(Projectile)
 	Ignores weapon precision. 
 	Shoot an arrow in a way that it bends and curves around objects.
-	This attack ignores non-magical covers. 
+	This attack ignores non-magical covers, as long as the target is in line of sight. 
 
 ## Rapid Draw
 **Category:** Weapon attack
