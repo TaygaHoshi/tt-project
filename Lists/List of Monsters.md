@@ -24,7 +24,7 @@
 **Skills**
 + Slash
 	+ Deals 29 physical damage
-+ (Combat Technique) Shield Bash
++ (Combat technique) Shield Bash
 	+ Rapid action. 
 	+ -2 penalty on precision roll.
 	+ Deals 6 physical damage.
@@ -60,7 +60,7 @@
 	+ Range: 15 meters.
 	+ -1 penalty on precision roll against targets within 5 meters.
 	+ Deals 24 physical damage.
-+ (Combat Technique) Dazzling Shot
++ (Combat technique) Dazzling Shot
 	+ This attack's precision rolls are made against Evasion.
 	+ This bandit chooses a square within 7 meters. Every creature within 2 meters around this square is disoriented (-1) for the duration.
 	+ Can be used only once a day.
@@ -107,10 +107,10 @@
 **Skills**
 + Bite
 	+ Deals 20 physical damage.
-+ (Combat Technique) Ferocious Bite
++ (Combat technique) Ferocious Bite
 	+ This attack's precision roll is made against Constitution.
 	+ Applies bleeding (5 damage) for 4 rounds.
-+ (Combat Technique) Tackle
++ (Combat technique) Tackle
 	+ -2 penalty on precision roll.
 	+ Deals no damage.
 	+ On hit, target falls prone.
@@ -134,7 +134,7 @@
 **Skills**
 + Slash
 	+ Deals 15 physical damage.
-+ Tickling
++ (Combat technique) Tickling
 	+ This attack's precision roll is made with PER against Willpower.
 	+ This monster makes a precision roll now and at the end of its target's turns. Unless any of its rolls fail, this target is prone and can't get up.
 	+ Deals 5 physical damage per round, on the monster's turns. This attack pierces 100% of armor.
@@ -184,6 +184,7 @@
 	+ Summons two Vampire Kins in adjacent squares.
 	+ Lasts one day or until another set of Vampire Kins are summoned.
 + (Combat technique) Spread Wings
+	+ Rapid action.
 	+ Can be used once per day.
 	+ For 3 rounds, this vampire is flying.
 **Lore**
@@ -245,6 +246,7 @@
 	+ This attack's precision roll is made against Constitution.
 	+ Target a bleeding creature. You steal 10 health from it and it stops bleeding. 
 + (Combat technique) Spread Wings
+	+ Rapid action.
 	+ Can be used once per day.
 	+ For 3 rounds, this vampire is flying.
 **Lore**
@@ -303,7 +305,7 @@
 	+ This point of interest must be undisturbed.
 + Strike
 	+ Deals 30 physical damage.
-+ (Combat Technique) Crushing Charge
++ (Combat technique) Crushing Charge
 	+ Full-turn action. 
 	+ -1 penalty on precision roll.
 	+ Can charge for 15 meters and attack with Strike. If this attack hits, it also applies stunned for 1 round. 
