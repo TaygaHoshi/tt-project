@@ -12,9 +12,6 @@ A player character can start with choosing a class:
 
 Classes are further divided into subclasses called branches. Description of branches will be added to the relevant class page. Currently, branches are #TODO.
 
-## Choosing a Race
-#TODO
-
 ## Health
 Your starting class determines your health. There are three tiers of maximum health:
 ```health_table
@@ -34,7 +31,7 @@ See: [[List of Combat Rules and Mechanics#Movement|Movement]] and [[Combat#Turn 
 See: [[Aptitudes]]
 
 ## Choosing Starter Equipment
-Each player character can choose a starting equipment from choices given by their class and race. Most commonly: 
+Each player character can choose a starting equipment from choices given by their class, branch and backstory. Most commonly: 
 + [[Weapons]]
 + [[Armor]]
 + [[Items, Crafting and Inventory Management]]
