@@ -51,18 +51,14 @@ level |   novice spells   |  veteran spells  | expert spells |
 **Spell Modifiers**
 	Choose two modifiers each at levels 2 and 6. 
 	These modifiers cost 1 mana to apply to the next spell you cast, and a spell can have multiple modifiers.
-	1. Defensive casting: 
-		While you are casting this spell, you have a +2 bonus to all resistances against prepared actions such as interrupts, preemptive attacks and opportunistic attacks. 
-	2. Armor piercing: 
-		This damaging spell pierces 50% armor. This modifier can't be used on spells which can pierce armor.
-	3. Improved range: 
-		This spell's range is increased by 3 meters. This modifier does not affect radius of a spell.
-	4. Shielded casting:
-		This spell grants you either physical or magical temporary armor equal to half its mana cost. You can choose the type of temporary armor while applying this modifier.
-	5. #TODO 
-	6. #TODO 
-	7. #TODO 
-	8. #TODO 
+	1. Bracing: While you are casting this spell, you have a +2 bonus to all resistances against prepared actions such as interrupts, preemptive attacks and opportunistic attacks. 
+	2. Homing: This projectile spell curves slightly around obstacles. Cover penalties to this spell are reduced by 1.
+	3. Improved range: This spell's range is increased by 2 meters. This modifier does not affect radius of a spell.
+	4. Selective effect: This spell doesn't affect one creature you choose, aside from yourself.
+	5. Self-shielding: This spell grants you either physical or magical temporary armor equal to half its mana cost, and you can choose which one to gain.
+	6. Surprise casting: This spell has a +1 to its precision rolls against flanked foes.
+	7. Spell knockback: This single-target damaging spell pushes its target one meter away from you. 
+	8. Reduced duration: This spell's duration is halved.
 
 **Attuning**
 	As a rapid action, you can attune to the forces of nature. While attuned:
