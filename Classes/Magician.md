@@ -3,7 +3,6 @@
 
 **Base features**
 * Main resistance: Reflection, Evasion or Constitution
-* Main skill aptitude: Witchcraft
 * Health: 60
 * Mana: 8 (High)
 * Stamina: 0

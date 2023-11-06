@@ -3,7 +3,6 @@ Soldiers can be honorable warriors, bounty hunters, master swordsmen and more. T
 
 **Base features**
 * Main resistance: Parry, Evasion or Constitution
-* Main skill aptitude: Strength or Endurance
 * Health: 80
 * Mana: 0
 * Stamina: 6 (High)
