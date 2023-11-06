@@ -28,13 +28,13 @@
 	This action is considered a weapon attack.
 
 # Improved Aiming
-**Activation time:** Action
+**Activation time:** Special
 **Requirements:**
 	Any bow.
 	You haven't moved this turn.
 **Explanation:**
-	Your movement speed drops to zero.
-	As a part of this action, you can use any bow attack affected by Unsteady Aiming. This attack does not gain the penalty from Unsteady Aiming.
+	Your movement speed drops to zero for this turn.
+	As a part any bow attack affected by Unsteady Aiming, you can activate this ability. That attack does not gain the penalty from Unsteady Aiming.
 
 # Charge
 **Activation time:** Full-turn action
