@@ -23,40 +23,28 @@ List of aptitudes is given below:
 	Potency: Arcane (ARC)
 	Precision: Penetration (PEN)
 
-**Social Aptitude**
-	Potency: Expression (EXP)
-	Precision: Persuasion (PER)
-
 **Divine Aptitude**
 	Potency: Wrath (WRA)
 	Precision: Praying (PRA)
+
+**Social Aptitude**
+	Potency: Expression (EXP)
+	Precision: Persuasion (PER)
 
 # Resistances
 Resistances lower the accuracy of incoming hits. They act as the success thresholds of precision rolls. Resistances are determined by stats, equipment, class and other various things.
 
 Resistances are calculated with the following formula:
-	5 + (total level + 1)/2 + (potency of relevant aptitude)/3 + other bonuses
+	6 + (total level)/2 + (potency of relevant aptitude)/3 + other bonuses
 
-In some cases, a class or a branch might have a main resistance. In this case, that resistance is calculated separately using the following formula:
-	5 + (total level + 1)/2 + (potency of relevant aptitude)/2 + other bonuses
+Each class gets to choose a main resistance. Main resistance of a character is calculated separately using the following formula:
+	6 + (total level)/2 + (potency of relevant aptitude)/2 + other bonuses
 
 List of resistances is given below:
 
 **Parry**
 	Counters ACU rolls.
 	Increases with POW.
-
-**Reflection**
-	Counters PEN rolls.
-	Increases with ARC.
-
-**Willpower**
-	Counters PER rolls.
-	Increases with EXP.
-
-**Faith**
-	Counters PRA rolls.
-	Increases with WRA.
 
 **Constitution**
 	Usually counters attacks that give status effects.
@@ -65,3 +53,15 @@ List of resistances is given below:
 **Evasion**
 	Usually counters area of effect attacks.
 	Increases with SPD.
+
+**Reflection**
+	Counters PEN rolls.
+	Increases with ARC.
+
+**Faith**
+	Counters PRA rolls.
+	Increases with WRA.
+
+**Willpower**
+	Counters PER rolls.
+	Increases with EXP.
