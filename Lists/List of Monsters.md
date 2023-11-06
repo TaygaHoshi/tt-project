@@ -1,6 +1,8 @@
 (see: [[Combat]])
 
 ## Bandit Swordsman
+**Lore**
+	Low level bandit swordsmen and swordswomen are heavily armored, strong combatants found primarily near remote or deserted locations. They live in small or large groups and attack, pillage and loot whatever they can. 
 **Level:** 1
 **Health:** 70
 **Aptitudes:**
@@ -33,11 +35,11 @@
 	+ -2 penalty on precision roll.
 	+ Can charge for 12 meters and attack with Slash.
 	+ -2 penalty to all resistances for 1 round.
-**Lore**
-	Low level bandit swordsmen and swordswomen are heavily armored, strong combatants found primarily near remote or deserted locations. They live in small or large groups and attack, pillage and loot whatever they can. 
 
 ---
 ## Bandit Archer
+**Lore**
+	Low level bandit archers wear medium armor. They can shoot targets from long distances. They are found primarily near remote or deserted locations. They live in small or large groups and attack, pillage and loot whatever they can. 
 **Level:** 1
 **Health:** 60
 **Aptitudes:**
@@ -64,11 +66,11 @@
 	+ This attack's precision rolls are made against Evasion.
 	+ This bandit chooses a square within 7 meters. Every creature within 2 meters around this square is disoriented (-1) for the duration.
 	+ Can be used only once a day.
-**Lore**
-	Low level bandit archers wear medium armor. They can shoot targets from long distances. They are found primarily near remote or deserted locations. They live in small or large groups and attack, pillage and loot whatever they can. 
 
 ---
 ## Magicspawn
+**Lore**
+	The magicspawn are small, unconscious beings found near magically active places. They attack anything they think is a disturbance to the place they are guarding.
 **Level:** 1
 **Health:** 20
 **Aptitudes:** 
@@ -85,11 +87,11 @@
 + (Projectile) Magic Blast
 	+ Range: 10 meters.
 	+ Deals 15 magical damage.
-**Lore**
-	The magicspawn are small, unconscious beings found near magically active places. They attack anything they think is a disturbance to the place they are guarding.
 
 ---
 ## Wild Dog
+**Lore**
+	While domesticated dogs are great companions, wild dogs are not. These dogs will do everything to ensure their survival. Wild dogs are usually found in small packs.
 **Level:** 1
 **Health:** 70
 **Aptitudes:**
@@ -114,11 +116,11 @@
 	+ -2 penalty on precision roll.
 	+ Deals no damage.
 	+ On hit, target falls prone.
-**Lore**
-	While domesticated dogs are great companions, wild dogs are not. These dogs will do everything to ensure their survival. Wild dogs are usually found in small packs.
 
 ---
 ## Shurali
+**Lore**
+	Shurali are humanoid sheep with one horn. They are known for tickling people to death.
 **Level:** 2
 **Health:** 60
 **Aptitudes:**
@@ -139,11 +141,11 @@
 	+ This monster makes a precision roll now and at the end of its target's turns. Unless any of its rolls fail, this target is prone and can't get up.
 	+ Deals 5 physical damage per round, on the monster's turns. This attack pierces 100% of armor.
 	+ This monster is unable to Slash while tickling someone.
-**Lore**
-	Shurali are humanoid sheep with one horn. They are known for tickling people to death.
 
 ---
 ## Bloodstealer Vampire
+**Lore**
+	Vampires are the reason why forests at night are dangerous. Lesser vampires, especially magic users, are almost always found working or studying under a higher vampire. However, there are sightings of rogue vampires, leading bandits or beasts.
 **Level:** 3
 **Health:** 60
 **Aptitudes:** 
@@ -187,11 +189,11 @@
 	+ Rapid action.
 	+ Can be used once per day.
 	+ For 3 rounds, this vampire is flying.
-**Lore**
-	Vampires are the reason why forests at night are dangerous. Lesser vampires, especially magic users, are almost always found working or studying under a higher vampire. However, there are sightings of rogue vampires, leading bandits or beasts.
 
 ---
 ## Vampire Kin
+**Lore**
+	Low level vampire kins are flightless beasts. They are exclusively found as summons from vampires.
 **Level:** 1
 **HP:** 30
 **Aptitudes:** 
@@ -208,11 +210,11 @@
 **Skills** 
 + Slash
 	+ Deals 15 physical damage.
-**Lore**
-	Low level vampire kins are flightless beasts. They are exclusively found as summons from vampires.
 
 ---
 ## Hunter Vampire
+**Lore**
+	Vampires are the reason why forests at night are dangerous. Lesser vampires are almost always found working or studying under a higher vampire. However, there are sightings of rogue vampires, leading bandits or beasts.
 **Level:** 3
 **Health:** 70
 **Aptitudes:** 
@@ -249,11 +251,11 @@
 	+ Rapid action.
 	+ Can be used once per day.
 	+ For 3 rounds, this vampire is flying.
-**Lore**
-	Vampires are the reason why forests at night are dangerous. Lesser vampires are almost always found working or studying under a higher vampire. However, there are sightings of rogue vampires, leading bandits or beasts.
 
 ---
 ## Lesser Yooha
+**Lore**
+	Yoohas are a type of lesser dragons. They have human-like bodies with a snake head, and they are able to transform into a fully human shape. They use their form to lure travelers into their camps or even villages and ambush them.
 **Level:** 3
 **Health:** 60
 **Aptitudes:**
@@ -281,11 +283,11 @@
 	+ Range: 5 meters
 	+ This ability is only usable when the monster is in their human form.
 	+ Applies Disoriented (-2) for 2 rounds.
-**Lore**
-	Yoohas are a type of lesser dragons. They have human-like bodies with a snake head, and they are able to transform into a fully human shape. They use their form to lure travelers into their camps or even villages and ambush them.
 
 ---
 ## Mystical Deer
+**Lore**
+	A large, white deer. They are thought to be normal deer infused with the magic from a magical point of interest found naturally.
 **Level:** 6
 **Health:** 90
 **Aptitudes:** 
@@ -313,7 +315,5 @@
 + (Social spell) Gaze of the Deer
 	+ Range: 15 meters.
 	+ Target creature is disoriented (-2) and slowed (-2) for 2 rounds.
-**Lore**
-	A large, white deer. They are thought to be normal deer infused with the magic from a magical point of interest found naturally.
 
 ---
