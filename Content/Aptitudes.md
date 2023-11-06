@@ -35,7 +35,7 @@ List of aptitudes is given below:
 Resistances lower the accuracy of incoming hits. They act as the success thresholds of precision rolls. Resistances are determined by stats, equipment, class and other various things.
 
 Resistances are calculated with the following formula:
-	5 + (total level + 1)/2 + (potency of relevant aptitude)/4 + other bonuses
+	5 + (total level + 1)/2 + (potency of relevant aptitude)/3 + other bonuses
 
 In some cases, a class or a branch might have a main resistance. In this case, that resistance is calculated separately using the following formula:
 	5 + (total level + 1)/2 + (potency of relevant aptitude)/2 + other bonuses
