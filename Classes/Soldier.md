@@ -1,4 +1,4 @@
-# Soldier
+# Soldier (𐰀𐰼)
 Soldiers can be honorable warriors, bounty hunters, master swordsmen and more. They can take any size, shape or form; some of them are lone wolves who rely only on brute force, some know a difficult task requires strong allies and some can even use magic. However, they have one common trait: they are very skilled when it comes to down to combat.
 
 **Base features**

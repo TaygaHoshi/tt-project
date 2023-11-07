@@ -1,4 +1,4 @@
-# Magician
+# Magician (𐰋𐰘𐰲𐰇)
 #TODO 
 
 **Base features**
