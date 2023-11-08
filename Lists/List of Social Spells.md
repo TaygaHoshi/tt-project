@@ -13,9 +13,9 @@
 
 ## Rhythmic Casting
 **Complexity:** Complex
-**Casting Time:** Full-turn action
+**Casting Time:** Action
 **Cost:** 2 mana
-**Range:** 5 meters
+**Range:** 3 meters
 **Duration:** (1 + EXP/4) rounds
 **Effect**
 	Choose an ally. Whenever that ally casts a novice damaging spell, they can cast it again as a rapid action. This ally must be able to cast this spell normally.
@@ -23,30 +23,27 @@
 
 ## Blazing Harmony
 **Complexity:** Simple
-**Casting Time:** Action 
+**Casting Time:** Rapid action 
 **Cost:** 2 mana
-**Range:** 1 meters
+**Range:** 3 meters
 **Duration:** 1 round
 **Effect**
-	Touch an ally other than yourself. This ally's next weapon attack, damaging spell or damaging ability gains 5 bonus damage. Potency bonus to this spell's damage is halved.
-	You can choose to spend 2 more mana to cast this spell as a rapid action.
+	Target an ally other than yourself. This ally's next weapon attack, damaging spell or damaging ability gains 5 bonus damage. Potency bonus to this spell's damage is halved.
 	This effect does not stack.
 
 ## Resonance
-**Complexity:** Simple
+**Complexity:** Complex
 **Casting Time:** Action
 **Cost:** 2 mana
-**Range:** Self
 **Radius:** 5 meters
-**Duration:** (2 + EXP/4) rounds
+**Duration:** (2 + EXP/2) rounds
 **Effect**
-	All allies within radius gain Resonance. Allies with Resonance are healed for (6 + EXP) at the start of their turn. 
+	All allies within radius gain Resonance. Allies with Resonance are healed for 6 at the start of their turn. 
 
 ## Dissonance
-**Complexity:** Simple
+**Complexity:** Complex
 **Casting Time:** Action
 **Cost:** 2 mana
-**Range:** Self
 **Radius:** 5 meters
 **Duration:** (2 + EXP/4) rounds
 **Effect**
@@ -59,14 +56,12 @@
 **Range:** 5 meters
 **Duration:** (1 + EXP/4) rounds
 **Effect**
-	You play a dizzying sound for your target. This target takes 15 damage.
-	If you hit, make another precision roll against the target's Constitution. If you succeed, target is disoriented for the duration of this spell.
+	You play a dizzying sound for your target. This target takes 10 damage and is disoriented for the duration of this spell.
 
 ## Detect Vibrations
 **Complexity:** Complex
 **Casting Time:** Action
 **Cost:** 2 mana
-**Range:** Self
 **Radius:** (5 + EXP/2) meters
 **Duration:** 5 minutes
 **Explanation**
@@ -89,7 +84,15 @@
 	Banner of Alacrity: Grants a +2 SPD bonus.
 	You can only have one summoned banner at any time.
 
-
+## Fury
+**Complexity:** Simple
+**Casting Time:** Action
+**Cost:** 1 mana per round
+**Range:** 5 meters
+**Duration:** Special
+**Effect**
+	Choose an aptitude. Your magic induces fury within your target, increasing that aptitude's potency by 1. If your target gets out of range, this spell immediately ends.
+	You can end this spell freely at any time.
 
 ---
 # Expert Spells
