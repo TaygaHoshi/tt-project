@@ -28,7 +28,7 @@
 **Range:** 3 meters
 **Duration:** 1 round
 **Effect**
-	Target an ally other than yourself. This ally's next weapon attack, damaging spell or damaging ability gains 5 bonus damage. Potency bonus to this spell's damage is halved.
+	Target an ally other than yourself. This ally's next weapon attack, damaging spell or damaging ability gains (5 + EXP/2) bonus damage. 
 	This effect does not stack.
 
 ## Resonance
