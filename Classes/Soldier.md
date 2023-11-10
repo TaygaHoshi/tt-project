@@ -59,7 +59,7 @@ level | simple techniques | advanced techniques
 **Weaponmaster**
 	Choose one weapon ability. 
 	1. *Keen rejuvenation:* Your critical hits regenerate 1 stamina. 
-	2. *Precise strikes:* You can spend 2 stamina before a basic weapon attack to add your ACU as bonus damage to this attack. 
+	2. *Precise strikes:* You can spend 2 stamina before a basic weapon attack to add your ACU as bonus damage to this attack. This attack also pierces 50% armor (non-stacking).
 	3. *Dynamic vision:* If you are wielding any weapon, you have a +1 bonus to Parry against prepared actions and you cannot be flanked. 
 
 **Armor Specialization 2**
