@@ -32,8 +32,7 @@
 **Category:** Weapon attack
 **Execution Time:** Special
 **Cost:** 2 stamina
-**Range:** 1 meter
-**Duration:** (1 + POW/4) rounds
+**Duration:** 1 round
 **Requirements:**
 	Charge action
 **Effect**
@@ -84,7 +83,7 @@
 **Effect**
 	Ignores weapon precision.
 	This attack deals half damage, but potency bonus to its damage is doubled.
-	Choose a resistance. You gain a (1 + POW/4) bonus to a resistance of your choosing against attacks from this target.
+	Choose a resistance. You gain a (2 + POW/4) bonus to a resistance of your choosing against attacks from this target.
 
 ## Apply Poison
 **Category:** Weapon attack
@@ -181,13 +180,13 @@
 **Execution Time:** Special
 **Cost:** 2 stamina
 **Effect**
-	You can choose to activate this technique when you take any full-turn action. 
+	You can choose to activate this technique when you take any full-turn action other than the Charge special action.
 	You can move up to (2 + POW/4) meters before taking that action.
 
 ## Enhanced Guard
 **Category:** Weapon attack
 **Execution Time:** Prepared action 
-**Cost:** 2 stamina
+**Cost:** 3 stamina
 **Range:** 1 meter
 **Requirements:**
 	Any melee weapon.

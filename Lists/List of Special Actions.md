@@ -39,8 +39,8 @@
 # Charge
 **Activation time:** Full-turn action
 **Requirements:** 
-	An unobstructed straight path to target.
-	A melee weapon in main hand, or a two handed melee weapon.
+	An unobstructed straight path to target, out of your weapon range.
+	Any melee weapon in main hand.
 **Explanation:** 
 	Ignores weapon precision.
 	You gain a (5 + SPD/2) bonus to your movement speed, and you charge your target using your movement speed. Then, you attack once with your weapon.

@@ -29,9 +29,9 @@ unarmed         |    16    |         0        |  1m   |       -
 	+ Deals 24 damage.
 	+ Pierces 50% armor.
 + Pulverize
-	+ Deals 12 damage. Potency bonus to damage is doubled for this attack.
-	+ Pierces 50% armor.
-	+ If you hit, make another precision roll against Constitution of the target. If you succeed, this attack applies (1 + POW/4) turns of stunned.
+	+ This attack's precision roll is made against Constitution.
+	+ Ignores weapon damage.
+	+ Applies (1 + POW/4) turns of stunned on hit.
 
 ## Throwing Spear (Heavy)
 + Aptitude: Strength
