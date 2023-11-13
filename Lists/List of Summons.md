@@ -2,6 +2,8 @@
 
 # Fairy Minions
 ## Fairy of War
+**Lore**
+	#TODO  
 **Level:** Equal to summoner's potency, but levels are capped according to summoning spell
 **HP:** 35 + (5 x level)
 **Aptitudes:**
@@ -14,7 +16,7 @@
 	+5 from armor
 **Weapons:** 
 	Claws
-**Precision roll:** (d10 + 1 + ACU)
+**Precision roll:** (d10 + level)
 **Resistances:** 5 + level, +1 Parry
 **Skills**
 + (Passive) Fairy Affinity
@@ -25,10 +27,10 @@
 	+ Range: 5 meters
 	+ Deals 10 magical damage.
 	+ Applies disoriented for (level) rounds.
-**Lore**
-	#TODO  
 
 ## Fairy of Bards
+**Lore**
+	#TODO  
 **Level:** Equal to summoner's potency, but levels are capped according to summoning spell
 **HP:** 25 + (5 x level)
 **Aptitudes:**
@@ -41,7 +43,7 @@
 	+5 from armor
 **Weapons:** 
 	Claws
-**Precision roll:** (d10 + 1 + PER)
+**Precision roll:** (d10 - 1 + level)
 **Resistances:** 5 + level, +1 Willpower
 **Skills**
 + (Passive) Fairy Affinity
@@ -52,10 +54,10 @@
 	+ Range: 5 meters
 	+ Choose an ally
 	+ This ally gains a bonus equal to this summon's level to the next skill roll they do.
-**Lore**
-	#TODO  
 
 ## Fairy of Caves
+**Lore**
+	#TODO  
 **Level:** Equal to summoner's potency, but levels are capped according to summoning spell
 **HP:** 45 + (5 x level)
 **Aptitudes:**
@@ -69,7 +71,7 @@
 	+5 from armor
 **Weapons:** 
 	Claws
-**Precision roll:** (d10 + 1)
+**Precision roll:** (d10 - 1 + level)
 **Resistances:** 5 + level, +1 Constitution
 **Skills**
 + (Passive) Fairy Affinity
@@ -83,10 +85,10 @@
 	+ This fairy draws an arrow pointing at the path to nearest exit from current area.
 	+ This skill works underground and any other interior space. This skill can also detect and point towards a portal going back to regular world.
 	+ Can only be used once per summon.
-**Lore**
-	#TODO  
 
 ## Fairy of Lakes
+**Lore**
+	#TODO  
 **Level:** Equal to summoner's potency, but levels are capped according to summoning spell
 **HP:** 25 + (5 x level)
 **Aptitudes:**
@@ -99,7 +101,7 @@
 	+5 from armor
 **Weapons:** 
 	Claws
-**Precision roll:** (d10 + 1 + PEN)
+**Precision roll:** (d10 + level)
 **Resistances:** 5 + level, +1 Parry
 **Skills**
 + (Passive) Fairy Affinity
@@ -114,11 +116,11 @@
 + (Full-turn action) Find Lakes
 	+ This fairy draws an arrow pointing at the path to the location of nearest large body of water.
 	+ Can only be used once per summon.
-**Lore**
-	#TODO  
 
 # Spirits
 ## Summoned Spirit of Stone
+**Lore**
+	#TODO  
 **Level:** Equal to summoner's potency, but levels are capped according to summoning spell
 **HP:** 35 + (5 x level)
 **Aptitudes:**
@@ -129,7 +131,7 @@
 **Magic Armor:** 0
 **Weapons:** 
 	Spirit body
-**Precision roll:** (d10 + 1 + ACU)
+**Precision roll:** (d10 + level)
 **Resistances:** 5 + level, +1 Parry, +1 Constitution
 **Skills**
 + (Passive) Stone Affinity
@@ -144,10 +146,10 @@
 + (Rapid action) (Combat technique) Reinforce Armor
 	+ This summon gains 5 temporary physical armor for 3 rounds.
 	+ Can only be used once per summon.
-**Lore**
-	#TODO  
 
 ## Summoned Spirit of Lightning
+**Lore**
+	#TODO  
 **Level:** Equal to summoner's potency, but levels are capped according to summoning spell
 **HP:** 25 + (5 x level)
 **Aptitudes:**
@@ -158,7 +160,7 @@
 **Magic Armor:** 5
 **Weapons:** 
 	Spirit body
-**Precision roll:** (d10 + 1 + PEN)
+**Precision roll:** (d10 + level)
 **Resistances:** 5 + level, +1 Reflection
 **Skills**
 + (Passive) Lightning Affinity
@@ -174,10 +176,10 @@
 + (Rapid action) (Witchcraft spell) Magnetic Shield
 	+ This summon gains 5 temporary magical armor for 3 rounds.
 	+ Can only be used once per summon.
-**Lore**
-	#TODO  
 
 ## Summoned Spirit of Forest
+**Lore**
+	#TODO  
 **Level:** Equal to summoner's potency, but levels are capped according to summoning spell
 **HP:** 25 + (5 x level)
 **Aptitudes:**
@@ -189,7 +191,7 @@
 **Magic Armor:** 0
 **Weapons:** 
 	Spirit body
-**Precision roll:** (d10 + 1 + PEN)
+**Precision roll:** (d10 + level)
 **Resistances:** 5 + level, +1 Constitution
 **Skills**
 + (Passive) Plant Affinity
@@ -202,10 +204,10 @@
 	+ Range: 5 meters
 	+ This attack's precision rolls are made against Constitution.
 	+ Tens of branches emerge from this summon, binding a target. This target is immobilized for (level) turns.
-**Lore**
-	#TODO  
 
 ## Summoned Spirit of Plains
+**Lore**
+	#TODO  
 **Level:** Equal to summoner's potency, but levels are capped according to summoning spell
 **HP:** 25 + (5 x level)
 **Aptitudes:**
@@ -217,7 +219,7 @@
 **Magic Armor:** 0
 **Weapons:** 
 	Spirit body
-**Precision roll:** (d10 + 1 + PEN)
+**Precision roll:** (d10 - 1 + level)
 **Resistances:** 5 + level, +1 Parry, +1 Evasion
 **Skills**
 + (Passive) Plant Affinity
@@ -235,5 +237,3 @@
 	+ Range: 5 meters
 	+ This attack's precision roll is made against Constitution.
 	+ Applies slowed for (level) rounds.
-**Lore**
-	#TODO  
