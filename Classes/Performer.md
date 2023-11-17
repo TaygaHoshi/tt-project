@@ -39,14 +39,14 @@ level |   novice spells   |  veteran spells  | expert spells |
 10    |         6         |         4        |       2       |
 ```
 
-**Performer Branches**
-	#TODO 
+## Performer Branches
+#TODO 
 
-**Expert of Arts**
-	As a Performer, you are talented on multiple types of art. Due to this, you are able to cast simple and complex social spells.
+## Expert of Arts
+As a Performer, you are talented on multiple types of art. Due to this, you are able to cast simple and complex social spells.
 
-**Extra Spell**
-	You can learn an additional novice spell at level 8. This ability is already applied to the spell amount table.
+## Extra Spell
+You can learn an additional novice spell at level 8. This ability is already applied to the spell amount table.
 
 
 
