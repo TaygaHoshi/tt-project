@@ -14,7 +14,7 @@ sp  |+4|+2|+2|+2|+2|+2|+2|+2|+2|+2
 # Common Skills
 + Engineering
 	+ Crafting mechanisms and machinery.
-+ Smiting
++ Smithing
 	+ Creating and improving weapons and armor. Also includes fletching.
 + Scouting
 	+ Path finding, detecting traps and noticing things.
