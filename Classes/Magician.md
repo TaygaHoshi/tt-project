@@ -20,7 +20,7 @@ level | features
  5    | Branch Feature
  6    | Spell Modifiers 2
  7    | Branch Feature
- 8    | Magical Enhancement, Extra Spell
+ 8    | 
  9    | Branch Feature
 10    | Elemental Mastery
 ```
@@ -28,13 +28,13 @@ level | features
 ```magician_spell_amount
 level |   novice spells   |  veteran spells  | expert spells |
  1    |         2         |         0        |       0       |
- 2    |         3         |         0        |       0       |
- 3    |         4         |         0        |       0       |
- 4    |         4         |         1        |       0       |
- 5    |         5         |         1        |       0       |
- 6    |         5         |         2        |       0       |
+ 2    |         2         |         0        |       0       |
+ 3    |         3         |         0        |       0       |
+ 4    |         3         |         1        |       0       |
+ 5    |         4         |         1        |       0       |
+ 6    |         4         |         2        |       0       |
  7    |         5         |         2        |       1       |
- 8    |         6         |         3        |       1       |
+ 8    |         5         |         3        |       1       |
  9    |         6         |         3        |       2       |
 10    |         6         |         4        |       2       |
 ```
@@ -66,12 +66,6 @@ As a rapid action, you can attune to the forces of nature. While attuned:
 2. You can't use weapon attacks and combat techniques.
 3. You walk at half speed and can't fly, climb, swim or run.
 Attuning lasts at least until the end of next round. In the following rounds, you can stop attuning as a rapid action.
-
-## Magical Enhancement
-For 1 mana, you can enhance your body and weapon with your magic as a part of a weapon attack. This attack has a +1 bonus to its precision rolls and deals magical damage instead of physical damage, and you can choose to use your ARC instead of your POW for its potency bonus. For this attack, your weapon is considered a magical weapon. You can use this ability only once per round.
-
-## Extra Spell
-You can learn an additional novice spell at level 8. This ability is already applied to the spell amount table.
 
 ## Elemental Mastery
 Before casting an elemental spell, you can choose to activate the effects of two elements for that spell by spending double the mana cost. You can choose which element's effect activates first. You can use Elemental Mastery only once per round.
