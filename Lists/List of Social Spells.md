@@ -54,7 +54,7 @@
 **Casting Time:** Action
 **Cost:** 2 mana
 **Range:** 5 meters
-**Duration:** (1 + EXP/4) rounds
+**Duration:** (1 + EXP/3) rounds
 **Effect**
 	You play a dizzying sound for your target. This target takes 10 damage and is disoriented for the duration of this spell.
 
@@ -66,7 +66,6 @@
 **Duration:** 5 minutes
 **Explanation**
 	This spell increases your sensitivity to vibrations of the echoes of every sound, making you able to detect current position of invisible objects and creatures within radius.
-
 
 ---
 # Veteran Spells
