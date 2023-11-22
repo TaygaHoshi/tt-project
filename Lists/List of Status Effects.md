@@ -30,7 +30,8 @@
 	Does not stack. If target is already slowed, only the one with higher potency applies.
 
 **Soaked**
-	If a creature is soaked and frostbitten, electrified or burning at the start of its turn, it is no longer soaked and that damaging effect deals double damage this turn. If this creature has multiple, soaked affects the status effect with the lowest damage. 
+	If a creature is soaked and frostbitten or electrified at the start of its turn, it is no longer soaked and that damaging effect deals double damage this turn. If this creature has multiple, soaked affects the status effect with the lowest damage. 
+	If target is burning, it is cured and soaked doesn't get applied.
 	Does not stack. If target is already soaked, only the longer one applies.
 
 **Fatigued**
@@ -54,7 +55,7 @@
 **Burning**
 	Applies 10 damage per round.
 	Affected by physical armor.
-	If target is frostbitten, it is cured and burning doesn't get applied.
+	If target is frostbitten or soaked, it is cured and burning doesn't get applied.
 	Does not stack. If target is already burning, only the one with higher damage applies.
 
 **Electrified**
