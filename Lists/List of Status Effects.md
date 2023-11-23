@@ -13,20 +13,24 @@
 	Does not stack. If target is already stunned, only the longer one applies.
 
 **Disoriented**
-	(1 + potency/2) penalty on precision rolls.
+	(1 + potency/3) penalty on precision rolls.
 	Does not stack. If target is already disoriented, only the one with higher potency applies.
 
+**Weakened Defenses**
+	(1 + potency/3) penalty on Parry.
+	Does not stack. If target's defenses are already weakened, only the one with higher potency applies.
+
 **Sickened**
-	(1 + potency/2) penalty on Constitution.
+	(1 + potency/3) penalty on Constitution.
 	Does not stack. If target is already sickened, only the one with higher potency applies.
 
 **Low Morale**
-	(1 + potency/2) penalty on Willpower.
+	(1 + potency/3) penalty on Willpower.
 	Does not stack. If target already has low morale, only the one with higher potency applies.
 
 **Slowed**
 	Halves movement, swimming, climbing and flying speeds.
-	(1 + potency/2) penalty on Evasion and initiative.
+	(1 + potency/3) penalty on Evasion and initiative.
 	Does not stack. If target is already slowed, only the one with higher potency applies.
 
 **Soaked**
