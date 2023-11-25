@@ -4,9 +4,9 @@ Normally, magic and magical power is found all around the world of Sigil of Uchm
 Spells are, simply put, known shapes and forms of magic. Spells need to be trained like a soldier trains with a weapon, and casting one requires a similar amount of muscle memory to martial arts. Similar to stamina, a magician has a definite amount of mana in their body. Mana is gained passively from the environment while sleeping or resting.
 
 Spells are split into three categories. Each of these can be found in their respective list:
-1. [[List of Witchcraft Spells|Witchcraft Spells]]
-2. [[List of Divine Spells|Divine Spells]]
-3. [[List of Social Spells|Social Spells]]
+1. [[List of Spells - Witchcraft|Witchcraft Spells]]
+2. [[List of Spells - Divine|Divine Spells]]
+3. [[List of Spells - Social|Social Spells]]
 
 Spells in each category are further divided into three groups: novice, veteran and expert. These three groups guide the spell learning progress. A similar mechanism exists on [[Combat Techniques]], albeit the names of the groups are different.
 

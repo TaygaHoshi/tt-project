@@ -25,7 +25,7 @@ For mana scaling, see: [[Spells]].
 For stamina scaling, see: [[Combat Techniques]].
 
 ## Movement Speed and Initiative
-See: [[List of Combat Rules and Mechanics#Movement|Movement]] and [[Combat#Turn Order|Turn Order]].
+See: [[List of Rules - Combat#Movement|Movement]] and [[Combat#Turn Order|Turn Order]].
 
 ## Choosing Aptitudes
 See: [[Aptitudes]]

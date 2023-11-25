@@ -51,7 +51,7 @@ Prepared actions last until end of this round, unless explicitly told otherwise.
 A prepared action is mutually exclusive with a rapid action. Only one of them can be taken during a turn.
 
 ## Special Actions
-These actions can be taken by any player character as long as they fulfill the requirements. See [[List of Special Actions]].
+These actions can be taken by any player character as long as they fulfill the requirements. See [[List of Rules - Special Actions]].
 
 # Precision Rolls
 Precision rolls determine whether a weapon attack, a spell, a combat technique or any other ability succeeds against an unwilling target.
