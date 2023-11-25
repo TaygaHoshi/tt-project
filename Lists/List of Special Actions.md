@@ -9,7 +9,7 @@
 # Throw Weapon
 **Activation time:** Action
 **Requirements:** 
-	A throwing spear, a shortsword or a dagger in main hand.
+	A throwing spear, a hatchet, a shortsword or a dagger in main hand.
 **Explanation:** 
 	(Projectile)
 	Ignores weapon precision.

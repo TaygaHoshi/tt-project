@@ -8,6 +8,7 @@ weapon          |  damage  | weapon precision | range | armor piercing
 curved sword    |    28    |         1        |  1m   |       -
 reinforced club |    24    |         0        |  1m   |      50%
 throwing spear  |    24    |         0        |  1m   |       -
+hatchet         |    24    |         1        |  1m   |       -
 elemental wand  |    24    |         0        |  5m   |       -
 divine wand     |    24    |         0        |  5m   |       -
 shortsword      |    24    |         2        |  1m   |       -
@@ -43,6 +44,15 @@ unarmed         |    16    |         0        |  1m   |       -
 	+ Deals 12 damage. Potency bonus to damage is doubled for this attack. 
 	+ Hits 3 squares in front of you.
 
+## Hatchet (Heavy)
++ Aptitude: Strength
++ Hack
+	+ Deals 24 damage.
++ Sever
+	+ This attack's precision roll is made against Constitution.
+	+ Ignores weapon damage.
+	+ Applies (3 + POW/2) turns of bleeding on hit.
+
 ## Elemental Wand (Light)
 + Aptitude: Witchcraft
 + (Projectile) Ball of Elements
@@ -77,16 +87,15 @@ unarmed         |    16    |         0        |  1m   |       -
 + Aptitude: Strength
 + Slash
 	+ Deals 24 damage.
-+ Severing Strike
++ Hamstring
 	+ This attack's precision roll is made against Constitution.
-	+ Ignores weapon damage.
-	+ Applies (3 + POW/2) turns of bleeding on hit.
+	+ Deals 12 damage. Potency bonus to damage is doubled for this attack. 
+	+ Applies slowed for 1 round. 
 + (Prepared) Quick Stab
 	+ Ignores weapon precision.
 	+ Deals 12 damage. Potency bonus to damage is doubled for this attack. 
 	+ Choose a target.
 	+ Attack this target next time they move into or out of range.
-
 ## Dagger (Light)
 + Aptitude: Strength
 + Stab
