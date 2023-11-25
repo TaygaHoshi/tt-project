@@ -97,16 +97,7 @@ When the party ambushes or gets ambushed by one or more foes, the ambushed side 
 # Mounted Combat
 #TODO 
 
-# Trapping
-#TODO 
-
 # Food & Eating
-#TODO 
-
-# Resting
-#TODO 
-
-# Fatigue
 #TODO 
 
 # Player versus Player
