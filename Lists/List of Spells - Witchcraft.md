@@ -1,25 +1,24 @@
 (see: [[Spells]])
 
 # Novice Spells
-## Painful Mark
+## Heightened Pain
 **Complexity:** Simple
 **Casting Time:** Action
 **Cost:** 2 mana
 **Range:** 5 meters 
+**Duration:** 2 rounds
 **Effect**
 	Mark a creature. 
-	Whenever it is hit by a melee attack, it receives an extra 5 magical damage. Potency bonus to damage is halved for this spell.
-	At the end of marked creature's turn, make a precision roll. On failure, the mark ends. A creature can have only one mark from you at any time.
+	Whenever your target is hit by a melee attack, it receives an extra 5 magical damage. Potency bonus to damage is halved for this spell.
 
-## Severing Mark
+## Thorns
 **Complexity:** Simple
 **Casting Time:** Action
 **Cost:** 2 mana
 **Range:** 5 meters
+**Duration:** 2 rounds
 **Effect**
-	Mark a creature. 
-	This creature is bleeding as long as it is marked. 
-	At the end of marked creature's turn, make a precision roll against its Constitution. On failure, the mark ends. A creature can have only one mark from you at any time.
+	You shoot poisonous magical thorns at a creature, dealing 5 damage and applying sickened for the duration. This spell's precision roll is made against Constitution.
 
 ## End Marks
 **Complexity:** Simple

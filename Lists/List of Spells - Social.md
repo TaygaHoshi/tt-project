@@ -1,15 +1,14 @@
 (see: [[Spells]])
 
 # Novice Spells
-## Snaring Mark
+## Snare
 **Complexity:** Simple
 **Casting Time:** Action
 **Cost:** 2 mana
 **Range:** 5 meters
+**Duration:** 2 rounds
 **Effect**
-	Mark a creature. 
-	This creature is Slowed as long as they are marked.
-	At the end of marked creature's turn, make a precision roll. On failure, the mark ends. A creature can have only one mark from you at any time.
+	Your target is slowed for the duration. 
 
 ## Rhythmic Casting
 **Complexity:** Complex
