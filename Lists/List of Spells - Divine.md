@@ -42,9 +42,9 @@
 **Cost:** 4 mana
 **Range:** 1 meter
 **Radius:** 5 meters
-**Duration:** (3 + WRA/2) rounds
+**Duration:** 5 rounds
 **Effect**
-	Summon a creature from the fairies list. Its level equals to your (WRA) up to a maximum of 3. This ally can't speak but it understands orders. 
+	Summon a creature from the fairies list. Its level equals to your (WRA) up to a maximum of 3. This ally can't speak but it understands your orders. 
 	You can only have one summoned or raised creature at any time. 
 
 ## Stone Blades
