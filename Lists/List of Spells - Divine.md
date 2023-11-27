@@ -99,6 +99,14 @@
 ---
 # Veteran Spells
 
+## Link of Fate
+**Complexity:** Simple
+**Casting Time:** Rapid action
+**Cost:** 2 mana
+**Range:** 5 meters
+**Effect**
+	Link yourself with a willing creature. Whenever that creature takes damage to its health, you take half of it in their stead. Damage you receive from this spell ignores your armor.
+	You can break this link during your turns without any actions. The link breaks if that creature gets out of this spell's range.
 
 ---
 # Expert Spells
