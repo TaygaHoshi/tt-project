@@ -1,15 +1,6 @@
 (see: [[Spells]])
 
 # Novice Spells
-## Heightened Pain
-**Complexity:** Simple
-**Casting Time:** Action
-**Cost:** 2 mana
-**Range:** 5 meters 
-**Duration:** 2 rounds
-**Effect**
-	Target a creature. Whenever this creature is hit by a weapon attack, it receives an extra 5 magical damage. Potency bonus to damage is halved for this spell.
-
 ## Thorns
 **Complexity:** Simple
 **Casting Time:** Action
@@ -18,6 +9,14 @@
 **Duration:** 2 rounds
 **Effect**
 	You shoot poisonous magical thorns at a creature, dealing 5 damage and applying sickened for the duration. This spell's precision roll is made against Constitution.
+
+## End Marks
+**Complexity:** Simple
+**Casting Time:** Rapid action
+**Cost:** 4 mana
+**Range:** (1 + ARC) meters
+**Effect**
+	Remove a mark from the target. This spell can be used for no mana cost to remove one of marks you applied.
 
 ## Alteration
 **Complexity:** Simple
