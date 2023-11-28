@@ -1,15 +1,6 @@
 (see: [[Spells]])
 
 # Novice Spells
-## Heavy Notes
-**Complexity:** Simple
-**Casting Time:** Action
-**Cost:** 2 mana
-**Range:** 5 meters
-**Duration:** 2 rounds
-**Effect**
-	Your target falls prone, and is slowed for the duration of this spell.
-
 ## Rhythmic Casting
 **Complexity:** Complex
 **Casting Time:** Action
