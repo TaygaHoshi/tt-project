@@ -66,8 +66,7 @@ unarmed         |    16    |         0        |  1m   |       -
 + (Prepared) Counterspell
 	+ Range: 5 meters.
 	+ Ignores weapon damage and precision.
-	+ Choose a target. 
-	+ Next time this target attempts to cast a spell within range, make a precision roll. If you succeed, they are interrupted, and their action fails.
+	+ Try to interrupt the next foe who attempts to cast a spell within range. Make a precision roll. If you succeed, they are interrupted, and their action fails.
 
 ## Divine Wand (Light)
 + Aptitude: Divine
@@ -91,11 +90,11 @@ unarmed         |    16    |         0        |  1m   |       -
 	+ This attack's precision roll is made against Constitution.
 	+ Deals 12 damage. Potency bonus to damage is doubled for this attack. 
 	+ Applies slowed for 1 round. 
-+ (Prepared) Quick Stab
++ (Prepared) Opportunistic Stab
 	+ Ignores weapon precision.
+	+ Attack the next foe who moves into or out of melee range.
 	+ Deals 12 damage. Potency bonus to damage is doubled for this attack. 
-	+ Choose a target.
-	+ Attack this target next time they move into or out of range.
+
 ## Dagger (Light)
 + Aptitude: Strength
 + Stab
@@ -104,12 +103,9 @@ unarmed         |    16    |         0        |  1m   |       -
 + Double Slash
 	+ Deals 10 damage.
 	+ You attack the target twice.
-+ (Prepared) Preemptive Strike
++ (Prepared) Interrupting Strike
 	+ Ignores weapon damage and precision.
-	+ Deals 10 damage. Potency bonus to damage is doubled for this attack. 
-	+ Choose a target within range. 
-	+ Next time this target attempts to attack you or another ally within range, you attack this target before it attacks.
-	+ Target continues their attack normally unless it dies, falls prone or otherwise becomes unable to attack.  
+	+ Try to interrupt the next foe who attempts to perform a weapon attack within melee range. Make a precision roll. If you succeed, they are interrupted, and their action fails.
 
 ## Unarmed (Light)
 + Aptitude: Strength
@@ -122,5 +118,4 @@ unarmed         |    16    |         0        |  1m   |       -
 + (Prepared) Disorienting Blow
 	+ This attack's precision roll is made against Constitution.
 	+ Ignores weapon damage and precision.
-	+ Choose a target. 
-	+ Next time this target moves into or out of range, apply (1 + POW/4) turns of disorientation to it.
+	+ Attack the next foe who moves into or out of melee range, applying (1 + POW/4) rounds of disorientation.

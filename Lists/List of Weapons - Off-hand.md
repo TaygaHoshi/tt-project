@@ -15,31 +15,22 @@ light weapon    |  -  |   -   |   -   |       0        |       0       |    0
 The "SPD" penalty from Blocking Shield affect Evasion, movement speed and initiative. It however does not affect the SPD aptitude itself on the character sheet.
 
 ## Blocking Shield
-+ (Passive) Defensive Stance
-	+ If a foe misses an ACU precision roll against you by 2 or less, you gain a +1 bonus to Parry until the end of this round.
-	+ Non-stacking.
 + (Prepared) Projectile Defense
-	+ Choose a target. 
-	+ You have half cover against physical projectiles from that foe.
+	+ You have half cover against the first physical projectile attack against you.
++ (Prepared) Disrupting Bash
+	+ You apply disoriented for 1 round to the next foe in melee range who misses a precision roll against you.
 
 ## Buckler
-+ (Passive) Timed Parry
-	+ If a foe misses an ACU precision roll against you with 2 or less, your next melee attack against that foe deals 5 extra damage.
-	+ Non-stacking. This extra damage only applies to the last foe who triggered this passive.
 + (Prepared) Projectile Defense
-	+ Choose a target. 
-	+ You have frontal quarter cover against physical projectiles from that foe.
+	+ You have quarter cover against the first physical projectile attack against you.
++ (Prepared) #TODO 
 
 ## Arcane Focus
-+ (Passive) Focused Spells
-	+ Your witchcraft spells gain +1 to ARC.
-+ (Prepared) Arcane Barrier
-	+ Choose a target. 
-	+ You have frontal quarter cover against witchcraft projectiles from that foe.
++ (Prepared) Projectile Defense
+	+ You have quarter cover against the first magical projectile attack against you.
++ (Prepared) #TODO 
 
 ## Divine Focus
-+ (Passive) Focused Spells
-	+ Your divine spells gain +1 to WRA.
-+ (Prepared) Divine Barrier
-	+ Choose a target. 
-	+ You have frontal quarter cover against divine projectiles from that foe.
++ (Prepared) Projectile Defense
+	+ You have quarter cover against the first magical projectile attack against you.
++ (Prepared) #TODO 

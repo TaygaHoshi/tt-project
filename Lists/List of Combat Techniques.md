@@ -72,6 +72,7 @@
 	Ignores weapon damage and precision.
 	Deals 5 damage to target foe. 
 	Alternatively, you can spend an additional stamina to deal 10 damage instead.
+
 ## Defensive Strike
 **Category:** Weapon attack
 **Execution Time:** Action

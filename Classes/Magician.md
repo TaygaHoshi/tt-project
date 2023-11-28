@@ -51,7 +51,7 @@ As a Magician, you are able to cast both simple and complex witchcraft spells.
 ## Spell Modifiers
 Choose two modifiers each at levels 2 and 6. 
 These modifiers cost 1 mana to apply to the next spell you cast, and a spell can have multiple modifiers.
-1. *Bracing:* While you are casting this spell, you have a +2 bonus to all resistances against prepared actions such as interrupts, preemptive attacks and opportunistic attacks. 
+1. *Bracing:* While you are casting this spell, you have a +2 bonus to all resistances against prepared actions such as interrupts and opportunistic attacks. 
 2. *Homing:* This projectile spell curves slightly around obstacles. Cover penalties to this spell are reduced by 1.
 3. *Improved range:* This spell's range is increased by 2 meters. This modifier does not affect radius of a spell.
 4. *Selective effect:* This spell doesn't affect one creature you choose, aside from yourself.

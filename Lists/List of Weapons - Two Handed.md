@@ -29,8 +29,8 @@ war drums        |     -    |     1     | 10m   |  -
 	+ Hits all creatures in 8 squares in a cone shape in front of you.
 + (Prepared) Opportunistic Slash
 	+ Range: 2 meters.
-	+ Choose a target. 
-	+ Attack this target next time they attack or cast a spell within range.
+	+ Ignores weapon precision.
+	+ Attack the next foe who moves into or out of this weapon's range.
 	+ Deals 16 damage. Potency bonus to damage is doubled for this attack. 
 
 ## Spear
@@ -45,8 +45,7 @@ war drums        |     -    |     1     | 10m   |  -
 + (Prepared) Opportunistic Thrust
 	+ Range: 2 meters.
 	+ Ignores weapon precision.
-	+ Choose a target. 
-	+ Attack this target next time they move into or out of range.
+	+ Attack the next foe who moves into or out of this weapon's range.
 	+ Deals 14 damage. Potency bonus to damage is doubled for this attack. 
 
 ## Two-handed Sword
@@ -58,7 +57,7 @@ war drums        |     -    |     1     | 10m   |  -
 	+ Ignores weapon precision.
 	+ You slash all creatures in 3 squares in front of you twice, dealing 14 damage with each hit.
 + (Prepared) Defensive Stance
-	+ You have a (1 + POW/4) bonus to Parry against the next physical attack.
+	+ You have a (1 + POW/3) bonus to Parry against the next physical attack.
 
 ## War Hammer
 + Aptitude: Strength
@@ -72,7 +71,7 @@ war drums        |     -    |     1     | 10m   |  -
 + (Prepared) Blind Swing
 	+ This attack's precision roll is made against Evasion.
 	+ Ignores weapon precision.
-	+ Attack any creature, including allies, who moves into or out of range.
+	+ Attack the next creature, including allies, who moves into or out of range.
 
 ## Nature Staff
 + Aptitude: Witchcraft
@@ -87,9 +86,8 @@ war drums        |     -    |     1     | 10m   |  -
 + (Prepared) Staff Strike
 	+ Range: 2 meters.
 	+ Ignores weapon precision.
-	+ Choose a target. 
-	+ Attack this target next time they move into or out of range.
-	+ Deals 10 physical damage.
+	+ Attack the next foe who moves into or out of this weapon's range.
+	+ Deals 10 physical damage. Potency bonus to damage is doubled for this attack. 
 
 ## Divine Staff
 + Aptitude: Divine
@@ -98,9 +96,8 @@ war drums        |     -    |     1     | 10m   |  -
 	+ Deals 24 damage. 
 + Projectile Shielding
 	+ Range: 5 meters
-	+ Choose a 2 meters by 2 meters area. You create a magical shield there.
-	+ This ward acts like quarter cover against projectiles passing through it.
-	+ This ward lasts for one round.
+	+ Choose a 2x2 area. You create a magical shield there.
+	+ This shield acts like half cover against projectiles passing through it and lasts for 1 round.
 + (Prepared) Warding
 	+ You have a (1 + WRA/4) bonus to Faith, Willpower and Reflection against the next magical attack.
 
@@ -117,9 +114,10 @@ war drums        |     -    |     1     | 10m   |  -
 	+ Deals 12 damage. Potency bonus to damage is doubled for this attack. 
 	+ Hits all creatures in 15 squares in a cone shape in front of you.
 + (Prepared) (Projectile) Half-drawn Shot
+	+ Range: 5 meters.
 	+ Ignores weapon precision.
-	+ Choose a target. 
-	+ Shoot this target next time they move into or out of a radius of 5 meters, dealing 12 damage.
+	+ Attack the next foe who moves into, within or out of this weapon's range.
+	+ Deals 10 damage.
 
 ## Crossbow
 + Aptitude: Strength
@@ -136,9 +134,8 @@ war drums        |     -    |     1     | 10m   |  -
 	+ Deals 12 damage. Potency bonus to damage is doubled for this attack. 
 	+ Slows the target for (1 + POW/4) rounds.
 + (Prepared) Crossbow Bash
-	+ Range: 1 meter.
 	+ Ignores weapon damage and precision.
-	+ Next time an adjacent foe attempts to attack or cast a spell, it is interrupted and their action fails.
+	+ Try to interrupt the next foe who attempts to perform a weapon attack or cast a spell within melee range. Make a precision roll. If you succeed, they are interrupted, and their action fails.
 
 ## Shortbow
 + Aptitude: Strength
@@ -153,13 +150,7 @@ war drums        |     -    |     1     | 10m   |  -
 	+ This attack's precision roll is made against Constitution.
 	+ Ignores weapon damage.
 	+ Applies (3 + POW/2) turns of bleeding on hit.
-+ (Prepared) (Projectile) Preemptive Shot
-	+ Range: 10 meters.
-	+ Ignores weapon damage and precision.
-	+ Deals 10 damage. Potency bonus to damage is doubled for this attack. 
-	+ Choose a target within range. 
-	+ Next time this target attempts to attack or cast a spell within range, you attack this target before it attacks.
-	+ Target continues their attack normally unless it dies, falls prone or otherwise becomes unable to attack.  
++ (Prepared) (Projectile) #TODO 
 
 ## War Drums
 + Aptitude: Social
