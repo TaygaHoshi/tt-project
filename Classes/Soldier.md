@@ -66,7 +66,7 @@ Choose one weapon ability.
 Choose one passive effect. You gain that effect while wearing the armor weight you specialized in, further increasing your effectiveness.
 1. *Ease of movement:* You gain a +3 bonus to movement speed. 
 2. *Impenetrable defense:* You are immune to physical and magical armor piercing.
-3. *Reinforcement:* When you gain temporary armor of one type, you also gain an equal amount of the other type.
+3. *Reinforcement:* When you gain temporary armor of one type, you also gain an equal amount of the other type for the same duration.
 
 ## Weapon Expertise
 If you roll a 9 for a precision roll for a weapon attack with your weapon, you can convert this attack to a critical hit by using 2 stamina.
