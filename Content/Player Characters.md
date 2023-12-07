@@ -14,11 +14,13 @@ Classes are further divided into subclasses called branches. Description of bran
 
 ## Health
 Your starting class determines your health. There are three tiers of maximum health:
-```health_table
-Low    : 60 health
-Medium : 70 health
-High   : 80 health
-```
+
+Tier | Value
+--- | :---:
+Low    | 60 health
+Medium | 70 health
+High   | 80 health
+
 
 ## Mana and Stamina
 For mana scaling, see: [[Spells]].

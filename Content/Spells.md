@@ -12,12 +12,22 @@ Spells in each category are further divided into three groups: novice, veteran a
 
 Lastly, a spell can be a complex spell or a simple spell. This mainly affects what kind of spells a character can learn. For example, the "magical specialization" ability of a Soldier only allows them to learn a simple novice spell. However, a Magician can learn both simple and complex witchcraft spells.
 
-# Mana Scaling
-```mana_scaling_table
-level |  1|  2|  3|  4|  5|  6|  7|  8|  9| 10
-high  |  8| 10| 12| 14| 16| 18| 20| 22| 24| 24
-low   |  4|  4|  6|  6|  8|  8| 10| 10| 12| 12
-```
+## Mana Scaling
+Your starting class determines your mana scaling. There are two tiers of mana scaling:
 
-# Damaging Spells
+Level | High Tier | Low Tier
+:---: | :---: | :---:
+ 1| 8| 4
+ 2|10| 4
+ 3|12| 6
+ 4|14| 6
+ 5|16| 8
+ 6|18| 8
+ 7|20|10
+ 8|22|10
+ 9|24|12
+10|24|12
+
+
+## Damaging Spells
 For a spell to be considered a "damaging spell", it should have a base damage. Examples could be "Stone Blades", "Elemental Arrow" or "Dissonance". Some spells such as "Severing Mark" only apply a status effect, but do not have a base damage. These spells are not considered damaging spells.

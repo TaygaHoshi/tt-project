@@ -4,12 +4,11 @@
 ## Fairy of War
 **Lore:** #TODO
 **Level:** Equal to summoner's potency, up to the limit of the summoning spell.
-**Health:** 35 + (5 x level)
+**Health:** 35 + (5 x level)  
 **Aptitudes:** 
 	POW equal to level 
 	ACU equal to level
 **Initiative:** 0
-	TODO
 **Movement:** 10
 **Physical Armor:** 5
 **Magic Armor:** 5

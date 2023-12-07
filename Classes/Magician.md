@@ -1,7 +1,7 @@
 # Magician (𐰋𐰘𐰲𐰇)
 #TODO 
 
-**Base features**
+## Base Stats, Abilities & Gear
 * Main resistance: Reflection, Evasion or Constitution
 * Health: 60
 * Mana: 8 (High)
@@ -11,33 +11,36 @@
     * Any armor of choice.
     * #TODO 
 
-```magician_class_features
-level | features
- 1    | Magician Branches, Witchcraft Expert, Elemental Affinity
- 2    | Spell Modifiers 1
- 3    | Branch Feature
- 4    | Attuning
- 5    | Branch Feature
- 6    | Spell Modifiers 2
- 7    | Branch Feature
- 8    | 
- 9    | Branch Feature
-10    | Elemental Mastery
-```
 
-```magician_spell_amount
-level |   novice spells   |  veteran spells  | expert spells |
- 1    |         2         |         0        |       0       |
- 2    |         2         |         0        |       0       |
- 3    |         3         |         0        |       0       |
- 4    |         3         |         1        |       0       |
- 5    |         4         |         1        |       0       |
- 6    |         4         |         2        |       0       |
- 7    |         5         |         2        |       1       |
- 8    |         5         |         3        |       1       |
- 9    |         6         |         3        |       2       |
-10    |         6         |         4        |       2       |
-```
+## Features
+Level | Features
+:---: | ---
+1 | Magician Branches, Witchcraft Expert, Elemental Affinity
+2 | Spell Modifiers 1
+3 | Branch Feature
+4 | Attuning
+5 | Branch Feature
+6 | Spell Modifiers 2
+7 | Branch Feature
+8 | 
+9 | Branch Feature
+10| Elemental Mastery
+
+
+## Spell Count
+Level |   Novice spells   |  Veteran spells  | Expert spells
+:---: | :---: | :---: | :---:
+1 | 2| 0| 0       
+2 | 2| 0| 0       
+3 | 3| 0| 0       
+4 | 3| 1| 0       
+5 | 4| 1| 0       
+6 | 4| 2| 0       
+7 | 5| 2| 1       
+8 | 5| 3| 1       
+9 | 6| 3| 2       
+10| 6| 4| 2       
+
 
 ## Magician Branches
 #TODO 

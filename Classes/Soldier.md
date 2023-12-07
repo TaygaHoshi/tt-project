@@ -1,7 +1,7 @@
 # Soldier (𐰀𐰼)
 Soldiers can be honorable warriors, bounty hunters, master swordsmen and more. They can take any size, shape or form; some of them are lone wolves who rely only on brute force, some know a difficult task requires strong allies and some can even use magic. However, they have one common trait: they are very skilled when it comes to down to combat.
 
-**Base features**
+## Base Stats, Abilities & Gear
 * Main resistance: Parry, Evasion or Constitution
 * Health: 80
 * Mana: 0
@@ -11,33 +11,36 @@ Soldiers can be honorable warriors, bounty hunters, master swordsmen and more. T
     * Any armor of choice.
     * #TODO 
 
-```soldier_class_features
-level | features
- 1    | Soldier Branches, Favored Weapon
- 2    | Style Specialization
- 3    | Branch Feature
- 4    | Armor Specialization 1
- 5    | Branch Feature
- 6    | Weaponmaster
- 7    | Branch Feature
- 8    | Armor Specialization 2
- 9    | Branch Feature
-10    | Favored Weapon Expertise
-```
 
-```soldier_technique_amount
-level | simple techniques | advanced techniques
- 1    |         1         |         1
- 2    |         2         |         1
- 3    |         2         |         2
- 4    |         3         |         2
- 5    |         3         |         3
- 6    |         4         |         3
- 7    |         4         |         4
- 8    |         5         |         4
- 9    |         5         |         5
-10    |         5         |         5
-```
+## Features
+Level | Features
+:---: | ---
+1 | Soldier Branches, Favored Weapon
+2 | Style Specialization
+3 | Branch Feature
+4 | Armor Specialization 1
+5 | Branch Feature
+6 | Weapon Mastery
+7 | Branch Feature
+8 | Armor Specialization 2
+9 | Branch Feature
+10| Favored Weapon Expertise
+
+
+## Combat Technique Count
+Level | Simple techniques | Advanced techniques
+:---: | :---: | :---:
+1 |1|1
+2 |2|1
+3 |2|2
+4 |3|2
+5 |3|3
+6 |4|3
+7 |4|4
+8 |5|4
+9 |5|5
+10|5|5
+
 
 ## Soldier Branches
 #TODO 
@@ -56,7 +59,7 @@ Choose an armor weight category. You get the following benefits while wearing an
 1. *Robes and light armor:* When you Charge or run, you gain a +1 bonus to Parry and Evasion.
 2. *Adventurer armor and heavy armor:* When you are stunned or prone, you do not gain the resistance penalties from those conditions.
 
-## Weaponmaster
+## Weapon Mastery
 Choose one weapon ability. 
 1. *Keen rejuvenation:* Your critical hits regenerate 1 stamina. 
 2. *Precise strikes:* You can spend 2 stamina before a basic weapon attack to add your ACU as bonus damage to this attack. This attack also pierces 50% armor (non-stacking).

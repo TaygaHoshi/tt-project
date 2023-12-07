@@ -3,18 +3,19 @@
 # One Handed Weapons
 One handed weapons are divided into two: heavy weapons and light weapons. Light weapons can be wielded with off-hand. All weapon attacks tagged (Prepared) are prepared actions and they require the weapon to be wielded with the off-hand.
 
-```one_handed_weapons_table
-weapon          |  damage  | weapon precision | range | armor piercing
-curved sword    |    28    |         1        |  1m   |       -
-reinforced club |    24    |         0        |  1m   |      50%
-throwing spear  |    24    |         0        |  1m   |       -
-hatchet         |    24    |         1        |  1m   |       -
-elemental wand  |    24    |         0        |  5m   |       -
-divine wand     |    24    |         0        |  5m   |       -
-shortsword      |    24    |         2        |  1m   |       -
-dagger          |    20    |         2        |  1m   |       -
-unarmed         |    16    |         0        |  1m   |       -
-```
+
+Weapon | Damage | Weapon Precision | Range | Armor Piercing
+--- | :---: | :---: | :---: | :---:
+Curved Sword    |    28    |         1        |  1m   |       -
+Club            |    24    |         0        |  1m   |      50%
+Throwing Spear  |    24    |         0        |  1m   |       -
+Hatchet         |    24    |         1        |  1m   |       -
+Elemental Wand  |    24    |         0        |  5m   |       -
+Divine Wand     |    24    |         0        |  5m   |       -
+Shortsword      |    24    |         2        |  1m   |       -
+Dagger          |    20    |         2        |  1m   |       -
+Unarmed         |    16    |         0        |  1m   |       -
+
 
 ## Curved Sword (Heavy)
 + Aptitude: Strength
@@ -24,7 +25,7 @@ unarmed         |    16    |         0        |  1m   |       -
 	+ Deals 14 damage. Potency bonus to damage is doubled for this attack. 
 	+ You have a (1 + POW/4) bonus to precision roll of this attack.
 
-## Reinforced Club (Heavy)
+## Club (Heavy)
 + Aptitude: Strength
 + Bash
 	+ Deals 24 damage.

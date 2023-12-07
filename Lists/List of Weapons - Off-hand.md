@@ -3,18 +3,20 @@
 # Off-hand Weapons
 All weapon attacks tagged (Prepared) are prepared actions and they require the weapon to be wielded with the off-hand. All weapon attacks tagged (Passive) are passive abilities which work only when the weapon is actively wielded in your off-hand.
 
-```off_hand
-weapon          |parry|reflect| faith | Physical Armor | Magical Armor |  SPD 
-blocking shield |  1  |   -   |   -   |       5        |       0       |   -1
-buckler         |  1  |   -   |   -   |       0        |       0       |    0 
-arcane focus    |  -  |   1   |   -   |       0        |       5       |    0
-divine focus    |  -  |   -   |   1   |       0        |       5       |    0
-light weapon    |  -  |   -   |   -   |       0        |       0       |    0
-```
 
-The "SPD" penalty from Blocking Shield affect Evasion, movement speed and initiative. It however does not affect the SPD aptitude itself on the character sheet.
+Weapon | +Parry | +Reflect | +Faith | Physical Armor | Magical Armor | SPD Penalty
+--- | :---: | :---: | :---: | :---: | :---: | :---:
+Shield          |  1  |   -   |   -   |       5        |       -       |   -1
+Buckler         |  1  |   -   |   -   |       -        |       -       |    - 
+Arcane Focus    |  -  |   1   |   -   |       -        |       5       |    -
+Divine Focus    |  -  |   -   |   1   |       -        |       5       |    -
+Light Weapon    |  -  |   -   |   -   |       -        |       -       |    -
 
-## Blocking Shield
+
+> [!info]
+ The "SPD penalty" from Shield affect Evasion, movement speed and initiative. It does not affect the SPD aptitude itself on the character sheet.
+
+## Shield
 + (Prepared) Projectile Defense
 	+ You have half cover against the first physical projectile attack against you.
 + (Prepared) Disrupting Bash

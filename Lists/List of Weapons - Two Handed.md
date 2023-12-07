@@ -3,8 +3,9 @@
 # Two-handed
 Two-handed weapons have three weapon attacks. All weapon attacks tagged (Prepared) are prepared actions.
 
-```two_handed
-weapon           |  damage  | precision | range | armor piercing
+
+Weapon | Damage | Weapon Precision | Range | Armor Piercing
+--- | :---: | :---: | :---: | :---:
 glaive           |    32    |     0     |  2m   |  -
 spear            |    28    |     1     |  2m   |  -
 two-handed sword |    28    |     1     |  1m   |  -
@@ -15,7 +16,7 @@ longbow          |    24    |     0     | 15m   |  -
 crossbow         |    24    |     1     | 10m   | 50%
 shortbow         |    20    |     1     | 10m   |  -
 war drums        |     -    |     1     | 10m   |  -
-```
+
 
 ## Glaive
 + Aptitude: Strength

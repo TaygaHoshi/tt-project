@@ -5,9 +5,18 @@ There are two kinds of combat techniques: Simple and advanced. These two groups 
 
 A list of techniques can be found in the [[List of Combat Techniques]].
 
-# Stamina Scaling
-```stamina_scaling_table
-level |  1|  2|  3|  4|  5|  6|  7|  8|  9| 10
-high  |  6|  6|  9|  9| 12| 12| 15| 15| 18| 18
-low   |  3|  3|  4|  5|  6|  6|  7|  8|  9|  9
-```
+## Stamina Scaling
+Your starting class determines your stamina scaling. There are two tiers of stamina scaling:
+
+Level | High Tier | Low Tier
+:---: | :---: | :---:
+ 1| 6| 3
+ 2| 6| 3
+ 3| 9| 4
+ 4| 9| 5
+ 5|12| 6
+ 6|12| 6
+ 7|15| 7
+ 8|15| 8
+ 9|18| 9
+10|18| 9
