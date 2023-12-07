@@ -3,13 +3,13 @@
 # Swap Weapons
 **Activation time:** Rapid Action
 **Explanation:**
-	You swap your wielded weapon with a weapon in your inventory or on the ground. Only one weapon can be swapped this way every round.
-	If dual-wielding two light weapons, you can swap the weapons with each other.
+	You swap your wielded weapon with a weapon in your inventory or on the ground. Only one weapon can be swapped this way every round. This action can be used for swapping items you can hold in a similar manner. If dual-wielding two light weapons, you can swap the weapons with each other.
 
 # Throw Weapon
 **Activation time:** Action
 **Requirements:** 
 	A throwing spear, a hatchet, a shortsword or a dagger in main hand.
+	Alternatively, any throwing item in main hand.
 **Explanation:** 
 	(Projectile)
 	Ignores weapon precision.
@@ -71,4 +71,4 @@
 **Activation time:** Action
 **Explanation:** 
 	You use a usable item from your inventory.
-	This action can be used to apply a potion on an adjacent target.-
+	This action can be used to apply a potion on an adjacent target.
