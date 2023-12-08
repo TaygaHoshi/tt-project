@@ -5,14 +5,14 @@ Sigil of Uchma (formerly TT Project) is a work-in-progress tabletop role playing
 
 You can start reading the rules from [this website](https://taygahoshi.github.io/tt-project/sigil-of-uchma/introduction.html).
 
-You can send me feedback from this form: https://forms.gle/7NwTYqGUWpBfBWNg8
+You can send me feedback from this form: https://forms.gle/7NwTYqGUWpBfBWNg8.
 
 This repository is for keeping track of changes to the game rules between versions. It may or may not be up to date. Playable books will be posted in the releases page after they are made publicly available.
 
 # Contributing
-Feel free to submit a pull request, but you must read [the introduction](https://taygahoshi.github.io/tt-project/sigil-of-uchma/introduction.html) and [VERSIONING.md](https://github.com/TaygaHoshi/tt-project/blob/main/VERSIONING.md?plain=1). You can contribute to most of the places labeled with "#TODO". I use [Obsidian](https://obsidian.md/) to edit of these notes, to this project uses [Obsidian Flavored Markdown](https://help.obsidian.md/Editing+and+formatting/Obsidian+Flavored+Markdown) except for this README.md file. It uses Github Flavored Markdown instead. 
+Feel free to submit a pull request, but you must read [the introduction](https://taygahoshi.github.io/tt-project/sigil-of-uchma/introduction.html) and [VERSIONING.md](https://github.com/TaygaHoshi/tt-project/blob/main/VERSIONING.md?plain=1). You can contribute to most of the places labeled with "#TODO". I use [Obsidian](https://obsidian.md/) to edit of these notes, to this project uses [Obsidian Flavored Markdown](https://help.obsidian.md/Editing+and+formatting/Obsidian+Flavored+Markdown) except for this README.md file. It uses GitHub Flavored Markdown instead. 
 
-To contribute, you can simply fork this repo, then clone your fork into Obsidian or any equivalent software:
+To contribute, you can simply fork this repository, then clone your fork into Obsidian or any equivalent software:
 ```bash
 cd /path/to/obsidian/vault
 git clone your-fork
@@ -29,7 +29,7 @@ git push
 
 Lastly, you can send a pull request to my repository through GitHub.
 
-Alternatively, you can fork this repo, go to your fork and press "." (dot). This opens the repository in a text editor, and you can commit to your fork directly from there. 
+Alternatively, you can go to your fork repository and press "." (dot). This opens your repository in a text editor, and you can commit directly from there. 
 
 # License
 This work is licensed under a

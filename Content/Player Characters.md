@@ -1,7 +1,11 @@
-(see: [[INTRODUCTION]])
+# Player Characters
+Player characters are the other part, alongside the Game Master, of Sigil of Uchma. This page will go over the 
 
 # Character Creation
-## Choosing a Class
+## Guide to Character Creation
+The e-book can be found here: [[Sigil of Uchma v1-a5 Character Creation Guide.pdf|Link to the guide for v1-a5]].
+
+## Classes
 A player character can start with choosing a class:
 1. [[Soldier]]
 2. [[Shaman]]
@@ -12,7 +16,7 @@ A player character can start with choosing a class:
 
 Classes are further divided into subclasses called branches. Description of branches will be added to the relevant class page. Currently, branches are #TODO.
 
-## Health
+### Health
 Your starting class determines your health. There are three tiers of maximum health:
 
 Tier | Value
@@ -21,23 +25,25 @@ Low    | 60 health
 Medium | 70 health
 High   | 80 health
 
+### Spells and Combat Techniques
+These are shared abilities between classes, and usually cost either mana or stamina to activate. They are explained in more detail within their respective pages: [[Spells]] and [[Combat Techniques]].
 
-## Mana and Stamina
-For mana scaling, see: [[Spells]].
-For stamina scaling, see: [[Combat Techniques]].
+## Aptitudes
+Aptitudes are the main traits of a character. They are explained in the [[Aptitudes]] page.
 
-## Movement Speed and Initiative
-See: [[List of Rules - Combat#Movement|Movement]] and [[Combat#Turn Order|Turn Order]].
-
-## Choosing Aptitudes
-See: [[Aptitudes]]
-
-## Choosing Starter Equipment
+## Starter Equipment
 Each player character can choose a starting equipment from choices given by their class, branch and backstory. Most commonly: 
 + [[Weapons]]
 + [[Armor]]
 + [[Items, Crafting and Inventory Management]]
 
+## Walking Speed
+See: [[List of Rules - Combat#Movement|Movement]].
+
+## Initiative
+See:  [[Combat#Turn Order|Turn Order]].
+
+---
 # Character Mechanics
 ## Resting and Sleeping
 Usually, a character requires 6 to 8 hours of sleep per day. Not getting proper sleep for a night gives a character one stack of fatigue. Skipping sleep while having 5 stacks of fatigue is lethal and the character dies. While it is usually the best to sleep at night, it is not rare to see parties resting during the day. When the players decide the party should rest or sleep, they must declare this to the GM. In the case of just resting, the players should also explain what their characters will be doing while resting. In this case, the GM can determine whether or not these activities are allowed as a part of resting.
