@@ -7,6 +7,7 @@
 **Cost:** 2 stamina
 **Range:** 1 meter
 **Effect**
+	This attack's precision rolls are made with your POW against target's Parry.
 	Ignores weapon damage and precision.
 	Tackle your target, making them fall prone.
 
@@ -184,16 +185,16 @@
 	You can choose to activate this technique when you take any full-turn action other than the Charge special action.
 	You can move up to (2 + POW/4) meters before taking that action.
 
-## Enhanced Guard
-**Category:** Weapon attack
-**Execution Time:** Prepared action 
-**Cost:** 3 stamina
+## Double Opportunity
+**Category:** General
+**Execution Time:** Special
+**Cost:** 2 stamina
 **Range:** 1 meter
 **Requirements:**
 	Any melee weapon.
+	A damaging prepared weapon attack or combat technique.
 **Effect**
-	Ignores weapon range and precision.
-	Next time a foe walks into, out of or within the range, you attack them with your weapon. For each stamina you additionally spend, you can attack an extra time in this way. You can spend up to 2 additional stamina. 
+	You can choose to activate this ability when you use a prepared action. This prepared action can trigger twice instead of once. You can instead spend double the stamina cost to have your prepared action trigger thrice instead.
 
 ## Curving Arrow
 **Category:** Weapon attack
