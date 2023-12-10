@@ -11,7 +11,6 @@
     * Any armor of choice.
     * #TODO 
 
-
 ## Features
 Level | Features
 :---: | ---

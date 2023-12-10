@@ -11,7 +11,6 @@ Soldiers can be honorable warriors, bounty hunters, master swordsmen and more. T
     * Any armor of choice.
     * #TODO 
 
-
 ## Features
 Level | Features
 :---: | ---
