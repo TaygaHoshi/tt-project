@@ -22,7 +22,7 @@
 A battle map is a grid of squares overlaid on top of a map, a sketch or a similar image depicting a location that the combat takes place in. Each square in a battle map is considered to be a 1 square meter area. Creatures can be represented with tokens or similar objects on this battle map.
 
 # Rules of Combat
-Combat has rules for resolving various situations that players and the GM might come across. These can be found in the List of Combat Rules and Mechanics.
+Combat has rules for resolving various situations that players and the GM might come across. These can be found [[List of Rules - Combat]].
 
 # Turn Order
 At the start phase of every round, turn order will be calculated for this round. There are several rules:
