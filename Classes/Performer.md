@@ -48,4 +48,6 @@ Level |   Novice spells   |  Veteran spells  | Expert spells
 As a Performer, you are talented on multiple types of art. Due to this, you are able to cast simple and complex social spells.
 
 
+
+
 ---

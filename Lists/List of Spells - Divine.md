@@ -1,12 +1,12 @@
 (see: [[Spells]])
 
 # Novice Spells
-## Novice Defense Infusion
+## Guarding Infusion
 **Complexity:** Complex
 **Casting Time:** Full-turn action
 **Cost:** 4 mana
 **Range:** 1 meter
-**Duration:** 3 hours
+**Duration:** 6 hours
 **Effect**
 	Infuse a shield, a buckler or a focus you can touch with your mana. Depending on its type, it gains a (1 + WRA/4) bonus to its main resistance:
 	Shield and buckler: Bonus to Parry
@@ -14,16 +14,21 @@
 	Divine focus: Bonus to Faith
 	A weapon can have only one infusion at any time.
 
-## Heal and Protect
-**Complexity:** Complex
-**Casting Time:** Full-turn action 
-**Cost:** 4 mana
-**Range:** Self
-**Radius:** (5 + WRA/2) meters
+## Protect Ally
+**Complexity:** Simple
+**Casting Time:** Action
+**Cost:** 2 mana
+**Range:** 5 meters
 **Duration:** 2 rounds
 **Effect**
-	Heal all allies within radius for 1d6 + WRA/2 and grant them Protected for the duration.
-	A creature can only have one Protected effect at the any time.
+	Choose an ally, and apply Protected to that ally for the duration of this spell.
+
+## Mana Transfer
+**Complexity:** Complex
+**Casting Time:** 5 minutes
+**Cost:** 2 mana
+**Effect**
+	Touch two willing creatures. You can transfer up to 4 mana from one to the other.
 
 ## Create Magical Walls
 **Complexity:** Simple
@@ -96,8 +101,17 @@
 **Effect**
     Your magic finds all living creatures within radius, unless they are magically protected in some way. You see a glowing effect on these creatures. This glow can be seen through walls and it lasts for the duration of this spell.
 
+
+
 ---
 # Veteran Spells
+## Heal Area
+**Complexity:** Complex
+**Casting Time:** Action 
+**Cost:** 4 mana
+**Radius:** 3 meters
+**Effect**
+	Roll (1d10 + WRA), and heal all allies within radius for that much health. 
 
 ## Link of Fate
 **Complexity:** Simple
