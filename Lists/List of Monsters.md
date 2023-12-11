@@ -28,8 +28,6 @@
 		+ -2 penalty on precision roll.
 		+ Can charge for 12 meters and attack with Slash.
 		+ -2 penalty to all resistances for 1 round.
-	+ (Prepared action) Disrupting Bash
-		+ Applies disoriented (-1) for 1 round to the next foe in melee range who misses a precision roll against this creature.
 
 ---
 ## Bandit Archer
@@ -96,7 +94,7 @@
 		+ Deals 20 physical damage.
 	+ (Combat technique) Ferocious Bite
 		+ This attack's precision roll is made against Constitution.
-		+ Applies bleeding (5 damage) for 4 rounds.
+		+ Applies bleeding (6 damage) for 4 rounds.
 	+ (Combat technique) Tackle
 		+ -2 penalty on precision roll.
 		+ On hit, target falls prone.
@@ -145,7 +143,7 @@
 	+ (Passive) Vampiric Affinity
 		+ Receives double damage from burning.
 		+ Receives burning while in direct sunlight.
-		+ When this vampire falls below 10 health, Owl Form is automatically triggered. This can happen only once a day.
+		+ When this vampire falls below 10 health, Owl Form is automatically triggered even if it falls below 1 health. This can happen only once a day.
 	+ (Full-turn action) Owl Form
 		+ This vampire transforms into a Vampire Owl.
 	+ (Divine spell) Drain Vitality
@@ -170,7 +168,7 @@
 	+ 2 POW + 1 ACU
 	+ 1 VIT + 1 SPD
 + **Initiative:** 1
-+ **Movement:** 10 meters
++ **Movement:** 11 meters
 + **Physical Armor:** 5
 + **Magic Armor:** 0
 + **Weapons:** Claws
@@ -180,14 +178,14 @@
 	+ (Passive) Vampiric Affinity
 		+ Receives double damage from burning.
 		+ Receives burning while in direct sunlight.
-		+ When this vampire falls below 10 health, Owl Form is automatically triggered. This can happen only once a day.
+		+ When this vampire falls below 10 health, Owl Form is automatically triggered even if it falls below 1 health. This can happen only once a day.
 	+ (Full-turn action) Owl Form
 		+ This vampire transforms into a Vampire Owl.
 	+ Slash
 		+ Deals 25 physical damage.
 	+ Severing Strike
 		+ This attack's precision roll is made against Constitution.
-		+ Applies bleeding (6 damage) for 4 rounds.
+		+ Applies bleeding (7 damage) for 4 rounds.
 	+ (Combat technique) Blood Manipulation
 		+ Range: 5 meters
 		+ This attack's precision roll is made against Constitution.
@@ -261,11 +259,9 @@
 		+ Deals 20 physical damage.
 	+ (Social spell) Charming
 		+ Range: 5 meters
-		+ This ability is only usable when the monster is in their human form.
 		+ Applies Low Morale (-2) for 2 rounds.
 	+ (Social spell) Attraction
 		+ Range: 5 meters
-		+ This ability is only usable when the monster is in their human form.
 		+ Applies Disoriented (-2) for 2 rounds.
 
 ---

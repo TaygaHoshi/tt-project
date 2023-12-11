@@ -33,7 +33,7 @@ Unarmed         |    16    |         0        |  1m   |       -
 + Pulverize
 	+ This attack's precision roll is made against Constitution.
 	+ Ignores weapon damage.
-	+ Applies (1 + POW/4) turns of stunned on hit.
+	+ Applies (1 + POW/4) rounds of stunned on hit.
 
 ## Throwing Spear (Heavy)
 + Aptitude: Strength
@@ -52,7 +52,7 @@ Unarmed         |    16    |         0        |  1m   |       -
 + Sever
 	+ This attack's precision roll is made against Constitution.
 	+ Ignores weapon damage.
-	+ Applies (3 + POW/2) turns of bleeding on hit.
+	+ Applies 3 rounds of bleeding on hit.
 
 ## Elemental Wand (Light)
 + Aptitude: Witchcraft
@@ -78,7 +78,7 @@ Unarmed         |    16    |         0        |  1m   |       -
 	+ Range: 5 meters.
 	+ This attack's precision roll is made against Constitution.
 	+ Ignores weapon damage.
-	+ Immobilizes the target for (1 + WRA/4) turns.
+	+ Immobilizes the target for (1 + WRA/4) rounds.
 + (Prepared) Protecting from Magic
 	+ Range: 5 meters.
 	+ Choose an ally. Next time they are attacked, grant them (3 + WRA/2) temporary magical armor for 1 round.
@@ -115,7 +115,7 @@ Unarmed         |    16    |         0        |  1m   |       -
 + Stunning Blow 
 	+ This attack's precision roll is made against Constitution.
 	+ Ignores weapon damage and precision.
-	+ Applies 1 turns of stunned.
+	+ Applies 1 round of stunned.
 + (Prepared) Disorienting Blow
 	+ This attack's precision roll is made against Constitution.
 	+ Ignores weapon damage and precision.

@@ -46,12 +46,12 @@
 ---
 # Harming Effects
 ## Bleeding
-+ Applies 5 damage per round. Potency bonus to damage is halved for this effect.
++ Applies 5 damage per round.
 + Ignores armor.
 + Does not stack. If target is already bleeding, only the one with higher damage applies.
 
 ## Frostbitten
-+ Applies 5 damage per round. Potency bonus to damage is halved for this effect.
++ Applies 5 damage per round.
 + Ignores armor.
 + If target is burning, it is cured and frostbitten doesn't get applied.
 + Does not stack. If target is already frostbitten, only the one with higher damage applies.

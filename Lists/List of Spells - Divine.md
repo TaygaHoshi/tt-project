@@ -23,12 +23,12 @@
 **Effect**
 	Choose an ally, and apply Protected to that ally for the duration of this spell.
 
-## Mana Transfer
+## Transfer Energy
 **Complexity:** Complex
 **Casting Time:** 5 minutes
 **Cost:** 2 mana
 **Effect**
-	Touch two willing creatures. You can transfer up to 4 mana from one to the other.
+	Touch two willing creatures. You can transfer up to 4 mana or 4 stamina from one to the other.
 
 ## Create Magical Walls
 **Complexity:** Simple

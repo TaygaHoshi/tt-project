@@ -1,15 +1,6 @@
 (see: [[Spells]])
 
 # Novice Spells
-## Thorns
-**Complexity:** Simple
-**Casting Time:** Action
-**Cost:** 2 mana
-**Range:** 5 meters
-**Duration:** 2 rounds
-**Effect**
-	You shoot poisonous magical thorns at a creature, dealing 5 damage and applying sickened for the duration. This spell's precision roll is made against Constitution.
-
 ## Alteration
 **Complexity:** Simple
 **Casting Time:** Action
@@ -26,7 +17,7 @@
 
 ## Unsteady Ground
 **Complexity:** Complex
-**Casting Time:** Full-turn action
+**Casting Time:** Action
 **Cost:** 4 mana
 **Range:** 5 meters
 **Radius:** 1 meter
@@ -54,25 +45,34 @@
 **Radius:** 3 meters
 **Duration:** 5 minutes
 **Effect**
-	You grow a stationary and autonomous plant next to you, which shoots needles to your foes within radius, right after your turn. It can shoot one needle per round, dealing 5 physical damage if it hits.
+	You grow a stationary and autonomous plant next to you, which shoots needles to your foes within radius, right after your turn. It can shoot one needle per round, dealing 5 physical damage and applying bleeding for 1 round if it hits.
 	This plant uses half of your PEN and ARC for its precision rolls and damage, respectively. It has 10 hp, and its resistances are equal to 5. 
 	A sprout created by this spell is immune to debilitating status effects.
 	A sprout does not count towards your summon limit, and you can have up to (1 + ARC/4) sprouts at any time.
+
+## Lightning
+**Complexity:** Simple
+**Casting Time:** Action
+**Cost:** 2 mana
+**Range:** 5 meters
+**Duration:** 2 rounds
+**Effect**
+	(Projectile)
+	A powerful arc of lightning leaves your hand and strikes your target, dealing 10 damage and applies electrified for the duration.
 
 ## Elemental Arrow
 **Complexity:** Simple
 **Casting Time:** Action
 **Cost:** 2 mana
 **Range:** 5 meters
-**Duration:** 1 round
 **Effect**
 	(Projectile)
 	Choose an element. Your mana takes the shape of an arrow made of that element, which shoots toward your target. It deals 10 magical damage.
 	This arrow has different features depending on its element:
-	Fire: Applies burning. 
-	Earth: Applies bleeding. 
-	Water: Applies soaked.
-	Air: Applies disoriented. 
+	Fire: Applies burning for 2 rounds. 
+	Earth: Applies bleeding for 2 rounds. 
+	Water: Target falls prone. 
+	Air: Applies disoriented for 1 round. 
 
 ## Elemental Infusion
 **Complexity:** Complex
@@ -128,16 +128,6 @@
 **Duration:** 1 week + ARC days
 **Effect**
 	You spread your powers wide; improving, curing and growing nearby plants slightly. Plant creatures within radius gain 5 temporary physical armor for the duration. 
-
-## Lightning
-**Complexity:** Simple
-**Casting Time:** Action
-**Cost:** 2 mana
-**Range:** 5 meters
-**Duration:** 1 round
-**Effect**
-	(Projectile)
-	A powerful arc of lightning leaves your hand and strikes your target, dealing 10 damage. If the target is soaked, it is also electrified.
 
 ---
 # Expert Spells
