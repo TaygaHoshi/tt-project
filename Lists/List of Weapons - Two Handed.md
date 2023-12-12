@@ -150,7 +150,7 @@ war drums        |     -    |     1     | 10m   |  -
 	+ Range: 10 meters.
 	+ This attack's precision roll is made against Constitution.
 	+ Ignores weapon damage.
-	+ Applies (3 + POW/2) rounds of bleeding on hit.
+	+ Applies 3 rounds of bleeding on hit.
 + (Prepared) (Projectile) #TODO 
 
 ## War Drums
