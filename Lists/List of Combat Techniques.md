@@ -212,10 +212,10 @@
 ## Rapid Draw
 **Category:** Weapon attack
 **Execution Time:** Rapid action
-**Cost:** 3 stamina
+**Cost:** 2 stamina
 **Requirements:**
 	Any bow.
 	You hit with a bow this turn.
 **Effect**
 	(Projectile)
-	You can shoot with this bow again, as a rapid action.
+	You can shoot with this bow again, as a rapid action. This attack deals half damage. 

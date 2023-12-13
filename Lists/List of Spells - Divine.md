@@ -21,7 +21,7 @@
 **Range:** 5 meters
 **Duration:** 2 rounds
 **Effect**
-	Choose an ally, and apply Protected to that ally for the duration of this spell.
+	Choose an ally, heal them for (5 + WRA/2) and apply Protected for the duration of this spell.
 
 ## Transfer Energy
 **Complexity:** Complex
@@ -111,7 +111,7 @@
 **Cost:** 4 mana
 **Radius:** 3 meters
 **Effect**
-	Roll (1d10 + WRA), and heal all allies within radius for that much health. 
+	Heal all allies within radius for (10 + WRA/2). 
 
 ## Link of Fate
 **Complexity:** Simple

@@ -26,18 +26,18 @@
 **Casting Time:** Action
 **Cost:** 2 mana
 **Radius:** 5 meters
-**Duration:** (2 + EXP/2) rounds
+**Duration:** (5 + EXP/2) rounds
 **Effect**
-	All allies within radius gain Resonance. Allies with Resonance are healed for 6 at the start of their turn. 
+	All allies within radius gain Resonance. Allies with Resonance are healed for 3 at the start of their turn. 
 
 ## Dissonance
 **Complexity:** Complex
 **Casting Time:** Action
 **Cost:** 2 mana
 **Radius:** 5 meters
-**Duration:** (2 + EXP/4) rounds
+**Duration:** (5 + EXP/2) rounds
 **Effect**
-	Make a precision roll against Evasion of all foes within radius. If you succeed against one, that foe is applied Dissonance. Foes with Dissonance are dealt 6 magical damage at the start of their turn. This ability does not gain potency bonus to its damage.
+	Make precision rolls against Evasion of foes within range. Whenever you succeed, that foe is applied Dissonance. Foes with Dissonance are dealt 3 armor-ignoring damage at the start of their turns. Dissonance doesn't get your potency to its damage. 
 
 ## Song of Discord
 **Complexity:** Simple
