@@ -58,7 +58,7 @@ Base movement speed of a creature is calculated with the formula below:
 	+ Quarter Cover: +1 bonus to all resistances versus projectiles.
 	+ Half Cover: +2 bonus to all resistances versus projectiles.
 	+ Full Cover: +4 bonus to all resistances versus projectiles.
-+ Having other creatures in the way while determining cover count as quarter cover. This doesn't increase with the amount of creatures in the way.
++ Having other creatures in the way while determining cover count as half cover. This doesn't increase with the amount of creatures in the way.
 + If a creature is completely blocked from another's point of view, they are out of line of sight and can't be interacted with targeted attacks and spells.
 + Abilities, spells and attacks which affect an area may require hearing or sight:
 	+ Sounds can't pass rocks, deep water and similar materials.

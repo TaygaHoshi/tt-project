@@ -21,7 +21,7 @@ war drums        |     -    |     1     | 10m   |  -
 ## Glaive
 + Aptitude: Strength
 + Slash
-	+ Range: 2 meters.
+	+ Range: 2 meters
 	+ Deals 32 damage.
 + Wide Slash
 	+ This attack's precision rolls are made against Evasion.
@@ -29,7 +29,7 @@ war drums        |     -    |     1     | 10m   |  -
 	+ Deals 16 damage. Potency bonus to damage is doubled for this attack. 
 	+ Hits all creatures in 8 squares in a cone shape in front of you.
 + (Prepared) Opportunistic Slash
-	+ Range: 2 meters.
+	+ Range: 2 meters
 	+ Ignores weapon precision.
 	+ Attack the next foe who moves into or out of this weapon's range.
 	+ Deals 16 damage. Potency bonus to damage is doubled for this attack. 
@@ -37,14 +37,14 @@ war drums        |     -    |     1     | 10m   |  -
 ## Spear
 + Aptitude: Strength
 + Thrust
-	+ Range: 2 meters.
+	+ Range: 2 meters
 	+ Deals 28 damage.
 + Keep At Bay
-	+ Range: 2 meters.
+	+ Range: 2 meters
 	+ Deals 14 damage. Potency bonus to damage is doubled for this attack. 
 	+ Target is pushed (2 + POW/4) meters away from you.
 + (Prepared) Opportunistic Thrust
-	+ Range: 2 meters.
+	+ Range: 2 meters
 	+ Ignores weapon precision.
 	+ Attack the next foe who moves into or out of this weapon's range.
 	+ Deals 14 damage. Potency bonus to damage is doubled for this attack. 
@@ -76,6 +76,8 @@ war drums        |     -    |     1     | 10m   |  -
 
 ## Nature Staff
 + Aptitude: Witchcraft
++ (Passive) Unsteady Aiming
+	+ Unless you use Improved Aiming, your projectile attacks with staves have a -2 penalty on precision rolls. 
 + (Projectile) Elemental Bolt
 	+ Range: 10 meters
 	+ Deals 24 damage. 
@@ -85,13 +87,15 @@ war drums        |     -    |     1     | 10m   |  -
 	+ Hardened vines grow from the tip of your staff, hitting all creatures on 3 squares in a line in front of you. 
 	+ Deals 12 damage. Potency bonus to damage is doubled for this attack.
 + (Prepared) Staff Strike
-	+ Range: 2 meters.
+	+ Range: 2 meters
 	+ Ignores weapon precision.
-	+ Attack the next foe who moves into or out of this weapon's range.
-	+ Deals 10 physical damage. Potency bonus to damage is doubled for this attack. 
+	+ Attack the next foe who moves into or out of this attack's range.
+	+ Deals 10 physical damage.
 
 ## Divine Staff
 + Aptitude: Divine
++ (Passive) Unsteady Aiming
+	+ Unless you use Improved Aiming, your projectile attacks with staves have a -2 penalty on precision rolls. 
 + (Projectile) Bolt of Exorcism
 	+ Range: 10 meters
 	+ Deals 24 damage. 
@@ -106,48 +110,46 @@ war drums        |     -    |     1     | 10m   |  -
 + Aptitude: Strength
 + (Passive) Unsteady Aiming
 	+ Unless you use Improved Aiming, your projectile attacks with bows have a -2 penalty on precision rolls. 
-	+ Does not affect prepared actions.
 + (Projectile) Shoot
-	+ Range: 15 meters.
+	+ Range: 15 meters
 	+ Deals 24 damage.
 + (Projectile) Multishot
 	+ This attack's precision rolls are made against Evasion.
 	+ Deals 12 damage. Potency bonus to damage is doubled for this attack. 
 	+ Hits all creatures in 15 squares in a cone shape in front of you.
 + (Prepared) (Projectile) Half-drawn Shot
-	+ Range: 5 meters.
+	+ Range: 5 meters
 	+ Ignores weapon precision.
-	+ Attack the next foe who moves into, within or out of this weapon's range.
+	+ Attack the next foe who moves into, within or out of this attack's range.
 	+ Deals 10 damage.
 
 ## Crossbow
 + Aptitude: Strength
 + (Passive) Unsteady Aiming
 	+ Unless you use Improved Aiming, your projectile attacks with bows have a -2 penalty on precision rolls. 
-	+ Does not affect prepared actions.
 + (Projectile) Shoot
-	+ Range: 10 meters.
+	+ Range: 10 meters
 	+ Deals 24 damage.
 	+ Pierces 50% armor.
 + (Projectile) Pinning Shot
-	+ Range: 10 meters.
+	+ Range: 10 meters
 	+ This attack's precision roll is made against Constitution.
 	+ Deals 12 damage. Potency bonus to damage is doubled for this attack. 
 	+ Slows the target for (1 + POW/4) rounds.
 + (Prepared) Crossbow Bash
-	+ Ignores weapon damage and precision.
-	+ Try to interrupt the next foe who attempts to perform a weapon attack or cast a spell within melee range. Make a precision roll. If you succeed, they are interrupted, and their action fails.
+	+ Ignores weapon precision.
+	+ Attack the next foe who moves into or out of melee range.
+	+ Deals 10 damage.
 
 ## Shortbow
 + Aptitude: Strength
 + (Passive) Unsteady Aiming
 	+ Unless you use Improved Aiming, your projectile attacks with bows have a -2 penalty on precision rolls. 
-	+ Does not affect prepared actions.
 + (Projectile) Shoot
-	+ Range: 10 meters.
+	+ Range: 10 meters
 	+ Deals 20 damage.
 + (Projectile) Shoot Vitals
-	+ Range: 10 meters.
+	+ Range: 10 meters
 	+ This attack's precision roll is made against Constitution.
 	+ Ignores weapon damage.
 	+ Applies 3 rounds of bleeding on hit.
@@ -159,11 +161,13 @@ war drums        |     -    |     1     | 10m   |  -
 	+ Allies who are unable to hear are not affected by war drums. 
 	+ Being stunned, falling or going prone, diving underwater or becoming unavailable to cast spells in any way stops the bonuses granted by this weapon. 
 + (Rapid Action) Beat of Swords
-	+ Radius: 10 meters.
-	+ All other allies within range gain a (5 + EXP/3) bonus to damage until your next turn. 
+	+ Radius: 10 meters
+	+ All other allies within radius gain a (5 + EXP/3) bonus to damage until your next turn. 
 	+ This bonus doesn't affect damaging status effects such as bleeding and burning, or area effects such as Dissonance. 
 + (Rapid Action) Beat of Shields
-	+ All other allies within range gain (5 + EXP/3) temporary physical armor and temporary magical armor until your next turn.
+	+ Radius: 10 meters
+	+ All other allies within radius gain (5 + EXP/3) temporary physical armor and temporary magical armor until your next turn.
 + (Rapid Action) Beat of Haste
-	+ All allies within range gain (3 + EXP/3) bonus to movement speed until your next turn.
+	+ Radius: 10 meters
+	+ All allies within radius gain (3 + EXP/3) bonus to movement speed until your next turn.
 	+ Does not stack with itself. 

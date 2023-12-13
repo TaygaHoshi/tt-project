@@ -57,30 +57,27 @@ Unarmed         |    16    |         0        |  1m   |       -
 ## Elemental Wand (Light)
 + Aptitude: Witchcraft
 + (Projectile) Ball of Elements
-	+ Range: 5 meters.
+	+ Range: 5 meters
 	+ Deals 24 damage.
 + Elemental Orb
-	+ Range: 5 meters.
+	+ Range: 5 meters
 	+ This attack's precision rolls are made against Evasion.
 	+ Ignores weapon precision.
 	+ Create an elemental orb, which falls to the ground and explodes, dealing 12 damage to all creatures within 1 meter radius. Potency bonus to damage is doubled for this attack. 
-+ (Prepared) Counterspell
-	+ Range: 5 meters.
-	+ Ignores weapon damage and precision.
-	+ Try to interrupt the next foe who attempts to cast a spell within range. Make a precision roll. If you succeed, they are interrupted, and their action fails.
++ (Prepared) #TODO 
 
 ## Divine Wand (Light)
 + Aptitude: Divine
 + (Projectile) Bolt of Exorcism
-	+ Range: 5 meters.
+	+ Range: 5 meters
 	+ Deals 24 damage.
 + Magical Bind
-	+ Range: 5 meters.
+	+ Range: 5 meters
 	+ This attack's precision roll is made against Constitution.
 	+ Ignores weapon damage.
 	+ Immobilizes the target for (1 + WRA/4) rounds.
 + (Prepared) Protecting from Magic
-	+ Range: 5 meters.
+	+ Range: 5 meters
 	+ Choose an ally. Next time they are attacked, grant them (3 + WRA/2) temporary magical armor for 1 round.
 
 ## Shortsword (Light)
@@ -104,9 +101,7 @@ Unarmed         |    16    |         0        |  1m   |       -
 + Double Slash
 	+ Deals 10 damage.
 	+ You attack the target twice.
-+ (Prepared) Interrupting Strike
-	+ Ignores weapon damage and precision.
-	+ Try to interrupt the next foe who attempts to perform a weapon attack within melee range. Make a precision roll. If you succeed, they are interrupted, and their action fails.
++ (Prepared) #TODO 
 
 ## Unarmed (Light)
 + Aptitude: Strength

@@ -30,11 +30,12 @@
 # Improved Aiming
 **Activation time:** Special
 **Requirements:**
-	Any bow.
+	Any ranged weapon.
+	No foes in melee range.
 	You haven't moved this turn.
 **Explanation:**
 	Your movement speed drops to zero for this turn.
-	As a part any bow attack affected by Unsteady Aiming, you can activate this ability. That attack does not gain the penalty from Unsteady Aiming.
+	As a part any weapon attack affected by Unsteady Aiming, you can activate this ability. That attack does not receive the penalty from Unsteady Aiming.
 
 # Charge
 **Activation time:** Full-turn action
