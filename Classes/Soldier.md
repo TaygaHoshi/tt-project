@@ -61,8 +61,9 @@ Choose an armor weight category. You get the following benefits while wearing an
 ## Weapon Mastery
 Choose one weapon ability. 
 1. *Keen rejuvenation:* Your critical hits regenerate 1 stamina. 
-2. *Precise strikes:* You can spend 2 stamina before a basic weapon attack to add your ACU as bonus damage to this attack. This attack also pierces 50% armor (non-stacking).
-3. *Dynamic vision:* If you are wielding any weapon, you have a +1 bonus to Parry against prepared actions and you cannot be flanked. 
+2. *Dynamic vision:* If you are wielding any weapon, you have a +1 bonus to Parry against prepared actions and you cannot be flanked. 
+3. #TODO 
+4. #TODO 
 
 ## Armor Specialization 2
 Choose one passive effect. You gain that effect while wearing the armor weight you specialized in, further increasing your effectiveness.
