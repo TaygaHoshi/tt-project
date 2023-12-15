@@ -32,9 +32,9 @@
 **Requirements:**
 	Any ranged weapon.
 	No foes in melee range.
-	You haven't moved this turn.
+	You haven't moved this round.
 **Explanation:**
-	Your movement speed drops to zero for this turn.
+	Your movement speed drops to zero for this round.
 	As a part any weapon attack affected by Unsteady Aiming, you can activate this ability. That attack does not receive the penalty from Unsteady Aiming.
 
 # Charge

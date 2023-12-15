@@ -218,4 +218,4 @@
 	You hit with a bow this turn.
 **Effect**
 	(Projectile)
-	You can shoot with this bow again, as a rapid action. This attack deals half damage. 
+	You can shoot with this bow again, as a rapid action. This attack deals half weapon damage. 
