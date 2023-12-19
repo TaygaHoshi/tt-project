@@ -166,7 +166,7 @@ war drums        |     -    |     1     | 10m   |  -
 	+ This bonus doesn't affect damaging status effects such as bleeding and burning, or area effects such as Dissonance. 
 + (Rapid Action) Beat of Shields
 	+ Radius: 10 meters
-	+ All other allies within radius gain (5 + EXP/3) temporary physical armor and temporary magical armor until your next turn.
+	+ All other allies within radius gain (5 + EXP/3) temporary health until your next turn.
 + (Rapid Action) Beat of Haste
 	+ Radius: 10 meters
 	+ All allies within radius gain (3 + EXP/3) bonus to movement speed until your next turn.
