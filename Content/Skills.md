@@ -26,7 +26,7 @@ Level | Gained SP
 	+ Crafting mechanisms and machinery.
 + Smithing
 	+ Creating and improving weapons and armor. Also includes fletching.
-+ Scouting
++ Surveying
 	+ Path finding, detecting traps and noticing things.
 + Apothecary
 	+ Identifying herbs, crafting poisons, brewing potions and cooking herbal dishes.

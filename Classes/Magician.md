@@ -4,8 +4,7 @@
 ## Base Stats, Abilities & Gear
 * Main resistance: Reflection, Evasion or Constitution
 * Health: 60
-* Mana: 8 (High)
-* Stamina: 0
+* Energy: 8 (High)
 * Starter equipment:
     * A regular weapon set.
     * Any armor of choice.
@@ -52,12 +51,12 @@ As a Magician, you are able to cast both simple and complex witchcraft spells.
 
 ## Spell Modifiers
 Choose two modifiers each at levels 2 and 6. 
-These modifiers cost 1 mana to apply to the next spell you cast, and a spell can have multiple modifiers.
+These modifiers cost 1 energy to apply to the next spell you cast, and a spell can have multiple modifiers.
 1. *Bracing:* While you are casting this spell, you have a +2 bonus to all resistances against prepared actions such as interrupts and opportunistic attacks. 
 2. *Homing:* This projectile spell curves slightly around obstacles. Cover penalties to this spell are reduced by 1.
 3. *Improved range:* This spell's range is increased by 2 meters. This modifier does not affect radius of a spell.
 4. *Selective effect:* This spell doesn't affect one creature you choose, aside from yourself.
-5. *Self-shielding:* This spell grants you physical and magical temporary armor equal to half of its mana cost.
+5. *Self-shielding:* This spell grants you physical and magical temporary armor equal to half of its energy cost.
 6. *Surprise casting:* This spell has a +1 to its precision rolls against flanked foes.
 7. *Spell knockback:* This single-target damaging spell pushes its target one meter away from you. 
 8. *Reduced duration:* This spell's duration is halved.
@@ -70,7 +69,7 @@ As a rapid action, you can attune to the forces of nature. While attuned:
 Attuning lasts at least until the end of next round. In the following rounds, you can stop attuning as a rapid action.
 
 ## Elemental Mastery
-Before casting an elemental spell, you can choose to activate the effects of two elements for that spell by spending double the mana cost. You can choose which element's effect activates first. You can use Elemental Mastery only once per round.
+Before casting an elemental spell, you can choose to activate the effects of two elements for that spell by spending double the energy cost. You can choose which element's effect activates first. You can use Elemental Mastery only once per round.
 
 
 

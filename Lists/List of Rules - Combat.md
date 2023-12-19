@@ -47,7 +47,7 @@ Base movement speed of a creature is calculated with the formula below:
 + Summoners have a simple telepathic bond to their minions. A summoner will know where a minion is and how much damage it suffered at all times. 
 + The minions follow the regular initiative order. On a turn a minion is summoned, if they have higher initiative than their summoner, they take their turn immediately after the summoner.
 + Minions gain potency bonus to their damage normally, according to their relevant potency stat.
-+ Minions don't use mana and stamina for their skills, unless specified otherwise.
++ Minions don't use energy and energy for their skills, unless specified otherwise.
 
 # Transformation and Transforming
 #TODO 
@@ -58,7 +58,7 @@ Base movement speed of a creature is calculated with the formula below:
 	+ Quarter Cover: +1 bonus to all resistances versus projectiles.
 	+ Half Cover: +2 bonus to all resistances versus projectiles.
 	+ Full Cover: +4 bonus to all resistances versus projectiles.
-+ Having other creatures in the way while determining cover count as half cover. This doesn't increase with the amount of creatures in the way.
++ Having other creatures in the way while determining cover counts as half cover. This doesn't increase with the amount of creatures in the way.
 + If a creature is completely blocked from another's point of view, they are out of line of sight and can't be interacted with targeted attacks and spells.
 + Abilities, spells and attacks which affect an area may require hearing or sight:
 	+ Sounds can't pass rocks, deep water and similar materials.

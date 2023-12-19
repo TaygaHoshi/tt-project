@@ -4,7 +4,7 @@
 ## Alteration
 **Complexity:** Simple
 **Casting Time:** Action
-**Cost:** 2 mana
+**Cost:** 2 energy
 **Range:** 1 meter
 **Duration:** 1 hour
 **Effect**
@@ -18,7 +18,7 @@
 ## Unsteady Ground
 **Complexity:** Complex
 **Casting Time:** Action
-**Cost:** 4 mana
+**Cost:** 4 energy
 **Range:** 5 meters
 **Radius:** 1 meter
 **Duration:** (2 + ARC/2) rounds
@@ -30,7 +30,7 @@
 ## Call Spirit, Novice
 **Complexity:** Complex
 **Casting Time:** Full-turn action
-**Cost:** 4 mana
+**Cost:** 4 energy
 **Range:** 1 meter
 **Duration:** 5 rounds
 **Effect**
@@ -40,7 +40,7 @@
 ## Sprout
 **Complexity:** Simple
 **Casting Time:** Action 
-**Cost:** 2 mana
+**Cost:** 2 energy
 **Range:** 1 meter 
 **Radius:** 3 meters
 **Duration:** 5 minutes
@@ -53,7 +53,7 @@
 ## Lightning
 **Complexity:** Simple
 **Casting Time:** Action
-**Cost:** 2 mana
+**Cost:** 2 energy
 **Range:** 5 meters
 **Duration:** 2 rounds
 **Effect**
@@ -63,11 +63,11 @@
 ## Elemental Arrow
 **Complexity:** Simple
 **Casting Time:** Action
-**Cost:** 2 mana
+**Cost:** 2 energy
 **Range:** 5 meters
 **Effect**
 	(Projectile)
-	Choose an element. Your mana takes the shape of an arrow made of that element, which shoots toward your target. It deals 10 magical damage.
+	Choose an element. Your energy takes the shape of an arrow made of that element, which shoots toward your target. It deals 10 magical damage.
 	This arrow has different features depending on its element:
 	Fire: Applies burning for 2 rounds. 
 	Earth: Applies bleeding for 2 rounds. 
@@ -77,12 +77,12 @@
 ## Elemental Infusion
 **Complexity:** Complex
 **Casting Time:** Full-turn action
-**Cost:** 4 mana
+**Cost:** 4 energy
 **Range:** 1 meter
 **Duration:** 6 hours
 **Effect**
-	Infuse a weapon you can touch with your mana, and it deals an extra 5 magical damage. Potency bonus to damage is halved for this spell. This weapon is considered a magical weapon as long as it is infused.
-	Choose an element when you cast this spell. This infusion can be consumed as an action to cast Elemental Arrow with that element for no mana cost. 
+	Infuse a weapon you can touch with your energy, and it deals an extra 5 magical damage. Potency bonus to damage is halved for this spell. This weapon is considered a magical weapon as long as it is infused.
+	Choose an element when you cast this spell. This infusion can be consumed as an action to cast Elemental Arrow with that element for no energy cost. 
 	An item can have only one infusion at any time.
 
 ---
@@ -90,7 +90,7 @@
 ## Rain
 **Complexity:** Complex
 **Casting Time:** Full-turn action
-**Cost:** 4 mana
+**Cost:** 4 energy
 **Range:** Self
 **Radius:** 5 meters
 **Duration:** (5 + ARC/4) rounds
@@ -102,20 +102,20 @@
 ## Terraform
 **Complexity:** Simple
 **Casting Time:** Full-turn action
-**Cost:** 4 mana
+**Cost:** 4 energy
 **Radius:** 5 meters
 **Duration:** 6 hours
 **Effect**
-	You can vaguely guide the natural features of the geography around you to change shape. After half of this spell's duration has passed, the geography starts slowly returning to its original shape. While casting this spell, you can choose to spend double the mana cost instead. In this case, the spell requires 1 hour of uninterrupted casting but its effects stay permanent.  
+	You can vaguely guide the natural features of the geography around you to change shape. After half of this spell's duration has passed, the geography starts slowly returning to its original shape. While casting this spell, you can choose to spend double the energy cost instead. In this case, the spell requires 1 hour of uninterrupted casting but its effects stay permanent.  
 
 ## Armor of Branches
 **Complexity:** Complex
 **Casting Time:** Rapid action
-**Cost:** 2 mana
+**Cost:** 2 energy
 **Range:** Self
 **Duration:** 2 rounds
 **Effect**
-	You are covered with thick magical branches, which grant you (5 + ARC) temporary physical armor. Alternatively, you can spend 6 mana and gain double the temporary armor. When this temporary armor breaks, the branches wither and the spell ends. 
+	You are covered with thick magical branches, which grant you (5 + ARC) temporary physical armor. Alternatively, you can spend 6 energy and gain double the temporary armor. When this temporary armor breaks, the branches wither and the spell ends. 
 	You are immobilized and can't do weapon attacks while this spell is active.
 	You can dismiss this armor freely.
 
@@ -123,7 +123,7 @@
 **Level:** Novice
 **Complexity:** Simple
 **Casting Time:** 1 hour
-**Cost:** 6 mana
+**Cost:** 6 energy
 **Radius:** 50 meters + 5 x ARC
 **Duration:** 1 week + ARC days
 **Effect**

@@ -95,6 +95,9 @@ Critical hits increase *Action damage* only, by 50%.
 ## Armor
 Each creature has two kinds of armor: Physical armor and magical armor. Normally, damage from weapon attacks and similar abilities are affected by physical armor and damage from magical sources like spells are affected by magical armor. If something is an exception to this rule, this is told in the explanation of it.
 
+## Damaging Actions
+For a spell to be considered a "damaging action", it should have a base damage. Examples could be abilities like "Elemental Arrow", "Dissonance", "Shield Bash" or the hatchet's "Hack". Some actions such as the hatchet's "Sever" only apply a status effect, but do not have a base damage. These abilities are not considered damaging actions.
+
 ## "Extra damage" versus "Bonus damage"
 Extra damage is a completely different packet of damage that just shares the precision roll of another attack. Extra damage has its own values for action damage, potency, bonuses and it is affected by armor separately from the delivering attack.
 

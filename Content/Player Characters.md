@@ -1,9 +1,10 @@
 # Player Characters
-Player characters are the other part, alongside the Game Master, of Sigil of Uchma. This page will go over the 
+Player characters are the other part, alongside the Game Master, of Sigil of Uchma. This page will go over the basics of character creation.
 
 # Character Creation
 ## Guide to Character Creation
-The e-book can be found here: [[Sigil of Uchma v1-a5 Character Creation Guide.pdf|Link to the guide for v1-a5]].
+
+![[Sigil of Uchma v1-a6 Character Creation Guide.pdf]]
 
 ## Classes
 A player character can start with choosing a class:
@@ -21,12 +22,22 @@ Your starting class determines your health. There are three tiers of maximum hea
 
 Tier | Value
 --- | :---:
-Low    | 60 health
-Medium | 70 health
 High   | 80 health
+Medium | 70 health
+Low    | 60 health
+
+### Energy
+Your starting class determines your energy, which is used for casting spells or performing combat techniques. There are three tiers of maximum energy, scaling differently as you gain levels:
+
+Tier | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10
+--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---:
+High   | 8|10|12|14|16|18|20|22|24|24|
+Medium | 6| 6| 9| 9|12|12|15|15|18|18|
+Low    | 4| 5| 6| 7| 8| 9|10|11|12|12|
+
 
 ### Spells and Combat Techniques
-These are shared abilities between classes, and usually cost either mana or stamina to activate. They are explained in more detail within their respective pages: [[Spells]] and [[Combat Techniques]].
+Spell casters can use spells while classes like soldier and scout can use combat techniques. These abilities usually cost energy to activate. They are explained in more detail within their respective pages: [[Spells]] and [[Combat Techniques]].
 
 ## Aptitudes
 Aptitudes are the main traits of a character. They are explained in the [[Aptitudes]] page.
@@ -59,11 +70,8 @@ Sleeping has stricter requirements. Alongside the resting requirements, a charac
 
 Resting and sleeping, normally, have the following benefits:
 1. Characters heal 10 health per hour while sleeping.
-2. Similarly, 2 points of mana and stamina regenerates per hour while sleeping.
+2. Similarly, 2 points of energy regenerates per hour while sleeping.
 3. While only resting, these regeneration rates are halved.
-4. In case a character has both mana and stamina, these rates are halved.
-	1. While sleeping, these characters gain 1 point of mana and stamina per hour.
-	2. While resting, they gain 1 point of mana and stamina per 2 hours of rest. Depending on the circumstances, the GM may allow these 2 hours to be non-consecutive.
 
 However, not all damage and status effects can be healed this way. What makes sense and what does not is left primarily to the GM.
 

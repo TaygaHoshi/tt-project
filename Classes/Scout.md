@@ -4,8 +4,7 @@
 ## Base Stats, Abilities & Gear
 * Main resistance: Parry, Evasion or Constitution
 * Health: 70
-* Mana: 0
-* Stamina: 6 (High)
+* Energy: 6 (Medium)
 * Starter equipment:
     * A regular weapon set.
     * Any armor of choice.
@@ -52,7 +51,7 @@ Your non-damaging combat techniques gain a +1 to their POW, and your basic weapo
 4. foes in lower terrain compared to you.
 
 ## Improvised Aid
-You can spend 2 stamina to tend to yourself as an action, or a willing creature you can touch as a rapid action, with whatever is available near you. You can either:
+You can spend 2 energy to tend to yourself as an action, or a willing creature you can touch as a rapid action, with whatever is available near you. You can either:
 1. Cure a debilitating or a harmful status effect of your choosing, or
 2. Grant 10 temporary health for 1 round. 
 

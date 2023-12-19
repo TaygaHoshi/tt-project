@@ -4,7 +4,7 @@
 ## Rhythmic Casting
 **Complexity:** Complex
 **Casting Time:** Action
-**Cost:** 2 mana
+**Cost:** 2 energy
 **Range:** 3 meters
 **Duration:** (1 + EXP/4) rounds
 **Effect**
@@ -14,7 +14,7 @@
 ## Blazing Harmony
 **Complexity:** Simple
 **Casting Time:** Rapid action 
-**Cost:** 2 mana
+**Cost:** 2 energy
 **Range:** 3 meters
 **Duration:** 1 round
 **Effect**
@@ -24,7 +24,7 @@
 ## Resonance
 **Complexity:** Complex
 **Casting Time:** Action
-**Cost:** 2 mana
+**Cost:** 2 energy
 **Radius:** 5 meters
 **Duration:** (5 + EXP/2) rounds
 **Effect**
@@ -33,7 +33,7 @@
 ## Dissonance
 **Complexity:** Complex
 **Casting Time:** Action
-**Cost:** 2 mana
+**Cost:** 2 energy
 **Radius:** 5 meters
 **Duration:** (5 + EXP/2) rounds
 **Effect**
@@ -42,7 +42,7 @@
 ## Song of Discord
 **Complexity:** Simple
 **Casting Time:** Action
-**Cost:** 2 mana
+**Cost:** 2 energy
 **Range:** 5 meters
 **Duration:** (1 + EXP/3) rounds
 **Effect**
@@ -51,7 +51,7 @@
 ## Detect Vibrations
 **Complexity:** Complex
 **Casting Time:** Action
-**Cost:** 2 mana
+**Cost:** 2 energy
 **Radius:** (5 + EXP/2) meters
 **Duration:** 5 minutes
 **Explanation**
@@ -62,7 +62,7 @@
 ## Call Banner
 **Complexity:** Complex
 **Casting Time:** Full-turn action
-**Cost:** 6 mana
+**Cost:** 6 energy
 **Range:** 1 meter
 **Radius:** 5 meters
 **Duration:** 3 rounds
@@ -76,7 +76,7 @@
 ## Fury
 **Complexity:** Simple
 **Casting Time:** Action
-**Cost:** 1 mana per round
+**Cost:** 1 energy per round
 **Range:** 5 meters
 **Duration:** Special
 **Effect**

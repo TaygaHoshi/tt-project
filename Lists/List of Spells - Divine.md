@@ -4,11 +4,11 @@
 ## Guarding Infusion
 **Complexity:** Complex
 **Casting Time:** Full-turn action
-**Cost:** 4 mana
+**Cost:** 4 energy
 **Range:** 1 meter
 **Duration:** 6 hours
 **Effect**
-	Infuse a shield, a buckler or a focus you can touch with your mana. Depending on its type, it gains a (1 + WRA/4) bonus to its main resistance:
+	Infuse a shield, a buckler or a focus you can touch with your energy. Depending on its type, it gains a (1 + WRA/4) bonus to its main resistance:
 	Shield and buckler: Bonus to Parry
 	Arcane focus: Bonus to Reflection
 	Divine focus: Bonus to Faith
@@ -17,7 +17,7 @@
 ## Protect Ally
 **Complexity:** Simple
 **Casting Time:** Action
-**Cost:** 2 mana
+**Cost:** 2 energy
 **Range:** 5 meters
 **Duration:** 2 rounds
 **Effect**
@@ -26,25 +26,25 @@
 ## Transfer Energy
 **Complexity:** Complex
 **Casting Time:** 5 minutes
-**Cost:** 2 mana
+**Cost:** 2 energy
 **Effect**
-	Touch two willing creatures. You can transfer up to 4 mana or 4 stamina from one to the other.
+	Touch two willing creatures. You can transfer up to 4 energy from one to the other.
 
 ## Create Magical Walls
 **Complexity:** Simple
 **Casting Time:** Action 
-**Cost:** 2 mana
+**Cost:** 2 energy
 **Range:** 5 meters
 **Duration:** (2 + WRA/4) rounds
 **Effect**
-	You create 5 walls of hardened mana which blocks movement. These walls are 1 meters long, 1 meters wide and 3 meters tall. They block line of sight for any creature shorter than them. For creatures slightly taller than these walls, they act as a full cover.
-	You can spend 1 additional mana to create 2 extra walls.
+	You create 5 walls of hardened energy which blocks movement. These walls are 1 meters long, 1 meters wide and 3 meters tall. They block line of sight for any creature shorter than them. For creatures slightly taller than these walls, they act as a full cover.
+	You can spend 1 additional energy to create 2 extra walls.
 	Area spells can't be overlapped.
 
 ## Call Fairy, Novice
 **Complexity:** Complex
 **Casting Time:** Full-turn action
-**Cost:** 4 mana
+**Cost:** 4 energy
 **Range:** 1 meter
 **Radius:** 5 meters
 **Duration:** 5 rounds
@@ -55,7 +55,7 @@
 ## Stone Blades
 **Complexity:** Simple
 **Casting Time:** Action
-**Cost:** 2 mana
+**Cost:** 2 energy
 **Range:** 5 meters
 **Effect**
 	You create two blades of stone and throw them to one or more targets within range. These blades each deal 10 physical damage.
@@ -64,7 +64,7 @@
 ## Binding
 **Complexity:** Simple
 **Casting Time:** Action 
-**Cost:** 4 mana
+**Cost:** 4 energy
 **Range:** 5 meters
 **Radius:** 2 meters
 **Duration:** (2 + WRA/4) rounds
@@ -74,17 +74,17 @@
 ## Simple Divination
 **Complexity:** Simple
 **Casting Time:** Action
-**Cost:** 1 mana
+**Cost:** 1 energy
 **Range:** 5 meters
 **Duration:** 1 minutes
 **Effect**
 	You grant an ally either protective foresight or predictive foresight for the duration. 
-	You can spend an additional mana to cast this spell as a prepared action. In this case, it triggers either just before a precision roll is made against the ally or when the ally makes a precision roll, respectively. 
+	You can spend an additional energy to cast this spell as a prepared action. In this case, it triggers either just before a precision roll is made against the ally or when the ally makes a precision roll, respectively. 
 
 ## Object Sense
 **Complexity:** Complex
 **Casting Time:** Full-turn action
-**Cost:** 2 mana
+**Cost:** 2 energy
 **Range:** 1 meter
 **Duration:** 6 hours
 **Effect**
@@ -94,7 +94,7 @@
 ## Detect Living
 **Complexity:** Simple
 **Casting Time:** Full-turn action
-**Cost:** 2 mana
+**Cost:** 2 energy
 **Range:** Self
 **Radius:** (10 + WRA) meters
 **Duration:** 5 minutes
@@ -108,7 +108,7 @@
 ## Heal Area
 **Complexity:** Complex
 **Casting Time:** Action 
-**Cost:** 4 mana
+**Cost:** 4 energy
 **Radius:** 3 meters
 **Effect**
 	Heal all allies within radius for (10 + WRA/2). 
@@ -116,7 +116,7 @@
 ## Link of Fate
 **Complexity:** Simple
 **Casting Time:** Rapid action
-**Cost:** 2 mana
+**Cost:** 2 energy
 **Range:** 5 meters
 **Effect**
 	Link yourself with a willing creature. Whenever that creature takes damage to its health, you take half of it in their stead. Damage you receive from this spell ignores your armor.
@@ -127,7 +127,7 @@
 ## Prayer of Luck
 **Complexity:** Complex
 **Casting Time:** 1 minute
-**Cost:** 10 mana
+**Cost:** 10 energy
 **Duration:** 1 hour
 **Effect**
 	You pray for good luck​. When you cast this spell, the GM can decide to increase the amount or improve the quality of any of the treasures you may find within the duration. 

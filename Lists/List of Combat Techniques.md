@@ -4,7 +4,7 @@
 ## Tackle
 **Category:** Weapon attack
 **Execution Time:** Action
-**Cost:** 2 stamina
+**Cost:** 2 energy
 **Range:** 1 meter
 **Effect**
 	This attack's precision rolls are made with your POW against target's Parry.
@@ -14,7 +14,7 @@
 ## Extend Preparation
 **Category:** General
 **Execution Time:** Special
-**Cost:** 1 stamina
+**Cost:** 1 energy
 **Requirements:**
 	A prepared weapon attack or combat technique.
 **Effect**
@@ -23,16 +23,16 @@
 ## Peeking
 **Category:** Mobility
 **Execution Time:** Special
-**Cost:** 1 stamina
+**Cost:** 1 energy
 **Requirements:**
 	Any bow.
 **Effect**
-	When you attempt any bow weapon attack during your turn, you can move up to (2 + POW/4) meters before attacking as a part of that action.
+	When you attempt any bow weapon attack during your turn, you can move up to (2 + POW/4) meters before attacking as a part of that action. This ability can be used alongside Improved Aiming. 
 
 ## Crushing Charge
 **Category:** Weapon attack
 **Execution Time:** Special
-**Cost:** 2 stamina
+**Cost:** 2 energy
 **Duration:** 1 round
 **Requirements:**
 	Charge action
@@ -44,7 +44,7 @@
 ## Reaching Attack
 **Category:** Weapon attack
 **Execution Time:** Action 
-**Cost:** 1 stamina
+**Cost:** 1 energy
 **Range:** Double weapon range
 **Requirements:**
 	Any melee weapon in main hand.
@@ -54,30 +54,30 @@
 ## Counter
 **Category:** Weapon attack
 **Execution Time:** Prepared action 
-**Cost:** 2 stamina
+**Cost:** 2 energy
 **Range:** Weapon range
 **Requirements:**
 	Any melee weapon in main hand.
 **Effect**
 	Ignores weapon precision.
-	Next time any target within range attacks you, you counter attack them.
+	Next time any target within range attacks you, you counter attack them, dealing half damage.
 
 ## Shield Bash
 **Category:** Weapon attack
 **Execution Time:** Rapid action
-**Cost:** 1 stamina
+**Cost:** 1 energy
 **Range:** 1 meter
 **Requirements:**
 	A blocking shield or a buckler in off-hand.
 **Effect**
 	Ignores weapon damage and precision.
 	Deals 5 damage to target foe. 
-	Alternatively, you can spend an additional stamina to deal 10 damage instead.
+	Alternatively, you can spend an additional energy to deal 10 damage instead.
 
 ## Defensive Strike
 **Category:** Weapon attack
 **Execution Time:** Action
-**Cost:** 1 stamina
+**Cost:** 1 energy
 **Range:** Weapon range
 **Duration:** 1 round
 **Requirements:**
@@ -90,7 +90,7 @@
 ## Apply Poison
 **Category:** Weapon attack
 **Execution Time:** Rapid action
-**Cost:** 1 stamina
+**Cost:** 1 energy
 **Range:** Weapon range
 **Requirements:**
 	Any melee weapon.
@@ -101,7 +101,7 @@
 ## Use Special Arrow
 **Category:** Weapon attack
 **Execution Time:** Action
-**Cost:** 2 stamina
+**Cost:** 2 energy
 **Range:** Half weapon range
 **Radius:** 2 meters
 **Duration:** 2 rounds
@@ -115,7 +115,7 @@
 ## Use Special Bolt
 **Category:** Weapon attack
 **Execution Time:** Action
-**Cost:** 2 stamina
+**Cost:** 2 energy
 **Range:** Half weapon range
 **Radius:** 2 meters
 **Duration:** 2 rounds
@@ -130,7 +130,7 @@
 ## Wrestling 
 **Category:** Weapon attack
 **Execution Time:** Full-turn action
-**Cost:** 4 stamina
+**Cost:** 4 energy
 **Range:** 1 meter
 **Requirements:**
 	Unarmed off-hand.
@@ -138,13 +138,13 @@
 	This attack's precision rolls are made with your POW against target's Parry.
 	Ignores weapon damage and precision. 
 	Try to hold the target and lock them in an inescapable position. On success, both of you fall prone and can't get up.
-	At the start of your turn, you can either release the target or spend 1 stamina and make another precision roll for Wrestling. On failure, the target escapes your hold and both of you can get up on your respective turns.
+	At the start of your turn, you can either release the target or spend 1 energy and make another precision roll for Wrestling. On failure, the target escapes your hold and both of you can get up on your respective turns.
 	You can only wrestle one target at any time.
 
 ## Disarm
 **Category:** Weapon attack
 **Execution Time:** Action
-**Cost:** 1 stamina
+**Cost:** 1 energy
 **Range:** 1 meter
 **Effect**
 	Ignores weapon damage and precision. 
@@ -154,7 +154,7 @@
 ## Cleave
 **Category:** Weapon attack
 **Execution Time:** Full-turn action  
-**Cost:** 3 stamina
+**Cost:** 3 energy
 **Range:** Weapon range
 **Radius:** Weapon range
 **Requirements:**
@@ -167,7 +167,7 @@
 ## Ambidextrous Strike
 **Category:** Weapon attack
 **Execution Time:** Special
-**Cost:** 1 stamina
+**Cost:** 1 energy
 **Range:** 1 meter
 **Requirements:**
 	Dual wielding two weapons.
@@ -180,7 +180,7 @@
 ## Adrenaline Leap
 **Category:** Mobility
 **Execution Time:** Special
-**Cost:** 2 stamina
+**Cost:** 2 energy
 **Effect**
 	You can choose to activate this technique when you take any full-turn action other than the Charge special action.
 	You can move up to (2 + POW/4) meters before taking that action.
@@ -188,18 +188,18 @@
 ## Double Opportunity
 **Category:** General
 **Execution Time:** Special
-**Cost:** 2 stamina
+**Cost:** 2 energy
 **Range:** 1 meter
 **Requirements:**
 	Any melee weapon.
 	A damaging prepared weapon attack or combat technique.
 **Effect**
-	You can choose to activate this ability when you use a prepared action. This prepared action can trigger twice instead of once. You can instead spend double the stamina cost to have your prepared action trigger thrice instead.
+	You can choose to activate this ability when you use a prepared action. This prepared action can trigger twice instead of once. You can instead spend double the energy cost to have your prepared action trigger thrice instead.
 
 ## Curving Arrow
 **Category:** Weapon attack
 **Execution Time:** Action
-**Cost:** 2 stamina
+**Cost:** 2 energy
 **Range:** Weapon range
 **Requirements:**
 	A longbow or a shortbow.
@@ -212,7 +212,7 @@
 ## Rapid Draw
 **Category:** Weapon attack
 **Execution Time:** Rapid action
-**Cost:** 2 stamina
+**Cost:** 2 energy
 **Requirements:**
 	Any bow.
 	You hit with a bow this turn.

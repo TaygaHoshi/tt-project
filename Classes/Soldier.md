@@ -4,8 +4,7 @@ Soldiers can be honorable warriors, bounty hunters, master swordsmen and more. T
 ## Base Stats, Abilities & Gear
 * Main resistance: Parry, Evasion or Constitution
 * Health: 80
-* Mana: 0
-* Stamina: 6 (High)
+* Energy: 6 (Medium)
 * Starter equipment:
     * A regular weapon set.
     * Any armor of choice.
@@ -51,7 +50,7 @@ Choose a weapon type. You have a +1 bonus to precision rolls for weapon attacks 
 Choose one style to start specializing in. You gain all of the listed benefits of that style.
 1. *Strength specialization:* Combat techniques you perform are considered to have +1 POW and gain a +1 bonus to their precision rolls.  
 2. *Endurance specialization:* Spending aptitude points on VIT increases your maximum health by 2. This includes previously spent points.
-3. *Magical specialization:* Choose any simple novice spell. You can cast this spell by spending stamina instead.
+3. *Magical specialization:* Choose any simple novice spell. You can cast this spell by spending energy instead.
 
 ## Armor Specialization 1
 Choose an armor weight category. You get the following benefits while wearing an armor in that category.
@@ -60,7 +59,7 @@ Choose an armor weight category. You get the following benefits while wearing an
 
 ## Weapon Mastery
 Choose one weapon ability. 
-1. *Keen rejuvenation:* Your critical hits regenerate 1 stamina. 
+1. *Keen rejuvenation:* Your critical hits regenerate 1 energy. 
 2. *Dynamic vision:* If you are wielding any weapon, you have a +1 bonus to Parry against prepared actions and you cannot be flanked. 
 3. #TODO 
 4. #TODO 
@@ -72,6 +71,6 @@ Choose one passive effect. You gain that effect while wearing the armor weight y
 3. *Reinforcement:* When you gain temporary armor of one type, you also gain an equal amount of the other type for the same duration.
 
 ## Weapon Expertise
-If you roll a 9 for a precision roll for a weapon attack with your weapon, you can convert this attack to a critical hit by using 2 stamina.
+If you roll a 9 for a precision roll for a weapon attack with your weapon, you can convert this attack to a critical hit by using 2 energy.
 
 ---

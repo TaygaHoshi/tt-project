@@ -4,8 +4,7 @@
 ## Base Stats, Abilities & Gear
 * Main resistance: Willpower, Evasion or Constitution
 * Health: 60
-* Mana: 8 (High)
-* Stamina: 0
+* Energy: 8 (High)
 * Starter equipment:
     * A regular weapon set.
     * Any armor of choice.

@@ -6,7 +6,7 @@ It is played with a game master (GM) and one or more players. The GM builds and 
 Sigil of Uchma is an alternate history fantasy game. This means we are not bound strictly by Turkic mythology and lifestyle from early middle age and before. Things can be added, changed and removed. I highly recommend reading the resources in the section below.
 
 # Links
-+ Character creation guide: [[Sigil of Uchma v1-a5 Character Creation Guide.pdf|Link to guide]]
++ Character creation guide: [[Player Characters|Link]]
 + YouTube channel: <https://www.youtube.com/@SigilofUchma>
 + Feedback form: <https://forms.gle/7NwTYqGUWpBfBWNg8>
 + GitHub repository: <https://github.com/TaygaHoshi/tt-project>
