@@ -50,7 +50,7 @@ Choose a weapon type. You have a +1 bonus to precision rolls for weapon attacks 
 Choose one style to start specializing in. You gain all of the listed benefits of that style.
 1. *Strength specialization:* Combat techniques you perform are considered to have +1 POW and gain a +1 bonus to their precision rolls.  
 2. *Endurance specialization:* Spending aptitude points on VIT increases your maximum health by 2. This includes previously spent points.
-3. *Magical specialization:* Choose any simple novice spell. You can cast this spell by spending energy instead.
+3. *Magical specialization:* Choose any simple novice spell. You can cast this spell by spending energy as normal.
 
 ## Armor Specialization 1
 Choose an armor weight category. You get the following benefits while wearing an armor in that category.
