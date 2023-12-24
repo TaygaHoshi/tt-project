@@ -38,26 +38,12 @@ Resistances lower the accuracy of incoming hits. They act as the success thresho
 
 List of resistances is given below:
 
-**Parry**
-+ Counters ACU rolls.
-+ Increases with POW.
+Resistance | Increases With | Counters
+:---: | :---: | :---
+Parry | POW | ACU rolls
+Constitution | VIT | Status effects (usually)
+Evasion | SPD | Area of effect attacks (usually)
+Reflection | ARC | PEN rolls
+Faith | WRA | PRA rolls
+Willpower | EXP | PER rolls
 
-**Constitution**
-+ Usually counters attacks that give status effects.
-+ Increases with VIT.
-
-**Evasion**
-+ Usually counters area of effect attacks.
-+ Increases with SPD.
-
-**Reflection**
-+ Counters PEN rolls.
-+ Increases with ARC.
-
-**Faith**
-+ Counters PRA rolls.
-+ Increases with WRA.
-
-**Willpower**
-+ Counters PER rolls.
-+ Increases with EXP.

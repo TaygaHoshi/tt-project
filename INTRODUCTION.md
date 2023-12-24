@@ -22,7 +22,7 @@ Sigil of Uchma has owl vampires, charming snake monsters able to transform into 
 See [[Player Characters]].
 
 **Fun and engaging turn-based combat:**
-Classes have both shared and unique abilities. Weapons have active and passive abilities, spells are varied and carry an impact while not being overpowered, armors are strong. Additionally there is no arbitrarily locking players out of features. A magician can wear any type of armor and wield all weapons without penalties to their spell casting.
+Classes have both shared and unique abilities. Weapons have active and passive abilities, spells are varied and carry an impact while not being overpowered, armors are strong. Additionally there is no arbitrarily locking players out of features. A performer can wear any type of armor and wield all weapons without penalties to their spell casting.
 
 Furthermore, there are not many calculations to slow turns down during combat. Most numbers like damage of a weapon can be calculated beforehand. With proper notes, turns can get very fast.
 

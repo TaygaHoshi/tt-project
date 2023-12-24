@@ -10,8 +10,8 @@
     * Any armor of choice.
     * #TODO 
 
-## Features
-Level | Features
+## Class Abilities
+Level | Abilities
 :---: | ---
 1 | Performer Branches, Expert of Arts
 2 | 

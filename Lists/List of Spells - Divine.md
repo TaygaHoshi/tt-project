@@ -89,7 +89,7 @@
 **Duration:** 6 hours
 **Effect**
 	Bestow a small gemstone you can touch either magical eyes or magical ears. You can use this gemstone as additional sensory organs. You can still use your eyes and ears while this spell is active.
-	As a rapid action, any creature suspecting a clairvoyance object nearby can make a Scouting roll against your Faith. If it succeeds, it notices this object.
+	As a rapid action, any creature suspecting a clairvoyance object nearby can make a PRA precision roll. If this roll succeeds, it notices this object.
 
 ## Detect Living
 **Complexity:** Simple

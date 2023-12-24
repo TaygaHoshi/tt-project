@@ -10,8 +10,8 @@ Soldiers can be honorable warriors, bounty hunters, master swordsmen and more. T
     * Any armor of choice.
     * #TODO 
 
-## Features
-Level | Features
+## Class Abilities
+Level | Ability
 :---: | ---
 1 | Soldier Branches, Favored Weapon
 2 | Style Specialization
