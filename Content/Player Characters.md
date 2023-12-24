@@ -11,7 +11,7 @@ A player character can start with choosing a class:
 1. [[Soldier]]
 2. [[Shaman]]
 3. [[Scout]]
-4. [[Magician]]
+4. [[Witch]]
 5. [[Warden]]
 6. [[Performer]]
 

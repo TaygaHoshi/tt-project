@@ -1,4 +1,4 @@
-# Magician (𐰋𐰘𐰲𐰇)
+# Witch (𐰲𐰑𐰃)
 #TODO 
 
 ## Base Stats, Abilities & Gear
@@ -10,10 +10,10 @@
     * Any armor of choice.
     * #TODO 
 
-## Features
-Level | Features
+## Class Abilities
+Level | Abilities
 :---: | ---
-1 | Magician Branches, Witchcraft Expert, Elemental Affinity
+1 | Witch Branches, Witchcraft Expert, Elemental Affinity
 2 | Spell Modifiers 1
 3 | Branch Feature
 4 | Attuning
@@ -40,14 +40,14 @@ Level |   Novice spells   |  Veteran spells  | Expert spells
 10| 6| 4| 2       
 
 
-## Magician Branches
+## Witch Branches
 #TODO 
+
+## Witchcraft Expert
+As a Witch, you are able to cast both simple and complex witchcraft spells.
 
 ## Elemental Affinity
 Choose an element. Spells you cast and abilities you use with that element are considered to have a bonus +1 ARC.
-
-## Witchcraft Expert
-As a Magician, you are able to cast both simple and complex witchcraft spells.
 
 ## Spell Modifiers
 Choose two modifiers each at levels 2 and 6. 

@@ -1,5 +1,5 @@
 # Combat Techniques
-Warriors might not be able to cast spells like a magician or a shaman, but they can take on their enemies their own way: brute force, complex movement, advanced techniques and alternative uses of weapons. By default, all combat techniques use the strength aptitude.
+Warriors might not be able to cast spells like a witch or a shaman, but they can take on their enemies their own way: brute force, complex movement, advanced techniques and alternative uses of weapons. By default, all combat techniques use the strength aptitude.
 
 There are two kinds of combat techniques: Simple and advanced. These two groups guide the combat technique learning progress. A similar mechanism exists on [[Spells]], albeit the names of the groups are different. 
 
