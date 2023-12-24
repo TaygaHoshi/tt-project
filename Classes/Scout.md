@@ -10,13 +10,13 @@
     * Any armor of choice.
     * #TODO 
 
-## Features
-Level | Features
+## Class Abilities
+Level | Abilities
 :---: | ---
-	1 | Scout Branches, Exploiting
+1 | Scout Branches, Exploiting
 2 | Improvised Aid
 3 | Branch Feature
-4 | 
+4 | Survival Training
 5 | Branch Feature
 6 | 
 7 | Branch Feature
@@ -55,4 +55,9 @@ You can spend 2 energy to tend to yourself as an action, or a willing creature y
 1. Cure a debilitating or a harmful status effect of your choosing, or
 2. Grant 10 temporary health for 1 round. 
 
+## Survival Training
+Choose one of the following abilities. You gain that ability passively against attacks from exploitable foes:
+1. *Improved Reflexes*: You have a +1 bonus to Parry, Evasion and Reflection.
+2. *Strong Will:* You have a +1 bonus to Constitution, Faith and Willpower.
+3. #TODO 
 
