@@ -44,16 +44,16 @@ Level | Simple techniques | Advanced techniques
 #TODO 
 
 ## Exploiting
-Your non-damaging combat techniques gain a +1 to their POW, and your basic weapon attacks gain a +3 bonus damage against:
+Your non-damaging combat techniques gain a +1 to their POW, and your weapon attacks gain a +3 bonus damage against:
 1. flanked foes,
-2. foes with any debilitating status effects, 
+2. foes with any debilitating status effect, 
 3. prone foes, and
 4. foes in lower terrain compared to you.
 
 ## Improvised Aid
 You can spend 2 energy to tend to yourself as an action, or a willing creature you can touch as a rapid action, with whatever is available near you. You can either:
 1. Cure a debilitating or a harmful status effect of your choosing, or
-2. Grant 10 temporary health for 1 round. 
+2. Grant (10 + POW/2) temporary health for 1 round. 
 
 ## Survival Training
 Choose one of the following abilities. You gain that ability passively against attacks from exploitable foes:
