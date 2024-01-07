@@ -57,16 +57,12 @@ These modifiers cost 1 energy to apply to the next spell you cast, and a spell c
 3. *Improved range:* This spell's range is increased by 2 meters. This modifier does not affect radius of a spell.
 4. *Selective effect:* This spell doesn't affect one creature you choose, aside from yourself.
 5. *Self-shielding:* This spell grants you physical and magical temporary armor equal to half of its energy cost.
-6. *Surprise casting:* This spell has a +1 to its precision rolls against flanked foes.
+6. *Surprise casting:* This spell is considered to have a +1 bonus ARC against flanked foes.
 7. *Spell knockback:* This single-target damaging spell pushes its target one meter away from you. 
 8. *Reduced duration:* This spell's duration is halved.
 
 ## Attuning
-As a rapid action, you can attune to the forces of nature. While attuned:
-1. Your spells are considered to have a bonus +1 ARC and gain a +1 bonus to their precision rolls.
-2. You can't use weapon attacks and combat techniques.
-3. You walk at half speed and can't fly, climb, swim or run.
-Attuning lasts at least until the end of next round. In the following rounds, you can stop attuning as a rapid action.
+As a rapid action, you can attune to the forces of nature for this round. While attuned, your spells are considered to have a bonus +1 ARC and gain a +1 bonus to their precision rolls. You can't attune if you moved more than half your movement speed this round, and your movement speed is halved while attuned.
 
 ## Elemental Mastery
 Before casting an elemental spell, you can choose to activate the effects of two elements for that spell by spending double the energy cost. You can choose which element's effect activates first. You can use Elemental Mastery only once per round.

@@ -25,7 +25,7 @@
 **Effect**
 	This spell's precision rolls are made against Evasion.
 	Create an area of shifting, moving, waving and spiraling ground. Make a precision roll against any creature walking into or ending their turn within this area. On success, the creature falls prone.
-	Area spells can't be overlapped.
+	This area is heavy rough terrain.
 
 ## Call Spirit, Novice
 **Complexity:** Complex
@@ -93,9 +93,9 @@
 **Cost:** 4 energy
 **Range:** Self
 **Radius:** 5 meters
-**Duration:** (5 + ARC/4) rounds
+**Duration:** (5 + ARC/2) rounds
 **Effect**
-	You generate a large and stationary raincloud above you, and it starts to rain immediately. All creatures below this cloud are soaked every round unless they have cover from rain.
+	You generate a large and stationary raincloud above you, and it starts to rain immediately. All creatures ending their turns below this cloud are soaked unless they have cover from rain.
 	Alternatively, you can choose to cast a wider and longer version of this spell. This requires 1 hour of uninterrupted casting. In this case, this raincloud lasts for 5 hours and affects a 50 meter radius area.
 	This spell can only be used outside or interiors with sufficient space.
 
