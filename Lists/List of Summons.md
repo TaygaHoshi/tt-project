@@ -175,7 +175,7 @@
 	+ Slash
 		+ Deals (10 + level) physical damage.
 	+ (Witchcraft spell) Binding
-		+ Range: 5 meters
+		+ Range: 5 meters-
 		+ This attack's precision rolls are made against Constitution.
 		+ Branches emerge from this summon, binding a target. This target is immobilized for 1 round.
 	+ (Prepared action) Plant Armor

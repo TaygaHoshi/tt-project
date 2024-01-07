@@ -58,7 +58,7 @@
 **Duration:** 2 rounds
 **Effect**
 	(Projectile)
-	A powerful arc of lightning leaves your hand and strikes your target, dealing 10 damage and applies electrified for the duration.
+	A powerful arc of lightning leaves your hand and strikes your target, dealing 10 damage and applying electrified for the duration.
 
 ## Elemental Arrow
 **Complexity:** Simple

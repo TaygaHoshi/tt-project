@@ -46,7 +46,7 @@
 + **Resistances:** 6
 + **Skills**
 	+ (Passive) Improved Aiming
-		+ This bandit can choose to stay stationary during their turn, removing the -2 precision roll penalty from Unsteady Aiming.
+		+ This bandit can choose to stay stationary during its turn, removing the -2 precision roll penalty from Unsteady Aiming.
 	+ (Projectile) Shoot
 		+ Range: 15 meters
 		+ Deals 24 physical damage.
