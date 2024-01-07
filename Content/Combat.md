@@ -70,8 +70,7 @@ Terms in this formula are explained below:
 In some cases, a specific spell, an ability or an attack might include a precision bonus or penalty itself. For example, "wide slash" attack of a glaive doesn't include "weapon precision bonus" in its precision roll. We know this because "wide slash" has the phrase "ignores weapon precision" in its explanation. A weapon precision bonus only applies when a precision roll matches the weapon's precision type. For example, a wand of any type normally doesn't affect ACU rolls.
 
 ## Critical Hits
-An attack or a damaging spell can incur a critical hit. For them to be considered a critical hit, the d10 in the precision roll must be a 10. 
-Effects of critical hits are discussed in the Damage section.
+A weapon attack, a spell, an ability or similar precision rolls hit critically when the d10 in the precision roll is a 10. A critical hit is always considered a successful roll, ignoring the resistance. Critical hits do not grant any bonus to damage.
 
 # Damage
 When a creature takes damage, this damage value reduces their health.
@@ -88,9 +87,6 @@ Terms in this formula are explained below:
 
 In some cases, a specific spell or attack might include a potency bonus or penalty itself. As an example, let's take the Witchcraft spell Elemental Infusion. This spell includes the phrase "potency bonus to damage is halved for this spell". This simply means "potency of relevant aptitude" is divided by two in the formula:
 	Action damage + (potency of relevant aptitude)/2 + other bonuses - target's armor
-
-## Critical Hits
-Critical hits increase *Action damage* only, by 50%.
 
 ## Armor
 Each creature has two kinds of armor: Physical armor and magical armor. Normally, damage from weapon attacks and similar abilities are affected by physical armor and damage from magical sources like spells are affected by magical armor. If something is an exception to this rule, this is told in the explanation of it.
