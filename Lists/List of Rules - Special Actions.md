@@ -44,10 +44,9 @@
 	Any melee weapon in main hand.
 **Explanation:** 
 	Ignores weapon precision.
-	You gain a (5 + SPD/2) bonus to your movement speed, and you charge your target using your movement speed. Then, you attack once with your weapon.
+	You gain a (5 + SPD/2) bonus to your movement speed, and you charge your target using your movement speed. Then, you perform a basic weapon attack.
 	You receive a -2 penalty to all resistances for 1 round.
 	This penalty increases by 1 for every 5 meters you move after your base movement speed.
-	This action is considered a weapon attack.
 
 # Dual Strike
 **Activation time:** Full-turn action
@@ -55,9 +54,9 @@
 	A one handed weapon in main hand.
 	A light weapon in off-hand.
 **Explanation:** 
-	You attack with both your main weapon and off-hand weapon.
-	Your off-hand weapon receives a -2 penalty to its precision roll and does half damage before armor. 
-	This action is considered a weapon attack.
+	You attack with both your main hand weapon and off-hand weapon. 
+	Your off-hand weapon receives a -2 penalty to its precision roll and deals half weapon damage.
+	The strike with your main hand weapon is considered a basic weapon attack.
 
 # First Aid
 **Activation time:** Action

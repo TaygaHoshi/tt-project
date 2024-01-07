@@ -5,6 +5,9 @@ Weapons are what creatures use to hit their foes. Most creatures with body parts
 2. [[List of Weapons - Off-hand|Off-hand weapons]] 
 3. [[List of Weapons - Two Handed|Two handed weapons]] 
 
+## Basic Weapon Attacks
+Some abilities may include a phrase similar to "doing a basic weapon attack". This means using the regular attack of a weapon, which is almost always the first active ability. 
+
 # Weapon Sets
 Weapon sets are helpful guides used primarily during character creation. If you take a bow, you will also get a quiver and 30 basic arrows. 
 
