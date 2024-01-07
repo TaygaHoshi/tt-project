@@ -12,7 +12,6 @@ Base movement speed of a creature is calculated with the formula below:
 
 ## Walking
 * Walking is the simplest way of movement. a creature's walking speed is equal to its movement speed, normally.
-* Creatures who have walked during their turns can't take full-turn actions.
 
 ## Running
 + Instead of taking an action, a creature might "walk" twice. This is called "running" and unless specified otherwise, it is equal to double the walking speed.
