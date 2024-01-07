@@ -114,7 +114,7 @@ war drums        |     -    |     1     | 10m   |  -
 + (Projectile) Shoot
 	+ Range: 15 meters
 	+ Deals 24 damage.
-+ (Projectile) Multishot
++ (Projectile) Multi-shot
 	+ This attack's precision rolls are made against Evasion.
 	+ Deals 12 damage. Potency bonus to damage is doubled for this attack. 
 	+ Hits all creatures in 15 squares in a cone shape in front of you.

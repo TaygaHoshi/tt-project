@@ -15,7 +15,7 @@ A player character can start with choosing a class:
 5. [[Warden]]
 6. [[Performer]]
 
-Classes are further divided into subclasses called branches. Description of branches will be added to the relevant class page. Currently, branches are #TODO.
+Classes are further divided into sub-classes called branches. Description of branches will be added to the relevant class page. Currently, branches are #TODO.
 
 ### Health
 Your starting class determines your health. There are three tiers of maximum health:

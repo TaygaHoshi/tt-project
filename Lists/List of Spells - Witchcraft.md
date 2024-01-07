@@ -95,8 +95,8 @@
 **Radius:** 5 meters
 **Duration:** (5 + ARC/2) rounds
 **Effect**
-	You generate a large and stationary raincloud above you, and it starts to rain immediately. All creatures ending their turns below this cloud are soaked unless they have cover from rain.
-	Alternatively, you can choose to cast a wider and longer version of this spell. This requires 1 hour of uninterrupted casting. In this case, this raincloud lasts for 5 hours and affects a 50 meter radius area.
+	You generate a large and stationary rain cloud above you, and it starts to rain immediately. All creatures ending their turns below this cloud are soaked unless they have cover from rain.
+	Alternatively, you can choose to cast a wider and longer version of this spell. This requires 1 hour of uninterrupted casting. In this case, this rain cloud lasts for 5 hours and affects a 50 meter radius area.
 	This spell can only be used outside or interiors with sufficient space.
 
 ## Terraform

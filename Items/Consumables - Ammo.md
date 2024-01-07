@@ -18,7 +18,7 @@
 	Choose an area with 2 meter radius within half of this weapon's range. Flaming oil splatters onto this area, applying burning for 1 round.
 **Crafting:** #TODO 
 
-# Webshot Bolts
+# Web-shot Bolts
 **Variants**: Bolt.
 **Effect:**
 	This item must be used with a crossbow's basic weapon attack.
