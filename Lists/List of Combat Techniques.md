@@ -98,34 +98,6 @@
 **Effect**
 	You quickly spread a vial of poison on your weapon in the heat of battle.
 
-## Use Special Arrow
-**Category:** Weapon attack
-**Execution Time:** Action
-**Cost:** 2 energy
-**Range:** Half weapon range
-**Radius:** 2 meters
-**Duration:** 2 rounds
-**Requirements:**
-	A longbow or a shortbow.
-	1 x Special Arrow
-**Effect**
-	(Projectile)
-	You shoot a [[Special Arrows and Bolts|special arrow]], such as an oil flask arrow or a firework arrow.
-
-## Use Special Bolt
-**Category:** Weapon attack
-**Execution Time:** Action
-**Cost:** 2 energy
-**Range:** Half weapon range
-**Radius:** 2 meters
-**Duration:** 2 rounds
-**Requirements:**
-	A crossbow.
-	1 x Special Bolt
-**Effect**
-	(Projectile)
-	You shoot a [[Special Arrows and Bolts|special bolt]], such as a webshot bolt or a firework bolt.
-
 # Advanced Combat Techniques
 ## Wrestling 
 **Category:** Weapon attack
