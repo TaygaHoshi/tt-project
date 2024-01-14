@@ -14,7 +14,7 @@ Light Weapon    |  -  |   -   |   -   |       -        |       -       |    -
 
 
 > [!info]
- The "SPD penalty" from Shield affect Evasion, movement speed and initiative. It does not affect the SPD aptitude itself on the character sheet.
+ The "SPD penalty" from Shield reduce Evasion, movement speed and initiative. It does not affect the SPD aptitude itself on the character sheet.
 
 ## Shield
 + (Prepared) Projectile Defense

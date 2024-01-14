@@ -11,7 +11,7 @@ Heavy      |      10        |       -       | -2  |   -5    |
 
 
 > [!info]
- The "SPD penalty" from wearing armor affect Evasion, movement speed and initiative. It does not affect the SPD aptitude itself on the character sheet.
+ The "SPD penalty" from wearing armor reduce Evasion, movement speed and initiative. It does not affect the SPD aptitude itself on the character sheet.
 
 # Temporary Armor
 Additional armor can be gained through spells and abilities which grant temporary armor. Rules of temporary armor can be found in the [[List of Rules - Status Effects]] page.
