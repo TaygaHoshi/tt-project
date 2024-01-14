@@ -99,7 +99,7 @@
 	Alternatively, you can choose to cast a wider and longer version of this spell. This requires 1 hour of uninterrupted casting. In this case, this rain cloud lasts for 5 hours and affects a 50 meter radius area.
 	This spell can only be used outside or interiors with sufficient space.
 
-## Terraform
+## Landshape
 **Complexity:** Simple
 **Casting Time:** Full-turn action
 **Cost:** 4 energy
@@ -108,7 +108,7 @@
 **Effect**
 	You can vaguely guide the natural features of the geography around you to change shape. After half of this spell's duration has passed, the geography starts slowly returning to its original shape. While casting this spell, you can choose to spend double the energy cost instead. In this case, the spell requires 1 hour of uninterrupted casting but its effects stay permanent.  
 
-## Armor of Branches
+## Branch Armor
 **Complexity:** Complex
 **Casting Time:** Rapid action
 **Cost:** 2 energy

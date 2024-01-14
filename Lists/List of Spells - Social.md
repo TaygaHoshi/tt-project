@@ -83,6 +83,8 @@
 	Choose an aptitude. Your magic induces fury within your target, increasing that aptitude's potency by 1. If your target gets out of range, this spell immediately ends.
 	You can end this spell freely at any time.
 
+
+
 ---
 # Expert Spells
 

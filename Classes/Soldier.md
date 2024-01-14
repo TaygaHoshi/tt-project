@@ -11,18 +11,19 @@ Soldiers can be honorable warriors, bounty hunters, master swordsmen and more. T
     * #TODO 
 
 ## Class Abilities
-Level | Ability
-:---: | ---
-1 | Soldier Branches, Critical Training
-2 | Style Specialization
-3 | Branch Feature
-4 | Armor Training 1
-5 | Branch Feature
-6 | Weapon Mastery
-7 | Branch Feature
-8 | Armor Training 2
-9 | Branch Feature
-10| Weapon Expertise
+| Level | Ability |
+| :--: | ---- |
+| 1 | Soldier Branches, Critical Training |
+| 2 | Style Specialization |
+| 3 | Branch Feature |
+| 4 | Armor Training 1 |
+| 5 | Branch Feature |
+| 6 | Weapon Mastery |
+| 7 | Branch Feature |
+| 8 | Armor Training 2 |
+| 9 | Branch Feature |
+| 10 | Weapon Expertise |
+|  |  |
 
 
 ## Combat Technique Count
@@ -57,7 +58,7 @@ Choose one style to start specializing in. You gain the listed benefits of that 
 Choose a type of armor, and one passive effect. You gain that effect while wearing this armor type.
 1. *Efficiency:* You do not gain the resistance penalties from being stunned or prone.
 2. *Impenetrable defense:* You are immune to any type of armor piercing. This also affects your shield.
-3. *Like the wind*: When you charge or run, you gain a +1 bonus to your Parry and Evasion.
+3. *Like the wind*: When you charge or run, you gain a +1 bonus to your Parry and Evasion for 1 round.
 
 ## Weapon Mastery
 Choose one weapon ability. 
