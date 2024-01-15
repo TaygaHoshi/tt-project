@@ -60,7 +60,7 @@
 	Any melee weapon in main hand.
 **Effect**
 	Ignores weapon precision.
-	Next time any target within range attacks you, you counter attack them, dealing half damage.
+	Next time any target within range attacks you, you counter attack them, dealing half weapon damage.
 
 ## Shield Bash
 **Category:** Weapon attack
@@ -98,11 +98,25 @@
 **Effect**
 	You quickly spread a vial of poison on your weapon in the heat of battle.
 
+## Hamstring
+**Category:** Weapon attack
+**Execution Time:** Action
+**Cost:** 2 energy
+**Range:** Weapon range
+**Duration:** 2 round
+**Requirements:**
+	Any melee weapon in main hand.
+**Effect**
+	This attack's precision roll is made against Constitution.
+	Deals half weapon damage.
+	Applies slowed on hit.
+
+---
 # Advanced Combat Techniques
 ## Wrestling 
 **Category:** Weapon attack
 **Execution Time:** Full-turn action
-**Cost:** 4 energy
+**Cost:** 3 energy
 **Range:** 1 meter
 **Requirements:**
 	Unarmed off-hand.
@@ -123,31 +137,16 @@
 	You disarm one of the weapons of the target if they have one. This weapon falls below the target.
 	This technique can't disarm natural weapons.
 
-## Cleave
-**Category:** Weapon attack
-**Execution Time:** Full-turn action  
-**Cost:** 3 energy
-**Range:** Weapon range
-**Radius:** Weapon range
-**Requirements:**
-	Either a curved sword, a reinforced club, a two-handed sword, a hammer or a glaive.
-**Effect**
-	This attack's precision rolls are made against Evasion.
-	Ignores weapon precision.
-	Choose a direction: clockwise or counter-clockwise. Attack a target with your weapon. If this target dies or falls unconscious, you attack the next closest foe in the direction you chose. Cleave continues until either you miss or one of the foes survive your attack.
-
 ## Ambidextrous Strike
 **Category:** Weapon attack
 **Execution Time:** Special
 **Cost:** 1 energy
-**Range:** 1 meter
 **Requirements:**
-	Dual wielding two weapons.
+	Dual wielding two one handed weapons.
 **Effect**
 	Choose one:
 	Attack with your off-hand weapon as if it were your main hand weapon. You can choose any weapon attack of your off-hand weapon.
 	Take the dual strike action with your off-hand as if it were your main hand, and your main hand as if it were your off-hand.
-
 
 ## Adrenaline Leap
 **Category:** Mobility
@@ -163,7 +162,7 @@
 **Cost:** 2 energy
 **Range:** 1 meter
 **Requirements:**
-	Any melee weapon.
+	Any melee weapon in main hand.
 	A damaging prepared weapon attack or combat technique.
 **Effect**
 	You can choose to activate this ability when you use a prepared action. This prepared action can trigger twice instead of once. You can instead spend double the energy cost to have your prepared action trigger thrice instead.
