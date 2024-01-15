@@ -24,7 +24,7 @@ Level | Abilities
 9 | Branch Feature
 10| 
 
-
+---
 ## Combat Technique Count
 Level | Simple techniques | Advanced techniques
 :---: | :---: | :---:
@@ -39,7 +39,7 @@ Level | Simple techniques | Advanced techniques
 9 |5|5
 10|5|5
 
-
+---
 ## Scout Branches
 #TODO 
 

@@ -24,7 +24,7 @@ Level | Abilities
 9 | Branch Feature
 10| Elemental Mastery
 
-
+---
 ## Spell Count
 Level |   Novice spells   |  Veteran spells  | Expert spells
 :---: | :---: | :---: | :---:
@@ -39,7 +39,7 @@ Level |   Novice spells   |  Veteran spells  | Expert spells
 9 | 6| 3| 2       
 10| 6| 4| 2       
 
-
+---
 ## Witch Branches
 #TODO 
 
