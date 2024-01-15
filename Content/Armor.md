@@ -4,9 +4,9 @@ This equipment protects its wearer from physical and magical damage, depending o
 # Armor Types and Armor Rating
 Armor Type | Physical Armor | Magical Armor | SPD Penalty | Stealth Penalty
 --- | :---: | :---: | :---: | :---: 
-Robes      |       -        |      10       |  -  |    -    |
+Robes      |       -        |      5       |  -  |    -    |
 Light      |       5        |       -       |  -  |    -    |
-Adventurer |       5        |       5       | -1  |   -2    |
+Adventurer |       5        |       5       | -2  |   -2    |
 Heavy      |      10        |       -       | -2  |   -5    |
 
 
