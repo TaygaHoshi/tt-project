@@ -34,6 +34,15 @@ At the start phase of every round, turn order will be calculated for this round.
 	+ For conflicting turn order spots, higher rolling teams' members will go earlier than the lower rolling teams' members with the same SPD.
 	+ If there is a draw, another set of d20s must be rolled between the drawing sides.
 
+A creature can only have one turn within one round, even if the creature is next in initiative order.
+
+## Ability Durations
++ Effects of abilities with a duration of one or more rounds trigger and end during the recipient's turns: 
+	+ If a creature is bleeding for one round, they will take bleeding damage at the start of their next turn and the bleeding ends, even if their turn was within the round.
+	+ If the bleeding has a duration of two or more rounds, then the duration will be reduced by one when the bleeding damage happens.
+	+ Similarly, effects such as low morale, stunned, disoriented and immobilized will finish at the end of the recipient's turn if they reached the end of their duration.
++ Lasting area of effect abilities, summoning spells and similar abilities start and end during the turns of their owners.
+
 # Action Types and Timing
 Each turn takes approximately 10 seconds in game.
 
@@ -98,3 +107,4 @@ For a spell to be considered a "damaging action", it should have a base damage. 
 Extra damage is a completely different packet of damage that just shares the precision roll of another attack. Extra damage has its own values for action damage, potency, bonuses and it is affected by armor separately from the delivering attack.
 
 On the other hand, bonus damage is just added into the delivering attack's damage calculation. Specifically, to the "other bonuses" term.
+
