@@ -50,7 +50,7 @@ If you roll a 9 for a precision roll of a weapon attack or a combat technique, y
 
 ## Style Specialization
 Choose one style to start specializing in. You gain the listed benefits of that style.
-1. *Strength specialization:* Combat techniques you perform are considered to have +1 POW and gain a +1 bonus to their precision rolls. This ability works normally when a combat technique modifies another action.
+1. *Strength specialization:* Combat techniques you perform are considered to have +2 POW. This ability works normally when a combat technique modifies another action.
 2. *Endurance specialization:* Spending aptitude points on VIT increases your maximum health by 2. This includes previously spent points.
 3. *Magical specialization:* Choose any simple novice spell. You can cast this spell by spending energy as normal.
 

@@ -12,7 +12,7 @@
 	Tackle your target, making them fall prone.
 
 ## Extend Preparation
-**Category:** General
+**Category:** Modification
 **Execution Time:** Special
 **Cost:** 1 energy
 **Requirements:**
@@ -21,16 +21,16 @@
 	You can choose to activate this ability when you use a prepared action. This prepared action lasts until your next turn.
 
 ## Peeking
-**Category:** Mobility
+**Category:** Modification
 **Execution Time:** Special
 **Cost:** 1 energy
 **Requirements:**
-	Any bow.
+	Any bow weapon attack.
 **Effect**
 	When you attempt any bow weapon attack during your turn, you can move up to (2 + POW/4) meters before attacking as a part of that action. This ability can be used alongside Improved Aiming. 
 
 ## Crushing Charge
-**Category:** Weapon attack
+**Category:** Modification
 **Execution Time:** Special
 **Cost:** 2 energy
 **Duration:** 1 round
@@ -42,23 +42,25 @@
 	At the end of this Charge, your attack additionally stuns the target for the duration.
 
 ## Reaching Attack
-**Category:** Weapon attack
+**Category:** Modification
 **Execution Time:** Special 
 **Cost:** 1 energy
 **Range:** Double weapon range
 **Requirements:**
 	Any melee weapon in main hand.
+	A basic weapon attack.
 **Effect**
 	Ignores weapon precision.
 	As a part of a basic weapon attack with a melee weapon, you can choose to activate this ability. Your weapon's reach is doubled for this attack.
 
 ## Defensive Strike
-**Category:** Weapon attack
+**Category:** Modification
 **Execution Time:** Special
 **Cost:** 1 energy
 **Duration:** 1 round
 **Requirements:**
 	Any melee weapon in main hand.
+	A basic weapon attack.
 **Effect**
 	As a part of a basic weapon attack with a melee weapon, you can choose to activate this ability, except for the charge action.
 	Choose a resistance. You gain a (1 + POW/4) bonus to a resistance of your choosing against attacks from this target for one round.
@@ -112,9 +114,11 @@
 	You can only wrestle one target at any time.
 
 ## Adrenaline Leap
-**Category:** Mobility
+**Category:** Modification
 **Execution Time:** Special
 **Cost:** 2 energy
+**Requirements:**
+	Any full-turn action other than Charge.
 **Effect**
 	You can choose to activate this technique when you take any full-turn action other than the Charge special action.
 	You can move up to (2 + POW/4) meters before taking that action.
@@ -134,7 +138,7 @@
 **Execution Time:** Action
 **Cost:** 2 energy
 **Range:** Weapon range
-**Duration:** 2 round
+**Duration:** 2 rounds
 **Requirements:**
 	Any melee weapon in main hand.
 **Effect**
@@ -154,7 +158,7 @@
 	Take the dual strike action with your off-hand as if it were your main hand, and your main hand as if it were your off-hand.
 
 ## Double Opportunity
-**Category:** General
+**Category:** Modification
 **Execution Time:** Special
 **Cost:** 2 energy
 **Range:** 1 meter
