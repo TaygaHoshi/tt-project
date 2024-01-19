@@ -106,7 +106,7 @@ Two handed weapons have three weapon attacks.
 + (Projectile) Shoot
 	+ Range: 15 meters.
 	+ Deals 20 damage.
-+ #TODO 
++ (Projectile) #TODO 
 + (Prepared action) #TODO 
 
 ## Crossbow

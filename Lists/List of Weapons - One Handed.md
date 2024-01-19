@@ -69,7 +69,7 @@ One handed weapons are divided into two: heavy weapons and light weapons. Light 
 ## Shortsword (Light)
 + Aptitude: Strength
 + Slash
-	+ Deals 24 damage.
+	+ Deals 20 damage.
 + #TODO 
 + (Prepared) #TODO 
 
@@ -77,18 +77,17 @@ One handed weapons are divided into two: heavy weapons and light weapons. Light 
 + Aptitude: Strength
 + Stab
 	+ Deals 15 damage.
-	+ Potency bonus to damage is doubled for this attack against a stunned, disoriented or prone target.
 + Double Slash
-	+ Deals 7 damage.
+	+ Deals 10 damage.
 	+ You attack the target twice.
 + (Prepared action) Backstab
 	+ Next time a flanked foe within your reach is attacked by an ally, you also attack them.
-	+ Deals 7 damage. Potency bonus 
+	+ Deals 7 damage. Potency bonus to damage is doubled for this attack. 
 
 ## Unarmed (Light)
 + Aptitude: Strength
 + Punch
-	+ Deals 16 damage.
+	+ Deals 10 damage.
 + Stunning Blow 
 	+ This attack's precision roll is made against Constitution.
 	+ Ignores weapon damage and precision.
@@ -96,4 +95,4 @@ One handed weapons are divided into two: heavy weapons and light weapons. Light 
 + (Prepared action) Disorienting Blow
 	+ This attack's precision roll is made against Constitution.
 	+ Ignores weapon damage and precision.
-	+ Attack the next foe who moves into or out of melee range, applying (1 + POW/4) rounds of disorientation.
+	+ Attack the next foe who moves into, within or out of melee range, applying 1 round of disorientation.
