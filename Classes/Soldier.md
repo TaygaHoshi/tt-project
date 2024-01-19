@@ -23,7 +23,7 @@ Soldiers can be honorable warriors, bounty hunters, master swordsmen and more. T
 | 8 | Armor Training 2 |
 | 9 | Branch Feature |
 | 10 | Weapon Expertise |
-|  |  |
+
 
 ---
 ## Combat Technique Count
