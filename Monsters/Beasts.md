@@ -82,7 +82,7 @@
 + **Physical Armor:** 5
 + **Magic Armor:** 5
 + **Weapons:** Antlers
-+ **Precision roll:** (ACU) d10 + 5, (PER) d10 + 4
++ **Precision roll:** (ACU) d10 + 6, (PER) d10 + 4
 + **Resistances:** 9, 12 Parry, 12 Constitution
 + **Skills**
 	+ (Passive) Nature Bond
