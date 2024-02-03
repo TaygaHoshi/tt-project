@@ -11,18 +11,18 @@
     * #TODO 
 
 ## Class Abilities
-Level | Abilities
-:---: | ---
-1 | Witch Branches, Witchcraft Expert, Elemental Affinity
-2 | Spell Modifiers 1
-3 | Branch Feature
-4 | Attuning
-5 | Branch Feature
-6 | Spell Modifiers 2
-7 | Branch Feature
-8 | 
-9 | Branch Feature
-10| Elemental Mastery
+| Level | Abilities |
+| :--: | ---- |
+| 1 | Witch Branches, Witchcraft Expert, Attuning |
+| 2 | Spell Modifiers 1 |
+| 3 | Branch Feature |
+| 4 | Advanced Attuning |
+| 5 | Branch Feature |
+| 6 | Spell Modifiers 2 |
+| 7 | Branch Feature |
+| 8 |  |
+| 9 | Branch Feature |
+| 10 | Elemental Mastery |
 
 ---
 ## Spell Count
@@ -46,8 +46,8 @@ Level |   Novice spells   |  Veteran spells  | Expert spells
 ## Witchcraft Expert
 As a Witch, you are able to cast both simple and complex witchcraft spells.
 
-## Elemental Affinity
-Choose an element. Spells you cast and abilities you use with that element are considered to have a bonus +1 ARC.
+## Attuning
+As a rapid action, you can attune to the forces of nature for this round. While attuned, your spells are considered to have a bonus +1 ARC and a bonus to their precision rolls. You can't attune if you moved more than half your movement speed this round, and your movement speed is halved while attuned.
 
 ## Spell Modifiers
 Choose two modifiers each at levels 2 and 6. 
@@ -61,11 +61,11 @@ These modifiers cost 1 energy to apply to the next spell you cast, and a spell c
 7. *Spell knockback:* This single-target damaging spell pushes its target one meter away from you. 
 8. *Reduced duration:* This spell's duration is halved.
 
-## Attuning
-As a rapid action, you can attune to the forces of nature for this round. While attuned, your spells are considered to have a bonus +1 ARC and gain a +1 bonus to their precision rolls. You can't attune if you moved more than half your movement speed this round, and your movement speed is halved while attuned.
+## Advanced Attuning
+While attuning, you can use one spell modifier you have without spending energy cost.
 
 ## Elemental Mastery
-Before casting an elemental spell, you can choose to activate the effects of two elements for that spell by spending double the energy cost. You can choose which element's effect activates first. You can use Elemental Mastery only once per round.
+Before casting an elemental spell, you can choose to activate the effects of two elements for that spell by spending 2 energy. You can choose which element's effect activates first. You can use Elemental Mastery only once per round.
 
 
 
