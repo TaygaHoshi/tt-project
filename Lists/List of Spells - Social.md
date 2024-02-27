@@ -48,16 +48,6 @@
 
 ---
 # Veteran Spells
-## Song of Quickness
-**Complexity:** Complex
-**Casting Time:** Rapid action
-**Cost:** 1 energy per round
-**Range:** 3 meters
-**Duration:** Special
-**Effect**
-	Choose an aptitude. Your magic induces fury within your target, increasing that aptitude's potency by 2. If your target gets out of range, this spell immediately ends.
-	You can end this spell freely at any time, and can't use it on yourself.
-
 ## Song of Fury
 **Complexity:** Simple
 **Casting Time:** Rapid action
