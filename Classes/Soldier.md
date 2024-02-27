@@ -44,7 +44,7 @@ Level | Simple techniques | Advanced techniques
 #TODO 
 
 ## Critical Training
-If you roll a 10 on a precision roll's d10 with a damaging ability, it gains a (5 + potency) bonus to its damage, depending on their aptitudes.
+If you roll a 10 on a precision roll's d10 with a damaging ability, it gains a (5 + potency) bonus to its damage, depending on its aptitude.
 You can spend 2 energy to get the same benefits if you rolled a 9 with the d10. 
 
 ## Style Specialization
