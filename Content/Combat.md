@@ -26,7 +26,6 @@ Combat has rules for resolving various situations that players and the GM might 
 
 # Turn Order
 At the start phase of every round, turn order will be calculated for this round. There are several rules:
-
 + Every creature in combat is ordered in terms of their SPD from highest to lowest.
 + Allies with same SPD value must determine who goes first beforehand. This can only be changed in the end phase during combat.
 + If there are creatures with equal SPD in at least any two sides in the combat, the following rules are applied:
@@ -37,11 +36,10 @@ At the start phase of every round, turn order will be calculated for this round.
 A creature can only have one turn within one round, even if the creature is next in initiative order.
 
 ## Ability Durations
-+ Effects of abilities with a duration of one or more rounds trigger and end during the recipient's turns: 
-	+ If a creature is bleeding for one round, they will take bleeding damage at the start of their next turn and the bleeding ends, even if their turn was within the round.
-	+ If the bleeding has a duration of two or more rounds, then the duration will be reduced by one when the bleeding damage happens.
-	+ Similarly, effects such as low morale, stunned, disoriented and immobilized will finish at the end of the recipient's turn if they reached the end of their duration.
-+ Lasting area of effect abilities, summoning spells and similar abilities start and end during the turns of their owners.
++ Effects of abilities with a duration of one or more "hits" trigger and end during the recipient's turns: 
+	+ If a creature is bleeding for one hit, they will take bleeding damage at the start of their next turn and the bleeding ends. 
+	+ If the bleeding has a duration of two or more hits, then one hit will be spent when the bleeding damage happens.
++ Effects of abilities with a duration of one or more "rounds" end at the start of the turns of their owners.
 
 # Action Types and Timing
 Each turn takes approximately 10 seconds in game.
@@ -67,19 +65,18 @@ Precision rolls determine whether a weapon attack, a spell, a combat technique o
 
 A precision roll is done against a resistance, such as Parry or Evasion. If the result of this roll exceeds or is equal to the resistance it is rolled against, the roll succeeds and the spell or attack connects. 
 
+Additionally, if you roll a 10 with a precision roll's d10, the roll succeeds regardless of the relevant resistance. 
+
 ## Precision Roll Formula
 A precision roll is calculated according to this formula:
-	1d10 + precision of relevant aptitude + weapon precision bonus + other bonuses
+	1d10 + (relevant aptitude)/2 + weapon precision bonus + other bonuses
 
 Terms in this formula are explained below:
-	**Precision of relevant aptitude:** Equal to the precision stat of the weapon's or the spell's aptitude. For example, an elemental wand uses PEN. A shortsword uses ACU. A social spell uses PER.
+	**Relevant aptitude:** Equal to half of the weapon's or the spell's aptitude. For example, an elemental wand uses witchcraft. Bonuses to your aptitudes do not affect your precision rolls.
 	**Weapon precision bonus:** A weapon's precision type and bonus is determined by the type of the weapon held in main hand or the wielded two-handed weapon.
 	**Other bonuses:** These are bonuses or penalties which come from various sources like status effects, environment and the like.
 
-In some cases, a specific spell, an ability or an attack might include a precision bonus or penalty itself. For example, "wide slash" attack of a glaive doesn't include "weapon precision bonus" in its precision roll. We know this because "wide slash" has the phrase "ignores weapon precision" in its explanation. A weapon precision bonus only applies when a precision roll matches the weapon's precision type. For example, a wand of any type normally doesn't affect ACU rolls.
-
-## Critical Hits
-A weapon attack, a spell, an ability or similar precision rolls hit critically when the d10 in the precision roll is a 10. A critical hit is always considered a successful roll, ignoring the resistance. Critical hits do not grant any bonus to damage.
+In some cases, a specific spell, an ability or an attack might include a precision bonus or penalty itself. For example, "wide slash" attack of a glaive doesn't include "weapon precision bonus" in its precision roll. We know this because "wide slash" has the phrase "ignores weapon precision" in its explanation. A weapon precision bonus only applies when a precision roll matches the weapon's precision type. For example, a wand of any type normally doesn't affect precision rolls based on strength.
 
 # Damage
 When a creature takes damage, this damage value reduces their health.
@@ -90,7 +87,7 @@ Damage done to a target is calculated according to this formula:
 
 Terms in this formula are explained below:
 	**Action damage:** Action damage is the damage of an attack or a damaging spell. This value is given for each weapon and spell in the description of it. 
-	**Potency of relevant aptitude:** Equal to the potency stat of the weapon's or the spell's aptitude. For example, a saber uses POW. A divine spell uses WRA.
+	**Potency of relevant aptitude:** Equal to the potency stat of the weapon's or the spell's aptitude. For example, a curved sword uses POW.
 	**Other bonuses:**  These are bonuses or penalties which come from various sources like status effects, environment and the like.
 	**Target's armor:** Armor is explained in the Armor section. 
 
@@ -98,13 +95,13 @@ In some cases, a specific spell or attack might include a potency bonus or penal
 	Action damage + (potency of relevant aptitude)/2 + other bonuses - target's armor
 
 ## Armor
-Each creature has two kinds of armor: Physical armor and magical armor. Normally, damage from weapon attacks and similar abilities are affected by physical armor and damage from magical sources like spells are affected by magical armor. If something is an exception to this rule, this is told in the explanation of it.
+Each creature has two kinds of armor: physical armor and magical armor. Normally, damage from weapon attacks and similar abilities are affected by physical armor and damage from magical sources like spells are affected by magical armor. If something is an exception to this rule, this is told in the explanation of it.
 
-## Damaging Actions
-For a spell to be considered a "damaging action", it should have a base damage. Examples could be abilities like "Elemental Arrow", "Dissonance", "Shield Bash" or the hatchet's "Hack". Some actions such as the hatchet's "Sever" only apply a status effect, but do not have a base damage. These abilities are not considered damaging actions.
+## Damaging Ability
+For a spell to be considered a "damaging ability", it should have a base damage. Examples could be abilities like "Dissonance", "Shield Bash" or the hatchet's "Hack". Some actions only apply a status effect, but do not have a base damage. These abilities are not considered damaging abilities.
 
 ## "Extra damage" versus "Bonus damage"
 Extra damage is a completely different packet of damage that just shares the precision roll of another attack. Extra damage has its own values for action damage, potency, bonuses and it is affected by armor separately from the delivering attack.
 
-On the other hand, bonus damage is just added into the delivering attack's damage calculation. Specifically, to the "other bonuses" term.
+On the other hand, bonus damage is just added into the delivering attack's damage calculation. Specifically, into the "other bonuses" term.
 

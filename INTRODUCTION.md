@@ -40,6 +40,9 @@ There are not many resources on this topic. If you know helpful articles, images
 + <https://en.wikipedia.org/wiki/Turkic_mythology> (English)
 + <https://en.wikipedia.org/wiki/List_of_Turkic_mythological_figures> (English)
 + <https://dergipark.org.tr/en/download/article-file/810705#page=2&zoom=120,-282,808> (English & Turkish)
++ Tirendaz (English)
+	+ <http://www.tirendaz.com/en/?page_id=3> 
+	+ <http://www.tirendaz.com/en/?page_id=72>
 + <https://paratic.com/turk-mitolojisi/> (Turkish)
 + <https://www.kayipdunya.com/wp-content/uploads/kalins-pdf/singles/turk-mitolojisi-sozlugu-r-s.pdf> (Turkish)
 

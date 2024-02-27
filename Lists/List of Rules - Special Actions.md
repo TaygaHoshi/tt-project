@@ -1,5 +1,12 @@
 (see: [[Combat]])
 
+# Speak
+**Execution time:** Action or rapid action
+**Explanation:**
+	During your turn, you can shout a few sentences. Your voice is heard within a reasonable radius.
+	Alternatively, you can whisper to a creature or an object within melee range. In this case, your voice is only heard by that creature or object.
+	This ability can be used freely in the end phase of a combat round.
+
 # Swap Weapons
 **Execution time:** Rapid Action
 **Explanation:**
@@ -13,7 +20,7 @@
 **Explanation:** 
 	(Projectile)
 	Ignores weapon precision.
-	You throw your weapon to a target or to a square within (5 + POW/2) meters.
+	You throw your weapon to a target or to a square within (5 + DEX/2) meters.
 	This action is considered a basic weapon attack.
 
 # Retrieve Weapon
@@ -46,7 +53,7 @@
 	Ignores weapon precision.
 	You gain a (5 + SPD/2) bonus to your movement speed, and you charge your target using your movement speed. Then, you perform a basic weapon attack.
 	You receive a -2 penalty to all resistances for 1 round.
-	This penalty increases by 1 for every 5 meters you move after your base movement speed.
+	This penalty increases by 1 if you move more than your base movement speed.
 
 # Dual Strike
 **Execution time:** Full-turn action

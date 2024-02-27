@@ -2,27 +2,26 @@
 #TODO 
 
 ## Base Stats, Abilities & Gear
-* Main resistance: Willpower, Evasion or Constitution
 * Health: 60
-* Energy: 8 (High)
+* Energy: 8 (Major)
 * Starter equipment:
     * A regular weapon set.
     * Any armor of choice.
     * #TODO 
 
 ## Class Abilities
-Level | Abilities
-:---: | ---
-1 | Performer Branches, Expert of Arts
-2 | 
-3 | Branch Feature
-4 | 
-5 | Branch Feature
-6 | 
-7 | Branch Feature
-8 | 
-9 | Branch Feature
-10| 
+| Level | Abilities |
+| :--: | ---- |
+| 1 | Performer Branches, Expert of Arts |
+| 2 |  |
+| 3 | Branch Feature |
+| 4 |  |
+| 5 | Branch Feature |
+| 6 |  |
+| 7 | Branch Feature |
+| 8 |  |
+| 9 | Branch Feature |
+| 10 |  |
 
 ---
 ## Spell Count
