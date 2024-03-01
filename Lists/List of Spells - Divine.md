@@ -54,7 +54,8 @@
 **Radius:** 2 meters
 **Duration:** (1 + CLA/2) rounds
 **Effect**
-	Your magic erupts iron chains from below. Make a precision roll against Evasion of all creatures within the radius. If you succeed against a creature, the chains catch it and it is Immobilized for the duration of this spell. At the end of the turn of a creature who is affected by this spell, make a precision roll against Constitution of that creature. If you fail, the creature is released from the chains.
+	This spell's precision rolls are made against Evasion. 
+	Your magic erupts iron chains from below. The chains catch the creatures within radius, immobilizing them for the duration of this spell. At the end of the turn of a creature who is affected by this spell, make a precision roll against Constitution of that creature. If you fail, the creature is released from the chains.
 
 ## Simple Divination
 **Complexity:** Simple

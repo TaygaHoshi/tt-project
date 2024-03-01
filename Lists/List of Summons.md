@@ -3,18 +3,17 @@
 # Fairy Minions
 ## Fairy of War
 + **Lore:** #TODO
-+ **Level:** Equal to summoner's potency, up to the limit of the summoning spell.
-+ **Health:** 35 + (5 x level)  
++ **Level:** Special
++ **Health:** 40
 + **Aptitudes:** 
-	+ POW equal to level 
-	+ ACU equal to level
-+ **Initiative:** 0
+	+ Strength equal to level
++ **Initiative:** level/2
 + **Movement:** 10
-+ **Physical Armor:** 5
-+ **Magic Armor:** 5
++ **Physical Armor:** 0
++ **Magic Armor:** 0
 + **Weapons:** Claws
-+ **Precision roll:** (d10 + level)
-+ **Resistances:** (5 + level), +1 to Parry
++ **Precision roll:** d10 + level/2
++ **Resistances:** (5 + level/2), +1 Parry
 + **Skills**
 	+ (Passive) Fairy Affinity
 		+ Immune to charming effects.
@@ -22,45 +21,43 @@
 		+ Deals (10 + level) physical damage.
 	+ Fairy Blast
 		+ Deals (5 + level) magical damage.
-		+ Applies disoriented (-1) for (level) rounds.
+		+ Applies disoriented (-1) for 1 round.
 
 ## Fairy of Bards
 + **Lore:** #TODO
-+ **Level:** Equal to summoner's potency, up to the limit of the summoning spell.
-+ **Health:** 25 + (5 x level)
++ **Level:** Special
++ **Health:** 30
 + **Aptitudes:** 
-	+ EXP equal to level 
-	+ PER equal to level
-+ **Initiative:** 0
+	+ Social equal to level
++ **Initiative:** level/2
 + **Movement:** 10
-+ **Physical Armor:** 5
-+ **Magic Armor:** 5
++ **Physical Armor:** 0
++ **Magic Armor:** 0
 + **Weapons:** Claws
-+ **Precision roll:** (d10 + level - 1)
-+ **Resistances:** (5 + level), +1 to Willpower
++ **Precision roll:** d10 + level/2
++ **Resistances:** (5 + level/2), +1 Willpower
 + **Skills**
 	+ (Passive) Fairy Affinity
 		+ Immune to charming effects.
 	+ Slash
 		+ Deals (10 + level) physical damage.
 	+ (Full-turn action) Fairy's Song
-		+ Range: 5 meters
-		+ Grant an ally a bonus equal to this summon's level to the next skill roll they do.
+		+ Range: 5 meters. 
+		+ Grant an ally a bonus equal to this summon's level for their next skill roll.
 
 ## Fairy of Caves
 + **Lore:** #TODO
-+ **Level:** Equal to summoner's potency, up to the limit of the summoning spell.
-+ **Health:** 45 + (5 x level)
++ **Level:** Special
++ **Health:** 30
 + **Aptitudes:** 
-	+ POW equal to level 
-	+ VIT equal to level
-+ **Initiative:** 0
+	+ Endurance equal to level
++ **Initiative:** level/2
 + **Movement:** 10
-+ **Physical Armor:** 5
-+ **Magic Armor:** 5
++ **Physical Armor:** 0
++ **Magic Armor:** 0
 + **Weapons:** Claws
-+ **Precision roll:** (d10 + level - 1)
-+ **Resistances:** (5 + level), +1 to Constitution
++ **Precision roll:** d10 + level/2
++ **Resistances:** (5 + level/2), +1 Constitution
 + **Skills**
 	+ (Passive) Fairy Affinity
 		+ Immune to charming effects.
@@ -75,27 +72,26 @@
 
 ## Fairy of Lakes
 + **Lore:** #TODO
-+ **Level:** Equal to summoner's potency, up to the limit of the summoning spell.
-+ **Health:** 25 + (5 x level)
-+ **Aptitudes:** 
-	+ ARC equal to level 
-	+ PEN equal to level
-+ **Initiative:** 0
++ **Level:** Special
++ **Health:** 30
++ **Aptitudes:**
+	+ Witchcraft equal to level
++ **Initiative:** level/2
 + **Movement:** 10
-+ **Physical Armor:** 5
-+ **Magic Armor:** 5
++ **Physical Armor:** 0
++ **Magic Armor:** 0
 + **Weapons:** Claws
-+ **Precision roll:** (d10 + level)
-+ **Resistances:** (5 + level), +1 to Reflection
++ **Precision roll:** d10 + level/2
++ **Resistances:** (5 + level/2), +1 Reflection
 + **Skills**
 	+ (Passive) Fairy Affinity
 		+ Immune to charming effects.
 	+ Slash
 		+ Deals (10 + level) physical damage.
 	+ (Projectile) Fairy Splash
-		+ Range: 5 meters
+		+ Range: 5 meters. 
 		+ This attack's precision roll is made against Evasion.
-		+ Generates 3 water whips which slash targets, each dealing (5 + level) magical damage.
+		+ Generates 3 water whips which slash targets, each dealing (5 + level/2) magical damage.
 		+ Each whip requires its own precision roll, and can target a different foe.
 	+ (Full-turn action) Find Lakes
 		+ This fairy draws an arrow pointing at the path to the location of nearest large body of water.
@@ -104,78 +100,75 @@
 # Spirits
 ## Summoned Spirit of Stone
 + **Lore:** #TODO
-+ **Level:** Equal to summoner's potency, up to the limit of the summoning spell.
-+ **Health:** 35 + (5 x level)
++ **Level:** Special
++ **Health:** 30
 + **Aptitudes:** 
-	+ POW equal to level 
-	+ ACU equal to level
-+ **Initiative:** -1
-+ **Movement:** 8
-+ **Physical Armor:** 10
+	+ Strength equal to level 
++ **Initiative:** level/2
++ **Movement:** 10
++ **Physical Armor:** 5
 + **Magic Armor:** 0
-+ **Weapons:** Stone body
-+ **Precision roll:** (d10 + level)
-+ **Resistances:** (5 + level), +1 to Parry
++ **Weapons:** Spirit weapon
++ **Precision roll:** d10 + level/2
++ **Resistances:** (5 + level/2), +1 Parry
 + **Skills**
 	+ (Passive) Stone Affinity
 		+ This spirit receives half damage from status effects.
 	+ Slash
 		+ Deals (10 + level) physical damage.
-		+ Applies bleeding (damage equal to level) for (level) rounds.
+		+ Applies bleeding (5 damage) for 1 hit.
 	+ (Projectile) Stone Shards
-		+ Range: 5 meters
+		+ Range: 5 meters. 
 		+ This attack's precision rolls are made against Evasion.
-		+ Shoot numerous but small shards of stone, dealing (5 + level) physical damage to all creatures within a 1 meter radius.
+		+ Shoot numerous but small shards of stone, dealing (5 + level/2) physical damage to all creatures within a 1 meter radius.
 	+ (Prepared action) Swing
-		+ Deals (5 + level) damage to the next foe who moves into or out of melee range.
+		+ Deals (5 + level/2) damage to the next foe who moves into or out of melee range.
 
 ## Summoned Spirit of Lightning
 + **Lore:** #TODO
-+ **Level:** Equal to summoner's potency, up to the limit of the summoning spell.
-+ **Health:** 25 + (5 x level)
++ **Level:** Special 
++ **Health:** 30
 + **Aptitudes:** 
-	+ ARC equal to level 
-	+ PEN equal to level
-+ **Initiative:** 0
+	+ Witchcraft equal to level 
++ **Initiative:** level/2
 + **Movement:** 10
 + **Physical Armor:** 0
 + **Magic Armor:** 5
-+ **Weapons:** Lightning body
-+ **Precision roll:** (d10 + level)
-+ **Resistances:** (5 + level), +1 to Reflection
++ **Weapons:** Spirit weapon
++ **Precision roll:** d10 + level/2
++ **Resistances:** (5 + level/2), +1 Reflection
 + **Skills**
 	+ (Passive) Lightning Affinity
 		+ Immune to electrified.
 		+ This spirit takes 5 armor-ignoring damage per round while soaked.
 	+ (Witchcraft spell) Spark
-		+ Range: 5 meters
+		+ Range: 5 meters. 
 		+ Deals (5 + level) magical damage.
-		+ Applies electrified (2 x level damage) for 2 rounds.
+		+ Applies electrified (5 damage) for 2 hits. 
 	+ (Prepared action) (Witchcraft spell) Repulsion
 		+ This attack's precision roll is made against Evasion.
 		+ Pushes the next foe who moves into, within or out of melee range for 3 meters while dealing (5 + level) magical damage.
 
 ## Summoned Spirit of Forest
 + **Lore:** #TODO
-+ **Level:** Equal to summoner's potency, up to the limit of the summoning spell.
-+ **Health:** 25 + (5 x level)
++ **Level:** Special
++ **Health:** 40
 + **Aptitudes:** 
-	+ VIT equal to level 
-	+ PEN equal to level
-+ **Initiative:** 0
+	+ Endurance equal to level
++ **Initiative:** level/2
 + **Movement:** 10
 + **Physical Armor:** 5
 + **Magic Armor:** 5
-+ **Weapons:** Branches and vines
-+ **Precision roll:** (d10 + level)
-+ **Resistances:** (5 + level), +1 to Constitution
++ **Weapons:** Spirit weapon 
++ **Precision roll:** d10 + level/2
++ **Resistances:** (5 + level/2)
 + **Skills**
 	+ (Passive) Plant Affinity
 		+ This spirit receives half damage from status effects, except for burning.
 	+ Slash
 		+ Deals (10 + level) physical damage.
 	+ (Witchcraft spell) Binding
-		+ Range: 5 meters-
+		+ Range: 5 meters. 
 		+ This attack's precision rolls are made against Constitution.
 		+ Branches emerge from this summon, binding a target. This target is immobilized for 1 round.
 	+ (Prepared action) Plant Armor
@@ -184,16 +177,15 @@
 ## Summoned Spirit of Plains
 + **Lore:** #TODO
 + **Level:** Equal to summoner's potency, up to the limit of the summoning spell.
-+ **Health:** 25 + (5 x level)
++ **Health:** 30
 + **Aptitudes:** 
-	+ POW equal to level 
-	+ SPD equal to level
-+ **Initiative:** (level)
+	+ Strength equal to level 
++ **Initiative:** level/2
 + **Movement:** (10 + level)
 + **Physical Armor:** 0
 + **Magic Armor:** 0
 + **Weapons:** None
-+ **Precision roll:** (d10 + level)
++ **Precision roll:** d10 + level/2
 + **Resistances:** (5 + level), +1 to Evasion
 + **Skills**
 	+ (Passive) Plant Affinity

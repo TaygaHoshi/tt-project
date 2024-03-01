@@ -2,26 +2,24 @@
 + **Lore:** While domesticated dogs are great companions, wild dogs are not. These dogs will do everything to ensure their survival. Wild dogs are usually found in small packs.
 + **Tier:** Novice (based on level 1) 
 + **Type:** Minion
-+ **Health:** 70
++ **Health:** 60
 + **Aptitudes:** 
-	+ 1 POW
-	+ 1 SPD
-+ **Initiative:** 1
-+ **Movement:** 11 meters
+	+ 2 VIT + 2 SPD
++ **Initiative:** 2
++ **Movement:** 12 meters
 + **Physical Armor:** 5
 + **Magic Armor:** 0
 + **Weapons:** Claws and teeth
-+ **Precision roll:** (ACU) d10 + 1
-+ **Resistances:** 6
++ **Precision roll:** (strength) d10 + 1
++ **Resistances:** 5, 6 Constitution, 7 Evasion
 + **Skills**
 	+ Bite
 		+ Deals 20 physical damage.
 	+ (Combat technique) Ferocious Bite
 		+ This attack's precision roll is made against Constitution.
-		+ Applies bleeding (6 damage) for 4 rounds.
+		+ Applies bleeding (5 damage) for 2 hits.
 	+ (Combat technique) Tackle
-		+ -2 penalty on precision roll.
-		+ On hit, target falls prone.
+		+ Target falls prone.
 
 ---
 ## Vampire Kin
@@ -30,21 +28,20 @@
 + **Type:** Minion, Summon
 + **Health:** 30
 + **Aptitudes:** 
-	+ 1 ACU
 	+ 2 SPD
 + **Initiative:** 2
 + **Movement:** 12 meters
 + **Physical Armor:** 0
 + **Magic Armor:** 0
 + **Weapons:** Claws
-+ **Precision roll:** (ACU) d10 + 1
-+ **Resistances:** 6, 7 Evasion
++ **Precision roll:** (strength) d10 + 1
++ **Resistances:** 5, 7 Evasion
 + **Skills**
 	+ Slash
 		+ Deals 20 physical damage.
-	+ (Prepared action) Opportunistic Slash
-		+ Attacks the next foe who moves into, within or out of melee range.
-		+ Deals 10 physical damage.
+	+ (Full-turn action) Charge
+		+ -2 penalty on precision roll.
+		+ Can charge for up to 15 meters and attack with Slash, receiving a -2 penalty to all resistances for 1 round.
 
 ---
 ## Vampire Owl
@@ -59,7 +56,7 @@
 + **Physical Armor:** 0
 + **Magic Armor:** 0
 + **Weapons:** Claws (feet)
-+ **Precision roll:** (ACU) d10 + 1
++ **Precision roll:** (strength) d10 + 1
 + **Resistances:** 6, 8 Evasion
 + **Skills**
 	+ (Passive) Flight
@@ -75,15 +72,15 @@
 + **Type:** Minion, Boss
 + **Health:** 80
 + **Aptitudes:** 
-	+ 4 POW + 3 ACU
-	+ 4 VIT
-+ **Initiative:** 0
-+ **Movement:** 10 meters
+	+ 6 POW
+	+ 4 VIT + 3 SPD
++ **Initiative:** 2
++ **Movement:** 12 meters
 + **Physical Armor:** 5
 + **Magic Armor:** 5
 + **Weapons:** Antlers
-+ **Precision roll:** (ACU) d10 + 6, (PER) d10 + 4
-+ **Resistances:** 9, 12 Parry, 12 Constitution
++ **Precision roll:** (strength) d10 + 3, (social) d10 + 3
++ **Resistances:** 7, 8 Parry, 8 Constitution, 8 Evasion
 + **Skills**
 	+ (Passive) Nature Bond
 		+ This beast gains 10 health per round while near a naturally created magical point of interest.
@@ -91,8 +88,7 @@
 	+ Strike
 		+ Deals 30 physical damage.
 	+ (Combat technique) (Full-turn action) Crushing Charge
-		+ -1 penalty on precision roll.
 		+ Can charge for up to 15 meters and attack with Strike, receiving a -2 penalty to all resistances for 1 round. If this attack hits, it also applies stunned for 1 round.
 	+ (Social spell) Gaze of the Deer
 		+ Range: 10 meters.
-		+ Target creature is disoriented (-2) and slowed (-2) for 2 rounds.
+		+ Applies disoriented (-2) and slowed (-2) for 2 rounds.

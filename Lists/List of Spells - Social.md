@@ -16,7 +16,7 @@
 **Cost:** 2 energy
 **Range:** 3 meters
 **Effect**
-	Choose an ally other than yourself. This ally is healed for (5 + ACC/2).
+	Your target is healed for (5 + ACC/2).
 
 ## Song of Discord
 **Complexity:** Simple
@@ -30,18 +30,18 @@
 ## Dissonance
 **Complexity:** Complex
 **Casting Time:** Action
-**Cost:** 2 energy
-**Radius:** 5 meters
-**Duration:** (3 + PRE/2) hits
+**Cost:** 4 energy
+**Radius:** 3 meters
+**Duration:** 1 minute
 **Effect**
 	This attack's precision rolls are made against Evasion. 
-	You apply Dissonance to all foes within radius. Foes with Dissonance are dealt 3 armor-ignoring damage at the start of their turns. Dissonance doesn't get the normal potency bonus to its damage. 
+	You apply dissonance to all foes within radius for the duration of this spell. Next time a foe with dissonance is successfully hit with a damaging ability, they are slowed for (1 + ACC/2) rounds. 
 
 ## Detect Vibrations
 **Complexity:** Simple
 **Casting Time:** Action
 **Cost:** 2 energy
-**Radius:** (5 + PRE/2) meters
+**Radius:** (5 + ACC/2) meters
 **Duration:** 5 minutes
 **Explanation**
 	This spell increases your sensitivity to vibrations of the echoes of every sound, making you able to detect current position of invisible objects and creatures within radius.

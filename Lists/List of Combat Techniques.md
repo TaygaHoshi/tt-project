@@ -32,7 +32,7 @@
 ## Crushing Charge
 **Category:** Modification
 **Execution Time:** Special
-**Cost:** 2 energy
+**Cost:** 3 energy
 **Duration:** 1 round
 **Requirements:**
 	Charge action.

@@ -9,7 +9,7 @@
 	Additionally, this ammo gets stuck in solid materials it penetrates.
 **Crafting:** #TODO 
 
-# Firework Tip
+# Dazzling Tip
 **Variants**: Arrow and bolt
 **Requirements:**
 	This item must be used with a bow's or a crossbow's basic weapon attack.
