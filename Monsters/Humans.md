@@ -87,7 +87,7 @@
 		+ Deals 25 magical damage.
 	+ (Projectile) (Witchcraft spell) Scarring Flames
 		+ Range: 5 meters.
-		+ This spell's precision roll is against Constitution. 
+		+ This spell's precision roll is made against Constitution. 
 		+ Applies burning (12 damage) and bleeding (7 damage) for 1 hit.
 
 ## Novice Performer

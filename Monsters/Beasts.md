@@ -92,3 +92,40 @@
 	+ (Social spell) Gaze of the Deer
 		+ Range: 10 meters.
 		+ Applies disoriented (-2) and slowed (-2) for 2 rounds.
+
+---
+## Legendary Earthworm
++ **Lore:** #TODO
++ **Tier:** Expert (based on level 10) 
++ **Type:** Boss
++ **Health:** 120
++ **Aptitudes:** 
+	+ 8 POW + 2 DEX
+	+ 10 VIT
+	+ 4 ARC + 4 HAR
++ **Initiative:** 0
++ **Movement:** 5 meters
++ **Physical Armor:** 10
++ **Magic Armor:** 5
++ **Weapons:** Earthworm body
++ **Precision roll:** (strength) d10 + 6, (witchcraft) d10 + 4
++ **Resistances:** 9, 11 Parry, 10 Constitution
++ **Skills**
+	+ (Passive) Large Creature
+		+ This creature is physically large, and it takes up a 2 meters by 2 meters space on a battle map. 
+	+ (Passive) Poisonous
+		+ Touching this worm in any way applies 1 round of sickened (-2).
+	+ Bite
+		+ Range: 2 meters. 
+		+ Deals 30 physical damage.
+	+ (Combat technique) (Full-turn action) Dig
+		+ This attack's precision rolls are made against Evasion.
+		+ The worm dives into earth, moves through the ground, and rises from below. 
+		+ Any creatures standing within the area where the worm rises take 20 physical damage and are thrown 5 meters in the air.
+	+ (Witchcraft spell) (Rapid action) Stone Daggers
+		+ Range: 10 meters. 
+		+ Radius: 1 meters. 
+		+ This attack's precision rolls are made against Evasion.
+		+ The worm conjures up and throws several daggers out of jagged stone, dealing 10 physical damage and applying bleeding (9 damage) for 3 hits.
+	+ (Witchcraft spell) (Rapid action) Harden
+		+ The worm enhances itself, gaining 10 temporary physical armor for 1 round. 
