@@ -27,7 +27,7 @@ Classes have both shared and unique abilities. Weapons have active and passive a
 Furthermore, there are not many calculations to slow turns down during combat. Most numbers like damage of a weapon can be calculated beforehand. With proper notes, turns can get very fast.
 
 **Soft mechanics and rules for role playing:**
-Sigil of Uchma is a simplified take on modern TTRPGs. Exploration, inventory management, economy, traveling, interactions with NPCs and similar activities mostly have only general rules and suggestions. Imagination in these situations can open up a good amount of possibilities.
+Sigil of Uchma is a simplified take on modern TTRPGs. Exploration, inventory management, economy, traveling, interactions with NPCs and similar activities mostly have only general rules and suggestions. Imagination in these situations can open up a lot of possibilities.
 
 # Playing the game
 Currently, the game is in alpha state. This means it is not ready for running campaigns yet. When the first full version is released, [it will be in the releases page of this repository](https://github.com/TaygaHoshi/tt-project/releases). 

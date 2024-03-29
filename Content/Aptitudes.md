@@ -13,18 +13,18 @@ The table below shows the aptitudes, their potency stats and their precision sta
 
 A total of 25 AP can be earned. Points gained per level are given in this table:
 
-Level | Gained AP
-:---: | :---:
- 1|+3
- 2|+2
- 3|+2
- 4|+2
- 5|+2
- 6|+2
- 7|+3
- 8|+3
- 9|+3
-10|+3
+| Level | Gained AP |
+| :---: | :-------: |
+|   1   |    +3     |
+|   2   |    +2     |
+|   3   |    +2     |
+|   4   |    +2     |
+|   5   |    +2     |
+|   6   |    +2     |
+|   7   |    +3     |
+|   8   |    +3     |
+|   9   |    +3     |
+|  10   |    +3     |
 
 ---
 # Resistances

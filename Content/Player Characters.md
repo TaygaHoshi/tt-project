@@ -2,10 +2,6 @@
 Player characters are the other part, alongside the Game Master, of Sigil of Uchma. This page will go over the basics of character creation.
 
 # Character Creation
-## Guide to Character Creation
-
-![[Sigil of Uchma v1-a6 Character Creation Guide.pdf]]
-
 ## Classes
 A player character can start with choosing a class:
 1. [[Soldier]]
