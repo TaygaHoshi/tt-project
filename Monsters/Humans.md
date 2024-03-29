@@ -21,7 +21,7 @@
 	+ -1 Evasion from shield
 + **Skills**
 	+ Slash
-		+ Deals 30 physical damage.
+		+ Deals 22 physical damage.
 	+ (Combat technique) (Rapid action) Shield Bash
 		+ -2 penalty on precision roll.
 		+ Deals 5 physical damage.

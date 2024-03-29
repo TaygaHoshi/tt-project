@@ -114,14 +114,16 @@
 	+ (Passive) Large Creature
 		+ This creature is physically large, and it takes up a 2 meters by 2 meters space on a battle map. 
 	+ (Passive) Poisonous
-		+ Touching this worm in any way applies 1 round of sickened (-2).
+		+ Touching the outer skin of this worm in any way applies 1 round of sickened (-2). 
 	+ Bite
 		+ Range: 2 meters. 
 		+ Deals 30 physical damage.
+		+ Does not trigger the passive ability Poisonous.
 	+ (Combat technique) (Full-turn action) Dig
 		+ This attack's precision rolls are made against Evasion.
 		+ The worm dives into earth, moves through the ground, and rises from below. 
-		+ Any creatures standing within the area where the worm rises take 20 physical damage and are thrown 5 meters in the air.
+		+ Any creatures standing within the area where the worm rises take 10 physical damage and are thrown 5 meters in the air.
+		+ Triggers the passive ability Poisonous.
 	+ (Witchcraft spell) (Rapid action) Stone Daggers
 		+ Range: 10 meters. 
 		+ Radius: 1 meters. 
