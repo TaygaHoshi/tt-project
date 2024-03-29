@@ -31,8 +31,22 @@ Lastly, you can send a pull request to my repository through GitHub.
 
 Alternatively, you can go to your fork repository and press "." (dot). This opens your repository in a text editor, and you can commit directly from there. 
 
+# Project Structure
+```
+├── Assets -> Gameplay content such as character sheets
+├── Classes
+├── Content -> Pages for gameplay mechanics   
+├── Items
+├── Lists -> Gameplay content such as spell lists and weapons  
+├── Monsters
+├── INTRODUCTION.md  
+├── LICENCE.md -> Full licence text
+├── README.md -> You are here!
+└── VERSIONING.md -> Information about how this project is versioned
+```
+
 # License
-This work is licensed under a
+This work is licensed under the
 [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa]. See [LICENCE.md](LICENCE.md) for full text of the licence.
 
 Sigil of Uchma consists of assets in the form of gameplay rules, art, music, books, e-books and more. Assets may or may not be in this repository. Unless explicitly told, all assets share this licence.

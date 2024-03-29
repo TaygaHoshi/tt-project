@@ -7,9 +7,8 @@
 **Cost:** 2 energy
 **Range:** 1 meter
 **Effect**
-	This attack's precision rolls are made with your POW against target's Parry.
 	Ignores weapon damage and precision.
-	Tackle your target, making them fall prone.
+	Tackle your target, making them fall prone and dealing them 10 damage.
 
 ## Extend Preparation
 **Category:** Modification
@@ -27,12 +26,13 @@
 **Requirements:**
 	Any bow weapon attack.
 **Effect**
-	When you attempt any bow weapon attack during your turn, you can move up to (2 + POW/4) meters before attacking as a part of that action. This ability can be used alongside Improved Aiming. 
+	When you attempt any bow weapon attack during your turn, as a part of that action, you can move up to (2 + DEX/3) meters before attacking. 
+	This ability can be used alongside Improved Aiming. 
 
 ## Crushing Charge
 **Category:** Modification
 **Execution Time:** Special
-**Cost:** 2 energy
+**Cost:** 3 energy
 **Duration:** 1 round
 **Requirements:**
 	Charge action.
@@ -63,7 +63,7 @@
 	A basic weapon attack.
 **Effect**
 	As a part of a basic weapon attack with a melee weapon, you can choose to activate this ability, except for the charge action.
-	Choose a resistance. You gain a (1 + POW/4) bonus to a resistance of your choosing against attacks from this target for one round.
+	Choose a resistance. You gain a (1 + DEX/3) bonus to a resistance of your choosing against attacks from this target for one round.
 
 ## Counter
 **Category:** Weapon attack
@@ -102,16 +102,14 @@
 ## Wrestling 
 **Category:** Weapon attack
 **Execution Time:** Full-turn action
-**Cost:** 3 energy
+**Cost:** 2 energy
 **Range:** 1 meter
 **Requirements:**
 	Unarmed off-hand.
 **Effect**
-	This attack's precision rolls are made with your POW against target's Parry.
 	Ignores weapon damage and precision. 
 	Try to hold the target and lock them in an inescapable position. On success, both of you fall prone and can't get up.
-	At the start of your turn, you can either release the target or spend 1 energy and make another precision roll for Wrestling. On failure, the target escapes your hold and both of you can get up on your respective turns.
-	You can only wrestle one target at any time.
+	At the start of your turns, you can either release the target or spend 1 energy and make another precision roll. On failure, the target escapes your hold and both of you can get up on your respective turns.
 
 ## Adrenaline Leap
 **Category:** Modification
@@ -121,13 +119,15 @@
 	Any full-turn action other than Charge.
 **Effect**
 	You can choose to activate this technique when you take any full-turn action other than the Charge special action.
-	You can move up to (2 + POW/4) meters before taking that action.
+	You can move up to (2 + DEX/3) meters before taking that action.
 
 ## Disarm
 **Category:** Weapon attack
 **Execution Time:** Action
 **Cost:** 1 energy
-**Range:** 1 meter
+**Range:** Weapon range
+**Requirements:**
+	Any melee weapon in main hand.
 **Effect**
 	Ignores weapon precision. 
 	You attack your target for half weapon damage with your main weapon, trying to make it drop one of its weapons. This weapon falls below the target.
@@ -138,7 +138,7 @@
 **Execution Time:** Action
 **Cost:** 2 energy
 **Range:** Weapon range
-**Duration:** 2 rounds
+**Duration:** (1 + DEX/4) rounds
 **Requirements:**
 	Any melee weapon in main hand.
 **Effect**
@@ -154,8 +154,8 @@
 	Dual wielding two one handed weapons.
 **Effect**
 	Choose one:
-	Attack with your off-hand weapon as if it were your main hand weapon. You can choose any weapon attack of your off-hand weapon.
-	Take the dual strike action with your off-hand as if it were your main hand, and your main hand as if it were your off-hand.
+	Attack with your off-hand weapon as if it was your main hand weapon. You can choose any weapon attack of your off-hand weapon.
+	Take the dual strike action with your off-hand as if it was your main hand, and your main hand as if it was your off-hand.
 
 ## Double Opportunity
 **Category:** Modification
@@ -166,7 +166,7 @@
 	Any melee weapon in main hand.
 	A damaging prepared weapon attack or combat technique.
 **Effect**
-	You can choose to activate this ability when you use a prepared action. This prepared action can trigger twice instead of once. You can instead spend double the energy cost to have your prepared action trigger thrice instead.
+	You can choose to activate this ability when you use a prepared action. This prepared action can trigger twice instead of once. You can instead spend double the energy cost to have your prepared action trigger three times instead.
 
 ## Curving Arrow
 **Category:** Weapon attack
@@ -190,4 +190,4 @@
 	You hit with a bow this turn.
 **Effect**
 	(Projectile)
-	You can shoot with this bow again, as a rapid action. This attack deals half weapon damage. 
+	You can attack with this bow again, as a rapid action. This attack deals half weapon damage. 

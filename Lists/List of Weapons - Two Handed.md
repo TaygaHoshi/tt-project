@@ -6,16 +6,16 @@ Two handed weapons have three weapon attacks.
 
 | Weapon | Damage | Weapon Precision | Range |
 | ---- | :--: | :--: | :--: |
-| glaive | 30 | 0 | 2m |
-| spear | 25 | 1 | 2m |
-| two-handed sword | 25 | 1 | 1m |
-| war hammer | 20 | 0 | 1m |
-| nature staff | 20 | 0 | 10m |
-| divine staff | 20 | 0 | 10m |
-| longbow | 20 | 0 | 15m |
-| crossbow | 20 | 1 | 10m |
-| shortbow | 20 | 1 | 10m |
-| war drums | - | 1 | 10m |
+| Glaive | 30 | 0 | 2m |
+| Spear | 25 | 1 | 2m |
+| Two-handed sword | 25 | 1 | 1m |
+| War hammer | 20 | 0 | 1m |
+| Nature staff | 20 | 1 | 10m |
+| Divine staff | 20 | 1 | 10m |
+| Longbow | 20 | 0 | 15m |
+| Crossbow | 20 | 1 | 10m |
+| Shortbow | 20 | 1 | 10m |
+| War drums | - | 1 | 10m |
 
 ---
 ## Glaive
@@ -97,7 +97,7 @@ Two handed weapons have three weapon attacks.
 	+ This shield acts like half cover against projectiles passing through it and lasts for 1 round.
 	+ Projectiles of allies inside this shield are unaffected by it. 
 + (Prepared action) Warding
-	+ You have a (1 + WRA/4) bonus to Faith against the next magical attack.
+	+ You have a (1 + WRA/4) bonus to Favor against the next magical attack.
 
 ## Longbow
 + Aptitude: Strength
@@ -138,14 +138,10 @@ Two handed weapons have three weapon attacks.
 + (Passive) Playing Drums
 	+ Allies who are unable to hear are not affected by war drums. 
 	+ Being stunned, falling or going prone, diving underwater or becoming unavailable to cast spells in any way stops the bonuses granted by this weapon. 
-+ (Rapid action) Beat of Swords
++ (Rapid action) Empowering Beat
 	+ Radius: 10 meters
-	+ All other allies within radius gain a (5 + EXP/3) bonus to damage until your next turn. 
-	+ This bonus doesn't affect damaging status effects such as bleeding and burning, or area effects such as Dissonance. 
-+ (Rapid action) Beat of Shields
+	+ All other allies within radius gain a (5 + PRE/3) bonus to their damage with single target damaging abilities until your next turn. 
+	+ This bonus doesn't affect damaging status effects such as bleeding and burning.
++ (Rapid action) Invigorating Beat
 	+ Radius: 10 meters
-	+ All other allies within radius gain (5 + EXP/3) temporary health until your next turn.
-+ (Rapid action) Beat of Haste
-	+ Radius: 10 meters
-	+ All allies within radius gain (3 + EXP/3) bonus to movement speed until your next turn.
-	+ Does not stack with itself. 
+	+ All other allies within radius gain (5 + ACC/3) temporary health until your next turn.

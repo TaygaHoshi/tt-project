@@ -2,10 +2,6 @@
 Player characters are the other part, alongside the Game Master, of Sigil of Uchma. This page will go over the basics of character creation.
 
 # Character Creation
-## Guide to Character Creation
-
-![[Sigil of Uchma v1-a6 Character Creation Guide.pdf]]
-
 ## Classes
 A player character can start with choosing a class:
 1. [[Soldier]]
@@ -18,7 +14,7 @@ A player character can start with choosing a class:
 Classes are further divided into sub-classes called branches. Description of branches will be added to the relevant class page. Currently, branches are #TODO.
 
 ### Health
-Your starting class determines your health. There are three tiers of maximum health:
+Your starting class and VIT determines your health. There are three tiers of maximum health:
 
 Tier | Value
 --- | :---:
@@ -26,17 +22,27 @@ High   | 80 health
 Medium | 70 health
 Low    | 60 health
 
+Each point of VIT you have grants you an additional 2 health.
+
+---
 ### Energy
-Your starting class determines your energy, which is used for casting spells or performing combat techniques. There are three tiers of maximum energy, scaling differently as you gain levels:
+Your starting class determines your energy, which is used for casting spells or performing combat techniques. There are two tiers of maximum energy, scaling differently as you gain levels:
 
-Tier | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10
---- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---:
-High   | 8|10|12|14|16|18|20|22|24|24|
-Medium | 6| 6| 9| 9|12|12|15|15|18|18|
-Low    | 4| 5| 6| 7| 8| 9|10|11|12|12|
+| Level | Major | Minor |
+| :--: | :--- | ---- |
+| **1** | 8 | 6 |
+| **2** | 10 | 6 |
+| **3** | 12 | 9 |
+| **4** | 14 | 9 |
+| **5** | 16 | 12 |
+| **6** | 18 | 12 |
+| **7** | 20 | 15 |
+| **8** | 22 | 15 |
+| **9** | 24 | 18 |
+| **10** | 24 | 18 |
 
-
-### Spells and Combat Techniques
+---
+## Spells and Combat Techniques
 Spell casters can use spells while classes like soldier and scout can use combat techniques. These abilities usually cost energy to activate. They are explained in more detail within their respective pages: [[Spells]] and [[Combat Techniques]].
 
 ## Aptitudes

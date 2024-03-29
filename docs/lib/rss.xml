@@ -1,0 +1,2897 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Obsidian Vault]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.png</url><title>Obsidian Vault</title><link></link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Fri, 29 Mar 2024 16:43:58 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Fri, 29 Mar 2024 16:43:56 GMT</pubDate><ttl>60</ttl><dc:creator></dc:creator><item><title><![CDATA[Performer (𐰆𐰔𐰀𐰣)]]></title><description><![CDATA[<a class="tag" href="?query=tag:TODO" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#TODO</a> <a class="tag" href="?query=tag:TODO" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#TODO</a> <a class="tag" href="?query=tag:TODO" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#TODO</a> 
+ <br><br><a href=".?query=tag:TODO" class="tag" target="_blank" rel="noopener">#TODO</a> <br><br>
+<br>Health: 60
+<br>Energy: 8 (Major)
+<br>Starter equipment:
+
+<br>A regular weapon set.
+<br>Any armor of choice.
+<br><a href=".?query=tag:TODO" class="tag" target="_blank" rel="noopener">#TODO</a> 
+
+
+<br><br><br><br><br><br><br><br><a href=".?query=tag:TODO" class="tag" target="_blank" rel="noopener">#TODO</a> <br><br>As a Performer, you are talented on multiple types of art. Due to this, you are able to cast simple and complex social spells.<br>]]></description><link>sigil-of-uchma/classes/performer.html</link><guid isPermaLink="false">sigil-of-uchma/Classes/Performer.md</guid><pubDate>Tue, 27 Feb 2024 15:36:53 GMT</pubDate></item><item><title><![CDATA[Scout (𐰃𐰔𐰲𐰃)]]></title><description><![CDATA[<a class="tag" href="?query=tag:TODO" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#TODO</a> <a class="tag" href="?query=tag:TODO" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#TODO</a> <a class="tag" href="?query=tag:TODO" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#TODO</a> 
+ <br><br><a href=".?query=tag:TODO" class="tag" target="_blank" rel="noopener">#TODO</a> <br><br>
+<br>Health: 70
+<br>Energy: 6 (Minor)
+<br>Starter equipment:
+
+<br>A regular weapon set.
+<br>Any armor of choice.
+<br><a href=".?query=tag:TODO" class="tag" target="_blank" rel="noopener">#TODO</a> 
+
+
+<br><br><br><br><br><br><br><br><a href=".?query=tag:TODO" class="tag" target="_blank" rel="noopener">#TODO</a> <br><br>Your damaging weapon attacks gain bonus damage equal to 5 plus half of your strength aptitude against foes who are either:<br>
+<br>flanked,
+<br>prone,
+<br>suffering from a debilitating status effect, or
+<br>in lower terrain compared to you.
+<br><br>You can spend 2 energy to tend to a willing creature you can touch as a rapid action, with whatever is available near you. You cure a debilitating or a harmful status effect of your choosing. Curing a status effect with this way also grants 5 temporary health for 1 round. <br><br>Choose one of the following abilities. You gain that ability against attacks from exploitable foes:<br>
+<br>Improved Reflexes: You have a +1 bonus to Parry, Evasion and Reflection.
+<br>Strong Will: You have a +1 bonus to Constitution, Favor and Willpower.
+]]></description><link>sigil-of-uchma/classes/scout.html</link><guid isPermaLink="false">sigil-of-uchma/Classes/Scout.md</guid><pubDate>Tue, 27 Feb 2024 15:36:53 GMT</pubDate></item><item><title><![CDATA[Shaman (𐰴𐰢)]]></title><description><![CDATA[<a class="tag" href="?query=tag:TODO" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#TODO</a> 
+ <br><br><a href=".?query=tag:TODO" class="tag" target="_blank" rel="noopener">#TODO</a> ]]></description><link>sigil-of-uchma/classes/shaman.html</link><guid isPermaLink="false">sigil-of-uchma/Classes/Shaman.md</guid><pubDate>Fri, 15 Dec 2023 06:23:28 GMT</pubDate></item><item><title><![CDATA[Soldier (𐰀𐰼)]]></title><description><![CDATA[<a class="tag" href="?query=tag:TODO" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#TODO</a> <a class="tag" href="?query=tag:TODO" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#TODO</a> <a class="tag" href="?query=tag:TODO" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#TODO</a> <a class="tag" href="?query=tag:TODO" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#TODO</a> <a class="tag" href="?query=tag:TODO" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#TODO</a> 
+ <br><br>Soldiers can be honorable warriors, bounty hunters, master swordsmen and more. They can take any size, shape or form; some of them are lone wolves who rely only on brute force, some know a difficult task requires strong allies and some can even use magic. However, they have one common trait: they are very skilled when it comes to down to combat.<br><br>
+<br>Health: 80
+<br>Energy: 6 (Minor)
+<br>Starter equipment:
+
+<br>A regular weapon set.
+<br>Any armor of choice.
+<br><a href=".?query=tag:TODO" class="tag" target="_blank" rel="noopener">#TODO</a> 
+
+
+<br><br><br><br><br><br><br><br><a href=".?query=tag:TODO" class="tag" target="_blank" rel="noopener">#TODO</a> <br><br>If you roll a 10 on a precision roll's d10 with a damaging ability, it gains a (5 + potency) bonus to its damage, depending on its aptitude.<br>
+You can spend 2 energy to get the same benefits if you rolled a 9 with the d10. <br><br>Choose one style to start specializing in. You gain the listed benefits of that style.<br>
+<br>Strength specialization: Combat techniques you perform are considered to have +2 POW. This ability works normally when a combat technique modifies another action.
+<br>Endurance specialization: VIT increases your health by 3 points instead of 2.
+<br>Magical specialization: Choose any simple novice spell. You can cast this spell by spending energy as normal.
+<br><br>Choose a type of armor, and one passive effect. You gain that effect while wearing this armor type.<br>
+<br>Efficiency: You do not gain the resistance penalties from being stunned or prone.
+<br>Impenetrable defense: You are immune to any type of armor piercing. This also affects your shield.
+<br>Like the wind: When you charge or run, you gain a +1 bonus to your Parry and Evasion for 1 round.
+<br><br>Choose one combat ability. <br>
+<br>Keen rejuvenation: Your critical training ability additionally regenerates 1 energy. 
+<br>Dynamic vision: You have a +1 bonus to Parry against prepared actions and you cannot be flanked. 
+<br><a href=".?query=tag:TODO" class="tag" target="_blank" rel="noopener">#TODO</a> 
+<br><a href=".?query=tag:TODO" class="tag" target="_blank" rel="noopener">#TODO</a> 
+<br><br>When you gain temporary armor of one type, you also gain an equal amount of the other type for the same duration. This ability only works if you are wearing the armor type you previously chose.<br><br><a href=".?query=tag:TODO" class="tag" target="_blank" rel="noopener">#TODO</a> <br>]]></description><link>sigil-of-uchma/classes/soldier.html</link><guid isPermaLink="false">sigil-of-uchma/Classes/Soldier.md</guid><pubDate>Tue, 27 Feb 2024 15:41:00 GMT</pubDate></item><item><title><![CDATA[Warden (𐰸𐰺𐰲𐰆)]]></title><description><![CDATA[<a class="tag" href="?query=tag:TODO" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#TODO</a> 
+ <br><br><a href=".?query=tag:TODO" class="tag" target="_blank" rel="noopener">#TODO</a> ]]></description><link>sigil-of-uchma/classes/warden.html</link><guid isPermaLink="false">sigil-of-uchma/Classes/Warden.md</guid><pubDate>Fri, 15 Dec 2023 06:23:28 GMT</pubDate></item><item><title><![CDATA[Witch (𐰲𐰑𐰃)]]></title><description><![CDATA[<a class="tag" href="?query=tag:TODO" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#TODO</a> <a class="tag" href="?query=tag:TODO" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#TODO</a> <a class="tag" href="?query=tag:TODO" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#TODO</a> <a class="tag" href="?query=tag:TODO" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#TODO</a> 
+ <br><br><a href=".?query=tag:TODO" class="tag" target="_blank" rel="noopener">#TODO</a> <br><br>
+<br>Health: 60
+<br>Energy: 8 (Major)
+<br>Starter equipment:
+
+<br>A regular weapon set.
+<br>Any armor of choice.
+<br><a href=".?query=tag:TODO" class="tag" target="_blank" rel="noopener">#TODO</a> 
+
+
+<br><br><br><br><br><br><br><br><a href=".?query=tag:TODO" class="tag" target="_blank" rel="noopener">#TODO</a> <br><br>As a Witch, you are able to cast both simple and complex witchcraft spells.<br><br>As a rapid action, you can attune to the forces of nature for this round. While attuned, your spells are considered to have +1 bonuses to PEN and ARC. You can't attune if you moved more than half your movement speed this round, and your movement speed is halved while attuned.<br><br>Choose two modifiers each at levels 2 and 6.<br>
+These modifiers cost 1 energy to apply to the next spell you cast, and a spell can have multiple modifiers.<br>
+<br>Bracing: While you are casting this spell, you have a +2 bonus to all resistances against prepared actions. 
+<br>Homing: This projectile spell curves slightly around obstacles. Cover penalties to this spell are reduced by 1.
+<br>Improved range: This spell's range is increased by 2 meters. This modifier does not affect radius of a spell.
+<br>Selective effect: This spell doesn't affect one creature you choose, aside from yourself.
+<br>Self-shielding: This spell grants you physical and magical temporary armor equal to half of its energy cost.
+<br><a href=".?query=tag:TODO" class="tag" target="_blank" rel="noopener">#TODO</a> 
+<br>Spell knockback: This single-target damaging spell pushes its target one meter away from you. 
+<br>Reduced duration: This spell's duration is halved.
+<br><br>While attuning, you can use one spell modifier you have without spending energy cost.<br>]]></description><link>sigil-of-uchma/classes/witch.html</link><guid isPermaLink="false">sigil-of-uchma/Classes/Witch.md</guid><pubDate>Tue, 27 Feb 2024 15:36:53 GMT</pubDate></item><item><title><![CDATA[Aptitudes]]></title><description><![CDATA[ 
+ <br><br>Aptitudes are main traits of a character which take values between 0 and 10. There are five aptitudes: Strength, Endurance, Witchcraft, Social and Divine. Players gain a set amount of Aptitude Points (AP) on each level up. An aptitude can't be larger than the character's total level. Each aptitude is further divided into two stats: a potency stat and a control stat, respectively. Aptitude points are spent on those stats.<br>The table below shows the aptitudes, their potency stats and their precision stats.<br><br>A total of 25 AP can be earned. Points gained per level are given in this table:<br><br><br><br>Resistances lower the accuracy of incoming hits. They act as the success thresholds of precision rolls. List of resistances is given below:<br><br>Resistances are determined by stats, equipment, and other various things. At level 1, you can choose to focus on certain resistances:<br>
+<br>You can choose one resistance to be "major" and another one to be "minor".
+<br>Alternatively, you can choose three resistances to be "minor".
+<br>Resistance choices affect their scaling:<br>]]></description><link>sigil-of-uchma/content/aptitudes.html</link><guid isPermaLink="false">sigil-of-uchma/Content/Aptitudes.md</guid><pubDate>Fri, 29 Mar 2024 15:16:49 GMT</pubDate></item><item><title><![CDATA[Armor]]></title><description><![CDATA[ 
+ <br><br>This equipment protects its wearer from physical and magical damage, depending on its type. See <a data-tooltip-position="top" aria-label="Combat > Armor" data-href="Combat#Armor" href="sigil-of-uchma/content/combat.html#Armor" class="internal-link" target="_self" rel="noopener">Armor</a>.<br><br><br><br>Additional armor can be gained through spells and abilities which grant temporary armor. Rules of temporary armor can be found in the <a data-href="List of Rules - Status Effects" href="sigil-of-uchma/lists/list-of-rules-status-effects.html" class="internal-link" target="_self" rel="noopener">List of Rules - Status Effects</a> page.]]></description><link>sigil-of-uchma/content/armor.html</link><guid isPermaLink="false">sigil-of-uchma/Content/Armor.md</guid><pubDate>Wed, 28 Feb 2024 22:43:10 GMT</pubDate></item><item><title><![CDATA[Phases of Combat]]></title><description><![CDATA[ 
+ <br><br>
+<br>Setting up the battle map
+<br>Determining ambush for the first round
+<br>Round start
+
+<br>Start phase
+
+<br>Calculate turn order for this round
+
+
+<br>Action phase
+
+<br>Players and NPCs take their turns in order, choosing and executing one of the following ordered groups:
+
+<br>Move -&gt; Action and Rapid Action
+<br>Action and Rapid Action -&gt; Move
+<br>Move -&gt; Action and Prepared Action
+<br>Action and Prepared Action -&gt; Move
+<br>Move -&gt; Move (Running)
+<br>Full-turn Action
+
+
+
+
+<br>End phase
+
+<br>Death, leaving combat and fleeing
+<br>Conversing, discussing, bargaining
+
+
+
+
+<br>End of round
+
+<br>Return to round start if necessary.
+
+
+<br><br>A battle map is a grid of squares overlaid on top of a map, a sketch or a similar image depicting a location that the combat takes place in. Each square in a battle map is considered to be a 1 square meter area. Creatures can be represented with tokens or similar objects on this battle map.<br><br>Combat has rules for resolving various situations that players and the GM might come across. These can be found <a data-href="List of Rules - Combat" href="sigil-of-uchma/lists/list-of-rules-combat.html" class="internal-link" target="_self" rel="noopener">List of Rules - Combat</a>.<br><br>At the start phase of every round, turn order will be calculated for this round. There are several rules:<br>
+<br>Every creature in combat is ordered in terms of their SPD from highest to lowest.
+<br>Allies with same SPD value must determine who goes first beforehand. This can only be changed in the end phase during combat.
+<br>If there are creatures with equal SPD in at least any two sides in the combat, the following rules are applied:
+
+<br>The conflicting sides roll a d20 each.
+<br>For conflicting turn order spots, higher rolling teams' members will go earlier than the lower rolling teams' members with the same SPD.
+<br>If there is a draw, another set of d20s must be rolled between the drawing sides.
+
+
+<br>A creature can only have one turn within one round, even if the creature is next in initiative order.<br><br>
+<br>Effects of abilities with a duration of one or more "hits" trigger and end during the recipient's turns: 
+
+<br>If a creature is bleeding for one hit, they will take bleeding damage at the start of their next turn and the bleeding ends. 
+<br>If the bleeding has a duration of two or more hits, then one hit will be spent when the bleeding damage happens.
+
+
+<br>Effects of abilities with a duration of one or more "rounds" end at the start of the turns of their owners.
+<br><br>Each turn takes approximately 10 seconds in game.<br><br>These are regular actions. Mostly, only one action can be taken during a turn.<br><br>During a turn, one rapid action can be taken alongside a regular action.<br>
+A rapid action is mutually exclusive with a prepared action. Only one of them can be taken during a turn.<br><br>During a turn, one prepared action can be taken alongside a regular action.<br>
+This kind of actions always come with a trigger, and they are usually performed outside a character's turn.<br>
+Prepared actions last until end of this round, unless explicitly told otherwise.<br>
+A prepared action is mutually exclusive with a rapid action. Only one of them can be taken during a turn.<br><br>These actions can be taken by any player character as long as they fulfill the requirements. See <a data-href="List of Rules - Special Actions" href="sigil-of-uchma/lists/list-of-rules-special-actions.html" class="internal-link" target="_self" rel="noopener">List of Rules - Special Actions</a>.<br><br>Precision rolls determine whether a weapon attack, a spell, a combat technique or any other ability succeeds against an unwilling target.<br>A precision roll is done against a resistance, such as Parry or Evasion. If the result of this roll exceeds or is equal to the resistance it is rolled against, the roll succeeds and the spell or attack connects. <br>Additionally, if you roll a 10 with a precision roll's d10, the roll succeeds regardless of the relevant resistance. <br><br>A precision roll is calculated according to this formula:<br>
+1d10 + (relevant aptitude)/2 + weapon precision bonus + other bonuses<br>Terms in this formula are explained below:<br>
+Relevant aptitude: Equal to half of the weapon's or the spell's aptitude. For example, an elemental wand uses witchcraft. Bonuses to your aptitudes do not affect your precision rolls.<br>
+Weapon precision bonus: A weapon's precision type and bonus is determined by the type of the weapon held in main hand or the wielded two-handed weapon.<br>
+Other bonuses: These are bonuses or penalties which come from various sources like status effects, environment and the like.<br>In some cases, a specific spell, an ability or an attack might include a precision bonus or penalty itself. For example, "wide slash" attack of a glaive doesn't include "weapon precision bonus" in its precision roll. We know this because "wide slash" has the phrase "ignores weapon precision" in its explanation. A weapon precision bonus only applies when a precision roll matches the weapon's precision type. For example, a wand of any type normally doesn't affect precision rolls based on strength.<br><br>When a creature takes damage, this damage value reduces their health.<br><br>Damage done to a target is calculated according to this formula:<br>
+Action damage + potency of relevant aptitude + other bonuses - target's armor<br>Terms in this formula are explained below:<br>
+Action damage: Action damage is the damage of an attack or a damaging spell. This value is given for each weapon and spell in the description of it.<br>
+Potency of relevant aptitude: Equal to the potency stat of the weapon's or the spell's aptitude. For example, a curved sword uses POW.<br>
+Other bonuses:  These are bonuses or penalties which come from various sources like status effects, environment and the like.<br>
+Target's armor: Armor is explained in the Armor section. <br>In some cases, a specific spell or attack might include a potency bonus or penalty itself. As an example, let's take the Witchcraft spell Elemental Infusion. This spell includes the phrase "potency bonus to damage is halved for this spell". This simply means "potency of relevant aptitude" is divided by two in the formula:<br>
+Action damage + (potency of relevant aptitude)/2 + other bonuses - target's armor<br><br>Each creature has two kinds of armor: physical armor and magical armor. Normally, damage from weapon attacks and similar abilities are affected by physical armor and damage from magical sources like spells are affected by magical armor. If something is an exception to this rule, this is told in the explanation of it.<br><br>For a spell to be considered a "damaging ability", it should have a base damage. Examples could be abilities like "Dissonance", "Shield Bash" or the hatchet's "Hack". Some actions only apply a status effect, but do not have a base damage. These abilities are not considered damaging abilities.<br><br>Extra damage is a completely different packet of damage that just shares the precision roll of another attack. Extra damage has its own values for action damage, potency, bonuses and it is affected by armor separately from the delivering attack.<br>On the other hand, bonus damage is just added into the delivering attack's damage calculation. Specifically, into the "other bonuses" term.]]></description><link>sigil-of-uchma/content/combat.html</link><guid isPermaLink="false">sigil-of-uchma/Content/Combat.md</guid><pubDate>Tue, 27 Feb 2024 15:36:53 GMT</pubDate></item><item><title><![CDATA[Combat Techniques]]></title><description><![CDATA[ 
+ <br><br>Warriors might not be able to cast spells like a witch or a shaman, but they can take on their enemies their own way: brute force, complex movement, advanced techniques and alternative uses of weapons. By default, all combat techniques use the strength aptitude.<br>There are two kinds of combat techniques: Simple and advanced. These two groups guide the combat technique learning progress. A similar mechanism exists on <a data-href="Spells" href="sigil-of-uchma/content/spells.html" class="internal-link" target="_self" rel="noopener">Spells</a>, albeit the names of the groups are different. <br>Using combat techniques require some amount of energy. Each creature has a definite amount of energy in their body. Energy is gained passively while sleeping or resting.<br>A list of techniques can be found in the <a data-href="List of Combat Techniques" href="sigil-of-uchma/lists/list-of-combat-techniques.html" class="internal-link" target="_self" rel="noopener">List of Combat Techniques</a>.]]></description><link>sigil-of-uchma/content/combat-techniques.html</link><guid isPermaLink="false">sigil-of-uchma/Content/Combat Techniques.md</guid><pubDate>Tue, 19 Dec 2023 08:21:26 GMT</pubDate></item><item><title><![CDATA[Items, Crafting and Inventory Management]]></title><description><![CDATA[<a class="tag" href="?query=tag:TODO" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#TODO</a> 
+ <br><a href=".?query=tag:TODO" class="tag" target="_blank" rel="noopener">#TODO</a>]]></description><link>sigil-of-uchma/content/items,-crafting-and-inventory-management.html</link><guid isPermaLink="false">sigil-of-uchma/Content/Items, Crafting and Inventory Management.md</guid><pubDate>Fri, 15 Dec 2023 06:23:28 GMT</pubDate></item><item><title><![CDATA[Player Characters]]></title><description><![CDATA[<a class="tag" href="?query=tag:TODO" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#TODO</a> <a class="tag" href="?query=tag:TODO" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#TODO</a> 
+ <br><br>Player characters are the other part, alongside the Game Master, of Sigil of Uchma. This page will go over the basics of character creation.<br><br><br>A player character can start with choosing a class:<br>
+<br><a data-href="Soldier" href="sigil-of-uchma/classes/soldier.html" class="internal-link" target="_self" rel="noopener">Soldier</a>
+<br><a data-href="Shaman" href="sigil-of-uchma/classes/shaman.html" class="internal-link" target="_self" rel="noopener">Shaman</a>
+<br><a data-href="Scout" href="sigil-of-uchma/classes/scout.html" class="internal-link" target="_self" rel="noopener">Scout</a>
+<br><a data-href="Witch" href="sigil-of-uchma/classes/witch.html" class="internal-link" target="_self" rel="noopener">Witch</a>
+<br><a data-href="Warden" href="sigil-of-uchma/classes/warden.html" class="internal-link" target="_self" rel="noopener">Warden</a>
+<br><a data-href="Performer" href="sigil-of-uchma/classes/performer.html" class="internal-link" target="_self" rel="noopener">Performer</a>
+<br>Classes are further divided into sub-classes called branches. Description of branches will be added to the relevant class page. Currently, branches are <a href=".?query=tag:TODO" class="tag" target="_blank" rel="noopener">#TODO</a>.<br><br>Your starting class and VIT determines your health. There are three tiers of maximum health:<br><br>Each point of VIT you have grants you an additional 2 health.<br><br><br>Your starting class determines your energy, which is used for casting spells or performing combat techniques. There are two tiers of maximum energy, scaling differently as you gain levels:<br><br><br><br>Spell casters can use spells while classes like soldier and scout can use combat techniques. These abilities usually cost energy to activate. They are explained in more detail within their respective pages: <a data-href="Spells" href="sigil-of-uchma/content/spells.html" class="internal-link" target="_self" rel="noopener">Spells</a> and <a data-href="Combat Techniques" href="sigil-of-uchma/content/combat-techniques.html" class="internal-link" target="_self" rel="noopener">Combat Techniques</a>.<br><br>Aptitudes are the main traits of a character. They are explained in the <a data-href="Aptitudes" href="sigil-of-uchma/content/aptitudes.html" class="internal-link" target="_self" rel="noopener">Aptitudes</a> page.<br><br>Each player character can choose a starting equipment from choices given by their class, branch and backstory. Most commonly: <br>
+<br><a data-href="Weapons" href="sigil-of-uchma/content/weapons.html" class="internal-link" target="_self" rel="noopener">Weapons</a>
+<br><a data-href="Armor" href="sigil-of-uchma/content/armor.html" class="internal-link" target="_self" rel="noopener">Armor</a>
+<br><a data-href="Items, Crafting and Inventory Management" href="sigil-of-uchma/content/items,-crafting-and-inventory-management.html" class="internal-link" target="_self" rel="noopener">Items, Crafting and Inventory Management</a>
+<br><br>See: <a data-tooltip-position="top" aria-label="List of Rules - Combat > Movement" data-href="List of Rules - Combat#Movement" href="sigil-of-uchma/lists/list-of-rules-combat.html#Movement" class="internal-link" target="_self" rel="noopener">Movement</a>.<br><br>See:  <a data-tooltip-position="top" aria-label="Combat > Turn Order" data-href="Combat#Turn Order" href="sigil-of-uchma/content/combat.html#Turn_Order" class="internal-link" target="_self" rel="noopener">Turn Order</a>.<br><br><br><br>Usually, a character requires 6 to 8 hours of sleep per day. Not getting proper sleep for a night gives a character one stack of fatigue. Skipping sleep while having 5 stacks of fatigue is lethal and the character dies. While it is usually the best to sleep at night, it is not rare to see parties resting during the day. When the players decide the party should rest or sleep, they must declare this to the GM. In the case of just resting, the players should also explain what their characters will be doing while resting. In this case, the GM can determine whether or not these activities are allowed as a part of resting.<br>There are a few basic requirements to resting and sleeping. For a character to be able to rest, they should:<br>
+<br>Be able to sit or lie down. 
+<br>Be relaxed.
+<br>Be in a safe environment.
+<br>Sleeping has stricter requirements. Alongside the resting requirements, a character can sleep only if:<br>
+<br>They have a place to sleep.
+<br>They are wearing clothing, robes or light armor.
+<br>Resting and sleeping, normally, have the following benefits:<br>
+<br>Characters heal 10 health per hour while sleeping.
+<br>Similarly, 2 points of energy regenerates per hour while sleeping.
+<br>While only resting, these regeneration rates are halved.
+<br>However, not all damage and status effects can be healed this way. What makes sense and what does not is left primarily to the GM.<br><br><a href=".?query=tag:TODO" class="tag" target="_blank" rel="noopener">#TODO</a> ]]></description><link>sigil-of-uchma/content/player-characters.html</link><guid isPermaLink="false">sigil-of-uchma/Content/Player Characters.md</guid><pubDate>Fri, 29 Mar 2024 15:14:52 GMT</pubDate></item><item><title><![CDATA[Skills]]></title><description><![CDATA[ 
+ <br><br>Skills are miscellaneous abilities of a character. Each skill is about a certain set of actions or abilities. Skills are improved by spending skill points. At any point, the GM might ask for a skill roll from a player. This can be because of something the player wants to do, an environmental effect or something else. While the GM can freely determine the success threshold, a list of sample success thresholds for common situations will be given. When making a skill roll, the following formula is used: <br>
+<br>1d10 + skill value + bonuses
+<br>Furthermore, some skills are grouped under an aptitude. When a character makes a skill roll with a skill bound to an aptitude, the roll is instead:<br>
+<br>1d10 + skill value + relevant aptitude + bonuses
+<br>Players gain a set amount of Skill Points (SP) on each level up. SPs can be spent on a skill to increase its value by one. A skill can be increased only once per level. A total of 22 SP can be earned. Points gained per level are given in this table:<br><br><br>
+<br>Engineering
+
+<br>Crafting mechanisms and machinery.
+
+
+<br>Smithing
+
+<br>Creating and improving weapons and armor. Also includes fletching.
+
+
+<br>Surveying
+
+<br>Path finding, detecting traps and noticing things.
+
+
+<br>Apothecary
+
+<br>Identifying herbs, crafting poisons, brewing potions and cooking herbal dishes.
+
+
+<br>Husbandry
+
+<br>Hunting, trapping, catching, tracking, butchering, skinning animals and cooking meat dishes.
+
+
+<br>Stealth
+
+<br>Hiding, disguising as something else and staying undetected. Also includes lock-picking and pick-pocketing.
+
+
+<br>Riding
+
+<br>Riding a horse, a chariot or any other vehicle.
+
+
+<br><br>
+<br>Intimidation
+
+<br>Scaring, intimidating and bullying.
+
+
+<br>Force
+
+<br>Handling heavy objects or creatures. Also includes pulling and pushing.
+
+
+<br><br>
+<br>Athletics
+
+<br>Swimming, jumping over and climbing. Also includes enduring pain.
+
+
+<br>Reflexes
+
+<br>Balancing, moving around, not triggering traps and avoiding.
+
+
+<br><br>
+<br>Scribing
+
+<br>Creating magical scrolls, documents, contracts and deciphering magically encrypted messages.
+
+
+<br>Identification
+
+<br>Finding about the magical properties of an object or a place.
+
+
+<br><br>
+<br>Lorekeeping
+
+<br>Knowledge of historical events, ancient civilizations, religions and hidden societies.
+
+
+<br>Healing
+
+<br>Treating minor wounds, applying first aid and stabilizing a patient.
+
+
+<br><br>
+<br>Insight
+
+<br>Understanding lies, intentions and ulterior motives.
+
+
+<br>Deception
+
+<br>Persuading or successfully lying to someone.
+
+
+]]></description><link>sigil-of-uchma/content/skills.html</link><guid isPermaLink="false">sigil-of-uchma/Content/Skills.md</guid><pubDate>Tue, 19 Dec 2023 06:38:48 GMT</pubDate></item><item><title><![CDATA[Spells]]></title><description><![CDATA[ 
+ <br><br>Normally, magic and magical power is found all around the world of Sigil of Uchma. Some can expand their inner energy out as structured magic. Shaping energy into a form to fulfill a purpose gives it different effects, and this shape can be remembered. Spell casters such as Magician learn and keep track of these forms.<br>Spells are, simply put, known shapes and forms of magic. Spells need to be trained like a soldier trains with a weapon, and casting one requires a similar amount of muscle memory to martial arts. A spell caster has a definite amount of energy in their body. Energy is gained passively while sleeping or resting.<br>Spells are split into three categories. Each of these can be found in their respective list:<br>
+<br><a data-tooltip-position="top" aria-label="List of Spells - Witchcraft" data-href="List of Spells - Witchcraft" href="sigil-of-uchma/lists/list-of-spells-witchcraft.html" class="internal-link" target="_self" rel="noopener">Witchcraft Spells</a>
+<br><a data-tooltip-position="top" aria-label="List of Spells - Divine" data-href="List of Spells - Divine" href="sigil-of-uchma/lists/list-of-spells-divine.html" class="internal-link" target="_self" rel="noopener">Divine Spells</a>
+<br><a data-tooltip-position="top" aria-label="List of Spells - Social" data-href="List of Spells - Social" href="sigil-of-uchma/lists/list-of-spells-social.html" class="internal-link" target="_self" rel="noopener">Social Spells</a>
+<br>Spells in each category are further divided into three groups: novice, veteran and expert. These three groups guide the spell learning progress. A similar mechanism exists on <a data-href="Combat Techniques" href="sigil-of-uchma/content/combat-techniques.html" class="internal-link" target="_self" rel="noopener">Combat Techniques</a>, albeit the names of the groups are different.<br>Lastly, a spell can be a complex spell or a simple spell. This mainly affects what kind of spells a character can learn. For example, the "magical specialization" ability of a Soldier only allows them to learn a simple novice spell. However, a Magician can learn both simple and complex witchcraft spells.]]></description><link>sigil-of-uchma/content/spells.html</link><guid isPermaLink="false">sigil-of-uchma/Content/Spells.md</guid><pubDate>Fri, 15 Dec 2023 06:40:06 GMT</pubDate></item><item><title><![CDATA[Weapons]]></title><description><![CDATA[ 
+ <br><br>Weapons are what creatures use to hit their foes. Most creatures with body parts similar to arms and hands can use every weapon. There are several categories of weapons. Each of these can be found in their respective list:<br>
+<br><a data-tooltip-position="top" aria-label="List of Weapons - One Handed" data-href="List of Weapons - One Handed" href="sigil-of-uchma/lists/list-of-weapons-one-handed.html" class="internal-link" target="_self" rel="noopener">One Handed weapons</a>
+<br><a data-tooltip-position="top" aria-label="List of Weapons - Off-hand" data-href="List of Weapons - Off-hand" href="sigil-of-uchma/lists/list-of-weapons-off-hand.html" class="internal-link" target="_self" rel="noopener">Off-hand weapons</a> 
+<br><a data-tooltip-position="top" aria-label="List of Weapons - Two Handed" data-href="List of Weapons - Two Handed" href="sigil-of-uchma/lists/list-of-weapons-two-handed.html" class="internal-link" target="_self" rel="noopener">Two handed weapons</a> 
+<br><br>Some abilities may include a phrase similar to "doing a basic weapon attack". This means using the regular attack of a weapon, which is almost always the first active ability. <br><br>Weapon sets are helpful guides used primarily during character creation. If you take a bow, you will also get a quiver and 30 basic arrows. <br>Regular weapon set<br>
+<br>A one handed weapon and an off-hand weapon.
+<br>A one handed weapon and a light one handed weapon.
+<br>A two handed weapon. 
+<br>Light weapon set<br>
+<br>A light one handed weapon and an off-hand weapon.
+<br>Two light one handed weapons.
+<br>Ranged weapon set<br>
+<br>A ranged weapon.
+<br>At least two, up to five throwing spears. 
+<br>Info
+ If you choose throwing spear in any set, you can take up to five spears. Extra spears take up space and require a quiver. You can take throwing spears with the ranged weapon set only if you take multiple spears.
+]]></description><link>sigil-of-uchma/content/weapons.html</link><guid isPermaLink="false">sigil-of-uchma/Content/Weapons.md</guid><pubDate>Sat, 13 Jan 2024 18:17:25 GMT</pubDate></item><item><title><![CDATA[Barbed Tip]]></title><description><![CDATA[<a class="tag" href="?query=tag:TODO" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#TODO</a> <a class="tag" href="?query=tag:TODO" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#TODO</a> <a class="tag" href="?query=tag:TODO" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#TODO</a> <a class="tag" href="?query=tag:TODO" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#TODO</a> <a class="tag" href="?query=tag:TODO" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#TODO</a> <a class="tag" href="?query=tag:TODO" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#TODO</a> <a class="tag" href="?query=tag:TODO" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#TODO</a> 
+ <br>(see: <a data-href="Items, Crafting and Inventory Management" href="sigil-of-uchma/content/items,-crafting-and-inventory-management.html" class="internal-link" target="_self" rel="noopener">Items, Crafting and Inventory Management</a>)<br><br>Variants: Arrow and bolt<br>
+Requirements:<br>
+This item must be used with a bow's or a crossbow's basic weapon attack.<br>
+Effect:<br>
+This ammo gets stuck in the target if it hits, and can be retrieved with the Retrieve Weapon action.<br>
+Additionally, this ammo gets stuck in solid materials it penetrates.<br>
+Crafting: <a href=".?query=tag:TODO" class="tag" target="_blank" rel="noopener">#TODO</a> <br><br>Variants: Arrow and bolt<br>
+Requirements:<br>
+This item must be used with a bow's or a crossbow's basic weapon attack.<br>
+Effect:<br>
+This attack's precision rolls are made against Evasion.<br>
+Ignores weapon damage and precision.<br>
+Choose a square within half of this weapon's range. Every creature within a 2 meter radius around this square is disoriented for 2 rounds.<br>
+Crafting: <a href=".?query=tag:TODO" class="tag" target="_blank" rel="noopener">#TODO</a> <br><br>Variants: Arrow<br>
+Requirements:<br>
+This item must be used with a bow's basic weapon attack.<br>
+Effect:<br>
+This attack's precision rolls are made against Constitution.<br>
+Applies bleeding for 1 hit.<br>
+Crafting: <a href=".?query=tag:TODO" class="tag" target="_blank" rel="noopener">#TODO</a> <br><br>Variants: Arrow<br>
+Requirements:<br>
+This item must be used with a bow's basic weapon attack.<br>
+Effect:<br>
+Deals half weapon damage against foes with worn physical armor.<br>
+This ammo can cut ropes and fabric of regular thickness.<br>
+Crafting: <a href=".?query=tag:TODO" class="tag" target="_blank" rel="noopener">#TODO</a> <br><br>Variants: Arrow<br>
+Requirements:<br>
+This item must be used with a bow's basic weapon attack.<br>
+Effect:<br>
+This attack's precision rolls are made against Evasion.<br>
+Ignores weapon damage and precision.<br>
+Choose an area with 2 meter radius within half of this weapon's range. Flaming oil splatters onto this area, applying burning for 1 hit.<br>
+Crafting: <a href=".?query=tag:TODO" class="tag" target="_blank" rel="noopener">#TODO</a> <br><br>Variants: Bolt<br>
+Requirements:<br>
+This item must be used with a crossbow's basic weapon attack.<br>
+Effect:<br>
+This attack ignores worn physical armor above 5.<br>
+Crafting: <a href=".?query=tag:TODO" class="tag" target="_blank" rel="noopener">#TODO</a> <br><br>Variants: Bolt<br>
+Requirements:<br>
+This item must be used with a crossbow's basic weapon attack.<br>
+Effect:<br>
+This attack's precision roll is made against Constitution.<br>
+Ignores weapon damage.<br>
+Choose a target within half of this weapon's range. This target is immobilized for 1 round.<br>
+Crafting: <a href=".?query=tag:TODO" class="tag" target="_blank" rel="noopener">#TODO</a> ]]></description><link>sigil-of-uchma/items/consumables-ammo.html</link><guid isPermaLink="false">sigil-of-uchma/Items/Consumables - Ammo.md</guid><pubDate>Wed, 28 Feb 2024 22:34:49 GMT</pubDate></item><item><title><![CDATA[Simple Combat Techniques]]></title><description><![CDATA[ 
+ <br>(see: <a data-href="Combat Techniques" href="sigil-of-uchma/content/combat-techniques.html" class="internal-link" target="_self" rel="noopener">Combat Techniques</a>)<br><br><br>Category: Weapon attack<br>
+Execution Time: Action<br>
+Cost: 2 energy<br>
+Range: 1 meter<br>
+Effect<br>
+Ignores weapon damage and precision.<br>
+Tackle your target, making them fall prone and dealing them 10 damage.<br><br>Category: Modification<br>
+Execution Time: Special<br>
+Cost: 1 energy<br>
+Requirements:<br>
+A prepared weapon attack or combat technique.<br>
+Effect<br>
+You can choose to activate this ability when you use a prepared action. This prepared action lasts until your next turn.<br><br>Category: Modification<br>
+Execution Time: Special<br>
+Cost: 1 energy<br>
+Requirements:<br>
+Any bow weapon attack.<br>
+Effect<br>
+When you attempt any bow weapon attack during your turn, as a part of that action, you can move up to (2 + DEX/3) meters before attacking.<br>
+This ability can be used alongside Improved Aiming. <br><br>Category: Modification<br>
+Execution Time: Special<br>
+Cost: 3 energy<br>
+Duration: 1 round<br>
+Requirements:<br>
+Charge action.<br>
+Effect<br>
+This attack's precision roll is made against Constitution.<br>
+You can choose to activate this technique when you take the Charge action.<br>
+At the end of this Charge, your attack additionally stuns the target for the duration.<br><br>Category: Modification<br>
+Execution Time: Special<br>
+Cost: 1 energy<br>
+Range: Double weapon range<br>
+Requirements:<br>
+Any melee weapon in main hand.<br>
+A basic weapon attack.<br>
+Effect<br>
+Ignores weapon precision.<br>
+As a part of a basic weapon attack with a melee weapon, you can choose to activate this ability. Your weapon's reach is doubled for this attack.<br><br>Category: Modification<br>
+Execution Time: Special<br>
+Cost: 1 energy<br>
+Duration: 1 round<br>
+Requirements:<br>
+Any melee weapon in main hand.<br>
+A basic weapon attack.<br>
+Effect<br>
+As a part of a basic weapon attack with a melee weapon, you can choose to activate this ability, except for the charge action.<br>
+Choose a resistance. You gain a (1 + DEX/3) bonus to a resistance of your choosing against attacks from this target for one round.<br><br>Category: Weapon attack<br>
+Execution Time: Prepared action<br>
+Cost: 1 energy<br>
+Requirements:<br>
+Any melee weapon in main hand.<br>
+Effect<br>
+Next time any target within your weapon's range attacks you, you counter attack them, dealing half weapon damage. Potency bonus to damage is doubled for this attack.<br><br>Category: Weapon attack<br>
+Execution Time: Rapid action<br>
+Cost: 1 energy<br>
+Range: 1 meter<br>
+Requirements:<br>
+A shield or a buckler in off-hand.<br>
+Effect<br>
+Ignores weapon damage and precision.<br>
+Deals 5 damage to target foe.<br>
+Alternatively, you can spend double energy to deal 10 damage instead.<br><br>Category: Weapon attack<br>
+Execution Time: Rapid action<br>
+Cost: 1 energy<br>
+Range: Weapon range<br>
+Requirements:<br>
+Any melee weapon.<br>
+Any full vial of poison.<br>
+Effect<br>
+You quickly spread a vial of poison on your weapon in the heat of battle.<br><br><br><br>Category: Weapon attack<br>
+Execution Time: Full-turn action<br>
+Cost: 2 energy<br>
+Range: 1 meter<br>
+Requirements:<br>
+Unarmed off-hand.<br>
+Effect<br>
+Ignores weapon damage and precision.<br>
+Try to hold the target and lock them in an inescapable position. On success, both of you fall prone and can't get up.<br>
+At the start of your turns, you can either release the target or spend 1 energy and make another precision roll. On failure, the target escapes your hold and both of you can get up on your respective turns.<br><br>Category: Modification<br>
+Execution Time: Special<br>
+Cost: 2 energy<br>
+Requirements:<br>
+Any full-turn action other than Charge.<br>
+Effect<br>
+You can choose to activate this technique when you take any full-turn action other than the Charge special action.<br>
+You can move up to (2 + DEX/3) meters before taking that action.<br><br>Category: Weapon attack<br>
+Execution Time: Action<br>
+Cost: 1 energy<br>
+Range: Weapon range<br>
+Requirements:<br>
+Any melee weapon in main hand.<br>
+Effect<br>
+Ignores weapon precision.<br>
+You attack your target for half weapon damage with your main weapon, trying to make it drop one of its weapons. This weapon falls below the target.<br>
+This technique can't disarm natural weapons.<br><br>Category: Weapon attack<br>
+Execution Time: Action<br>
+Cost: 2 energy<br>
+Range: Weapon range<br>
+Duration: (1 + DEX/4) rounds<br>
+Requirements:<br>
+Any melee weapon in main hand.<br>
+Effect<br>
+This attack's precision roll is made against Constitution.<br>
+Deals half weapon damage.<br>
+Applies slowed for the duration.<br><br>Category: Weapon attack<br>
+Execution Time: Special<br>
+Cost: 1 energy<br>
+Requirements:<br>
+Dual wielding two one handed weapons.<br>
+Effect<br>
+Choose one:<br>
+Attack with your off-hand weapon as if it was your main hand weapon. You can choose any weapon attack of your off-hand weapon.<br>
+Take the dual strike action with your off-hand as if it was your main hand, and your main hand as if it was your off-hand.<br><br>Category: Modification<br>
+Execution Time: Special<br>
+Cost: 2 energy<br>
+Range: 1 meter<br>
+Requirements:<br>
+Any melee weapon in main hand.<br>
+A damaging prepared weapon attack or combat technique.<br>
+Effect<br>
+You can choose to activate this ability when you use a prepared action. This prepared action can trigger twice instead of once. You can instead spend double the energy cost to have your prepared action trigger three times instead.<br><br>Category: Weapon attack<br>
+Execution Time: Action<br>
+Cost: 2 energy<br>
+Range: Weapon range<br>
+Requirements:<br>
+A longbow or a shortbow.<br>
+Effect<br>
+(Projectile)<br>
+Ignores weapon precision.<br>
+Shoot an arrow in a way that it bends and curves around objects.<br>
+This attack ignores non-magical covers, as long as the target is in line of sight. <br><br>Category: Weapon attack<br>
+Execution Time: Rapid action<br>
+Cost: 2 energy<br>
+Requirements:<br>
+Any bow.<br>
+You hit with a bow this turn.<br>
+Effect<br>
+(Projectile)<br>
+You can attack with this bow again, as a rapid action. This attack deals half weapon damage. ]]></description><link>sigil-of-uchma/lists/list-of-combat-techniques.html</link><guid isPermaLink="false">sigil-of-uchma/Lists/List of Combat Techniques.md</guid><pubDate>Fri, 01 Mar 2024 15:09:40 GMT</pubDate></item><item><title><![CDATA[Movement]]></title><description><![CDATA[<a class="tag" href="?query=tag:TODO" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#TODO</a> <a class="tag" href="?query=tag:TODO" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#TODO</a> <a class="tag" href="?query=tag:TODO" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#TODO</a> <a class="tag" href="?query=tag:TODO" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#TODO</a> 
+ <br>(see: <a data-href="Combat" href="sigil-of-uchma/content/combat.html" class="internal-link" target="_self" rel="noopener">Combat</a>)<br><br>(see: <a data-tooltip-position="top" aria-label="Combat > Battle Map" data-href="Combat#Battle Map" href="sigil-of-uchma/content/combat.html#Battle_Map" class="internal-link" target="_self" rel="noopener">Battle Maps</a>)<br>
+During combat, a creature can move within the battle map grid. There are various types of moving, which are explained below.<br>Movement speed of a creature is equal to:<br>
+(base movement speed + other bonuses) meters/round<br>Base movement speed of a creature is calculated with the formula below:<br>
+(10 + SPD) meters/round<br><br>
+<br>Walking is the simplest way of movement. a creature's walking speed is equal to its movement speed, normally.
+<br><br>
+<br>Instead of taking an action, a creature might "walk" twice. This is called "running" and unless specified otherwise, it is equal to double the walking speed.
+<br>A running creature can't take actions, rapid actions, prepared actions or full-turn actions.
+<br><br>
+<br>If a creature can fly, their flight speed is equal to their walking speed. Flight speed can be used vertically or horizontally. However, ascending takes up 4 flight speed per meter ascended.
+<br>A flying creature can't use its walking speed unless they land.
+<br>If a creature is flying, they are unaffected by any effects on the ground, unless the effect is tall enough to reach it.
+<br><br>
+<br>There are two kinds of rough terrain: light and heavy.
+
+<br>Walking or running through light rough terrain such as soft sand or shallow water takes up 2 walking speed per meter walked.
+<br>Walking through heavy rough terrain such as quicksand takes up 4 walking speed per meter walked.
+<br>Swimming in deep water, climbing and crawling are considered heavy rough terrain.
+
+
+<br><br>
+<br>When a player character falls below 0 health, they are considered "unconscious".
+<br>An unconscious character is considered prone.
+<br>If a player character takes equal to or more than double their base maximum health, they die immediately.
+<br>At the end phase of each round, unconscious characters make a death save roll against increased thresholds:
+
+<br>Death save rolls are calculated with this formula: (1d10 + VIT)
+<br>1st round: 3
+<br>2nd round: 5
+<br>3rd round: 7
+<br>4th round: 9
+
+
+<br>A character dies if they fail any of their death saves or when they reach their 5th consecutive round in unconscious state. 
+<br>If a character is healed to at least 1 health during unconscious state, they become conscious again and they are considered prone.
+<br><br>
+<br>Summoner can control their minions during combat. A minion disappears immediately when its summoner dies.
+<br>Summoners have a simple telepathic bond to their minions. A summoner will know where a minion is and how much damage it suffered at all times. 
+<br>The minions follow the regular initiative order. On a turn a minion is summoned, if they have higher initiative than their summoner, they take their turn immediately after the summoner.
+<br>Minions gain potency bonus to their damage normally, according to their relevant potency stat.
+<br>Minions don't use energy and energy for their skills, unless specified otherwise.
+<br><br><a href=".?query=tag:TODO" class="tag" target="_blank" rel="noopener">#TODO</a> <br><br>
+<br>When a character is behind cover, they are semi-protected against projectile attacks or projectile spells.
+<br>There are 3 types of cover:
+
+<br>Quarter Cover: +1 bonus to all resistances versus projectiles.
+<br>Half Cover: +2 bonus to all resistances versus projectiles.
+<br>Full Cover: +4 bonus to all resistances versus projectiles.
+
+
+<br>Having other creatures in the way while determining cover counts as half cover. This doesn't increase with the amount of creatures in the way.
+<br>If a creature is completely blocked from another's point of view, they are out of line of sight and can't be interacted with targeted attacks and spells.
+<br>Abilities, spells and attacks which affect an area may require hearing or sight:
+
+<br>Sounds can't pass rocks, deep water and similar materials.
+<br>Sounds can pass 1 meter of wood, metal, shallow water and other similar materials.
+<br>Cover of any kind doesn't break line of sight.
+<br>Magical remote eyes and ears count as sight and hearing for the purposes of these kind of effects.
+<br>There may be magical effects which can break line of sight or block sounds.
+
+
+<br><br>
+<br>During battle, whenever a creature has two or more adjacent melee combatants, they are considered flanked.
+<br>Flanked creatures receive a -1 penalty to all resistances from precision rolls done by these melee combatants.
+<br><br>
+<br>A creature can go into prone voluntarily if they give up half of their base movement speed as a part of their movement during their turn.
+<br>When a creature falls or goes prone, they have to be in movement phase of their turn and use half of their base movement speed to get up.
+<br>A prone creature has half cover against projectiles.
+<br>A prone creature has -2 to all resistances against attacks and spells used within melee range, including projectiles.
+<br>A prone creature can only do their basic weapon attack, dealing half damage and ignoring weapon precision.
+<br><br>
+<br>A character takes fall damage when they fall more than 3 meters.
+<br>The damage from fall is armor-ignoring and it is calculated as such:
+
+<br>Fall damage = 10 x (fall distance in meters - 3)
+
+
+<br><br>A significant difference in elevation affects projectile attacks' precision rolls:<br>
+<br>Attacking from high ground grants you a +1 bonus.
+<br>Attacking from low ground gives you a -1 penalty.
+<br><br>When the party ambushes or gets ambushed by one or more foes, the ambushed side is considered disadvantageous and they receive the following effects for the first round of combat:<br>
+<br>-2 penalty on SPD
+<br>-1 penalty on all precision rolls
+<br>-1 penalty on all resistances
+<br><br><a href=".?query=tag:TODO" class="tag" target="_blank" rel="noopener">#TODO</a> <br><br><a href=".?query=tag:TODO" class="tag" target="_blank" rel="noopener">#TODO</a> <br><br><a href=".?query=tag:TODO" class="tag" target="_blank" rel="noopener">#TODO</a> ]]></description><link>sigil-of-uchma/lists/list-of-rules-combat.html</link><guid isPermaLink="false">sigil-of-uchma/Lists/List of Rules - Combat.md</guid><pubDate>Sun, 07 Jan 2024 15:15:36 GMT</pubDate></item><item><title><![CDATA[Speak]]></title><description><![CDATA[ 
+ <br>(see: <a data-href="Combat" href="sigil-of-uchma/content/combat.html" class="internal-link" target="_self" rel="noopener">Combat</a>)<br><br>Execution time: Action or rapid action<br>
+Explanation:<br>
+During your turn, you can shout a few sentences. Your voice is heard within a reasonable radius.<br>
+Alternatively, you can whisper to a creature or an object within melee range. In this case, your voice is only heard by that creature or object.<br>
+This ability can be used freely in the end phase of a combat round.<br><br>Execution time: Rapid Action<br>
+Explanation:<br>
+You swap your wielded weapon with a weapon in your inventory or on the ground. Only one weapon can be swapped this way every round. This action can be used for swapping items you can hold in a similar manner. If dual-wielding two light weapons, you can swap the weapons with each other.<br><br>Execution time: Action<br>
+Requirements:<br>
+A throwing spear, a hatchet, a shortsword or a dagger in main hand.<br>
+Alternatively, any throwing item in main hand.<br>
+Explanation:<br>
+(Projectile)<br>
+Ignores weapon precision.<br>
+You throw your weapon to a target or to a square within (5 + DEX/2) meters.<br>
+This action is considered a basic weapon attack.<br><br>Execution time: Action<br>
+Requirements:<br>
+A stuck thrown weapon in target.<br>
+A free main hand.<br>
+Explanation:<br>
+Ignores weapon precision.<br>
+You retrieve the weapon stuck in the target.<br>
+This attack deals half weapon damage.<br>
+This action is considered a basic weapon attack.<br><br>Execution time: Special<br>
+Requirements:<br>
+Any ranged weapon.<br>
+No foes in melee range.<br>
+You haven't moved this round.<br>
+Explanation:<br>
+Your movement speed drops to zero for this round.<br>
+As a part any weapon attack affected by Unsteady Aiming, you can activate this ability. That attack does not receive the penalty from Unsteady Aiming.<br><br>Execution time: Full-turn action<br>
+Requirements:<br>
+An unobstructed straight path to target, out of your weapon range.<br>
+Any melee weapon in main hand.<br>
+Explanation:<br>
+Ignores weapon precision.<br>
+You gain a (5 + SPD/2) bonus to your movement speed, and you charge your target using your movement speed. Then, you perform a basic weapon attack.<br>
+You receive a -2 penalty to all resistances for 1 round.<br>
+This penalty increases by 1 if you move more than your base movement speed.<br><br>Execution time: Full-turn action<br>
+Requirements:<br>
+A one handed weapon in main hand, or<br>
+A light weapon in off-hand.<br>
+Explanation:<br>
+You attack with both your main hand weapon and off-hand weapon.<br>
+Your off-hand weapon receives a -2 penalty to its precision roll and deals half weapon damage.<br>
+The strike with your main hand weapon is considered a basic weapon attack.<br><br>Execution Time: Action<br>
+Range: Weapon range<br>
+Requirements:<br>
+Any melee weapon in main hand.<br>
+Effect<br>
+This attack's precision roll is made against Constitution.<br>
+Ignores weapon precision.<br>
+This attack deals half weapon damage, and doesn't get the normal potency bonus to its damage. Instead, it applies 2 rounds of bleeding.<br>
+This action is considered a weapon attack.<br><br>Execution time: Prepared action<br>
+Requirements:<br>
+A melee weapon in main hand, or<br>
+A two handed melee weapon.<br>
+Explanation:<br>
+Ignores weapon precision.<br>
+Attack the next foe who moves into, within or out of this weapon's range.<br>
+This attack deals half weapon damage.<br><br>Execution time: Action<br>
+Requirements:<br>
+An unconscious creature within 1 meter.<br>
+Explanation:<br>
+Make a Healing skill roll against target creature against (3 + their current death save threshold).<br>
+If you succeed, this creature is stabilized and it is considered successful on its death save rolls.<br>
+This creature is returned back to 1 health.<br><br>Execution time: Action<br>
+Explanation:<br>
+You use a usable item from your inventory.<br>
+This action can be used to apply a potion on an adjacent target.]]></description><link>sigil-of-uchma/lists/list-of-rules-special-actions.html</link><guid isPermaLink="false">sigil-of-uchma/Lists/List of Rules - Special Actions.md</guid><pubDate>Tue, 27 Feb 2024 15:36:53 GMT</pubDate></item><item><title><![CDATA[Debilitating Effects]]></title><description><![CDATA[ 
+ <br>(see: <a data-href="Combat" href="sigil-of-uchma/content/combat.html" class="internal-link" target="_self" rel="noopener">Combat</a>)<br><br><br>
+<br>Lowers movement, swimming, climbing and flying speeds to 0.
+<br>Grants a -1 penalty to Evasion.
+<br>Does not stack. If target is already immobilized, only the longer one applies.
+<br><br>
+<br>Reduces line of sight to 1 meter. 
+<br>Grants a -5 penalty to precision rolls. 
+<br>Does not stack. If target is already blinded, only the longer one applies.
+<br><br>
+<br>Lowers movement, swimming, climbing and flying speeds to 0.
+<br>Unable to take any action.
+<br>Applies a -2 penalty to all resistances.
+<br>Does not stack. If target is already stunned, only the longer one applies.
+<br><br>
+<br>(1 + potency/3) penalty on precision rolls.
+<br>Does not stack. If target is already disoriented, only the one with higher potency applies.
+<br><br>
+<br>(1 + potency/3) penalty on Parry.
+<br>Does not stack. If target's defenses are already weakened, only the one with higher potency applies.
+<br><br>
+<br>(1 + potency/3) penalty on Constitution.
+<br>Does not stack. If target is already sickened, only the one with higher potency applies.
+<br><br>
+<br>(1 + potency/3) penalty on Willpower.
+<br>Does not stack. If target already has low morale, only the one with higher potency applies.
+<br><br>
+<br>Halves movement, swimming, climbing and flying speeds.
+<br>(1 + potency/3) penalty on Evasion and initiative.
+<br>Does not stack. If target is already slowed, only the one with higher potency applies.
+<br><br>
+<br>If a creature is soaked and frostbitten or electrified at the start of its turn, it is no longer soaked and that damaging effect deals double damage this turn. If this creature is both frostbitten and electrified, soaked affects the status effect with the lowest damage. 
+<br>If target is burning, it is cured and soaked doesn't get applied.
+<br>Does not stack. If target is already soaked, only the longer one applies.
+<br><br>
+<br>Reduces movement speed by 2 per stack.
+<br>Applies a -2 penalty on precision rolls and all resistances per stack.
+<br>Stacks up to 5. If target already has 5 fatigue stacks, an application with longer duration will override the stack with the shortest duration.
+<br><br><br><br>
+<br>Applies 5 damage per hit.
+<br>Ignores armor.
+<br>Does not stack. If target is already bleeding, only the one with higher damage applies.
+<br><br>
+<br>Applies 5 damage per hit.
+<br>Ignores armor.
+<br>If target is burning, it is cured and frostbitten doesn't get applied.
+<br>Does not stack. If target is already frostbitten, only the one with higher damage applies.
+<br><br>
+<br>Applies 5 damage per hit. This status effect does not gain the potency bonus to its damage.
+<br>Ignores armor.
+<br>At the end of a diseased creature's turn, if that creature is still diseased, all adjacent creatures receive the disease for 1 hit.
+<br>Does not stack. If target is already frostbitten, only the one with higher damage applies.
+<br><br>
+<br>Applies 10 damage per hit.
+<br>Affected by physical armor.
+<br>If target is frostbitten or soaked, it is cured and burning doesn't get applied.
+<br>Does not stack. If target is already burning, only the one with higher damage applies.
+<br><br>
+<br>Applies 10 damage per hit.
+<br>Affected by magical armor.
+<br>Does not stack. If target is already electrified, only the one with higher damage applies.
+<br><br><br><br>
+<br>Increases health until the duration ends.
+<br>Affected by damage after armor.
+<br>Does not stack. If target already has temporary health, only larger the one applies.
+<br><br>
+<br>Protects target against physical damage until it breaks or the duration ends.
+<br>One point of temporary physical armor breaks for every point of physical damage reduced by it.
+<br>Affected by damage before armor.
+<br>Does not stack. If target already has temporary armor, only larger the one applies.
+<br><br>
+<br>Protects target against magical damage until it breaks or the duration ends.
+<br>One point of temporary magical armor breaks for every point of magical damage reduced by it.
+<br>Affected by damage before armor.
+<br>Does not stack. If target already has temporary armor, only larger the one applies.
+<br><br>
+<br>Once, halves incoming damage before armor.
+<br>Does not affect status effects and damage over time effects.
+<br>Does not stack unless all stacks of protected come from the same ability.
+<br><br>
+<br>(1 + potency/4) bonus to all resistances for the next precision roll against this target.
+<br>Does not stack. If target is already effected by a protective foresight, only the one with higher potency applies.
+<br><br>
+<br>(1 + potency/4) bonus to the next precision roll.
+<br>Does not stack. If target is already effected by a prediction foresight, only the one with higher potency applies.
+<br><br>
+<br>(1 + potency/3) bonus to Willpower.
+<br>Does not stack. If target already has high morale, only the one with higher potency applies.
+<br>]]></description><link>sigil-of-uchma/lists/list-of-rules-status-effects.html</link><guid isPermaLink="false">sigil-of-uchma/Lists/List of Rules - Status Effects.md</guid><pubDate>Tue, 27 Feb 2024 15:36:53 GMT</pubDate></item><item><title><![CDATA[Novice Spells]]></title><description><![CDATA[ 
+ <br>(see: <a data-href="Spells" href="sigil-of-uchma/content/spells.html" class="internal-link" target="_self" rel="noopener">Spells</a>)<br><br><br>Complexity: Simple<br>
+Casting Time: Action<br>
+Cost: 4 energy<br>
+Range: 5 meters<br>
+Radius: 2 meters<br>
+Duration: (1 + CLA/2) rounds<br>
+Effect<br>
+This spell's precision rolls are made against Evasion.<br>
+Your magic erupts iron chains from below. The chains catch the creatures within radius, immobilizing them for the duration of this spell. At the end of the turn of a creature who is affected by this spell, make a precision roll against Constitution of that creature. If you fail, the creature is released from the chains.<br><br>Complexity: Simple<br>
+Casting Time: Rapid action<br>
+Cost: 2 energy<br>
+Range: 5 meters<br>
+Effect<br>
+Choose an ally. This ally is cleansed of a harmful status effect of your choosing.<br><br>Complexity: Simple<br>
+Casting Time: Full-turn action<br>
+Cost: 2 energy<br>
+Range: Self<br>
+Radius: (10 + CLA) meters<br>
+Duration: 5 minutes<br>
+Effect<br>
+Your magic finds all living creatures within radius, unless they are magically protected in some way. You see a glowing effect on these creatures. This glow can be seen through walls and it lasts for the duration of this spell.<br><br>Complexity: Simple<br>
+Casting Time: Rapid action<br>
+Cost: 2 energy<br>
+Range: 5 meters<br>
+Duration: 1 minutes<br>
+Effect<br>
+You grant an ally either protective foresight or predictive foresight for the duration.<br><br>Complexity: Simple<br>
+Casting Time: Action<br>
+Cost: 2 energy<br>
+Range: 5 meters<br>
+Duration: (1 + CLA/2) rounds<br>
+Effect<br>
+Choose an ally, heal them for (5 + FAI/2) and apply protected for the duration of this spell.<br><br>Complexity: Complex<br>
+Casting Time: Full-turn action<br>
+Cost: 2 energy<br>
+Range: 1 meter<br>
+Radius: 5 meters<br>
+Duration: 5 rounds<br>
+Effect<br>
+Summon a creature from the fairies list, and its base level is 1. This summon can't speak but it understands your orders.<br>
+You can spend additional energy to increase this summon's level, and each point of energy spent in this way increases its level by 1. Your summon can not have a higher level than you.<br>
+You can only have one summoned or raised creature at any time. <br><br>Complexity: Complex<br>
+Casting Time: Action<br>
+Cost: 2 energy<br>
+Range: 5 meters<br>
+Effect<br>
+Choose two targets.<br>
+All status effects on the first target have their durations reduced by 1. Then, these status effects are applied to the second target.<br><br>Complexity: Complex<br>
+Casting Time: Full-turn action<br>
+Cost: 2 energy<br>
+Range: 1 meter<br>
+Duration: (1 + CLA/2) hours<br>
+Effect<br>
+Bestow a small gemstone you can touch either magical eyes or magical ears. You can use this gemstone as additional sensory organs. You can still use your eyes and ears while this spell is active.<br>
+As a rapid action, any creature suspecting a clairvoyance object nearby can make a PRA precision roll. If this roll succeeds, it notices this object.<br><br>Complexity: Complex<br>
+Casting Time: Special<br>
+Cost: 2 energy<br>
+Effect<br>
+Touch two willing creatures. You can transfer up to 4 energy from one to the other. This spell takes 1 minute to cast for each point of energy transferred.<br><br><br><br>Complexity: Simple<br>
+Casting Time: Rapid action<br>
+Cost: 2 energy<br>
+Range: 5 meters<br>
+Effect<br>
+Link yourself with a willing creature. Whenever that creature takes damage to its health, you take half of it in their stead. Damage you receive from this spell ignores your armor.<br>
+You can break this link during your turns without any actions. The link breaks if that creature gets out of this spell's range.<br><br>Complexity: Complex<br>
+Casting Time: Action<br>
+Cost: 4 energy<br>
+Radius: 3 meters<br>
+Effect<br>
+Heal all allies within radius for (10 + CLA/2). <br><br><br><br>Complexity: Complex<br>
+Casting Time: 1 minute<br>
+Cost: 6 energy<br>
+Duration: 1 hour<br>
+Effect<br>
+You pray for good luck​. When you cast this spell, the GM can decide to increase the amount or improve the quality of any of the treasures you may find within the duration.<br>
+Additionally, you gain a +5 bonus to all skill rolls involving detecting a treasure for the duration of this spell. <br>]]></description><link>sigil-of-uchma/lists/list-of-spells-divine.html</link><guid isPermaLink="false">sigil-of-uchma/Lists/List of Spells - Divine.md</guid><pubDate>Fri, 01 Mar 2024 16:08:13 GMT</pubDate></item><item><title><![CDATA[Novice Spells]]></title><description><![CDATA[ 
+ <br>(see: <a data-href="Spells" href="sigil-of-uchma/content/spells.html" class="internal-link" target="_self" rel="noopener">Spells</a>)<br><br><br>Complexity: Simple<br>
+Casting Time: Action<br>
+Cost: 2 energy<br>
+Radius: (5 + ACC/2) meters<br>
+Duration: 5 minutes<br>
+Explanation<br>
+This spell increases your sensitivity to vibrations of the echoes of every sound, making you able to detect current position of invisible objects and creatures within radius.<br><br>Complexity: Simple<br>
+Casting Time: Prepared action<br>
+Cost: 2 energy<br>
+Range: 5 meters<br>
+Effect<br>
+Next time an ally performs a full-turn action within range, they can move up to (2 + ACC/3) meters after taking that action. <br><br>Complexity: Simple<br>
+Casting Time: Rapid action<br>
+Cost: 2 energy<br>
+Range: 3 meters<br>
+Duration: (1 + ACC/2) rounds<br>
+Effect<br>
+You play a dizzying sound for your target. This target is slowed for the duration of this spell.<br><br>Complexity: Simple<br>
+Casting Time: Rapid action<br>
+Cost: 2 energy<br>
+Range: 3 meters<br>
+Duration: (1 + ACC/2) rounds<br>
+Effect<br>
+You play an invigorating song for your target. Next time this target uses an ability that costs energy, they recover half the energy cost.<br><br>Complexity: Complex<br>
+Casting Time: Action<br>
+Cost: 2 energy<br>
+Radius: 3 meters<br>
+Duration: (1 + ACC/2) rounds<br>
+Effect<br>
+This attack's precision rolls are made against Evasion.<br>
+Your apply disoriented to foes within radius for the duration of this spell.<br><br>Complexity: Complex<br>
+Casting Time: Action<br>
+Cost: 2 energy<br>
+Range: 3 meters<br>
+Duration: (1 + ACC/2) rounds<br>
+Effect<br>
+Choose an ally. Next time that ally casts a novice spell, they can cast it again as a rapid action. This ally must be able to cast this spell normally. <br><br><br><br>Complexity: Simple<br>
+Casting Time: Rapid action<br>
+Cost: 1 energy per round<br>
+Range: 3 meters<br>
+Duration: Special<br>
+Effect<br>
+Choose an ally. Your magic induces fury within this ally, increasing their highest aptitude's potency by 2.<br>
+If your target gets out of range, this spell immediately ends, and you can end this spell freely at any time.<br><br>Complexity: Complex<br>
+Casting Time: Full-turn action<br>
+Cost: 4 energy<br>
+Range: 1 meter<br>
+Radius: 10 meters<br>
+Duration: (1 + ACC/2) rounds<br>
+Effect<br>
+Choose a magical banner. You call this banner for the duration. This banner has 20 health and affects all creatures within radius as long as they can see or otherwise sense this banner.<br>
+Banner of Clarity: Reduces all covers by one level. Quarter covers become ineffective.<br>
+Banner of Obscurity: Increases all covers by one level. Creatures without any cover gain quarter cover. Full covers break line of sight.<br>
+You can only have one summoned banner at any time.<br><br>Complexity: Complex<br>
+Casting Time: Action<br>
+Cost: 4 energy<br>
+Range: 5 meters<br>
+Duration: (1 + ACC/2) rounds<br>
+Effect<br>
+Your target becomes passive, refusing to directly harm another creature for the duration of this spell.<br><br><br>]]></description><link>sigil-of-uchma/lists/list-of-spells-social.html</link><guid isPermaLink="false">sigil-of-uchma/Lists/List of Spells - Social.md</guid><pubDate>Sat, 02 Mar 2024 00:21:06 GMT</pubDate></item><item><title><![CDATA[Novice Spells]]></title><description><![CDATA[ 
+ <br>(see: <a data-href="Spells" href="sigil-of-uchma/content/spells.html" class="internal-link" target="_self" rel="noopener">Spells</a>)<br><br><br>Complexity: Simple<br>
+Casting Time: Action<br>
+Cost: 2 energy<br>
+Range: 1 meter<br>
+Duration: 1 hour<br>
+Effect<br>
+You can precisely manipulate a lifeless object smaller than (15 + HAR) cubic centimeters. You can apply one of the following:<br>
+1. Change the shape.<br>
+2. Shrink down to at most half size.<br>
+3. Enlarge up to double size or 25 cubic centimeters, whichever is smaller.<br>
+4. Cut or open holes.<br>
+This object returns to its original shape after the duration. This ability can't be used on magical items.<br><br>Complexity: Simple<br>
+Casting Time: Action<br>
+Cost: 2 energy<br>
+Range: 5 meters<br>
+Duration: (1 + HAR/2) rounds<br>
+Effect<br>
+(Projectile)<br>
+A powerful arc of lightning leaves your hand and strikes your target, dealing 10 damage and applying electrified for the duration.<br><br>Complexity: Simple<br>
+Casting Time: Action<br>
+Cost: 2 energy<br>
+Range: (3 + HAR/2) meters<br>
+Radius: 3 meters<br>
+Duration: 5 minutes<br>
+Effect<br>
+You grow a stationary and autonomous plant, which shoots needles to your foes within radius, right after your turn. It can shoot one needle per round, dealing 5 physical damage and applying bleeding for 1 hit if it hits.<br>
+This plant inherits half of your witchcraft aptitude. It has 10 health, and its resistances are equal to 5.<br>
+A sprout created by this spell is immune to debilitating status effects.<br>
+Sprouts you create do not count towards your summon limit, and you can have up to (1 + ARC/2) sprouts at any time.<br><br>Complexity: Complex<br>
+Casting Time: Full-turn action<br>
+Cost: 2 energy<br>
+Range: 1 meter<br>
+Duration: 5 rounds<br>
+Effect<br>
+Summon a creature from the spirits list, and its base level is 1. This summon can't speak but it understands your orders.<br>
+You can spend additional energy to increase this summon's level, and each point of energy spent in this way increases its level by 1. Your summon can not have a higher level than you.<br>
+You can only have one summoned or raised creature at any time. <br><br>Complexity: Complex<br>
+Casting Time: Action<br>
+Cost: 4 energy<br>
+Range: 5 meters<br>
+Duration: 1 hour<br>
+Effect<br>
+Infuse a weapon within range with your energy, and this weapon is considered a magical weapon as long as it is infused.<br>
+Choose an element when you cast this spell. Next (2 + HAR/2) attacks with this weapon apply the following effects depending on the element:<br>
+Fire: burning for 1 hit.<br>
+Earth: bleeding for 1 hit.<br>
+Water: target falls prone.<br>
+Air: disoriented for 1 round.<br><br>Complexity: Complex<br>
+Casting Time: Action<br>
+Cost: 4 energy<br>
+Range: 5 meters<br>
+Radius: 1 meter<br>
+Duration: (2 + HAR/2) rounds<br>
+Effect<br>
+This spell's precision rolls are made against Evasion.<br>
+Create an area of shifting, moving, waving and spiraling ground. Make a precision roll against any creature walking into or ending their turn within this area. On success, the creature falls prone.<br>
+This area is light rough terrain.<br><br>Complexity: Complex<br>
+Casting Time: Action<br>
+Cost: 2 energy<br>
+Range: 5 meters<br>
+Duration: (1 + HAR/2) rounds<br>
+Effect<br>
+This spell's precision roll is made against Constitution.<br>
+Apply weakened to a target.<br>
+Whenever a creature with weakened receives a harmful status effect, one hit is spent immediately.<br>
+Weakened does not stack. If a creature is already weakened, only the longer one applies. <br><br><br><br>Complexity: Simple<br>
+Casting Time: Rapid action<br>
+Cost: 2 energy<br>
+Range: 1 meter<br>
+Duration: (1 + HAR/2) rounds<br>
+Effect<br>
+A willing creature you can touch becomes covered with thick magical branches, which grant (5 + ARC/2) temporary physical armor. Alternatively, you can spend double energy and grant double the temporary armor. When this temporary armor breaks, the branches wither and the spell ends.<br>
+This creature is immobilized and can't do weapon attacks while this spell is active.<br>
+This armor can be dismissed by the creature freely.<br><br>Complexity: Simple<br>
+Casting Time: 1 hour<br>
+Cost: 6 energy<br>
+Radius: (50 + 5 x ARC) meters<br>
+Duration: (7 + HAR) days<br>
+Effect<br>
+You spread your powers wide; improving, curing and growing nearby plants slightly. Plant creatures within radius gain 5 temporary physical armor for the duration. <br><br>Complexity: Simple<br>
+Casting Time: Full-turn action<br>
+Cost: 4 energy<br>
+Radius: (3 + ARC/2) meters<br>
+Duration: (2 + HAR/2) hours<br>
+Effect<br>
+You can vaguely guide the natural features of the geography around you to change shape. After half of this spell's duration has passed, the geography starts slowly returning to its original shape. While casting this spell, you can choose to spend double the energy cost instead. In this case, the spell requires 1 hour of uninterrupted casting but its effects stay permanent.  <br><br>Complexity: Simple<br>
+Casting Time: Action<br>
+Cost: 2 energy<br>
+Range: 5 meters<br>
+Duration: 1 hit<br>
+Effect<br>
+(Projectile)<br>
+This spell's precision roll is against Constitution.<br>
+Your target is slashed with a wave of fire, which applies burning and bleeding for the duration. If the target is already burning or bleeding, their durations are extended by this spell's duration. <br><br>Complexity: Complex<br>
+Casting Time: Full-turn action<br>
+Cost: 4 energy<br>
+Range: Self<br>
+Radius: 5 meters<br>
+Duration: (2 + HAR/2) rounds<br>
+Effect<br>
+You generate a large and stationary rain cloud above you, and it starts to rain immediately. All creatures ending their turns below this cloud are soaked unless they have cover from rain.<br>
+Alternatively, you can choose to cast a wider and longer version of this spell. This requires 1 hour of uninterrupted casting. In this case, this rain cloud lasts for 5 hours and affects a 50 meter radius area.<br>
+This spell can only be used outside or interiors with sufficient space.<br><br><br>]]></description><link>sigil-of-uchma/lists/list-of-spells-witchcraft.html</link><guid isPermaLink="false">sigil-of-uchma/Lists/List of Spells - Witchcraft.md</guid><pubDate>Fri, 01 Mar 2024 15:47:26 GMT</pubDate></item><item><title><![CDATA[Fairy Minions]]></title><description><![CDATA[<a class="tag" href="?query=tag:TODO" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#TODO</a> <a class="tag" href="?query=tag:TODO" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#TODO</a> <a class="tag" href="?query=tag:TODO" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#TODO</a> <a class="tag" href="?query=tag:TODO" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#TODO</a> <a class="tag" href="?query=tag:TODO" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#TODO</a> <a class="tag" href="?query=tag:TODO" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#TODO</a> <a class="tag" href="?query=tag:TODO" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#TODO</a> <a class="tag" href="?query=tag:TODO" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#TODO</a> 
+ <br>(see: <a data-tooltip-position="top" aria-label="[List of Combat Rules and Mechanics > Summoning" data-href="[List of Combat Rules and Mechanics#Summoning" href="[List of Combat Rules and Mechanics#Summoning" class="internal-link" target="_self" rel="noopener">Summoning</a>) <br><br><br>
+<br>Lore: <a href=".?query=tag:TODO" class="tag" target="_blank" rel="noopener">#TODO</a>
+<br>Level: Special
+<br>Health: 40
+<br>Aptitudes: 
+
+<br>Strength equal to level
+
+
+<br>Initiative: level/2
+<br>Movement: 10
+<br>Physical Armor: 0
+<br>Magic Armor: 0
+<br>Weapons: Claws
+<br>Precision roll: d10 + level/2
+<br>Resistances: (5 + level/2), +1 Parry
+<br>Skills
+
+<br>(Passive) Fairy Affinity
+
+<br>Immune to charming effects.
+
+
+<br>Slash
+
+<br>Deals (10 + level) physical damage.
+
+
+<br>Fairy Blast
+
+<br>Deals (5 + level) magical damage.
+<br>Applies disoriented (-1) for 1 round.
+
+
+
+
+<br><br>
+<br>Lore: <a href=".?query=tag:TODO" class="tag" target="_blank" rel="noopener">#TODO</a>
+<br>Level: Special
+<br>Health: 30
+<br>Aptitudes: 
+
+<br>Social equal to level
+
+
+<br>Initiative: level/2
+<br>Movement: 10
+<br>Physical Armor: 0
+<br>Magic Armor: 0
+<br>Weapons: Claws
+<br>Precision roll: d10 + level/2
+<br>Resistances: (5 + level/2), +1 Willpower
+<br>Skills
+
+<br>(Passive) Fairy Affinity
+
+<br>Immune to charming effects.
+
+
+<br>Slash
+
+<br>Deals (10 + level) physical damage.
+
+
+<br>(Full-turn action) Fairy's Song
+
+<br>Range: 5 meters. 
+<br>Grant an ally a bonus equal to this summon's level for their next skill roll.
+
+
+
+
+<br><br>
+<br>Lore: <a href=".?query=tag:TODO" class="tag" target="_blank" rel="noopener">#TODO</a>
+<br>Level: Special
+<br>Health: 30
+<br>Aptitudes: 
+
+<br>Endurance equal to level
+
+
+<br>Initiative: level/2
+<br>Movement: 10
+<br>Physical Armor: 0
+<br>Magic Armor: 0
+<br>Weapons: Claws
+<br>Precision roll: d10 + level/2
+<br>Resistances: (5 + level/2), +1 Constitution
+<br>Skills
+
+<br>(Passive) Fairy Affinity
+
+<br>Immune to charming effects.
+
+
+<br>Slash
+
+<br>Deals (10 + level) physical damage.
+
+
+<br>(Full-turn action) Detect Material
+
+<br>Detects metals and other valuable materials within a 20 meter radius. These materials glow for the summoner's eyes for 1 hour.
+
+
+<br>(Full-turn action) Find Exit
+
+<br>This fairy draws an arrow pointing at the path to nearest exit from current area.
+<br>This skill works underground and any other interior space. This skill can also detect and point towards a portal going back to the regular world.
+<br>Can only be used once per summon.
+
+
+
+
+<br><br>
+<br>Lore: <a href=".?query=tag:TODO" class="tag" target="_blank" rel="noopener">#TODO</a>
+<br>Level: Special
+<br>Health: 30
+<br>Aptitudes:
+
+<br>Witchcraft equal to level
+
+
+<br>Initiative: level/2
+<br>Movement: 10
+<br>Physical Armor: 0
+<br>Magic Armor: 0
+<br>Weapons: Claws
+<br>Precision roll: d10 + level/2
+<br>Resistances: (5 + level/2), +1 Reflection
+<br>Skills
+
+<br>(Passive) Fairy Affinity
+
+<br>Immune to charming effects.
+
+
+<br>Slash
+
+<br>Deals (10 + level) physical damage.
+
+
+<br>(Projectile) Fairy Splash
+
+<br>Range: 5 meters. 
+<br>This attack's precision roll is made against Evasion.
+<br>Generates 3 water whips which slash targets, each dealing (5 + level/2) magical damage.
+<br>Each whip requires its own precision roll, and can target a different foe.
+
+
+<br>(Full-turn action) Find Lakes
+
+<br>This fairy draws an arrow pointing at the path to the location of nearest large body of water.
+<br>Can only be used once per summon.
+
+
+
+
+<br><br><br>
+<br>Lore: <a href=".?query=tag:TODO" class="tag" target="_blank" rel="noopener">#TODO</a>
+<br>Level: Special
+<br>Health: 30
+<br>Aptitudes: 
+
+<br>Strength equal to level 
+
+
+<br>Initiative: level/2
+<br>Movement: 10
+<br>Physical Armor: 5
+<br>Magic Armor: 0
+<br>Weapons: Spirit weapon
+<br>Precision roll: d10 + level/2
+<br>Resistances: (5 + level/2), +1 Parry
+<br>Skills
+
+<br>(Passive) Stone Affinity
+
+<br>This spirit receives half damage from status effects.
+
+
+<br>Slash
+
+<br>Deals (10 + level) physical damage.
+<br>Applies bleeding (5 damage) for 1 hit.
+
+
+<br>(Projectile) Stone Shards
+
+<br>Range: 5 meters. 
+<br>This attack's precision rolls are made against Evasion.
+<br>Shoot numerous but small shards of stone, dealing (5 + level/2) physical damage to all creatures within a 1 meter radius.
+
+
+<br>(Prepared action) Swing
+
+<br>Deals (5 + level/2) damage to the next foe who moves into or out of melee range.
+
+
+
+
+<br><br>
+<br>Lore: <a href=".?query=tag:TODO" class="tag" target="_blank" rel="noopener">#TODO</a>
+<br>Level: Special 
+<br>Health: 30
+<br>Aptitudes: 
+
+<br>Witchcraft equal to level 
+
+
+<br>Initiative: level/2
+<br>Movement: 10
+<br>Physical Armor: 0
+<br>Magic Armor: 5
+<br>Weapons: Spirit weapon
+<br>Precision roll: d10 + level/2
+<br>Resistances: (5 + level/2), +1 Reflection
+<br>Skills
+
+<br>(Passive) Lightning Affinity
+
+<br>Immune to electrified.
+<br>This spirit takes 5 armor-ignoring damage per round while soaked.
+
+
+<br>(Witchcraft spell) Spark
+
+<br>Range: 5 meters. 
+<br>Deals (5 + level) magical damage.
+<br>Applies electrified (5 damage) for 2 hits. 
+
+
+<br>(Prepared action) (Witchcraft spell) Repulsion
+
+<br>This attack's precision roll is made against Evasion.
+<br>Pushes the next foe who moves into, within or out of melee range for 3 meters while dealing (5 + level) magical damage.
+
+
+
+
+<br><br>
+<br>Lore: <a href=".?query=tag:TODO" class="tag" target="_blank" rel="noopener">#TODO</a>
+<br>Level: Special
+<br>Health: 40
+<br>Aptitudes: 
+
+<br>Endurance equal to level
+
+
+<br>Initiative: level/2
+<br>Movement: 10
+<br>Physical Armor: 5
+<br>Magic Armor: 5
+<br>Weapons: Spirit weapon 
+<br>Precision roll: d10 + level/2
+<br>Resistances: (5 + level/2)
+<br>Skills
+
+<br>(Passive) Plant Affinity
+
+<br>This spirit receives half damage from status effects, except for burning.
+
+
+<br>Slash
+
+<br>Deals (10 + level) physical damage.
+
+
+<br>(Witchcraft spell) Binding
+
+<br>Range: 5 meters. 
+<br>This attack's precision rolls are made against Constitution.
+<br>Branches emerge from this summon, binding a target. This target is immobilized for 1 round.
+
+
+<br>(Prepared action) Plant Armor
+
+<br>Next time a foe moves into melee range, this summon gains temporary physical and magical armor equal to its level for 1 round.
+
+
+
+
+<br><br>
+<br>Lore: <a href=".?query=tag:TODO" class="tag" target="_blank" rel="noopener">#TODO</a>
+<br>Level: Equal to summoner's potency, up to the limit of the summoning spell.
+<br>Health: 30
+<br>Aptitudes: 
+
+<br>Strength equal to level 
+
+
+<br>Initiative: level/2
+<br>Movement: (10 + level)
+<br>Physical Armor: 0
+<br>Magic Armor: 0
+<br>Weapons: None
+<br>Precision roll: d10 + level/2
+<br>Resistances: (5 + level), +1 to Evasion
+<br>Skills
+
+<br>(Passive) Plant Affinity
+
+<br>This spirit receives half damage from status effects, except for burning.
+
+
+<br>(Projectile) Shoot Needle
+
+<br>Range: 5 meters
+<br>Deals (10 + level) physical damage.
+
+
+<br>(Combat technique) Apply Sickening Poison
+
+<br>Range: 5 meters
+<br>This attack's precision roll is made against Constitution.
+<br>Applies sickened for 3 rounds.
+
+
+<br>(Combat technique) Apply Slowing Poison
+
+<br>Range: 5 meters
+<br>This attack's precision roll is made against Constitution.
+<br>Applies slowed for 2 rounds.
+
+
+
+
+]]></description><link>sigil-of-uchma/lists/list-of-summons.html</link><guid isPermaLink="false">sigil-of-uchma/Lists/List of Summons.md</guid><pubDate>Thu, 29 Feb 2024 23:06:42 GMT</pubDate></item><item><title><![CDATA[Off-hand Weapons]]></title><description><![CDATA[<a class="tag" href="?query=tag:TODO" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#TODO</a> <a class="tag" href="?query=tag:TODO" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#TODO</a> 
+ <br>(see: <a data-href="Weapons" href="sigil-of-uchma/content/weapons.html" class="internal-link" target="_self" rel="noopener">Weapons</a>)<br><br>All weapon attacks tagged (Prepared) are prepared actions and they require the weapon to be wielded with the off-hand. All weapon attacks tagged (Passive) are passive abilities which work only when the weapon is actively wielded in your off-hand.<br><br><br><br>
+<br>(Rapid action) Projectile Defense
+
+<br>You have quarter cover against physical projectile attacks against you until the start of your next turn.
+
+
+<br>(Rapid action) Defend Ally
+
+<br>Choose an adjacent ally. You protect this ally with your shield, and they gain the benefits from your shield, including Projectile Defense, until the start of your next turn.
+<br>While this ability is active, you don't get the benefits from your shield even if the ally is no longer adjacent.
+
+
+<br><br>
+<br>(Rapid action) Projectile Defense
+
+<br>You have quarter cover against magical projectile attacks against you until the start of your next turn.
+
+
+<br>(Rapid action) <a href=".?query=tag:TODO" class="tag" target="_blank" rel="noopener">#TODO</a> 
+<br><br>
+<br>(Rapid action) Projectile Defense
+
+<br>You have quarter cover against magical projectile attacks against you until the start of your next turn.
+
+
+<br>(Rapid action) <a href=".?query=tag:TODO" class="tag" target="_blank" rel="noopener">#TODO</a> 
+<br><br>
+<br>(Passive) Playing Horn
+
+<br>Allies who are unable to hear are not affected by your warhorn. 
+<br>Being stunned, falling or going prone, diving underwater or becoming unavailable to cast spells in any way stops the bonuses granted by this weapon. 
+
+
+<br>(Action) Alacrity
+
+<br>Allies within (2 + ACC/2) meters gain a bonus (1 + PRE/3) to initiative until the start of your next turn.
+
+
+<br>(Rapid action) Warsong
+
+<br>Allies within (2 + ACC/2) meters gain a bonus +1 to their Willpower and (1 + PRE/2) movement speed until the start of your next turn.
+
+
+]]></description><link>sigil-of-uchma/lists/list-of-weapons-off-hand.html</link><guid isPermaLink="false">sigil-of-uchma/Lists/List of Weapons - Off-hand.md</guid><pubDate>Tue, 27 Feb 2024 15:36:53 GMT</pubDate></item><item><title><![CDATA[One Handed Weapons]]></title><description><![CDATA[<a class="tag" href="?query=tag:TODO" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#TODO</a> <a class="tag" href="?query=tag:TODO" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#TODO</a> <a class="tag" href="?query=tag:TODO" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#TODO</a> <a class="tag" href="?query=tag:TODO" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#TODO</a> 
+ <br>(see: <a data-href="Weapons" href="sigil-of-uchma/content/weapons.html" class="internal-link" target="_self" rel="noopener">Weapons</a>)<br><br>One handed weapons are divided into two: heavy weapons and light weapons. Light weapons can be wielded with off-hand. However, when you wield a light weapon with your off-hand, you can only use its prepared action.<br><br><br><br>
+<br>Aptitude: Strength
+<br>Slash
+
+<br>Deals 25 damage.
+<br>Ignores physical temporary armor.
+
+
+<br><a href=".?query=tag:TODO" class="tag" target="_blank" rel="noopener">#TODO</a> 
+<br><br>
+<br>Aptitude: Strength
+<br>Slash
+
+<br>Deals 20 damage.
+
+
+<br>Feint
+
+<br>Deals 10 damage. Potency bonus to damage is doubled for this attack. 
+<br>You have a (1 + POW/3) bonus to precision roll of this attack.
+
+
+<br><br>
+<br>Aptitude: Strength
+<br>Thrust
+
+<br>Deals 20 damage.
+
+
+<br>Sweep
+
+<br>This attack's precision roll is made against Evasion.
+<br>Ignores weapon precision.
+<br>Deals 10 damage. Potency bonus to damage is doubled for this attack. 
+<br>Hits 3 squares in front of you.
+
+
+<br><br>
+<br>Aptitude: Witchcraft
+<br>(Projectile) Ball of Elements
+
+<br>Range: 5 meters
+<br>Deals 20 damage.
+
+
+<br>Elemental Orb
+
+<br>Range: 5 meters
+<br>This attack's precision rolls are made against Evasion.
+<br>Ignores weapon precision.
+<br>Create an elemental orb, which falls to the ground and explodes, dealing 10 damage to all creatures within 1 meter radius. Potency bonus to damage is doubled for this attack. 
+
+
+<br>(Prepared action) <a href=".?query=tag:TODO" class="tag" target="_blank" rel="noopener">#TODO</a> 
+<br><br>
+<br>Aptitude: Divine
+<br>(Projectile) Bolt of Exorcism
+
+<br>Range: 5 meters
+<br>Deals 20 damage.
+
+
+<br>Magical Bind
+
+<br>Range: 5 meters
+<br>This attack's precision roll is made against Constitution.
+<br>Ignores weapon damage.
+<br>Immobilizes the target for (1 + CLA/4) rounds.
+
+
+<br>(Prepared action) Protecting from Magic
+
+<br>Range: 5 meters
+<br>Choose an ally. Grant them (3 + FAI/2) temporary magical armor for 1 round.
+
+
+<br><br>
+<br>Aptitude: Strength
+<br>Slash
+
+<br>Deals 20 damage.
+
+
+<br><a href=".?query=tag:TODO" class="tag" target="_blank" rel="noopener">#TODO</a> 
+<br>(Prepared) <a href=".?query=tag:TODO" class="tag" target="_blank" rel="noopener">#TODO</a> 
+<br><br>
+<br>Aptitude: Strength
+<br>Stab
+
+<br>Deals 15 damage.
+
+
+<br>Double Slash
+
+<br>Deals 10 damage.
+<br>You attack the target twice.
+
+
+<br>(Prepared action) Backstab
+
+<br>Next time a flanked foe within your reach is attacked by an ally, you also attack them.
+<br>Deals 7 damage. Potency bonus to damage is doubled for this attack. 
+
+
+<br><br>
+<br>Aptitude: Strength
+<br>Punch
+
+<br>Deals 10 damage.
+
+
+<br>Stunning Blow 
+
+<br>This attack's precision roll is made against Constitution.
+<br>Ignores weapon damage and precision.
+<br>Applies 1 round of stunned.
+
+
+<br>(Prepared action) Disorienting Blow
+
+<br>This attack's precision roll is made against Constitution.
+<br>Ignores weapon damage and precision.
+<br>Attack the next foe who moves into, within or out of melee range, applying 1 round of disorientation.
+
+
+]]></description><link>sigil-of-uchma/lists/list-of-weapons-one-handed.html</link><guid isPermaLink="false">sigil-of-uchma/Lists/List of Weapons - One Handed.md</guid><pubDate>Sat, 02 Mar 2024 19:20:31 GMT</pubDate></item><item><title><![CDATA[Two handed weapons]]></title><description><![CDATA[<a class="tag" href="?query=tag:TODO" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#TODO</a> <a class="tag" href="?query=tag:TODO" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#TODO</a> <a class="tag" href="?query=tag:TODO" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#TODO</a> <a class="tag" href="?query=tag:TODO" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#TODO</a> <a class="tag" href="?query=tag:TODO" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#TODO</a> <a class="tag" href="?query=tag:TODO" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#TODO</a> <a class="tag" href="?query=tag:TODO" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#TODO</a> <a class="tag" href="?query=tag:TODO" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#TODO</a> 
+ <br>(see: <a data-href="Weapons" href="sigil-of-uchma/content/weapons.html" class="internal-link" target="_self" rel="noopener">Weapons</a>)<br><br>Two handed weapons have three weapon attacks.<br><br><br><br>
+<br>Aptitude: Strength
+<br>(Passive) Polearm
+
+<br>You cannot attack adjacent targets with a glaive.
+
+
+<br>Slash
+
+<br>Range: 2 meters.
+<br>Deals 30 damage.
+
+
+<br>Spinning Slash
+
+<br>Range: 2 meters.
+<br>This attack's precision rolls are made against Evasion.
+<br>Ignores weapon precision.
+<br>Deals 15 damage.
+<br>Choose a direction: clockwise or counter-clockwise. Attack a target, then continue attacking the next creature in the direction you chose. You continue this until you complete a full rotation, or if there is an adjacent obstacle such as a creature blocking your spin.
+
+
+<br>(Prepared action) <a href=".?query=tag:TODO" class="tag" target="_blank" rel="noopener">#TODO</a> 
+<br><br>
+<br>Aptitude: Strength
+<br>(Passive) Polearm
+
+<br>A spear only deals half damage to adjacent targets, except for with Keep At Bay.
+
+
+<br>Thrust
+
+<br>Range: 2 meters.
+<br>Deals 25 damage.
+
+
+<br>Keep At Bay
+
+<br>Range: 2 meters
+<br>Deals 15 damage. Potency bonus to damage is doubled for this attack. 
+<br>Target is pushed (2 + POW/4) meters away from you.
+
+
+<br>(Prepared action) <a href=".?query=tag:TODO" class="tag" target="_blank" rel="noopener">#TODO</a> 
+<br><br>
+<br>Aptitude: Strength
+<br>Slash
+
+<br>Deals 25 damage.
+
+
+<br>Half Swording
+
+<br>This attack's precision roll is done against Evasion.
+<br>Ignores weapon precision.
+<br>Deals 20 damage, ignoring physical armor.
+
+
+<br>(Prepared action) Defensive Stance
+
+<br>You have a (1 + POW/3) bonus to Parry against the next physical attack.
+
+
+<br><br>
+<br>Aptitude: Strength
+<br>Smash
+
+<br>Deals 20 damage, ignoring physical armor.
+
+
+<br>Momentum Swing
+
+<br>This attack's precision rolls are made against Evasion.
+<br>Deals 5 damage, ignoring physical armor.
+<br>Hits all creatures within range, stunning the creatures you hit for 1 round.
+<br>These creatures are also pushed away for 1 meter.
+
+
+<br>(Prepared action) Fierce Slam 
+
+<br>Attack the next foe who falls prone within range. 
+<br>Deals 10 damage, ignoring physical armor. Potency bonus to damage is doubled for this attack.
+
+
+<br><br>
+<br>Aptitude: Witchcraft
+<br>(Passive) Unsteady Aiming
+
+<br>Unless you use Improved Aiming, your projectile attacks with staves have a -2 penalty on precision rolls. 
+
+
+<br>(Projectile) Elemental Bolt
+
+<br>Range: 10 meters
+<br>Deals 20 damage. 
+
+
+<br>Vine Growth
+
+<br>This attack's precision roll is made against Evasion.
+<br>Ignores weapon precision.
+<br>Deals 10 damage. Potency bonus to damage is doubled for this attack.
+<br>Hardened vines grow from the tip of your staff, hitting all creatures in 3 squares in a cone shape in front of you.
+
+
+<br>(Prepared action) <a href=".?query=tag:TODO" class="tag" target="_blank" rel="noopener">#TODO</a> 
+<br><br>
+<br>Aptitude: Divine
+<br>(Passive) Unsteady Aiming
+
+<br>Unless you use Improved Aiming, your projectile attacks with staves have a -2 penalty on precision rolls. 
+
+
+<br>(Projectile) Bolt of Exorcism
+
+<br>Range: 10 meters.
+<br>Deals 20 damage. 
+
+
+<br>Projectile Shielding
+
+<br>Range: 5 meters.
+<br>Choose a 2x2 area. You create a magical shield there.
+<br>This shield acts like half cover against projectiles passing through it and lasts for 1 round.
+<br>Projectiles of allies inside this shield are unaffected by it. 
+
+
+<br>(Prepared action) Warding
+
+<br>You have a (1 + WRA/4) bonus to Favor against the next magical attack.
+
+
+<br><br>
+<br>Aptitude: Strength
+<br>(Passive) Unsteady Aiming
+
+<br>Unless you use Improved Aiming, your projectile attacks with bows have a -2 penalty on precision rolls. 
+
+
+<br>(Projectile) Shoot
+
+<br>Range: 15 meters.
+<br>Deals 20 damage.
+
+
+<br>(Projectile) <a href=".?query=tag:TODO" class="tag" target="_blank" rel="noopener">#TODO</a> 
+<br>(Prepared action) <a href=".?query=tag:TODO" class="tag" target="_blank" rel="noopener">#TODO</a> 
+<br><br>
+<br>Aptitude: Strength
+<br>(Passive) Unsteady Aiming
+
+<br>Unless you use Improved Aiming, your projectile attacks with bows have a -2 penalty on precision rolls. 
+
+
+<br>(Projectile) Shoot
+
+<br>Range: 10 meters.
+<br>Deals 20 damage.
+
+
+<br>(Projectile) Pinning Shot
+
+<br>Range: 10 meters.
+<br>This attack's precision roll is made against Constitution.
+<br>Deals 12 damage. Potency bonus to damage is doubled for this attack. 
+<br>Slows the target for (1 + POW/4) rounds.
+
+
+<br>(Prepared action) <a href=".?query=tag:TODO" class="tag" target="_blank" rel="noopener">#TODO</a> 
+<br><br>
+<br>Aptitude: Strength
+<br>(Passive) Unsteady Aiming
+
+<br>Unless you use Improved Aiming, your projectile attacks with bows have a -2 penalty on precision rolls. 
+
+
+<br>(Projectile) Shoot
+
+<br>Range: 10 meters.
+<br>Deals 20 damage.
+
+
+<br>(Projectile) <a href=".?query=tag:TODO" class="tag" target="_blank" rel="noopener">#TODO</a> 
+<br>(Prepared action) (Projectile) <a href=".?query=tag:TODO" class="tag" target="_blank" rel="noopener">#TODO</a> 
+<br><br>
+<br>Aptitude: Social
+<br>(Passive) Playing Drums
+
+<br>Allies who are unable to hear are not affected by war drums. 
+<br>Being stunned, falling or going prone, diving underwater or becoming unavailable to cast spells in any way stops the bonuses granted by this weapon. 
+
+
+<br>(Rapid action) Empowering Beat
+
+<br>Radius: 10 meters
+<br>All other allies within radius gain a (5 + PRE/3) bonus to their damage with single target damaging abilities until your next turn. 
+<br>This bonus doesn't affect damaging status effects such as bleeding and burning.
+
+
+<br>(Rapid action) Invigorating Beat
+
+<br>Radius: 10 meters
+<br>All other allies within radius gain (5 + ACC/3) temporary health until your next turn.
+
+
+]]></description><link>sigil-of-uchma/lists/list-of-weapons-two-handed.html</link><guid isPermaLink="false">sigil-of-uchma/Lists/List of Weapons - Two Handed.md</guid><pubDate>Tue, 27 Feb 2024 15:36:53 GMT</pubDate></item><item><title><![CDATA[Beasts]]></title><description><![CDATA[<a class="tag" href="?query=tag:TODO" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#TODO</a> 
+ <br><br>
+<br>Lore: While domesticated dogs are great companions, wild dogs are not. These dogs will do everything to ensure their survival. Wild dogs are usually found in small packs.
+<br>Tier: Novice (based on level 1) 
+<br>Type: Minion
+<br>Health: 60
+<br>Aptitudes: 
+
+<br>2 VIT + 2 SPD
+
+
+<br>Initiative: 2
+<br>Movement: 12 meters
+<br>Physical Armor: 5
+<br>Magic Armor: 0
+<br>Weapons: Claws and teeth
+<br>Precision roll: (strength) d10 + 1
+<br>Resistances: 5, 6 Constitution, 7 Evasion
+<br>Skills
+
+<br>Bite
+
+<br>Deals 20 physical damage.
+
+
+<br>(Combat technique) Ferocious Bite
+
+<br>This attack's precision roll is made against Constitution.
+<br>Applies bleeding (5 damage) for 2 hits.
+
+
+<br>(Combat technique) Tackle
+
+<br>Target falls prone.
+
+
+
+
+<br><br><br>
+<br>Lore: Low level vampire kins are flightless beasts. They are exclusively found as summons from vampires.
+<br>Tier: Novice (based on level 1) 
+<br>Type: Minion, Summon
+<br>Health: 30
+<br>Aptitudes: 
+
+<br>2 SPD
+
+
+<br>Initiative: 2
+<br>Movement: 12 meters
+<br>Physical Armor: 0
+<br>Magic Armor: 0
+<br>Weapons: Claws
+<br>Precision roll: (strength) d10 + 1
+<br>Resistances: 5, 7 Evasion
+<br>Skills
+
+<br>Slash
+
+<br>Deals 20 physical damage.
+
+
+<br>(Full-turn action) Charge
+
+<br>-2 penalty on precision roll.
+<br>Can charge for up to 15 meters and attack with Slash, receiving a -2 penalty to all resistances for 1 round.
+
+
+
+
+<br><br><br>
+<br>Lore: These owls are true forms of vampires. They are distinct from regular owls.
+<br>Tier: Novice (based on level 3) 
+<br>Type: Transformation
+<br>Health: 10
+<br>Aptitudes: 
+
+<br>5 SPD
+
+
+<br>Initiative: 5
+<br>Movement: 15 meters (flying)
+<br>Physical Armor: 0
+<br>Magic Armor: 0
+<br>Weapons: Claws (feet)
+<br>Precision roll: (strength) d10 + 1
+<br>Resistances: 6, 8 Evasion
+<br>Skills
+
+<br>(Passive) Flight
+
+<br>This monster is normally flying.
+<br>Its walking speed is half of its flight speed.
+
+
+<br>Slash
+
+<br>Deals 10 physical damage.
+
+
+
+
+<br><br><br>
+<br>Lore: A large, white deer. They are thought to be normal deer infused with the magic from a magical point of interest found naturally.
+<br>Tier: Veteran (based on level 6) 
+<br>Type: Minion, Boss
+<br>Health: 80
+<br>Aptitudes: 
+
+<br>6 POW
+<br>4 VIT + 3 SPD
+
+
+<br>Initiative: 2
+<br>Movement: 12 meters
+<br>Physical Armor: 5
+<br>Magic Armor: 5
+<br>Weapons: Antlers
+<br>Precision roll: (strength) d10 + 3, (social) d10 + 3
+<br>Resistances: 7, 8 Parry, 8 Constitution, 8 Evasion
+<br>Skills
+
+<br>(Passive) Nature Bond
+
+<br>This beast gains 10 health per round while near a naturally created magical point of interest.
+<br>This point of interest must be undisturbed.
+
+
+<br>Strike
+
+<br>Deals 30 physical damage.
+
+
+<br>(Combat technique) (Full-turn action) Crushing Charge
+
+<br>Can charge for up to 15 meters and attack with Strike, receiving a -2 penalty to all resistances for 1 round. If this attack hits, it also applies stunned for 1 round.
+
+
+<br>(Social spell) Gaze of the Deer
+
+<br>Range: 10 meters.
+<br>Applies disoriented (-2) and slowed (-2) for 2 rounds.
+
+
+
+
+<br><br><br>
+<br>Lore: <a href=".?query=tag:TODO" class="tag" target="_blank" rel="noopener">#TODO</a>
+<br>Tier: Expert (based on level 10) 
+<br>Type: Boss
+<br>Health: 120
+<br>Aptitudes: 
+
+<br>8 POW + 2 DEX
+<br>10 VIT
+<br>4 ARC + 4 HAR
+
+
+<br>Initiative: 0
+<br>Movement: 5 meters
+<br>Physical Armor: 10
+<br>Magic Armor: 5
+<br>Weapons: Earthworm body
+<br>Precision roll: (strength) d10 + 6, (witchcraft) d10 + 4
+<br>Resistances: 9, 11 Parry, 10 Constitution
+<br>Skills
+
+<br>(Passive) Large Creature
+
+<br>This creature is physically large, and it takes up a 2 meters by 2 meters space on a battle map. 
+
+
+<br>(Passive) Poisonous
+
+<br>Touching the outer skin of this worm in any way applies 1 round of sickened (-2). 
+
+
+<br>Bite
+
+<br>Range: 2 meters. 
+<br>Deals 30 physical damage.
+<br>Does not trigger the passive ability Poisonous.
+
+
+<br>(Combat technique) (Full-turn action) Dig
+
+<br>This attack's precision rolls are made against Evasion.
+<br>The worm dives into earth, moves through the ground, and rises from below. 
+<br>Any creatures standing within the area where the worm rises take 10 physical damage and are thrown 5 meters in the air.
+<br>Triggers the passive ability Poisonous.
+
+
+<br>(Witchcraft spell) (Rapid action) Stone Daggers
+
+<br>Range: 10 meters. 
+<br>Radius: 1 meters. 
+<br>This attack's precision rolls are made against Evasion.
+<br>The worm conjures up and throws several daggers out of jagged stone, dealing 10 physical damage and applying bleeding (9 damage) for 3 hits.
+
+
+<br>(Witchcraft spell) (Rapid action) Harden
+
+<br>The worm enhances itself, gaining 10 temporary physical armor for 1 round. 
+
+
+
+
+]]></description><link>sigil-of-uchma/monsters/beasts.html</link><guid isPermaLink="false">sigil-of-uchma/Monsters/Beasts.md</guid><pubDate>Sat, 02 Mar 2024 20:10:07 GMT</pubDate></item><item><title><![CDATA[Humanoids]]></title><description><![CDATA[ 
+ <br><br>
+<br>Lore: Shurali are humanoid sheep with one horn. They are known for tickling people to death.
+<br>Tier: Novice (based on level 2) 
+<br>Type: Minion
+<br>Health: 60
+<br>Aptitudes: 
+
+<br>2 POW
+<br>2 PRE
+
+
+<br>Initiative: 0
+<br>Movement: 10 meters
+<br>Physical Armor: 0
+<br>Magic Armor: 0
+<br>Weapons: Claws
+<br>Precision roll: (strength) d10 + 1, (social) d10 + 2
+<br>Resistances: 5, 6 Parry, 7 Willpower
+<br>Skills
+
+<br>Slash
+
+<br>Deals 20 physical damage.
+
+
+<br>(Combat technique) Tickling
+
+<br>This attack's precision roll is made as a social spell.
+<br>This monster makes a precision roll now and at the end of its target's turns. Unless any of its rolls fail, this target is prone and can't get up.
+<br>Deals 5 physical damage per round, on the monster's turns. This attack ignores armor.
+<br>This monster is unable to Slash while tickling someone.
+
+
+
+
+<br><br><br>
+<br>Lore: Vampires are the reason why forests at night are dangerous. Lesser vampires are almost always found working or studying under a higher vampire. However, there are sightings of rogue vampires who lead bandits or beasts.
+<br>Tier: Novice (based on level 3) 
+<br>Type: Minion, Boss
+<br>Health: 80
+<br>Aptitudes: 
+
+<br>2 POW + 2 DEX
+<br>2 VIT + 1 SPD
+
+
+<br>Initiative: 1
+<br>Movement: 10 meters
+<br>Physical Armor: 5
+<br>Magic Armor: 0
+<br>Weapons: Any slashing melee weapon
+<br>Precision roll: (strength) d10 + 2
+
+<br>+1 strength from weapon precision
+
+
+<br>Resistances: 6, 8 Parry, 7 Constitution
+<br>Skills
+
+<br>(Passive) Vampiric Affinity
+
+<br>Receives double damage from burning.
+<br>Receives burning while in direct sunlight.
+<br>When this vampire falls below 10 health, Owl Form is automatically triggered even if it falls below 1 health. This can happen only once a day.
+
+
+<br>(Full-turn action) Owl Form
+
+<br>This vampire transforms into a Vampire Owl.
+
+
+<br>Slash
+
+<br>Deals 30 physical damage.
+
+
+<br>Severing Strike
+
+<br>This attack's precision roll is made against Constitution.
+<br>Applies bleeding (7 damage) for 2 hits.
+
+
+<br>(Combat technique) Blood Manipulation
+
+<br>Range: 5 meters.
+<br>This attack's precision roll is made against Constitution.
+<br>Targets a bleeding creature, steals 30 health from it and it stops bleeding. 
+
+
+<br>(Full-turn action) Charge
+
+<br>-2 penalty on precision roll.
+<br>Can charge for up to 15 meters and attack with Slash, receiving a -2 penalty to all resistances for 1 round.
+
+
+<br>(Prepared action) Spread Wings
+
+<br>This vampire grows its wings and spreads them around itself, gaining a +1 bonus to Parry and Constitution against the next physical attack.
+
+
+
+
+<br><br><br>
+<br>Lore: Vampires are the reason why forests at night are dangerous. Lesser vampires, especially magic users, are almost always found working or studying under a higher vampire. However, there are sightings of rogue vampires who lead bandits or beasts.
+<br>Tier: Novice (based on level 3) 
+<br>Type: Boss
+<br>Health: 60
+<br>Aptitudes: 
+
+<br>2 VIT + 1 SPD
+<br>2 FAI + 2 CLA
+
+
+<br>Initiative: 1
+<br>Movement: 10 meters
+<br>Physical Armor: 0
+<br>Magic Armor: 5
+<br>Weapons: Divine wand
+<br>Precision roll: (divine) d10 + 3
+
+<br>+1 divine from weapon precision
+
+
+<br>Resistances: 6, 8 Favor, 7 Constitution
+<br>Skills
+
+<br>(Passive) Vampiric Affinity
+
+<br>Receives burning while in direct sunlight.
+<br>When this vampire falls below 10 health, Owl Form is automatically triggered even if it falls below 1 health. This can happen only once a day.
+
+
+<br>(Full-turn action) Owl Form
+
+<br>This vampire transforms into a Vampire Owl.
+
+
+<br>(Divine spell) Drain Vitality
+
+<br>Range: 5 meters.
+<br>This attack's precision roll is made against Constitution.
+<br>Deals 20 magical damage.
+<br>Heals the caster for 10 health.
+
+
+<br>(Divine spell) (Full-turn action) Vampiric Healing
+
+<br>Radius: 10 meters
+<br>Heals all allies the vampire can see within radius, including itself, for 10 health.
+<br>As a part of this spell, this vampire can also sacrifice a Vampire Kin within radius, which heals the vampire for an extra 10 health.
+
+
+<br>(Divine spell) (Full-turn action) Call Vampire Kins
+
+<br>Summons two Vampire Kins in adjacent squares.
+<br>Lasts for one day or until another set of Vampire Kins are summoned.
+<br>Can be used once per day.
+
+
+
+
+<br><br><br>
+<br>Lore: Yoohas are a type of lesser dragons. They have human-like bodies with a snake head, and they are able to transform into a fully human shape. They use their form to lure travelers into their camps or even villages and ambush them.
+<br>Tier: Novice (based on level 3) 
+<br>Type: Minion
+<br>Health: 60
+<br>Aptitudes: 
+
+<br>1 SPD
+<br>3 PRE + 3 ACC
+
+
+<br>Initiative: 1
+<br>Movement: 11 meters
+<br>Physical Armor: 5
+<br>Magic Armor: 0
+<br>Weapons: Claws
+<br>Precision roll: (strength) d10 + 1, (social) d10 + 3
+<br>Resistances: 6, 8 Willpower
+<br>Skills
+
+<br>(Full-turn action) Human Transformation
+
+<br>This monster has a human form that they can transform into for 8 hours per day. This form is always the same and is determined by the features of the yooha.
+
+
+<br>Slash
+
+<br>Deals 25 physical damage.
+
+
+<br>(Social spell) (Rapid action) Charming
+
+<br>Range: 5 meters.
+<br>Applies low morale (-2) for 2 rounds.
+
+
+<br>(Social spell) (Full-turn action) Attraction
+
+<br>Range: 5 meters.
+<br>Applies disoriented (-2) for 2 rounds.
+
+
+<br>(Prepared action) Opportunistic Slash
+
+<br>Attacks the next foe who moves into, within or out of melee range, dealing 10 physical damage.
+
+
+
+
+<br><br><br>
+<br>Lore: Greater yoohas are a type of dragons. They have human-like bodies with a snake head, and they are able to transform into a fully human shape. They use their form to lure travelers into their camps or even villages and ambush them.
+<br>Tier: Veteran (based on level 4) 
+<br>Type: Boss
+<br>Health: 70
+<br>Aptitudes: 
+
+<br>2 POW
+<br>2 SPD
+<br>3 PRE + 3 ACC
+
+
+<br>Initiative: 2
+<br>Movement: 12 meters
+<br>Physical Armor: 5
+<br>Magic Armor: 0
+<br>Weapons: Claws
+<br>Precision roll: (strength) d10 + 2, (social) d10 + 3
+<br>Resistances: 9, 10 Willpower
+<br>Skills
+
+<br>(Full-turn action) Human Transformation
+
+<br>This monster has a human form that they can transform into for 16 hours per day. This form is always the same and is determined by the features of the yooha.
+
+
+<br>Slash
+
+<br>Deals 30 physical damage.
+
+
+<br>(Social spell) (Rapid action) Song of Recovery
+
+<br>Range: 3 meters.
+<br>Targets an ally of this yooha other than itself. This creature is healed for 6.
+
+
+<br>(Social spell) (Full-turn action) Attraction
+
+<br>Range: 5 meters.
+<br>Applies low morale (-2) and disoriented (-2) for 2 rounds.
+<br>If the target is already disoriented and has low morale, it is instead immobilized for 2 rounds.
+
+
+<br>(Prepared action) Opportunistic Slash
+
+<br>Attacks the next foe who moves into, within or out of melee range, dealing 15 physical damage.
+
+
+
+
+]]></description><link>sigil-of-uchma/monsters/humanoids.html</link><guid isPermaLink="false">sigil-of-uchma/Monsters/Humanoids.md</guid><pubDate>Wed, 28 Feb 2024 22:26:57 GMT</pubDate></item><item><title><![CDATA[Humans]]></title><description><![CDATA[<a class="tag" href="?query=tag:TODO" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#TODO</a> <a class="tag" href="?query=tag:TODO" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#TODO</a> 
+ <br><br>
+<br>Lore: Low level bandit swordsmen and swordswomen are heavily armored, strong combatants found primarily near remote or deserted locations. They live in small or large groups and attack, pillage and loot whatever they can. 
+<br>Tier: Novice (based on level 1) 
+<br>Type: Minion
+<br>Health: 80
+<br>Aptitudes: 
+
+<br>2 POW
+<br>2 SPD
+
+
+<br>Initiative: -2
+
+<br>-1 from shield
+
+
+<br>Movement: 5 meters
+
+<br>-1 from shield
+
+
+<br>Physical Armor: 15
+
+<br>+5 from shield
+
+
+<br>Magic Armor: 0
+<br>Weapons: Curved sword and shield
+<br>Precision roll: (strength) d10 + 2
+
+<br>+1 strength from weapon precision
+
+
+<br>Resistances: 5, 7 Parry, 4 Evasion
+
+<br>+1 Parry from shield
+<br>-1 Evasion from shield
+
+
+<br>Skills
+
+<br>Slash
+
+<br>Deals 22 physical damage.
+
+
+<br>(Combat technique) (Rapid action) Shield Bash
+
+<br>-2 penalty on precision roll.
+<br>Deals 5 physical damage.
+
+
+<br>(Full-turn action) Charge
+
+<br>-2 penalty on precision roll.
+<br>Can charge for up to 10 meters and attack with Strike, receiving a -2 penalty to all resistances for 1 round.
+
+
+<br>(Prepared action) Opportunistic Slash
+
+<br>Attacks the next foe who moves into, within or out of melee range.
+<br>Deals 10 physical damage.
+
+
+
+
+<br><br><br>
+<br>Lore: Low level bandit archers wear light armor. They can shoot targets from long distances. They are found primarily near remote or deserted locations. They live in small or large groups and attack, pillage and loot whatever they can. 
+<br>Tier: Novice (based on level 1) 
+<br>Type: Minion
+<br>Health: 60
+<br>Aptitudes: 
+
+<br>1 POW + 1 DEX
+<br>2 SPD
+
+
+<br>Initiative: 2
+<br>Movement: 12 meters
+<br>Physical Armor: 5
+<br>Magic Armor: 0
+<br>Weapons: Longbow
+<br>Precision roll: (strength) d10 + 1
+<br>Resistances: 5, 7 Evasion
+<br>Skills
+
+<br>(Passive) Improved Aiming
+
+<br>This bandit can choose to stay stationary during its turn, removing the -2 precision roll penalty from Unsteady Aiming.
+
+
+<br>(Passive) Survival Reflexes
+
+<br>This bandit doesn't receive the resistance penalties from being stunned.
+
+
+<br>(Projectile) Shoot
+
+<br>Range: 15 meters.
+<br>Deals 20 physical damage.
+
+
+<br>(Projectile) Broadhead Shot
+
+<br>This attack's precision roll is made against Constitution.
+<br>Range: 15 meters.
+<br>Deals 20 physical damage and applies bleeding (5 damage) for 1 hit.
+<br>Can be used only once a day.
+
+
+
+
+<br><br><br>
+<br>Lore: <a href=".?query=tag:TODO" class="tag" target="_blank" rel="noopener">#TODO</a> 
+<br>Tier: Veteran (based on level 4) 
+<br>Type: Minion, Boss
+<br>Health: 60
+<br>Aptitudes: 
+
+<br>2 ARC + 2 HAR
+<br>2 VIT + 2 SPD
+
+
+<br>Initiative: 2
+<br>Movement: 12 meters
+<br>Physical Armor: 0
+<br>Magic Armor: 5
+<br>Weapons: Nature staff
+<br>Precision roll: (witchcraft) d10 + 3
+
+<br>+1 witchcraft from weapon precision
+
+
+<br>Resistances: 6, 7 Constitution, 7 Evasion, 7 Reflection
+<br>Skills
+
+<br>(Passive) Improved Aiming
+
+<br>This witch can choose to stay stationary during its turn, removing the -2 precision roll penalty from Unsteady Aiming for Elemental Bolt.
+
+
+<br>(Projectile) Fire Bolt
+
+<br>Range: 10 meters.
+<br>Deals 25 magical damage.
+
+
+<br>(Projectile) (Witchcraft spell) Scarring Flames
+
+<br>Range: 5 meters.
+<br>This spell's precision roll is made against Constitution. 
+<br>Applies burning (12 damage) and bleeding (7 damage) for 1 hit.
+
+
+
+
+<br><br>
+<br>Lore: <a href=".?query=tag:TODO" class="tag" target="_blank" rel="noopener">#TODO</a> 
+<br>Tier: Veteran (based on level 4) 
+<br>Type: Minion, Boss
+<br>Health: 60
+<br>Aptitudes: 
+
+<br>2 PRE + 2 ACC
+<br>4 VIT
+
+
+<br>Initiative: 0
+<br>Movement: 10 meters
+<br>Physical Armor: 0
+<br>Magic Armor: 10
+<br>Weapons: War drums and a dagger
+<br>Precision roll: (strength) d10 + 3, (social) d10 + 3
+
+<br>+3 strength from dagger's weapon precision
+<br>+1 social from war drums' weapon precision
+
+
+<br>Resistances: 6, 7 Constitution, 8 Willpower
+<br>Skills
+
+<br>(Rapid action) Swap Weapons
+
+<br>This monster can swap weapons using the normal rules.
+
+
+<br>Slash
+
+<br>Requires a dagger.
+<br>Deals 15 physical damage.
+
+
+<br>(Rapid action) Invigorating Beat
+
+<br>Requires a set of war drums.
+<br>All allies within a 10 meter radius gain 5 temporary health for 1 round.
+
+
+<br>(Social spell) (Rapid action) Song of Discord
+
+<br>Range: 3 meters.
+<br>Applies disoriented (-2) for 1 round.
+
+
+<br>(Social spell) Rhythmic Casting
+
+<br>Range: 3 meters.
+<br>Target ally's next damaging spell cast within 2 rounds can be cast again in the same turn as a rapid action. This ally must be able to cast this spell normally. 
+<br>This ability can only be used once per day.
+
+
+
+
+]]></description><link>sigil-of-uchma/monsters/humans.html</link><guid isPermaLink="false">sigil-of-uchma/Monsters/Humans.md</guid><pubDate>Sat, 02 Mar 2024 20:01:39 GMT</pubDate></item><item><title><![CDATA[Miscellaneous]]></title><description><![CDATA[ 
+ <br><br>
+<br>Lore: The magicspawn are small, unconscious beings found near magically active places. They attack anything they think is a disturbance to the place they are guarding.
+<br>Tier: Novice (based on level 1) 
+<br>Type: Minion, Summon
+<br>Health: 20
+<br>Aptitudes: 
+
+<br>4 HAR
+
+
+<br>Initiative: 0
+<br>Movement: 10 meters
+<br>Physical Armor: 0
+<br>Magic Armor: 10
+<br>Weapons: Elemental wand
+<br>Precision roll: (witchcraft) d10 + 3
+
+<br>+1 witchcraft from weapon precision
+
+
+<br>Resistances: 5, 6 Reflection
+<br>Skills
+
+<br>(Projectile) Magic Blast
+
+<br>Range: 10 meters.
+<br>Deals 15 magical damage.
+
+
+
+
+]]></description><link>sigil-of-uchma/monsters/miscellaneous.html</link><guid isPermaLink="false">sigil-of-uchma/Monsters/Miscellaneous.md</guid><pubDate>Wed, 28 Feb 2024 22:55:41 GMT</pubDate></item><item><title><![CDATA[Spirits]]></title><description><![CDATA[<a class="tag" href="?query=tag:TODO" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#TODO</a> <a class="tag" href="?query=tag:TODO" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#TODO</a> <a class="tag" href="?query=tag:TODO" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#TODO</a> <a class="tag" href="?query=tag:TODO" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#TODO</a> 
+ <br><br>
+<br>Lore: <a href=".?query=tag:TODO" class="tag" target="_blank" rel="noopener">#TODO</a> 
+<br>Tier: Novice (based on level 2) 
+<br>Type: Minion
+<br>Health: 60
+<br>Aptitudes: 
+
+<br>2 POW
+<br>2 ARC
+
+
+<br>Initiative: 0
+<br>Movement: 10 meters
+<br>Physical Armor: 0
+<br>Magic Armor: 5
+<br>Weapons: Spirit weapons
+<br>Precision roll: (strength) d10 + 2, (witchcraft) d10 + 1
+<br>Resistances: 5, 7 Reflection
+<br>Skills
+
+<br>(Passive) Fire Affinity
+
+<br>This spirit receives half damage from burning.
+<br>If this spirit is soaked or frostbitten, it is also slowed with the same potency.
+
+
+<br>Burning Claw
+
+<br>Deals 10 physical damage.
+<br>Applies burning (12 damage) for 2 hits. 
+
+
+<br>(Witchcraft spell) Conflagration 
+
+<br>Radius: 3 meters. 
+<br>This attack's precision rolls are made against Evasion.
+<br>Creates a burning area around this spirit, dealing 10 magical damage to all creatures within range, excluding other fire spirits.
+
+
+<br>(Witchcraft spell) (Rapid action) Flame Wall
+
+<br>This attack's precision rolls are made against Constitution.
+<br>Burns an empty 1 square meter area, which stays alight for 1 round. This area deals 10 magical damage whenever a creature passes through it.
+
+
+
+
+<br><br><br>
+<br>Lore: <a href=".?query=tag:TODO" class="tag" target="_blank" rel="noopener">#TODO</a> 
+<br>Tier: Novice (based on level 2) 
+<br>Type: Minion
+<br>Health: 60
+<br>Aptitudes: 
+
+<br>1 ARC + 1 HAR
+<br>2 VIT
+
+
+<br>Initiative: 0
+<br>Movement: 10 meters
+<br>Physical Armor: 0
+<br>Magic Armor: 5
+<br>Weapons: Spirit weapons
+<br>Precision roll: (witchcraft) d10 + 2
+<br>Resistances: 5, 7 Reflection
+<br>Skills
+
+<br>(Passive) Water Affinity
+
+<br>This spirit can't be soaked, but it takes an extra 10 physical damage from electrified, frostbitten and burning.
+
+
+<br>(Witchcraft spell) Slash
+
+<br>Deals 25 physical damage.
+<br>Applies soaked for 1 round.
+
+
+<br>(Witchcraft spell) (Rapid action) Whip
+
+<br>Range: 2 meters.
+<br>This attack's precision roll is made against Evasion.
+<br>This spirit creates a whip of water, and pushes or pulls the target for up to two meters. If this target is in water, the target also takes 10 magical damage.
+
+
+
+
+<br><br><br>
+<br>Lore: <a href=".?query=tag:TODO" class="tag" target="_blank" rel="noopener">#TODO</a> 
+<br>Tier: Novice (based on level 4) 
+<br>Type: Minion
+<br>Health: 60
+<br>Aptitudes: 
+
+<br>2 POW + 2 DEX
+<br>4 ARC
+
+
+<br>Initiative: 0
+<br>Movement: 10 meters
+<br>Physical Armor: 0
+<br>Magic Armor: 5
+<br>Weapons: Spirit weapons
+<br>Precision roll: (strength) d10 + 3, (witchcraft) d10 + 2
+<br>Resistances: 6, 8 Reflection
+<br>Skills
+
+<br>(Passive) Fire Affinity
+
+<br>This spirit receives half damage from burning.
+<br>If this spirit is soaked or frostbitten, it is also slowed with the same potency.
+
+
+<br>(Witchcraft spell) (Passive) Flame Trail
+
+<br>This attack's precision rolls are made against Constitution.
+<br>Whenever this creature moves, it leaves a trail of fire behind the squares it passes through. This trail stays alight for 1 round, and it deals 10 magical damage whenever a creature passes through it, excluding other fire spirits.
+
+
+<br>Burning Claw
+
+<br>Deals 10 physical damage.
+<br>Applies burning (12 damage) for 3 rounds.
+
+
+<br>(Witchcraft spell) Conflagration 
+
+<br>Radius: 3 meters
+<br>This attack's precision rolls are made against Evasion.
+<br>Creates a burning area around this spirit, dealing 10 magical damage to all creatures within range, excluding other fire spirits. It deals a +5 bonus damage to burning creatures.
+
+
+
+
+<br><br><br>
+<br>Lore: <a href=".?query=tag:TODO" class="tag" target="_blank" rel="noopener">#TODO</a> 
+<br>Tier: Veteran (based on level 4) 
+<br>Type: Minion
+<br>Health: 60
+<br>Aptitudes: 
+
+<br>2 ARC + 2 HAR
+<br>4 VIT
+
+
+<br>Initiative: 0
+<br>Movement: 10 meters
+<br>Physical Armor: 0
+<br>Magic Armor: 5
+<br>Weapons: Spirit weapons
+<br>Precision roll: (witchcraft) d10 + 3
+<br>Resistances: 6, 7 Constitution, 8 Reflection
+<br>Skills
+
+<br>(Passive) Water Affinity
+
+<br>This spirit can't be soaked, but it takes an extra 10 physical damage from electrified, frostbitten and burning.
+
+
+<br>(Witchcraft spell) Slash
+
+<br>Deals 25 physical damage.
+<br>Applies soaked for 1 round.
+
+
+<br>(Witchcraft spell) (Rapid action) Whip
+
+<br>Range: 3 meters.
+<br>This attack's precision roll is made against Evasion.
+<br>This spirit creates a whip of water, and pushes or pulls the target for up to two meters. If this target is in water, the target also takes 10 magical damage.
+
+
+<br>(Witchcraft spell) (Prepared action) Opportunistic Slash
+
+<br>This spirit attacks the next foe who moves into, out of or within melee range, dealing 15 physical damage.
+
+
+
+
+]]></description><link>sigil-of-uchma/monsters/spirits.html</link><guid isPermaLink="false">sigil-of-uchma/Monsters/Spirits.md</guid><pubDate>Thu, 29 Feb 2024 06:49:21 GMT</pubDate></item><item><title><![CDATA[Introduction]]></title><description><![CDATA[ 
+ <br><br>Sigil of Uchma (formerly TT Project) is a work-in-progress fantasy tabletop role playing game based on a hypothetical medieval Central Asian society, based primarily on Gokturks and secondarily on other cultures within the area. The name is a reference to historical usage of <a data-tooltip-position="top" aria-label="https://en.wikipedia.org/wiki/Nazar_(amulet)" rel="noopener" class="external-link" href="https://en.wikipedia.org/wiki/Nazar_(amulet)" target="_blank">Nazar amulets</a>.<br>It is played with a game master (GM) and one or more players. The GM builds and runs the campaign, enforces the rules of the game, applies or creates resolution mechanics as necessary, and controls the non-player characters (NPCs). Players, on the other hand, are responsible from their characters, which are called player characters (PCs). Each player is assumed to bring only one PC. With the use of their PCs, players can explore places, fight foes, deceive or help NPCs, take on quests, collect items and more.<br>Sigil of Uchma is an alternate history fantasy game. This means we are not bound strictly by Turkic mythology and lifestyle from early middle age and before. Things can be added, changed and removed. I highly recommend reading the resources in the section below.<br><br>
+<br>Character creation guide: <a data-tooltip-position="top" aria-label="Player Characters" data-href="Player Characters" href="sigil-of-uchma/content/player-characters.html" class="internal-link" target="_self" rel="noopener">Link</a>
+<br>YouTube channel: <a rel="noopener" class="external-link" href="https://www.youtube.com/@SigilofUchma" target="_blank">https://www.youtube.com/@SigilofUchma</a>
+<br>Feedback form: <a rel="noopener" class="external-link" href="https://forms.gle/7NwTYqGUWpBfBWNg8" target="_blank">https://forms.gle/7NwTYqGUWpBfBWNg8</a>
+<br>GitHub repository: <a rel="noopener" class="external-link" href="https://github.com/TaygaHoshi/tt-project" target="_blank">https://github.com/TaygaHoshi/tt-project</a>
+<br><br>A base rule set to build and play different types of campaigns:<br>
+Rules in this game are trimmed before they are added. This makes Sigil of Uchma a good base to build campaigns upon.<br>Uniquely themed items, skills, magic, NPCs and monsters:<br>
+Sigil of Uchma has owl vampires, charming snake monsters able to transform into a human form, Central Asian spells and rituals, interesting abilities and more.<br>Character creation full of meaningful choice:<br>
+See <a data-href="Player Characters" href="sigil-of-uchma/content/player-characters.html" class="internal-link" target="_self" rel="noopener">Player Characters</a>.<br>Fun and engaging turn-based combat:<br>
+Classes have both shared and unique abilities. Weapons have active and passive abilities, spells are varied and carry an impact while not being overpowered, armors are strong. Additionally there is no arbitrarily locking players out of features. A performer can wear any type of armor and wield all weapons without penalties to their spell casting.<br>Furthermore, there are not many calculations to slow turns down during combat. Most numbers like damage of a weapon can be calculated beforehand. With proper notes, turns can get very fast.<br>Soft mechanics and rules for role playing:<br>
+Sigil of Uchma is a simplified take on modern TTRPGs. Exploration, inventory management, economy, traveling, interactions with NPCs and similar activities mostly have only general rules and suggestions. Imagination in these situations can open up a lot of possibilities.<br><br>Currently, the game is in alpha state. This means it is not ready for running campaigns yet. When the first full version is released, <a data-tooltip-position="top" aria-label="https://github.com/TaygaHoshi/tt-project/releases" rel="noopener" class="external-link" href="https://github.com/TaygaHoshi/tt-project/releases" target="_blank">it will be in the releases page of this repository</a>. <br>If you want to play the game anyway, I recommend sticking to one version and only updating if the newer version doesn't break the balance of the campaign.<br><br>There are not many resources on this topic. If you know helpful articles, images, videos or anything please let me know or send a pull request.<br>
+<br><a rel="noopener" class="external-link" href="https://en.wikipedia.org/wiki/Turkic_mythology" target="_blank">https://en.wikipedia.org/wiki/Turkic_mythology</a> (English)
+<br><a rel="noopener" class="external-link" href="https://en.wikipedia.org/wiki/List_of_Turkic_mythological_figures" target="_blank">https://en.wikipedia.org/wiki/List_of_Turkic_mythological_figures</a> (English)
+<br><a rel="noopener" class="external-link" href="https://dergipark.org.tr/en/download/article-file/810705#page=2&amp;zoom=120,-282,808" target="_blank">https://dergipark.org.tr/en/download/article-file/810705#page=2&amp;zoom=120,-282,808</a> (English &amp; Turkish)
+<br>Tirendaz (English)
+
+<br><a rel="noopener" class="external-link" href="http://www.tirendaz.com/en/?page_id=3" target="_blank">http://www.tirendaz.com/en/?page_id=3</a> 
+<br><a rel="noopener" class="external-link" href="http://www.tirendaz.com/en/?page_id=72" target="_blank">http://www.tirendaz.com/en/?page_id=72</a>
+
+
+<br><a rel="noopener" class="external-link" href="https://paratic.com/turk-mitolojisi/" target="_blank">https://paratic.com/turk-mitolojisi/</a> (Turkish)
+<br><a rel="noopener" class="external-link" href="https://www.kayipdunya.com/wp-content/uploads/kalins-pdf/singles/turk-mitolojisi-sozlugu-r-s.pdf" target="_blank">https://www.kayipdunya.com/wp-content/uploads/kalins-pdf/singles/turk-mitolojisi-sozlugu-r-s.pdf</a> (Turkish)
+<br><br>You can contact me through GitHub or Discord. My Discord username is taygahoshi. The aforementioned <a data-tooltip-position="top" aria-label="https://forms.gle/7NwTYqGUWpBfBWNg8" rel="noopener" class="external-link" href="https://forms.gle/7NwTYqGUWpBfBWNg8" target="_blank">feedback form</a> is the best way for reaching me.<br><br>Please do not contact anyone other than me in this section.<br>]]></description><link>sigil-of-uchma/introduction.html</link><guid isPermaLink="false">sigil-of-uchma/INTRODUCTION.md</guid><pubDate>Fri, 29 Mar 2024 16:33:52 GMT</pubDate></item><item><title><![CDATA[LICENCE]]></title><description><![CDATA[ 
+ <br>Attribution-NonCommercial-ShareAlike 4.0 International<br>=======================================================================<br>Creative Commons Corporation ("Creative Commons") is not a law firm and<br>
+does not provide legal services or legal advice. Distribution of<br>
+Creative Commons public licenses does not create a lawyer-client or<br>
+other relationship. Creative Commons makes its licenses and related<br>
+information available on an "as-is" basis. Creative Commons gives no<br>
+warranties regarding its licenses, any material licensed under their<br>
+terms and conditions, or any related information. Creative Commons<br>
+disclaims all liability for damages resulting from their use to the<br>
+fullest extent possible.<br>Using Creative Commons Public Licenses<br>Creative Commons public licenses provide a standard set of terms and<br>
+conditions that creators and other rights holders may use to share<br>
+original works of authorship and other material subject to copyright<br>
+and certain other rights specified in the public license below. The<br>
+following considerations are for informational purposes only, are not<br>
+exhaustive, and do not form part of our licenses.<br> Considerations for licensors: Our public licenses are
+ intended for use by those authorized to give the public
+ permission to use material in ways otherwise restricted by
+ copyright and certain other rights. Our licenses are
+ irrevocable. Licensors should read and understand the terms
+ and conditions of the license they choose before applying it.
+ Licensors should also secure all rights necessary before
+ applying our licenses so that the public can reuse the
+ material as expected. Licensors should clearly mark any
+ material not subject to the license. This includes other CC-
+ licensed material, or material used under an exception or
+ limitation to copyright. More considerations for licensors:
+wiki.creativecommons.org/Considerations_for_licensors
+
+ Considerations for the public: By using one of our public
+ licenses, a licensor grants the public permission to use the
+ licensed material under specified terms and conditions. If
+ the licensor's permission is not necessary for any reason--for
+ example, because of any applicable exception or limitation to
+ copyright--then that use is not regulated by the license. Our
+ licenses grant only permissions under copyright and certain
+ other rights that a licensor has authority to grant. Use of
+ the licensed material may still be restricted for other
+ reasons, including because others have copyright or other
+ rights in the material. A licensor may make special requests,
+ such as asking that all changes be marked or described.
+ Although not required by our licenses, you are encouraged to
+ respect those requests where reasonable. More considerations
+ for the public:
+wiki.creativecommons.org/Considerations_for_licensees
+Copy<br>=======================================================================<br>Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International<br>
+Public License<br>By exercising the Licensed Rights (defined below), You accept and agree<br>
+to be bound by the terms and conditions of this Creative Commons<br>
+Attribution-NonCommercial-ShareAlike 4.0 International Public License<br>
+("Public License"). To the extent this Public License may be<br>
+interpreted as a contract, You are granted the Licensed Rights in<br>
+consideration of Your acceptance of these terms and conditions, and the<br>
+Licensor grants You such rights in consideration of benefits the<br>
+Licensor receives from making the Licensed Material available under<br>
+these terms and conditions.<br>Section 1 -- Definitions.<br>  a. Adapted Material means material subject to Copyright and Similar<br>
+Rights that is derived from or based upon the Licensed Material<br>
+and in which the Licensed Material is translated, altered,<br>
+arranged, transformed, or otherwise modified in a manner requiring<br>
+permission under the Copyright and Similar Rights held by the<br>
+Licensor. For purposes of this Public License, where the Licensed<br>
+Material is a musical work, performance, or sound recording,<br>
+Adapted Material is always produced where the Licensed Material is<br>
+synched in timed relation with a moving image.<br>  b. Adapter's License means the license You apply to Your Copyright<br>
+and Similar Rights in Your contributions to Adapted Material in<br>
+accordance with the terms and conditions of this Public License.<br>  c. BY-NC-SA Compatible License means a license listed at<br>
+creativecommons.org/compatiblelicenses, approved by Creative<br>
+Commons as essentially the equivalent of this Public License.<br>  d. Copyright and Similar Rights means copyright and/or similar rights<br>
+closely related to copyright including, without limitation,<br>
+performance, broadcast, sound recording, and Sui Generis Database<br>
+Rights, without regard to how the rights are labeled or<br>
+categorized. For purposes of this Public License, the rights<br>
+specified in Section 2(b)(1)-(2) are not Copyright and Similar<br>
+Rights.<br>  e. Effective Technological Measures means those measures that, in the<br>
+absence of proper authority, may not be circumvented under laws<br>
+fulfilling obligations under Article 11 of the WIPO Copyright<br>
+Treaty adopted on December 20, 1996, and/or similar international<br>
+agreements.<br>  f. Exceptions and Limitations means fair use, fair dealing, and/or<br>
+any other exception or limitation to Copyright and Similar Rights<br>
+that applies to Your use of the Licensed Material.<br>  g. License Elements means the license attributes listed in the name<br>
+of a Creative Commons Public License. The License Elements of this<br>
+Public License are Attribution, NonCommercial, and ShareAlike.<br>  h. Licensed Material means the artistic or literary work, database,<br>
+or other material to which the Licensor applied this Public<br>
+License.<br>  i. Licensed Rights means the rights granted to You subject to the<br>
+terms and conditions of this Public License, which are limited to<br>
+all Copyright and Similar Rights that apply to Your use of the<br>
+Licensed Material and that the Licensor has authority to license.<br>  j. Licensor means the individual(s) or entity(ies) granting rights<br>
+under this Public License.<br>  k. NonCommercial means not primarily intended for or directed towards<br>
+commercial advantage or monetary compensation. For purposes of<br>
+this Public License, the exchange of the Licensed Material for<br>
+other material subject to Copyright and Similar Rights by digital<br>
+file-sharing or similar means is NonCommercial provided there is<br>
+no payment of monetary compensation in connection with the<br>
+exchange.<br>  l. Share means to provide material to the public by any means or<br>
+process that requires permission under the Licensed Rights, such<br>
+as reproduction, public display, public performance, distribution,<br>
+dissemination, communication, or importation, and to make material<br>
+available to the public including in ways that members of the<br>
+public may access the material from a place and at a time<br>
+individually chosen by them.<br>  m. Sui Generis Database Rights means rights other than copyright<br>
+resulting from Directive 96/9/EC of the European Parliament and of<br>
+the Council of 11 March 1996 on the legal protection of databases,<br>
+as amended and/or succeeded, as well as other essentially<br>
+equivalent rights anywhere in the world.<br>  n. You means the individual or entity exercising the Licensed Rights<br>
+under this Public License. Your has a corresponding meaning.<br>Section 2 -- Scope.<br>  a. License grant.<br>   1. Subject to the terms and conditions of this Public License,
+      the Licensor hereby grants You a worldwide, royalty-free,
+      non-sublicensable, non-exclusive, irrevocable license to
+      exercise the Licensed Rights in the Licensed Material to:
+
+        a. reproduce and Share the Licensed Material, in whole or
+           in part, for NonCommercial purposes only; and
+
+        b. produce, reproduce, and Share Adapted Material for
+           NonCommercial purposes only.
+
+   2. Exceptions and Limitations. For the avoidance of doubt, where
+      Exceptions and Limitations apply to Your use, this Public
+      License does not apply, and You do not need to comply with
+      its terms and conditions.
+
+   3. Term. The term of this Public License is specified in Section
+      6(a).
+
+   4. Media and formats; technical modifications allowed. The
+      Licensor authorizes You to exercise the Licensed Rights in
+      all media and formats whether now known or hereafter created,
+      and to make technical modifications necessary to do so. The
+      Licensor waives and/or agrees not to assert any right or
+      authority to forbid You from making technical modifications
+      necessary to exercise the Licensed Rights, including
+      technical modifications necessary to circumvent Effective
+      Technological Measures. For purposes of this Public License,
+      simply making modifications authorized by this Section 2(a)
+      (4) never produces Adapted Material.
+
+   5. Downstream recipients.
+
+        a. Offer from the Licensor -- Licensed Material. Every
+           recipient of the Licensed Material automatically
+           receives an offer from the Licensor to exercise the
+           Licensed Rights under the terms and conditions of this
+           Public License.
+
+        b. Additional offer from the Licensor -- Adapted Material.
+           Every recipient of Adapted Material from You
+           automatically receives an offer from the Licensor to
+           exercise the Licensed Rights in the Adapted Material
+           under the conditions of the Adapter's License You apply.
+
+        c. No downstream restrictions. You may not offer or impose
+           any additional or different terms or conditions on, or
+           apply any Effective Technological Measures to, the
+           Licensed Material if doing so restricts exercise of the
+           Licensed Rights by any recipient of the Licensed
+           Material.
+
+   6. No endorsement. Nothing in this Public License constitutes or
+      may be construed as permission to assert or imply that You
+      are, or that Your use of the Licensed Material is, connected
+      with, or sponsored, endorsed, or granted official status by,
+      the Licensor or others designated to receive attribution as
+      provided in Section 3(a)(1)(A)(i).
+Copy<br>  b. Other rights.<br>   1. Moral rights, such as the right of integrity, are not
+      licensed under this Public License, nor are publicity,
+      privacy, and/or other similar personality rights; however, to
+      the extent possible, the Licensor waives and/or agrees not to
+      assert any such rights held by the Licensor to the limited
+      extent necessary to allow You to exercise the Licensed
+      Rights, but not otherwise.
+
+   2. Patent and trademark rights are not licensed under this
+      Public License.
+
+   3. To the extent possible, the Licensor waives any right to
+      collect royalties from You for the exercise of the Licensed
+      Rights, whether directly or through a collecting society
+      under any voluntary or waivable statutory or compulsory
+      licensing scheme. In all other cases the Licensor expressly
+      reserves any right to collect such royalties, including when
+      the Licensed Material is used other than for NonCommercial
+      purposes.
+Copy<br>Section 3 -- License Conditions.<br>Your exercise of the Licensed Rights is expressly made subject to the<br>
+following conditions.<br>  a. Attribution.<br>   1. If You Share the Licensed Material (including in modified
+      form), You must:
+
+        a. retain the following if it is supplied by the Licensor
+           with the Licensed Material:
+
+             i. identification of the creator(s) of the Licensed
+                Material and any others designated to receive
+                attribution, in any reasonable manner requested by
+                the Licensor (including by pseudonym if
+                designated);
+
+            ii. a copyright notice;
+
+           iii. a notice that refers to this Public License;
+
+            iv. a notice that refers to the disclaimer of
+                warranties;
+
+             v. a URI or hyperlink to the Licensed Material to the
+                extent reasonably practicable;
+
+        b. indicate if You modified the Licensed Material and
+           retain an indication of any previous modifications; and
+
+        c. indicate the Licensed Material is licensed under this
+           Public License, and include the text of, or the URI or
+           hyperlink to, this Public License.
+
+   2. You may satisfy the conditions in Section 3(a)(1) in any
+      reasonable manner based on the medium, means, and context in
+      which You Share the Licensed Material. For example, it may be
+      reasonable to satisfy the conditions by providing a URI or
+      hyperlink to a resource that includes the required
+      information.
+   3. If requested by the Licensor, You must remove any of the
+      information required by Section 3(a)(1)(A) to the extent
+      reasonably practicable.
+Copy<br>  b. ShareAlike.<br> In addition to the conditions in Section 3(a), if You Share
+ Adapted Material You produce, the following conditions also apply.
+
+   1. The Adapter's License You apply must be a Creative Commons
+      license with the same License Elements, this version or
+      later, or a BY-NC-SA Compatible License.
+
+   2. You must include the text of, or the URI or hyperlink to, the
+      Adapter's License You apply. You may satisfy this condition
+      in any reasonable manner based on the medium, means, and
+      context in which You Share Adapted Material.
+
+   3. You may not offer or impose any additional or different terms
+      or conditions on, or apply any Effective Technological
+      Measures to, Adapted Material that restrict exercise of the
+      rights granted under the Adapter's License You apply.
+Copy<br>Section 4 -- Sui Generis Database Rights.<br>Where the Licensed Rights include Sui Generis Database Rights that<br>
+apply to Your use of the Licensed Material:<br>  a. for the avoidance of doubt, Section 2(a)(1) grants You the right<br>
+to extract, reuse, reproduce, and Share all or a substantial<br>
+portion of the contents of the database for NonCommercial purposes<br>
+only;<br>  b. if You include all or a substantial portion of the database<br>
+contents in a database in which You have Sui Generis Database<br>
+Rights, then the database in which You have Sui Generis Database<br>
+Rights (but not its individual contents) is Adapted Material,<br>
+including for purposes of Section 3(b); and<br>  c. You must comply with the conditions in Section 3(a) if You Share<br>
+all or a substantial portion of the contents of the database.<br>For the avoidance of doubt, this Section 4 supplements and does not<br>
+replace Your obligations under this Public License where the Licensed<br>
+Rights include other Copyright and Similar Rights.<br>Section 5 -- Disclaimer of Warranties and Limitation of Liability.<br>  a. UNLESS OTHERWISE SEPARATELY UNDERTAKEN BY THE LICENSOR, TO THE<br>
+EXTENT POSSIBLE, THE LICENSOR OFFERS THE LICENSED MATERIAL AS-IS<br>
+AND AS-AVAILABLE, AND MAKES NO REPRESENTATIONS OR WARRANTIES OF<br>
+ANY KIND CONCERNING THE LICENSED MATERIAL, WHETHER EXPRESS,<br>
+IMPLIED, STATUTORY, OR OTHER. THIS INCLUDES, WITHOUT LIMITATION,<br>
+WARRANTIES OF TITLE, MERCHANTABILITY, FITNESS FOR A PARTICULAR<br>
+PURPOSE, NON-INFRINGEMENT, ABSENCE OF LATENT OR OTHER DEFECTS,<br>
+ACCURACY, OR THE PRESENCE OR ABSENCE OF ERRORS, WHETHER OR NOT<br>
+KNOWN OR DISCOVERABLE. WHERE DISCLAIMERS OF WARRANTIES ARE NOT<br>
+ALLOWED IN FULL OR IN PART, THIS DISCLAIMER MAY NOT APPLY TO YOU.<br>  b. TO THE EXTENT POSSIBLE, IN NO EVENT WILL THE LICENSOR BE LIABLE<br>
+TO YOU ON ANY LEGAL THEORY (INCLUDING, WITHOUT LIMITATION,<br>
+NEGLIGENCE) OR OTHERWISE FOR ANY DIRECT, SPECIAL, INDIRECT,<br>
+INCIDENTAL, CONSEQUENTIAL, PUNITIVE, EXEMPLARY, OR OTHER LOSSES,<br>
+COSTS, EXPENSES, OR DAMAGES ARISING OUT OF THIS PUBLIC LICENSE OR<br>
+USE OF THE LICENSED MATERIAL, EVEN IF THE LICENSOR HAS BEEN<br>
+ADVISED OF THE POSSIBILITY OF SUCH LOSSES, COSTS, EXPENSES, OR<br>
+DAMAGES. WHERE A LIMITATION OF LIABILITY IS NOT ALLOWED IN FULL OR<br>
+IN PART, THIS LIMITATION MAY NOT APPLY TO YOU.<br>  c. The disclaimer of warranties and limitation of liability provided<br>
+above shall be interpreted in a manner that, to the extent<br>
+possible, most closely approximates an absolute disclaimer and<br>
+waiver of all liability.<br>Section 6 -- Term and Termination.<br>  a. This Public License applies for the term of the Copyright and<br>
+Similar Rights licensed here. However, if You fail to comply with<br>
+this Public License, then Your rights under this Public License<br>
+terminate automatically.<br>  b. Where Your right to use the Licensed Material has terminated under<br>
+Section 6(a), it reinstates:<br>   1. automatically as of the date the violation is cured, provided
+      it is cured within 30 days of Your discovery of the
+      violation; or
+
+   2. upon express reinstatement by the Licensor.
+
+ For the avoidance of doubt, this Section 6(b) does not affect any
+ right the Licensor may have to seek remedies for Your violations
+ of this Public License.
+Copy<br>  c. For the avoidance of doubt, the Licensor may also offer the<br>
+Licensed Material under separate terms or conditions or stop<br>
+distributing the Licensed Material at any time; however, doing so<br>
+will not terminate this Public License.<br>  d. Sections 1, 5, 6, 7, and 8 survive termination of this Public<br>
+License.<br>Section 7 -- Other Terms and Conditions.<br>  a. The Licensor shall not be bound by any additional or different<br>
+terms or conditions communicated by You unless expressly agreed.<br>  b. Any arrangements, understandings, or agreements regarding the<br>
+Licensed Material not stated herein are separate from and<br>
+independent of the terms and conditions of this Public License.<br>Section 8 -- Interpretation.<br>  a. For the avoidance of doubt, this Public License does not, and<br>
+shall not be interpreted to, reduce, limit, restrict, or impose<br>
+conditions on any use of the Licensed Material that could lawfully<br>
+be made without permission under this Public License.<br>  b. To the extent possible, if any provision of this Public License is<br>
+deemed unenforceable, it shall be automatically reformed to the<br>
+minimum extent necessary to make it enforceable. If the provision<br>
+cannot be reformed, it shall be severed from this Public License<br>
+without affecting the enforceability of the remaining terms and<br>
+conditions.<br>  c. No term or condition of this Public License will be waived and no<br>
+failure to comply consented to unless expressly agreed to by the<br>
+Licensor.<br>  d. Nothing in this Public License constitutes or may be interpreted<br>
+as a limitation upon, or waiver of, any privileges and immunities<br>
+that apply to the Licensor or You, including from the legal<br>
+processes of any jurisdiction or authority.<br>=======================================================================<br>Creative Commons is not a party to its public<br>
+licenses. Notwithstanding, Creative Commons may elect to apply one of<br>
+its public licenses to material it publishes and in those instances<br>
+will be considered the “Licensor.” The text of the Creative Commons<br>
+public licenses is dedicated to the public domain under the CC0 Public<br>
+Domain Dedication. Except for the limited purpose of indicating that<br>
+material is shared under a Creative Commons public license or as<br>
+otherwise permitted by the Creative Commons policies published at<br>
+creativecommons.org/policies, Creative Commons does not authorize the<br>
+use of the trademark "Creative Commons" or any other trademark or logo<br>
+of Creative Commons without its prior written consent including,<br>
+without limitation, in connection with any unauthorized modifications<br>
+to any of its public licenses or any other arrangements,<br>
+understandings, or agreements concerning use of licensed material. For<br>
+the avoidance of doubt, this paragraph does not form part of the<br>
+public licenses.<br>Creative Commons may be contacted at creativecommons.org.]]></description><link>sigil-of-uchma/licence.html</link><guid isPermaLink="false">sigil-of-uchma/LICENCE.md</guid><pubDate>Fri, 15 Dec 2023 06:23:27 GMT</pubDate></item></channel></rss>

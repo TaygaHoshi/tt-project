@@ -61,11 +61,11 @@ One handed weapons are divided into two: heavy weapons and light weapons. Light 
 	+ Range: 5 meters
 	+ This attack's precision roll is made against Constitution.
 	+ Ignores weapon damage.
-	+ Immobilizes the target for (1 + WRA/4) rounds.
+	+ Immobilizes the target for (1 + CLA/4) rounds.
 + (Prepared action) Protecting from Magic
 	+ Range: 5 meters
-	+ Choose an ally. Grant them (3 + WRA/2) temporary magical armor for 1 round.
-
+	+ Choose an ally. Grant them (3 + FAI/2) temporary magical armor for 1 round.
+	
 ## Shortsword (Light)
 + Aptitude: Strength
 + Slash

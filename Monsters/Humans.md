@@ -1,120 +1,124 @@
-## Bandit Swordsman, Novice
+## Novice Bandit (Swordsman)
 + **Lore:** Low level bandit swordsmen and swordswomen are heavily armored, strong combatants found primarily near remote or deserted locations. They live in small or large groups and attack, pillage and loot whatever they can. 
 + **Tier:** Novice (based on level 1) 
 + **Type:** Minion
-+ **Health:** 70
++ **Health:** 80
 + **Aptitudes:** 
 	+ 2 POW
-+ **Initiative:** -3
+	+ 2 SPD
++ **Initiative:** -2
 	+ -1 from shield
-+ **Movement:** 7 meters
++ **Movement:** 5 meters
 	+ -1 from shield
 + **Physical Armor:** 15
 	+ +5 from shield
 + **Magic Armor:** 0
 + **Weapons:** Curved sword and shield
-+ **Precision roll:** (ACU) d10 + 1
-+ **Resistances:** 6, 8 Parry
++ **Precision roll:** (strength) d10 + 2
+	+ +1 strength from weapon precision
++ **Resistances:** 5, 7 Parry, 4 Evasion
 	+ +1 Parry from shield
+	+ -1 Evasion from shield
 + **Skills**
 	+ Slash
-		+ Deals 27 physical damage.
+		+ Deals 22 physical damage.
 	+ (Combat technique) (Rapid action) Shield Bash
 		+ -2 penalty on precision roll.
-		+ Deals 7 physical damage.
+		+ Deals 5 physical damage.
 	+ (Full-turn action) Charge
 		+ -2 penalty on precision roll.
-		+ This bandit charges its target for up to 12 meters and attack with Slash, receiving a -2 penalty to all resistances for 1 round.
-	+ (Prepared action) Projectile Defense
-		+ This bandit has quarter cover against physical projectile attacks against it until the start of its next turn.
+		+ Can charge for up to 10 meters and attack with Strike, receiving a -2 penalty to all resistances for 1 round.
+	+ (Prepared action) Opportunistic Slash
+		+ Attacks the next foe who moves into, within or out of melee range.
+		+ Deals 10 physical damage.
 
 ---
-## Bandit Archer, Novice
+## Novice Bandit (Archer)
 + **Lore:** Low level bandit archers wear light armor. They can shoot targets from long distances. They are found primarily near remote or deserted locations. They live in small or large groups and attack, pillage and loot whatever they can. 
 + **Tier:** Novice (based on level 1) 
 + **Type:** Minion
 + **Health:** 60
 + **Aptitudes:** 
-	+ 1 ACU
-	+ 1 SPD
-+ **Initiative:** 1
-+ **Movement:** 11 meters
+	+ 1 POW + 1 DEX
+	+ 2 SPD
++ **Initiative:** 2
++ **Movement:** 12 meters
 + **Physical Armor:** 5
 + **Magic Armor:** 0
 + **Weapons:** Longbow
-+ **Precision roll:** (ACU) d10 + 1
-+ **Resistances:** 6
++ **Precision roll:** (strength) d10 + 1
++ **Resistances:** 5, 7 Evasion
 + **Skills**
 	+ (Passive) Improved Aiming
 		+ This bandit can choose to stay stationary during its turn, removing the -2 precision roll penalty from Unsteady Aiming.
+	+ (Passive) Survival Reflexes
+		+ This bandit doesn't receive the resistance penalties from being stunned.
 	+ (Projectile) Shoot
-		+ Range: 15 meters
-		+ Deals 24 physical damage.
-	+ (Projectile) (Combat technique) Dazzling Shot
-		+ This attack's precision rolls are made against Evasion.
-		+ This bandit chooses a square within 7 meters. Every creature within 2 meters around this square is disoriented (-1) for the duration.
+		+ Range: 15 meters.
+		+ Deals 20 physical damage.
+	+ (Projectile) Broadhead Shot
+		+ This attack's precision roll is made against Constitution.
+		+ Range: 15 meters.
+		+ Deals 20 physical damage and applies bleeding (5 damage) for 1 hit.
 		+ Can be used only once a day.
 
 ---
-## Common Fire Witch
+## Veteran Flame Witch
 + **Lore:** #TODO 
 + **Tier:** Veteran (based on level 4) 
 + **Type:** Minion, Boss
 + **Health:** 60
 + **Aptitudes:** 
-	+ 4 ARC + 2 PEN
-	+ 1 SPD
-+ **Initiative:** 1
-+ **Movement:** 11 meters
+	+ 2 ARC + 2 HAR
+	+ 2 VIT + 2 SPD
++ **Initiative:** 2
++ **Movement:** 12 meters
 + **Physical Armor:** 0
 + **Magic Armor:** 5
 + **Weapons:** Nature staff
-+ **Precision roll:** (PEN) d10 + 3
-+ **Resistances:** 8, 10 Reflection
++ **Precision roll:** (witchcraft) d10 + 3
+	+ +1 witchcraft from weapon precision
++ **Resistances:** 6, 7 Constitution, 7 Evasion, 7 Reflection
 + **Skills**
 	+ (Passive) Improved Aiming
-		+ This witch can choose to stay stationary during its turn, removing the -2 precision roll penalty from Unsteady Aiming.
-	+ Elemental Bolt
-		+ Projectile.
+		+ This witch can choose to stay stationary during its turn, removing the -2 precision roll penalty from Unsteady Aiming for Elemental Bolt.
+	+ (Projectile) Fire Bolt
 		+ Range: 10 meters.
 		+ Deals 25 magical damage.
-	+ (Witchcraft spell) Fire Arrow
+	+ (Projectile) (Witchcraft spell) Scarring Flames
 		+ Range: 5 meters.
-		+ Applies 12 magical damage and applies burning (14 dpr) for 2 rounds.
-	+ (Witchcraft spell) Enhance Fire
-		+ Radius: 2 meters.
-		+ This attack's precision rolls are made against Evasion.
-		+ All foes take 5 magical damage and if any of them were burning, that effect lasts for one more round.
+		+ This spell's precision roll is made against Constitution. 
+		+ Applies burning (12 damage) and bleeding (7 damage) for 1 hit.
 
-## Common Performer 1
+## Novice Performer
 + **Lore:** #TODO 
 + **Tier:** Veteran (based on level 4) 
-+ **Type:** Supportive minion, Boss
++ **Type:** Minion, Boss
 + **Health:** 60
 + **Aptitudes:** 
-	+ 2 EXP + 2 PER
-	+ 2 SPD
-+ **Initiative:** 1
-+ **Movement:** 11 meters
-+ **Physical Armor:** 5
-+ **Magic Armor:** 5
-+ **Weapons:** 
-	+ War drums
-	+ A dagger
-+ **Precision roll:** d10 + 4 (ACU), (PER) d10 + 3
-+ **Resistances:** 8, 9 Willpower
+	+ 2 PRE + 2 ACC
+	+ 4 VIT
++ **Initiative:** 0
++ **Movement:** 10 meters
++ **Physical Armor:** 0
++ **Magic Armor:** 10
++ **Weapons:** War drums and a dagger
++ **Precision roll:** (strength) d10 + 3, (social) d10 + 3
+	+ +3 strength from dagger's weapon precision
+	+ +1 social from war drums' weapon precision
++ **Resistances:** 6, 7 Constitution, 8 Willpower
 + **Skills**
 	+ (Rapid action) Swap Weapons
 		+ This monster can swap weapons using the normal rules.
 	+ Slash
 		+ Requires a dagger.
 		+ Deals 15 physical damage.
-	+ (Rapid action) Beat of Shields
+	+ (Rapid action) Invigorating Beat
 		+ Requires a set of war drums.
-		+ All allies within a 10 meter radius gain +5 temporary health until this monster's next turn.
-	+ (Social spell) Song of Discord
-		+ Range: 5 meters.
-		+ Deals 12 magical damage and applies disoriented (-2) for 1 round.
+		+ All allies within a 10 meter radius gain 5 temporary health for 1 round.
+	+ (Social spell) (Rapid action) Song of Discord
+		+ Range: 3 meters.
+		+ Applies disoriented (-2) for 1 round.
 	+ (Social spell) Rhythmic Casting
 		+ Range: 3 meters.
 		+ Target ally's next damaging spell cast within 2 rounds can be cast again in the same turn as a rapid action. This ally must be able to cast this spell normally. 

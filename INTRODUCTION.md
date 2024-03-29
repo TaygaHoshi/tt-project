@@ -27,7 +27,7 @@ Classes have both shared and unique abilities. Weapons have active and passive a
 Furthermore, there are not many calculations to slow turns down during combat. Most numbers like damage of a weapon can be calculated beforehand. With proper notes, turns can get very fast.
 
 **Soft mechanics and rules for role playing:**
-Sigil of Uchma is a simplified take on modern TTRPGs. Exploration, inventory management, economy, traveling, interactions with NPCs and similar activities mostly have only general rules and suggestions. Imagination in these situations can open up a good amount of possibilities.
+Sigil of Uchma is a simplified take on modern TTRPGs. Exploration, inventory management, economy, traveling, interactions with NPCs and similar activities mostly have only general rules and suggestions. Imagination in these situations can open up a lot of possibilities.
 
 # Playing the game
 Currently, the game is in alpha state. This means it is not ready for running campaigns yet. When the first full version is released, [it will be in the releases page of this repository](https://github.com/TaygaHoshi/tt-project/releases). 
@@ -40,6 +40,9 @@ There are not many resources on this topic. If you know helpful articles, images
 + <https://en.wikipedia.org/wiki/Turkic_mythology> (English)
 + <https://en.wikipedia.org/wiki/List_of_Turkic_mythological_figures> (English)
 + <https://dergipark.org.tr/en/download/article-file/810705#page=2&zoom=120,-282,808> (English & Turkish)
++ Tirendaz (English)
+	+ <http://www.tirendaz.com/en/?page_id=3> 
+	+ <http://www.tirendaz.com/en/?page_id=72>
 + <https://paratic.com/turk-mitolojisi/> (Turkish)
 + <https://www.kayipdunya.com/wp-content/uploads/kalins-pdf/singles/turk-mitolojisi-sozlugu-r-s.pdf> (Turkish)
 

@@ -2,9 +2,8 @@
 #TODO 
 
 ## Base Stats, Abilities & Gear
-* Main resistance: Parry, Evasion or Constitution
 * Health: 70
-* Energy: 6 (Medium)
+* Energy: 6 (Minor)
 * Starter equipment:
     * A regular weapon set.
     * Any armor of choice.
@@ -44,20 +43,17 @@ Level | Simple techniques | Advanced techniques
 #TODO 
 
 ## Exploiting
-Your non-damaging combat techniques gain a +1 to their POW, and your weapon attacks gain a +3 bonus damage against:
-1. flanked foes,
-2. foes with any debilitating status effect, 
-3. prone foes, and
-4. foes in lower terrain compared to you.
+Your damaging weapon attacks gain bonus damage equal to 5 plus half of your strength aptitude against foes who are either:
+1. flanked,
+2. prone,
+3. suffering from a debilitating status effect, or
+4. in lower terrain compared to you.
 
 ## Improvised Aid
-You can spend 2 energy to tend to yourself as an action, or a willing creature you can touch as a rapid action, with whatever is available near you. You can either:
-1. Cure a debilitating or a harmful status effect of your choosing, or
-2. Grant (10 + POW/2) temporary health for 1 round. 
+You can spend 2 energy to tend to a willing creature you can touch as a rapid action, with whatever is available near you. You cure a debilitating or a harmful status effect of your choosing. Curing a status effect with this way also grants 5 temporary health for 1 round. 
 
 ## Survival Training
-Choose one of the following abilities. You gain that ability passively against attacks from exploitable foes:
+Choose one of the following abilities. You gain that ability against attacks from exploitable foes:
 1. *Improved Reflexes*: You have a +1 bonus to Parry, Evasion and Reflection.
-2. *Strong Will:* You have a +1 bonus to Constitution, Faith and Willpower.
-3. #TODO 
+2. *Strong Will:* You have a +1 bonus to Constitution, Favor and Willpower.
 
