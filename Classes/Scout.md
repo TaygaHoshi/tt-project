@@ -10,18 +10,18 @@
     * #TODO 
 
 ## Class Abilities
-Level | Abilities
-:---: | ---
-1 | Scout Branches, Exploiting
-2 | Improvised Aid
-3 | Branch Feature
-4 | Survival Training
-5 | Branch Feature
-6 | 
-7 | Branch Feature
-8 | 
-9 | Branch Feature
-10| 
+| Level | Abilities                                       |
+| :---: | ----------------------------------------------- |
+|   1   | Scout Branches, Combat Training, Improvised Aid |
+|   2   | Versatile Reflexes                              |
+|   3   | Branch Feature                                  |
+|   4   | Resourcefulness                                 |
+|   5   | Branch Feature                                  |
+|   6   | Survival Training, Skillful Scout               |
+|   7   | Branch Feature                                  |
+|   8   |                                                 |
+|   9   | Branch Feature                                  |
+|  10   |                                                 |
 
 ---
 ## Combat Technique Count
@@ -42,18 +42,23 @@ Level | Simple techniques | Advanced techniques
 ## Scout Branches
 #TODO 
 
-## Exploiting
-Your damaging weapon attacks gain bonus damage equal to 5 plus half of your strength aptitude against foes who are either:
-1. flanked,
-2. prone,
-3. suffering from a debilitating status effect, or
-4. in lower terrain compared to you.
+## Combat Training
+As a Scout, you can use both simple and advanced combat techniques.
 
 ## Improvised Aid
-You can spend 2 energy to tend to a willing creature you can touch as a rapid action, with whatever is available near you. You cure a debilitating or a harmful status effect of your choosing. Curing a status effect with this way also grants 5 temporary health for 1 round. 
+You can spend 1 energy to tend to a willing creature you can touch as an action, with whatever is available near you. You cure a debilitating or a harmful status effect of your choosing, and then grant 5 temporary health for 1 round. This ability counts as a combat technique.
+
+## Versatile Reflexes
+#TODO 
+
+## Resourcefulness
+Before using improvised aid, you can spend an additional point of energy to gain one of the following benefits:
+1. *Practical Thinking:* You can use improvised aid as a rapid action.
+2. *Bandage:* Cure an additional status effect, and grant (5+POW/2) temporary health for (1+DEX/2) rounds instead.
+3. *Rebound:* This ally's next damaging ability done within (1+DEX/2) rounds gains a +5 bonus to its damage.
 
 ## Survival Training
-Choose one of the following abilities. You gain that ability against attacks from exploitable foes:
-1. *Improved Reflexes*: You have a +1 bonus to Parry, Evasion and Reflection.
-2. *Strong Will:* You have a +1 bonus to Constitution, Favor and Willpower.
+Gain a +1 bonus to a minor or lower resistance of your choosing. As a rapid action, you can move this bonus to any resistance of a creature you can touch for 1 round.
 
+## Skillful Scout
+You gain a +2 bonus to 2 different common skills of your choosing.
