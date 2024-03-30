@@ -10,18 +10,18 @@ Soldiers can be honorable warriors, bounty hunters, master swordsmen and more. T
     * #TODO 
 
 ## Class Abilities
-| Level | Ability |
-| :--: | ---- |
-| 1 | Soldier Branches, Critical Training |
-| 2 | Style Specialization |
-| 3 | Branch Feature |
-| 4 | Armor Training 1 |
-| 5 | Branch Feature |
-| 6 | Combat Mastery |
-| 7 | Branch Feature |
-| 8 | Armor Training 2 |
-| 9 | Branch Feature |
-| 10 | Weapon Expertise |
+| Level | Ability                                              |
+| :---: | ---------------------------------------------------- |
+|   1   | Soldier Branches, Combat Training, Critical Training |
+|   2   | Style Specialization                                 |
+|   3   | Branch Feature                                       |
+|   4   | Armor Training 1                                     |
+|   5   | Branch Feature                                       |
+|   6   | Combat Mastery                                       |
+|   7   | Branch Feature                                       |
+|   8   | Armor Training 2                                     |
+|   9   | Branch Feature                                       |
+|  10   | Weapon Expertise                                     |
 
 
 ---
@@ -42,6 +42,9 @@ Level | Simple techniques | Advanced techniques
 ---
 ## Soldier Branches
 #TODO 
+
+## Combat Training
+As a Soldier, you can use both simple and advanced combat techniques.
 
 ## Critical Training
 If you roll a 10 on a precision roll's d10 with a damaging ability, it gains a (5 + potency) bonus to its damage, depending on its aptitude.
