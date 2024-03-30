@@ -35,7 +35,7 @@ Level | Gained SP
 + Stealth
 	+ Hiding, disguising as something else and staying undetected. Also includes lock-picking and pick-pocketing.
 + Riding
-	+ Riding a horse, a chariot or any other vehicle.
+	+ Riding a horse, a chariot or any other animal or vehicle.
 
 ## Strength Skills
 + Intimidation
