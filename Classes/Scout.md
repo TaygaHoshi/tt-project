@@ -17,7 +17,7 @@
 |   3   | Branch Feature                                  |
 |   4   | Resourcefulness                                 |
 |   5   | Branch Feature                                  |
-|   6   | Survival Training, Skillful Scout               |
+|   6   |                                                 |
 |   7   | Branch Feature                                  |
 |   8   |                                                 |
 |   9   | Branch Feature                                  |
@@ -46,19 +46,17 @@ Level | Simple techniques | Advanced techniques
 As a Scout, you can use both simple and advanced combat techniques.
 
 ## Improvised Aid
-You can spend 1 energy to tend to a willing creature you can touch as an action, with whatever is available near you. You cure a debilitating or a harmful status effect of your choosing, and then grant 5 temporary health for 1 round. This ability counts as a combat technique.
+You can spend 2 energy to tend to a willing creature you can touch as a rapid action, with whatever is available near you. This creature is granted 5 temporary health for 1 round, and receives an effect of your choosing from the following list:
+1. *Bandage:* This creature is granted (5+POW/2) temporary health for (1+DEX/2) rounds instead.
+2. *Rebound:* This creature's next damaging ability done within (1+DEX/2) rounds gains a +5 bonus to its damage.
+3. *Makeshift Cure:* This creature is cured of a status effect of your choosing.
 
 ## Versatile Reflexes
 #TODO 
 
 ## Resourcefulness
-Before using improvised aid, you can spend an additional point of energy to gain one of the following benefits:
-1. *Practical Thinking:* You can use improvised aid as a rapid action.
-2. *Bandage:* Cure an additional status effect, and grant (5+POW/2) temporary health for (1+DEX/2) rounds instead.
-3. *Rebound:* This ally's next damaging ability done within (1+DEX/2) rounds gains a +5 bonus to its damage.
+When you use improvised aid, you can spend one point of energy to grant an additional effect:
+1. *Helpful Hand:* This creature gains a +2 bonus to their next skill roll done within 1 minute. #TODO 
+2. *Prevention:* This creature gains a +1 bonus to a resistance of your choosing for 1 round.
 
-## Survival Training
-Gain a +1 bonus to a minor or lower resistance of your choosing. As a rapid action, you can move this bonus to any resistance of a creature you can touch for 1 round.
 
-## Skillful Scout
-You gain a +2 bonus to 2 different common skills of your choosing.
