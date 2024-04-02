@@ -20,16 +20,19 @@ All weapon attacks tagged (Prepared) are prepared actions and they require the w
 	+ While this ability is active, you don't get the benefits from your shield even if the ally is no longer adjacent.
 
 ## Arcane Focus
++ Aptitude: Witchcraft
 + (Rapid action) Projectile Defense
 	+ You have quarter cover against magical projectile attacks against you until the start of your next turn.
 + (Rapid action) #TODO 
 
 ## Divine Focus
++ Aptitude: Divine
 + (Rapid action) Projectile Defense
 	+ You have quarter cover against magical projectile attacks against you until the start of your next turn.
 + (Rapid action) #TODO 
 
 ## Warhorn
++ Aptitude: Social
 + (Passive) Playing Horn
 	+ Allies who are unable to hear are not affected by your warhorn. 
 	+ Being stunned, falling or going prone, diving underwater or becoming unavailable to cast spells in any way stops the bonuses granted by this weapon. 
