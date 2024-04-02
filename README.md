@@ -3,7 +3,7 @@
 
 Sigil of Uchma (formerly TT Project) is a work-in-progress tabletop role playing game being created by me, [TaygaHoshi](https://github.com/TaygaHoshi). The game is currently in alpha stage.
 
-You can start reading the rules from [this website](https://taygahoshi.github.io/tt-project/sigil-of-uchma/introduction.html).
+You can start reading the rules from [this website](https://taygahoshi.github.io/tt-project/sigil-of-uchma/introduction.html). If you want to read the latest rules instead, 
 
 You can send me feedback from this form: https://forms.gle/7NwTYqGUWpBfBWNg8.
 
@@ -39,9 +39,10 @@ Alternatively, you can go to your fork repository and press "." (dot). This open
 ├── Items
 ├── Lists -> Gameplay content such as spell lists and weapons  
 ├── Monsters
-├── INTRODUCTION.md  
+├── INTRODUCTION.md -> Starting point!
 ├── LICENCE.md -> Full licence text
 ├── README.md -> You are here!
+├── RESOURCES.md -> Sources (links, books, articles, videos, posts) about the inspirations of Sigil
 └── VERSIONING.md -> Information about how this project is versioned
 ```
 
