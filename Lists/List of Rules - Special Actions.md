@@ -8,9 +8,14 @@
 	This ability can be used freely in the end phase of a combat round.
 
 # Swap Weapons
-**Execution time:** Rapid Action
+**Execution time:** Rapid action
 **Explanation:**
-	You swap your wielded weapon with a weapon in your inventory or on the ground. Only one weapon can be swapped this way every round. This action can be used for swapping items you can hold in a similar manner. If dual-wielding two light weapons, you can swap the weapons with each other.
+	You swap your wielded weapon with a weapon in your inventory or on the ground below you. Only one weapon can be swapped this way every round. This action can be used for swapping items you can hold in a similar manner. If dual-wielding two light weapons, you can swap the weapons with each other.
+
+# Drop Weapon
+**Execution time:** Special
+**Explanation:**
+	You drop one or both of the weapons you are currently wielding onto the ground below you, leaving you unarmed.
 
 # Throw Weapon
 **Execution time:** Action

@@ -28,7 +28,7 @@ One handed weapons are divided into two: heavy weapons and light weapons. Light 
 	+ Deals 20 damage.
 + Feint
 	+ Deals 10 damage. Potency bonus to damage is doubled for this attack. 
-	+ You have a (1 + POW/2) bonus to precision roll of this attack.
+	+ You have a (1 + POW/3) bonus to precision roll of this attack.
 
 ## Throwing Spear (Heavy)
 + Aptitude: Strength
@@ -71,7 +71,7 @@ One handed weapons are divided into two: heavy weapons and light weapons. Light 
 + (Passive) Sidearm
 	+ This weapon's properties allows it to be used as a sidearm.
 	+ Skills rolls regarding the concealment of this weapon receive a +1 bonus.
-	+ During your turns, you can use the Swap Weapon action to swap to your shortsword freely without using a rapid action, if you're unarmed or wielding a two handed weapon.
+	+ During your turns, you can use the Swap Weapon action to swap to your shortsword freely without using a rapid action. 
 	+ Swapping weapons in this way drops the previous weapon onto the ground below you.
 + Slash
 	+ Deals 20 damage.
@@ -83,7 +83,7 @@ One handed weapons are divided into two: heavy weapons and light weapons. Light 
 + (Passive) Sidearm
 	+ This weapon's properties allows it to be used as a sidearm.
 	+ Skills rolls regarding the concealment of this weapon receive a +2 bonus.
-	+ During your turns, you can use the Swap Weapon action to swap to your dagger freely without using a rapid action, if you're unarmed or wielding a two handed weapon.
+	+ During your turns, you can use the Swap Weapon action to swap to your dagger freely without using a rapid action. 
 	+ Swapping weapons in this way drops the previous weapon onto the ground below you.
 + Stab
 	+ Deals 15 damage.
@@ -96,9 +96,6 @@ One handed weapons are divided into two: heavy weapons and light weapons. Light 
 
 ## Unarmed (Light)
 + Aptitude: Strength
-+ (Passive) Drop Weapon
-	+ During your turns, you can use the Swap Weapon action to drop your current weapon freely without using a rapid action.
-	+ This weapon is dropped onto the ground below you, leaving you unarmed.
 + Punch
 	+ Deals 10 damage.
 + Stunning Blow 
