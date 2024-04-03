@@ -84,8 +84,7 @@
 # Opportunistic Strike
 **Execution time:** Prepared action
 **Requirements:** 
-	A melee weapon in main hand, or
-	A two handed melee weapon.
+	Any melee weapon in main hand.
 **Explanation:** 
 	Ignores weapon precision.
 	Attack the next foe who moves into, within or out of this weapon's range.
