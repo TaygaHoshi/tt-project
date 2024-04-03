@@ -46,7 +46,7 @@ Alternatively, you can go to your fork repository and press "." (dot). This open
 └── VERSIONING.md -> Information about how this project is versioned
 ```
 
-# License
+# Licence
 This work is licensed under the
 [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa]. See [LICENCE.md](LICENCE.md) for full text of the licence.
 
