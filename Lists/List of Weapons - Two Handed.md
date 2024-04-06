@@ -93,9 +93,9 @@ Two handed weapons have three weapon attacks.
 	+ Deals 20 damage. 
 + Projectile Shielding
 	+ Range: 5 meters.
-	+ Choose a 2x2 area. You create a magical shield there.
+	+ Choose a 2x2 area. You create a spherical magical shield there.
 	+ This shield acts like half cover against projectiles passing through it and lasts for 1 round.
-	+ Projectiles of allies inside this shield are unaffected by it. 
+	+ Projectiles of creatures inside this shield are unaffected by it. 
 + (Prepared action) Warding
 	+ You have a (1 + WRA/4) bonus to Favor against the next magical attack.
 
