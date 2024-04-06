@@ -2,7 +2,7 @@
 + **Lore:** While domesticated dogs are great companions, wild dogs are not. These dogs will do everything to ensure their survival. Wild dogs are usually found in small packs.
 + **Tier:** Novice (based on level 1) 
 + **Type:** Minion
-+ **Health:** 60
++ **Health:** 50
 + **Aptitudes:** 
 	+ 2 VIT + 2 SPD
 + **Initiative:** 2
@@ -70,7 +70,7 @@
 + **Lore:** Wolves are pack animals found almost everywhere, although rarely. They are ferocious beasts and regularly ambush travelers, raid small settlements and steal farm animals. Their strength and resilience also makes them common objects of admiration among people.
 + **Tier:** Novice (based on level 3) 
 + **Type:** Minion
-+ **Health:** 70
++ **Health:** 60
 + **Aptitudes:** 
 	+ 2 POW + 1 DEX
 	+ 1 VIT + 2 SPD 
@@ -80,12 +80,12 @@
 + **Physical Armor:** 5
 + **Magic Armor:** 0
 + **Weapons:** Claws and teeth
-+ **Precision roll:** (strength) d10 + 3
++ **Precision roll:** (strength) d10 + 2
 + **Resistances:** 6, 7 Parry, 7 Evasion, 7 Willpower
 + **Skills**
 	+ Bite
 		+ This attack's precision roll is made against Constitution.
-		+ Deals 20 physical damage.
+		+ Deals 10 physical damage.
 		+ This attack applies bleeding (-6) for 2 rounds if the target is prone.
 	+ (Rapid action) (Combat technique) Charging Leap
 		+ Range: 5 meters

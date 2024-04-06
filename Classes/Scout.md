@@ -48,7 +48,7 @@ As a Scout, you can use both simple and advanced combat techniques.
 ## Improvised Aid
 You can spend 2 energy to tend to a willing creature you can touch as a rapid action, with whatever is available near you. This creature is granted 5 temporary health for 1 round, and receives an effect of your choosing from the following list:
 1. *Bandage:* This creature is granted (5 + POW/2) temporary health for (1 + DEX/2) rounds instead.
-2. *Rebound:* This creature's next damaging ability done within (1 + DEX/2) rounds gains a +5 bonus to its damage.
+2. *Rebound:* Next time this creature deals damage with a damaging ability within (1 + DEX/2) rounds, it gains a +5 bonus to its damage.
 3. *Makeshift Cure:* This creature is cured of a status effect of your choosing.
 
 ## Versatile Reflexes

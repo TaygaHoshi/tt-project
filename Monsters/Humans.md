@@ -4,8 +4,8 @@
 + **Type:** Minion
 + **Health:** 80
 + **Aptitudes:** 
-	+ 2 POW
-	+ 2 SPD
+	+ 1 POW
+	+ 1 SPD
 + **Initiative:** -2
 	+ -1 from shield
 + **Movement:** 5 meters
@@ -14,7 +14,7 @@
 	+ +5 from shield
 + **Magic Armor:** 0
 + **Weapons:** Curved sword and shield
-+ **Precision roll:** (strength) d10 + 2
++ **Precision roll:** (strength) d10 + 1
 	+ +1 strength from weapon precision
 + **Resistances:** 5, 7 Parry, 4 Evasion
 	+ +1 Parry from shield
@@ -39,14 +39,14 @@
 + **Type:** Minion
 + **Health:** 60
 + **Aptitudes:** 
-	+ 1 POW + 1 DEX
-	+ 2 SPD
+	+ 1 POW
+	+ 1 SPD
 + **Initiative:** 2
 + **Movement:** 12 meters
 + **Physical Armor:** 5
 + **Magic Armor:** 0
 + **Weapons:** Longbow
-+ **Precision roll:** (strength) d10 + 1
++ **Precision roll:** (strength) d10
 + **Resistances:** 5, 7 Evasion
 + **Skills**
 	+ (Passive) Improved Aiming
@@ -109,7 +109,7 @@
 + **Resistances:** 6, 7 Constitution, 8 Willpower
 + **Skills**
 	+ (Rapid action) Swap Weapons
-		+ This monster can swap weapons using the normal rules.
+		+ This monster can swap weapons using the normal rules, and its dagger is a sidearm.
 	+ Slash
 		+ Requires a dagger.
 		+ Deals 15 physical damage.

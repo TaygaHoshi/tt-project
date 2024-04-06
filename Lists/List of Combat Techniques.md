@@ -80,7 +80,7 @@
 **Cost:** 1 energy
 **Range:** 1 meter
 **Requirements:**
-	A shield or a buckler in off-hand.
+	A shield in off-hand.
 **Effect**
 	Ignores weapon damage and precision.
 	Deals 5 damage to target foe. 
