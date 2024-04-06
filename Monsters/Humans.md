@@ -90,7 +90,7 @@
 		+ This spell's precision roll is made against Constitution. 
 		+ Applies burning (12 damage) and bleeding (7 damage) for 1 hit.
 
-## Novice Performer
+## Veteran Performer
 + **Lore:** #TODO 
 + **Tier:** Veteran (based on level 4) 
 + **Type:** Minion, Boss
