@@ -39,7 +39,7 @@
 + **Skills**
 	+ Slash
 		+ Deals 20 physical damage.
-	+ (Full-turn action) Charge
+	+ (Combat Technique) (Full-turn action) Charge
 		+ -2 penalty on precision roll.
 		+ Can charge for up to 15 meters and attack with Slash, receiving a -2 penalty to all resistances for 1 round.
 
@@ -64,6 +64,34 @@
 		+ Its walking speed is half of its flight speed.
 	+ Slash
 		+ Deals 10 physical damage.
+
+---
+## Wolf
++ **Lore:** Wolves are pack animals found almost everywhere, although rarely. They are ferocious beasts and regularly ambush travelers, raid small settlements and steal farm animals. Their strength and resilience also makes them common objects of admiration among people.
++ **Tier:** Novice (based on level 3) 
++ **Type:** Minion
++ **Health:** 70
++ **Aptitudes:** 
+	+ 2 POW + 1 DEX
+	+ 1 VIT + 2 SPD 
+	+ 1 PRE
++ **Initiative:** 2
++ **Movement:** 12 meters
++ **Physical Armor:** 5
++ **Magic Armor:** 0
++ **Weapons:** Claws and teeth
++ **Precision roll:** (strength) d10 + 3
++ **Resistances:** 6, 7 Parry, 7 Evasion, 7 Willpower
++ **Skills**
+	+ Bite
+		+ This attack's precision roll is made against Constitution.
+		+ Deals 20 physical damage.
+		+ This attack applies bleeding (-6) for 2 rounds if the target is prone.
+	+ (Rapid action) (Combat technique) Charging Leap
+		+ Range: 5 meters
+		+ Minimum range: 3 meters
+		+ This attack's precision roll is made against Evasion.
+		+ This wolf leaps at its target, dealing 5 physical damage and making them fall prone.
 
 ---
 ## Mystical Deer
