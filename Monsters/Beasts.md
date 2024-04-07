@@ -4,18 +4,18 @@
 + **Type:** Minion
 + **Health:** 50
 + **Aptitudes:** 
-	+ 2 VIT + 2 SPD
+	+ 1 VIT + 1 SPD
 + **Initiative:** 2
 + **Movement:** 12 meters
 + **Physical Armor:** 5
 + **Magic Armor:** 0
 + **Weapons:** Claws and teeth
-+ **Precision roll:** (strength) d10 + 1
++ **Precision roll:** (strength) d10
 + **Resistances:** 5, 6 Constitution, 7 Evasion
 + **Skills**
-	+ Bite
+	+ Strike
 		+ Deals 20 physical damage.
-	+ (Combat technique) Ferocious Bite
+	+ (Combat technique) Bite
 		+ This attack's precision roll is made against Constitution.
 		+ Applies bleeding (5 damage) for 2 hits.
 	+ (Combat technique) Tackle
@@ -28,13 +28,13 @@
 + **Type:** Minion, Summon
 + **Health:** 30
 + **Aptitudes:** 
-	+ 2 SPD
+	+ 1 VIT + 1 SPD
 + **Initiative:** 2
 + **Movement:** 12 meters
 + **Physical Armor:** 0
 + **Magic Armor:** 0
 + **Weapons:** Claws
-+ **Precision roll:** (strength) d10 + 1
++ **Precision roll:** (strength) d10
 + **Resistances:** 5, 7 Evasion
 + **Skills**
 	+ Slash
@@ -81,17 +81,18 @@
 + **Magic Armor:** 0
 + **Weapons:** Claws and teeth
 + **Precision roll:** (strength) d10 + 2
-+ **Resistances:** 6, 7 Parry, 7 Evasion, 7 Willpower
++ **Resistances:** 6, 7 Constitution, 7 Evasion, 7 Willpower
 + **Skills**
-	+ Bite
-		+ This attack's precision roll is made against Constitution.
-		+ Deals 10 physical damage.
-		+ This attack applies bleeding (-6) for 2 rounds if the target is prone.
-	+ (Rapid action) (Combat technique) Charging Leap
+	+ Strike
+		+ Deals 20 physical damage.
+	+ (Combat technique) Charging Leap
 		+ Range: 5 meters
 		+ Minimum range: 3 meters
 		+ This attack's precision roll is made against Evasion.
-		+ This wolf leaps at its target, dealing 5 physical damage and making them fall prone.
+		+ This wolf leaps at its target, dealing 10 physical damage and making them fall prone.
+	+ (Rapid action) Ferocious Bite
+		+ This attack's precision roll is made against Constitution.
+		+ Applies bleeding (-6) for 2 hits if the target is prone.
 
 ---
 ## Mystical Deer

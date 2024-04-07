@@ -11,7 +11,7 @@
 + **Physical Armor:** 0
 + **Magic Armor:** 0
 + **Weapons:** Claws
-+ **Precision roll:** (strength) d10 + 1, (social) d10 + 2
++ **Precision roll:** (strength) d10 + 1, (social) d10 + 1
 + **Resistances:** 5, 6 Parry, 7 Willpower
 + **Skills**
 	+ Slash
@@ -59,7 +59,7 @@
 		+ -2 penalty on precision roll.
 		+ Can charge for up to 15 meters and attack with Slash, receiving a -2 penalty to all resistances for 1 round.
 	+ (Prepared action) Spread Wings
-		+ This vampire grows its wings and spreads them around itself, gaining a +1 bonus to Parry and Constitution against the next physical attack.
+		+ This vampire grows its wings and spreads them around itself, gaining a +1 bonus to Parry against the next physical attack.
 
 ---
 ## Lesser Vampire (Bloodstealer)

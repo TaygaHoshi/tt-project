@@ -7,9 +7,7 @@
 	+ 1 POW
 	+ 1 SPD
 + **Initiative:** -2
-	+ -1 from shield
-+ **Movement:** 5 meters
-	+ -1 from shield
++ **Movement:** 6 meters
 + **Physical Armor:** 15
 	+ +5 from shield
 + **Magic Armor:** 0
@@ -18,16 +16,12 @@
 	+ +1 strength from weapon precision
 + **Resistances:** 5, 7 Parry, 4 Evasion
 	+ +1 Parry from shield
-	+ -1 Evasion from shield
 + **Skills**
 	+ Slash
 		+ Deals 22 physical damage.
 	+ (Combat technique) (Rapid action) Shield Bash
 		+ -2 penalty on precision roll.
 		+ Deals 5 physical damage.
-	+ (Full-turn action) Charge
-		+ -2 penalty on precision roll.
-		+ Can charge for up to 10 meters and attack with Strike, receiving a -2 penalty to all resistances for 1 round.
 	+ (Prepared action) Opportunistic Slash
 		+ Attacks the next foe who moves into, within or out of melee range.
 		+ Deals 10 physical damage.
