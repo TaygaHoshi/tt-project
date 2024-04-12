@@ -24,9 +24,9 @@
 **Execution Time:** Special
 **Cost:** 1 energy
 **Requirements:**
-	Any bow weapon attack.
+	Any ranged weapon attack.
 **Effect**
-	When you attempt any bow weapon attack during your turn, as a part of that action, you can move up to (2 + DEX/3) meters before attacking. 
+	When you attempt any ranged weapon attack during your turn, as a part of that action, you can move up to (2 + DEX/3) meters before attacking. 
 	This ability can be used alongside Improved Aiming. 
 
 ## Crushing Charge
@@ -47,11 +47,13 @@
 **Cost:** 1 energy
 **Range:** Double weapon range
 **Requirements:**
-	Any melee weapon in main hand.
+	Any weapon in main hand.
 	A basic weapon attack.
 **Effect**
 	Ignores weapon precision.
-	As a part of a basic weapon attack with a melee weapon, you can choose to activate this ability. Your weapon's reach is doubled for this attack.
+	As a part of a basic weapon attack with weapon, you can choose to activate this ability.
+	If this attack is a melee attack, its range is doubled.
+	If this attack is a ranged attack, its range is increased by (1 + DEX/2).
 
 ## Defensive Strike
 **Category:** Modification
@@ -82,7 +84,7 @@
 **Requirements:**
 	A shield in off-hand.
 **Effect**
-	Ignores weapon damage and precision.
+	Ignores weapon precision.
 	Deals 5 damage to target foe. 
 	Alternatively, you can spend double energy to deal 10 damage instead.
 
@@ -92,10 +94,10 @@
 **Cost:** 1 energy
 **Range:** Weapon range
 **Requirements:**
-	Any melee weapon.
-	Any full vial of poison. 
+	Any physical weapon.
+	Any full vial of poison, or a similar item. 
 **Effect**
-	You quickly spread a vial of poison on your weapon in the heat of battle.
+	You quickly spread a vial of poison on your weapon.
 
 ---
 # Advanced Combat Techniques
@@ -138,7 +140,7 @@
 **Execution Time:** Action
 **Cost:** 2 energy
 **Range:** Weapon range
-**Duration:** (1 + DEX/4) rounds
+**Duration:** (1 + DEX/3) rounds
 **Requirements:**
 	Any melee weapon in main hand.
 **Effect**
@@ -163,22 +165,21 @@
 **Cost:** 2 energy
 **Range:** 1 meter
 **Requirements:**
-	Any melee weapon in main hand.
 	A damaging prepared weapon attack or combat technique.
 **Effect**
 	You can choose to activate this ability when you use a prepared action. This prepared action can trigger twice instead of once. You can instead spend double the energy cost to have your prepared action trigger three times instead.
 
-## Curving Arrow
+## Curving Shot
 **Category:** Weapon attack
 **Execution Time:** Action
 **Cost:** 2 energy
 **Range:** Weapon range
 **Requirements:**
-	A longbow or a shortbow.
+	A longbow, a shortbow, a wand or a staff.
 **Effect**
 	(Projectile)
 	Ignores weapon precision. 
-	Shoot an arrow in a way that it bends and curves around objects.
+	Shoot your projectile in a way that it bends and curves around objects.
 	This attack ignores non-magical covers, as long as the target is in line of sight. 
 
 ## Rapid Draw
