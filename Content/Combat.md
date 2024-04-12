@@ -76,7 +76,9 @@ Terms in this formula are explained below:
 	**Weapon precision bonus:** A weapon's precision type and bonus is determined by the type of the weapon held in main hand or the wielded two-handed weapon.
 	**Other bonuses:** These are bonuses or penalties which come from various sources like status effects, environment and the like.
 
-In some cases, a specific spell, an ability or an attack might include a precision bonus or penalty itself. For example, "wide slash" attack of a glaive doesn't include "weapon precision bonus" in its precision roll. We know this because "wide slash" has the phrase "ignores weapon precision" in its explanation. A weapon precision bonus only applies when a precision roll matches the weapon's precision type. For example, a wand of any type normally doesn't affect precision rolls based on strength.
+In some cases, a specific spell, an ability or an attack might include a precision bonus or penalty itself. For example, "Spinning Slash" attack of a glaive doesn't include "weapon precision bonus" in its precision roll. We know this because "Spinning Slash" has the phrase "ignores weapon precision" in its explanation. A weapon precision bonus only applies when a precision roll matches the weapon's precision type. For example, a wand of any type normally doesn't affect precision rolls based on strength.
+
+Some abilities may affect multiple targets. In this case, multiple precision rolls are required to determine which targets get affected by this ability.
 
 # Damage
 When a creature takes damage, this damage value reduces their health.
