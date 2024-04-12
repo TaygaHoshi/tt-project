@@ -80,7 +80,7 @@ One handed weapons are divided into two: heavy weapons and light weapons. Light 
 +  Thrust
 	+ This attack's precision roll is done against Evasion.
 	+ Ignores weapon precision.
-	+ Deals 20 damage, ignoring worn physical armor.
+	+ Deals 15 damage, ignoring worn physical armor.
 + (Prepared) #TODO 
 
 ## Dagger (Light)

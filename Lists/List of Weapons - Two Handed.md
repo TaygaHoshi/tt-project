@@ -120,7 +120,7 @@ Two handed weapons have three weapon attacks.
 	+ Range: 10 meters.
 	+ This attack's precision roll is made against Constitution.
 	+ Deals 12 damage. Potency bonus to damage is doubled for this attack. 
-	+ Slows the target for (1 + POW/4) rounds.
+	+ Slows the target for (1 + DEX/4) rounds.
 + (Prepared action) #TODO 
 
 ## Shortbow
