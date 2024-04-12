@@ -53,7 +53,7 @@ Two handed weapons have three weapon attacks.
 + Half Swording
 	+ This attack's precision roll is done against Evasion.
 	+ Ignores weapon precision.
-	+ Deals 20 damage, ignoring physical armor.
+	+ Deals 20 damage, ignoring worn physical armor.
 + (Prepared action) Defensive Stance
 	+ You have a (1 + POW/3) bonus to Parry against the next physical attack.
 

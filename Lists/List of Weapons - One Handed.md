@@ -17,10 +17,12 @@ One handed weapons are divided into two: heavy weapons and light weapons. Light 
 ---
 ## Hatchet (Heavy)
 + Aptitude: Strength
-+ Slash
++ Chop
 	+ Deals 25 damage.
-	+ Ignores temporary armor.
-+ #TODO 
++ Heavy Chop
+	+ Ignores weapon precision. 
+	+ Deals 25 damage.
+	+ Ignores temporary armor and armor gained from wielded shields.
 
 ## Curved Sword (Heavy)
 + Aptitude: Strength
@@ -75,7 +77,10 @@ One handed weapons are divided into two: heavy weapons and light weapons. Light 
 	+ Swapping weapons in this way drops the previous weapon onto the ground below you.
 + Slash
 	+ Deals 20 damage.
-+  #TODO 
++  Thrust
+	+ This attack's precision roll is done against Evasion.
+	+ Ignores weapon precision.
+	+ Deals 20 damage, ignoring worn physical armor.
 + (Prepared) #TODO 
 
 ## Dagger (Light)
