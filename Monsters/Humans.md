@@ -18,7 +18,7 @@
 	+ +1 Parry from shield
 + **Skills**
 	+ Slash
-		+ Deals 22 physical damage.
+		+ Deals 20 physical damage.
 	+ (Combat technique) (Rapid action) Shield Bash
 		+ -2 penalty on precision roll.
 		+ Deals 5 physical damage.
@@ -35,8 +35,8 @@
 + **Aptitudes:** 
 	+ 1 POW
 	+ 1 SPD
-+ **Initiative:** 2
-+ **Movement:** 12 meters
++ **Initiative:** 1
++ **Movement:** 11 meters
 + **Physical Armor:** 5
 + **Magic Armor:** 0
 + **Weapons:** Longbow
@@ -57,6 +57,35 @@
 		+ Can be used only once a day.
 
 ---
+## Novice Healer Shaman
++ **Lore:** #TODO 
++ **Tier:** Novice (based on level 2) 
++ **Type:** Minion, Boss
++ **Health:** 60
++ **Aptitudes:** 
+	+ 1 CLA
+	+ 1 VIT
++ **Initiative:** 0
++ **Movement:** 10 meters
++ **Physical Armor:** 0
++ **Magic Armor:** 0
++ **Weapons:** Divine staff
++ **Precision roll:** (divine) d10
++ **Resistances:** 5, 6 Constitution, 7 Favor
++ **Skills**
+	+ (Passive) Improved Aiming
+		+ This witch can choose to stay stationary during its turn, removing the -2 precision roll penalty from Unsteady Aiming for Bolt of Exorcism.
+	+ (Projectile) Bolt of Exorcism
+		+ Range: 10 meters.
+		+ Deals 20 magical damage.
+	+ (Divine spell) Protect Ally
+		+ Range: 5 meters.
+		+ Heals an ally for 5 health and applies protected for 1 round.
+	+ (Divine spell) (Rapid action) Divination
+		+ Range: 5 meters.
+		+ Grants an ally protective foresight (+1 to all resistances) for 1 round.
+
+---
 ## Veteran Flame Witch
 + **Lore:** #TODO 
 + **Tier:** Veteran (based on level 4) 
@@ -75,11 +104,11 @@
 + **Resistances:** 6, 7 Constitution, 7 Evasion, 7 Reflection
 + **Skills**
 	+ (Passive) Improved Aiming
-		+ This witch can choose to stay stationary during its turn, removing the -2 precision roll penalty from Unsteady Aiming for Elemental Bolt.
+		+ This witch can choose to stay stationary during its turn, removing the -2 precision roll penalty from Unsteady Aiming for Fire Bolt.
 	+ (Projectile) Fire Bolt
 		+ Range: 10 meters.
 		+ Deals 25 magical damage.
-	+ (Projectile) (Witchcraft spell) Scarring Flames
+	+ (Witchcraft spell) Scarring Flames
 		+ Range: 5 meters.
 		+ This spell's precision roll is made against Constitution. 
 		+ Applies burning (12 damage) and bleeding (7 damage) for 1 hit.

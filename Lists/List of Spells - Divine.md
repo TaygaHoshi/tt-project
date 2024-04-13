@@ -51,10 +51,10 @@
 ## Call Fairy
 **Complexity:** Complex
 **Casting Time:** Full-turn action
-**Cost:** 2 energy
+**Cost:** 3 energy
 **Range:** 1 meter
 **Radius:** 5 meters
-**Duration:** 5 rounds
+**Duration:** (4 + CLA/4) rounds
 **Effect**
 	Summon a creature from the fairies list, and its base level is 1. This summon can't speak but it understands your orders. 
 	You can spend additional energy to increase this summon's level, and each point of energy spent in this way increases its level by 1. Your summon can not have a higher level than you.

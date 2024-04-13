@@ -53,8 +53,8 @@ A rapid action is mutually exclusive with a prepared action. Only one of them ca
 
 ## Prepared Action
 During a turn, one prepared action can be taken alongside a regular action.
-This kind of actions always come with a trigger, and they are usually performed outside a character's turn.
-Prepared actions last until end of this round, unless explicitly told otherwise.
+This kind of actions always come with a trigger, and they are always performed outside a character's turn.
+Prepared actions last until end of the current round, unless explicitly told otherwise.
 A prepared action is mutually exclusive with a rapid action. Only one of them can be taken during a turn.
 
 ## Special Actions
