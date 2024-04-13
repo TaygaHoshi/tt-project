@@ -13,7 +13,7 @@ Two handed weapons have three weapon attacks.
 | Nature staff     |   20   |        1         |  10m  |
 | Divine staff     |   20   |        1         |  10m  |
 | Longbow          |   20   |        0         |  15m  |
-| Crossbow         |   20   |        1         |  10m  |
+| Crossbow         |   25   |        1         |  10m  |
 | Shortbow         |   15   |        1         |  10m  |
 | War drums        |   -    |        1         |  10m  |
 
@@ -82,7 +82,8 @@ Two handed weapons have three weapon attacks.
 	+ Ignores weapon precision.
 	+ Deals 10 damage. Potency bonus to damage is doubled for this attack.
 	+ Hardened vines grow from the tip of your staff, hitting all creatures in 3 squares in a cone shape in front of you.
-+ (Prepared action) #TODO 
++ (Prepared action) Vine 
+	+ 
 
 ## Divine Staff
 + Aptitude: Divine
@@ -99,6 +100,21 @@ Two handed weapons have three weapon attacks.
 + (Prepared action) Warding
 	+ You have a (1 + WRA/4) bonus to Favor against the next magical attack.
 
+## Crossbow
++ Aptitude: Strength
++ (Passive) Unsteady Aiming
+	+ Unless you use Improved Aiming, your projectile attacks with bows have a -2 penalty on precision rolls. 
++ (Passive) Reloading
+	+ This weapon requires it to be reloaded before shooting.
+	+ As a rapid action, this weapon can be reloaded.
++ (Projectile) Shoot
+	+ Range: 10 meters.
+	+ Deals 25 damage.
++ (Prepared action) Bash
+	+ Ignores weapon precision.
+	+ Attack the next foe who moves into, within or out of melee range.
+	+ This attack deals 10 physical damage.
+
 ## Longbow
 + Aptitude: Strength
 + (Passive) Unsteady Aiming
@@ -106,22 +122,14 @@ Two handed weapons have three weapon attacks.
 + (Projectile) Shoot
 	+ Range: 15 meters.
 	+ Deals 20 damage.
-+ (Projectile) #TODO 
-+ (Prepared action) #TODO 
-
-## Crossbow
-+ Aptitude: Strength
-+ (Passive) Unsteady Aiming
-	+ Unless you use Improved Aiming, your projectile attacks with bows have a -2 penalty on precision rolls. 
-+ (Projectile) Shoot
++ (Projectile) Piercing Shot
 	+ Range: 10 meters.
-	+ Deals 20 damage.
-+ (Projectile) Pinning Shot
-	+ Range: 10 meters.
-	+ This attack's precision roll is made against Constitution.
-	+ Deals 12 damage. Potency bonus to damage is doubled for this attack. 
-	+ Slows the target for (1 + DEX/4) rounds.
-+ (Prepared action) #TODO 
+	+ Ignores weapon precision.
+	+ Deals 10 damage, ignoring worn physical armor. Potency bonus to damage is doubled for this attack. 
++ (Prepared action) Bash
+	+ Ignores weapon precision.
+	+ Attack the next foe who moves into, within or out of melee range.
+	+ This attack deals 10 physical damage.
 
 ## Shortbow
 + Aptitude: Strength
@@ -135,7 +143,10 @@ Two handed weapons have three weapon attacks.
 	+ Ignores weapon precision.
 	+ Deals 10 damage.
 	+ You attack the target twice.
-+ (Prepared action) (Projectile) #TODO 
++ (Prepared action) Bash
+	+ Ignores weapon precision.
+	+ Attack the next foe who moves into, within or out of melee range.
+	+ This attack deals 5 physical damage.
 
 ## War Drums
 + Aptitude: Social
