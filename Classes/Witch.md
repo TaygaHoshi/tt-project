@@ -46,7 +46,7 @@ Level |   Novice spells   |  Veteran spells  | Expert spells
 As a Witch, you are able to cast both simple and complex witchcraft spells.
 
 ## Attuning
-As a rapid action, you can attune to the forces of nature for this round. While attuned, your spells are considered to have +1 bonuses to PEN and ARC. You can't attune if you moved more than half your movement speed this round, and your movement speed is halved while attuned.
+As a rapid action, you can attune to the forces of nature for this round. While attuned, your spells are considered to have +1 bonuses to ARC and HAR. You can't attune if you moved more than half your movement speed this round, and your movement speed is halved while attuned.
 
 ## Spell Modifiers
 Choose two modifiers each at levels 2 and 6. 
