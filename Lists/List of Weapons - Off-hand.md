@@ -39,4 +39,4 @@ All weapon attacks tagged (Prepared) are prepared actions and they require the w
 + (Action) Alacrity
 	+ Allies within (2 + ACC/2) meters gain a bonus (1 + PRE/3) to initiative until the start of your next turn.
 + (Rapid action) Warsong
-	+ Allies within (2 + ACC/2) meters gain a bonus +1 to their Willpower and (1 + PRE/2) movement speed until the start of your next turn.
+	+ Allies within (2 + ACC/2) meters gain a bonus +1 to their Willpower and (2 + PRE/2) movement speed until the start of your next turn.
