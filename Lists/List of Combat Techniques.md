@@ -187,8 +187,8 @@
 **Execution Time:** Rapid action
 **Cost:** 2 energy
 **Requirements:**
-	Any bow.
-	You hit with a bow this turn.
+	A longbow or a shortbow.
+	You hit with a longbow or a shortbow this turn.
 **Effect**
 	(Projectile)
 	Ignores weapon precision.
