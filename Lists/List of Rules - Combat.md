@@ -68,8 +68,8 @@ Base movement speed of a creature is calculated with the formula below:
 	+ There may be magical effects which can break line of sight or block sounds.
 
 # Flanking
-+ During battle, whenever a creature has two or more adjacent melee combatants, they are considered flanked.
-+ Flanked creatures receive a -1 penalty to all resistances from precision rolls done by these melee combatants.
++ During battle, whenever a creature has two or more adjacent foes wielding melee weapons, they are considered flanked.
++ Attacking a flanked creature grants a +1 bonus to precision rolls done with melee abilities.
 
 # Falling Prone
 + A creature can go into prone voluntarily if they give up half of their base movement speed as a part of their movement during their turn.
