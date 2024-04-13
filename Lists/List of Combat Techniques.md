@@ -191,4 +191,5 @@
 	You hit with a bow this turn.
 **Effect**
 	(Projectile)
+	Ignores weapon precision.
 	You can attack with this bow again, as a rapid action. This attack deals half weapon damage. 

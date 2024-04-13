@@ -4,18 +4,18 @@
 Two handed weapons have three weapon attacks.
 
 
-| Weapon | Damage | Weapon Precision | Range |
-| ---- | :--: | :--: | :--: |
-| Glaive | 30 | 0 | 2m |
-| Spear | 25 | 1 | 2m |
-| Two-handed sword | 25 | 1 | 1m |
-| War hammer | 20 | 0 | 1m |
-| Nature staff | 20 | 1 | 10m |
-| Divine staff | 20 | 1 | 10m |
-| Longbow | 20 | 0 | 15m |
-| Crossbow | 20 | 1 | 10m |
-| Shortbow | 20 | 1 | 10m |
-| War drums | - | 1 | 10m |
+| Weapon           | Damage | Weapon Precision | Range |
+| ---------------- | :----: | :--------------: | :---: |
+| Glaive           |   30   |        0         |  2m   |
+| Spear            |   25   |        1         |  2m   |
+| Two-handed sword |   25   |        1         |  1m   |
+| War hammer       |   20   |        0         |  1m   |
+| Nature staff     |   20   |        1         |  10m  |
+| Divine staff     |   20   |        1         |  10m  |
+| Longbow          |   20   |        0         |  15m  |
+| Crossbow         |   20   |        1         |  10m  |
+| Shortbow         |   15   |        1         |  10m  |
+| War drums        |   -    |        1         |  10m  |
 
 ---
 ## Glaive
@@ -126,11 +126,15 @@ Two handed weapons have three weapon attacks.
 ## Shortbow
 + Aptitude: Strength
 + (Passive) Unsteady Aiming
-	+ Unless you use Improved Aiming, your projectile attacks with bows have a -2 penalty on precision rolls. 
+	+ Unless you use Improved Aiming, your projectile attacks with bows have a -1 penalty on precision rolls. 
 + (Projectile) Shoot
 	+ Range: 10 meters.
-	+ Deals 20 damage.
-+ (Projectile) #TODO 
+	+ Deals 15 damage.
++ (Projectile) Multishot
+	+ Range: 10 meters.
+	+ Ignores weapon precision.
+	+ Deals 10 damage.
+	+ You attack the target twice.
 + (Prepared action) (Projectile) #TODO 
 
 ## War Drums
