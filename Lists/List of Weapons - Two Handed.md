@@ -41,10 +41,13 @@ Two handed weapons have three weapon attacks.
 	+ Range: 2 meters.
 	+ Deals 25 damage.
 + Keep At Bay
-	+ Range: 2 meters
+	+ Range: 2 meters.
 	+ Deals 15 damage. Potency bonus to damage is doubled for this attack. 
 	+ Target is pushed (2 + POW/4) meters away from you.
-+ (Prepared action) #TODO 
++ (Prepared action) Spear Brace
+	+ Range: 2 meters.
+	+ Ignores weapon precision.
+	+ Next time a foe charges or runs into or within range, you attack them and deal 25 damage.
 
 ## Two-handed Sword
 + Aptitude: Strength
@@ -82,8 +85,7 @@ Two handed weapons have three weapon attacks.
 	+ Ignores weapon precision.
 	+ Deals 10 damage. Potency bonus to damage is doubled for this attack.
 	+ Hardened vines grow from the tip of your staff, hitting all creatures in 3 squares in a cone shape in front of you.
-+ (Prepared action) Vine 
-	+ 
++ (Prepared action) #TODO 
 
 ## Divine Staff
 + Aptitude: Divine
