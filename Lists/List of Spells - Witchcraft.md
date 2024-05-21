@@ -29,11 +29,11 @@
 **Complexity:** Simple
 **Casting Time:** Action 
 **Cost:** 2 energy
-**Range:** (3 + HAR/2) meters 
-**Radius:** 3 meters
+**Range:** 1 meter 
+**Radius:** (2 + HAR/2) meters
 **Duration:** 5 minutes
 **Effect**
-	You grow a stationary and autonomous plant, which shoots needles to your foes within radius, right after your turn. It can shoot one needle per round, dealing 5 physical damage and applying bleeding for 1 hit if it hits.
+	You grow a stationary and autonomous plant, which shoots needles to your foes within radius, right after your turn. It can shoot one needle per round, applying bleeding for 2 hit if it hits.
 	This plant inherits half of your witchcraft aptitude. It has 10 health, and its resistances are equal to 5. 
 	A sprout created by this spell is immune to debilitating status effects.
 	Sprouts you create do not count towards your summon limit, and you can have up to (1 + ARC/2) sprouts at any time.

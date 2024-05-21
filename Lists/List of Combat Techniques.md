@@ -10,6 +10,16 @@
 	Ignores weapon damage and precision.
 	Tackle your target, making them fall prone and dealing them 10 damage.
 
+## Graze
+**Category:** Modification
+**Execution Time:** Special
+**Cost:** 1 energy
+**Range:** Weapon range
+**Requirements:**
+	A basic melee weapon attack.
+**Effect**
+	You can choose to activate this ability when you attempt a basic melee weapon attack. If this attack misses, you deal damage equal to your -.
+
 ## Extend Preparation
 **Category:** Modification
 **Execution Time:** Special
@@ -192,4 +202,13 @@
 **Effect**
 	(Projectile)
 	Ignores weapon precision.
-	You can attack with this bow again, as a rapid action. This attack deals half weapon damage. 
+	You can attack with this bow again, as a rapid action. This attack deals half damage. 
+
+## Rapid Reload
+**Category:** Modification
+**Execution Time:** Special
+**Cost:** 1 energy
+**Requirements:**
+	A crossbow.
+**Effect**
+	During your turn, you can reload your crossbow without spending a rapid action.

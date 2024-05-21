@@ -51,7 +51,7 @@ As a rapid action, you can attune to the forces of nature for this round. While 
 ## Spell Modifiers
 Choose two modifiers each at levels 2 and 6. 
 These modifiers cost 1 energy to apply to the next spell you cast, and a spell can have multiple modifiers.
-1. *Bracing:* While you are casting this spell, you have a +2 bonus to all resistances against prepared actions. 
+1. #TODO 
 2. *Homing:* This projectile spell curves slightly around obstacles. Cover penalties to this spell are reduced by 1.
 3. *Improved range:* This spell's range is increased by 2 meters. This modifier does not affect radius of a spell.
 4. *Selective effect:* This spell doesn't affect one creature you choose, aside from yourself.
@@ -59,6 +59,8 @@ These modifiers cost 1 energy to apply to the next spell you cast, and a spell c
 6. #TODO 
 7. *Spell knockback:* This single-target damaging spell pushes its target one meter away from you. 
 8. *Reduced duration:* This spell's duration is halved.
+9. #TODO 
+10. #TODO 
 
 ## Advanced Attuning
 While attuning, you can use one spell modifier you have without spending energy cost.

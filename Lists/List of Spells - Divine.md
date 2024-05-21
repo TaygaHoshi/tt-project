@@ -1,17 +1,6 @@
 (see: [[Spells]])
 
 # Novice Spells
-## Binding
-**Complexity:** Simple
-**Casting Time:** Action 
-**Cost:** 4 energy
-**Range:** 5 meters
-**Radius:** 2 meters
-**Duration:** (1 + CLA/2) rounds
-**Effect**
-	This spell's precision rolls are made against Evasion. 
-	Your magic erupts iron chains from below. The chains catch the creatures within radius, immobilizing them for the duration of this spell. At the end of the turn of a creature who is affected by this spell, make a precision roll against Constitution of that creature. If you fail, the creature is released from the chains.
-
 ## Cleansing
 **Complexity:** Simple
 **Casting Time:** Rapid action
@@ -77,7 +66,7 @@
 **Duration:** (1 + CLA/2) hours
 **Effect**
 	Bestow a small gemstone you can touch either magical eyes or magical ears. You can use this gemstone as additional sensory organs. You can still use your eyes and ears while this spell is active.
-	As a rapid action, any creature suspecting a clairvoyance object nearby can make a PRA precision roll. If this roll succeeds, it notices this object.
+	As a rapid action, any creature suspecting a clairvoyance object nearby can make a surveying skill roll. If this roll succeeds, it notices this object.
 
 ## Transfer Energy
 **Complexity:** Complex
