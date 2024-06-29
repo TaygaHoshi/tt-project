@@ -113,6 +113,7 @@
 		+ This spell's precision roll is made against Constitution. 
 		+ Applies burning (12 damage) and bleeding (7 damage) for 1 hit.
 
+---
 ## Veteran Performer
 + **Lore:** #TODO 
 + **Tier:** Veteran (based on level 4) 
@@ -146,3 +147,34 @@
 		+ Range: 3 meters.
 		+ Target ally's next damaging spell cast within 2 rounds can be cast again in the same turn as a rapid action. This ally must be able to cast this spell normally. 
 		+ This ability can only be used once per day.
+
+---
+## Wildborn
++ **Lore:** The wildborn are feral people who were abandoned by their tribes. For mysterious reasons, some animals adopt some of them while devouring the rest. The adopted ones grow up to be members of their adoptive animal pack and are mistakenly described as "tamers". 
++ **Tier:** Veteran (based on level 4) 
++ **Type:** Boss
++ **Health:** 70
++ **Aptitudes:** 
+	+ 4 POW
+	+ 2 VIT + 2 SPD
++ **Initiative:** 2
++ **Movement:** 12 meters
++ **Physical Armor:** 5
++ **Magic Armor:** 0
++ **Weapons:** A primitive weapon
++ **Precision roll:** (strength) d10 + 2
++ **Resistances:** 6, 7 Parry, 7 Constitution, 7 Evasion
++ **Skills**
+	+ (Passive) Pack Leader
+		+ This monster can coordinate the animals from its pack with their gestures and shouts.
+		+ It can also ride sufficiently large animals from its pack as they were a regular mount.
+	+ (Passive) No Speech
+		+ This human is not able to talk in human language.
+	+ Strike
+		+ Deals 20 physical damage.
+		+ Depending on the weapon of this human, this attack may have a 5 meter range.
+	+ (Combat technique) (Rapid action) Ordering
+		+ This monster can give simple orders to the members of its pack, such as attacking a certain target, pulling back or fleeing. 
+	+ (Prepared action) Opportunistic Strike
+		+ Attacks the next foe who moves into, within or out of melee range.
+		+ Deals 10 physical damage.

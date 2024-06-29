@@ -90,7 +90,7 @@
 		+ Minimum range: 3 meters
 		+ This attack's precision roll is made against Evasion.
 		+ This wolf leaps at its target, dealing 10 physical damage and making them fall prone.
-	+ (Rapid action) Ferocious Bite
+	+ (Combat technique) (Rapid action) Ferocious Bite
 		+ This attack's precision roll is made against Constitution.
 		+ Applies bleeding (-6) for 2 hits if the target is prone.
 
