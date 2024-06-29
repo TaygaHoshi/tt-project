@@ -67,6 +67,10 @@ Base movement speed of a creature is calculated with the formula below:
 	+ Magical remote eyes and ears count as sight and hearing for the purposes of these kind of effects.
 	+ There may be magical effects which can break line of sight or block sounds.
 
+# Adjacency
++ A creature is adjacent to another if there aren't any battle map squares between them. 
++ Significant height difference between two creatures due to environmental factors may break adjacency. 
+
 # Flanking
 + During battle, whenever a creature has two or more adjacent foes wielding melee weapons, they are considered flanked.
 + Attacking a flanked creature grants a +1 bonus to precision rolls done with melee abilities.
