@@ -21,18 +21,6 @@ Your base health is 60.
 ## Attuning
 As a rapid action, you can attune to the forces of nature for this round. While attuned, your spells are considered to have +1 bonuses to your potency and control. You can't attune if you moved more than half your movement speed this round, and your movement speed is halved while attuned.
 
-## Spell Modifiers
-Choose two modifiers each at levels 3 and 7. 
-These modifiers cost 1 energy to apply to the next technique you perform, and a technique can have multiple modifiers.
-1. *Homing:* This projectile technique curves slightly around obstacles. Cover penalties to this technique are reduced by 1.
-2. *Improved range:* This technique's range is increased by 2 meters.
-3. *Selective effect:* This technique doesn't affect one creature you choose, aside from yourself.
-4. *Self-shielding:* This technique grants you physical and magical temporary armor equal to half of its energy cost.
-5. *Spell knockback:* This single-target damaging spell pushes its target one meter away from you. 
-6. *Reduced duration:* This spell's duration is halved.
-7. #TODO 
-8. #TODO 
-
 # Techniques
 ## Alteration
 **Category:** Utility
@@ -47,6 +35,14 @@ These modifiers cost 1 energy to apply to the next technique you perform, and a 
 	3. Enlarge up to double size or 25 cubic centimeters, whichever is smaller.
 	4. Cut or open holes.
 	This object returns to its original shape after the duration. This ability can't be used on magical items.
+
+## Magical Homing
+**Category:** Modification
+**Execution Time:** Special
+**Cost:** 1 energy
+**Effect**
+	You can choose to activate this technique when you perform a projectile weapon attack.
+	This projectile curves slightly around obstacles. Penalty to precision rolls from covers for this attack are reduced by 1.
 
 ## Magical Weakening
 **Category:** Offense
@@ -69,3 +65,19 @@ These modifiers cost 1 energy to apply to the next technique you perform, and a 
 **Effect**
 	(Projectile)
 	A powerful arc of lightning leaves your hand and strikes your target, dealing 10 damage and applying electrified for the duration.
+
+## Selective Effect
+**Category:** Modification
+**Execution Time:** Special
+**Cost:** 1 energy
+**Effect**
+	You can choose to activate this technique when you perform an area of effect technique or weapon attack.
+	That ability doesn't affect one creature you choose, aside from yourself.
+
+## Self-shielding
+**Category:** Modification
+**Execution Time:** Special
+**Cost:** 1 energy
+**Effect**
+	You can choose to activate this technique when you perform another technique with an energy cost of at least 2.
+	Gain physical and magical temporary armor equal to that technique's energy cost.
