@@ -51,6 +51,25 @@ Resistances lower the accuracy of incoming hits. They act as the success thresho
 
 If an ability doesn't specify what resistance it is used against, it will either use Parry or Warding depending whether or not it is a magical ability.
 
+Resistances are determined by stats, equipment, and other various things. At level 1, you can choose to focus on certain resistances:
+1. You can choose one resistance to be "major" and another one to be "minor".
+2. Alternatively, you can choose three resistances to be "minor".
+
+Resistance choices affect their scaling:
+
+| Level  | Major | Minor | Neither |
+| :----: | :---- | ----- | ------- |
+| **1**  | 7     | 6     | 5       |
+| **2**  | 7     | 6     | 5       |
+| **3**  | 8     | 7     | 6       |
+| **4**  | 8     | 7     | 6       |
+| **5**  | 9     | 8     | 7       |
+| **6**  | 9     | 8     | 7       |
+| **7**  | 10    | 9     | 8       |
+| **8**  | 10    | 9     | 8       |
+| **9**  | 11    | 10    | 9       |
+| **10** | 11    | 10    | 9       |
+
 ---
 ## Techniques
 Techniques are branch abilities which usually cost energy to activate. A player character can choose a technique from their primary branch every even level, and from their secondary branch every odd level:
