@@ -1,3 +1,6 @@
+# Elements
+
+
 # Techniques
 ## Elemental Infusion
 **Category:** Modification
@@ -13,6 +16,17 @@
 	Water: target falls prone. 
 	Air: disoriented for 1 round.
 
+## Scarring Flames
+**Category:** Offense
+**Execution Time:** Action
+**Cost:** 2 energy
+**Range:** 5 meters
+**Duration:** 1 hit
+**Effect**
+	(Projectile)
+	This spell's precision roll is against Constitution. 
+	Your target is slashed with a wave of fire, which applies burning and bleeding for the duration. If the target is already burning or bleeding, their durations are extended by this technique's duration. 
+
 ## Unsteady Ground
 **Category:**  Utility
 **Execution Time:** Action
@@ -24,3 +38,4 @@
 	This technique's precision rolls are made against Evasion.
 	Create an area of shifting, moving, waving and spiraling ground. Make a precision roll against any creature walking into or ending their turn within this area. On success, the creature falls prone.
 	This area is light rough terrain.
+	
