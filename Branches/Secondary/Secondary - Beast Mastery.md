@@ -5,8 +5,8 @@ Techniques in this branch focuses on teamwork
 
 # Secondary Branch Abilities
 ## Call Pet
-Call your pet to yourself. Your pet shares your initiative order, level, potency and control. It takes its turn right after you, and uses its first ability unless you tell it to do something else. When your pet falls below 1 health, it will run away and hide if possible. In this case, it will not be available for combat for 4 + 1d4 hours. Otherwise, normal [[Combat#Summoning|summoning rules]] apply.  
-Pets can take a variety of forms, but they fall into the main categories below ( #TODO ):
+Choose a pet category when you take this branch from the list below. Your pet shares your initiative order, level, potency and control. It takes its turn right after you, and uses its first ability unless you tell it to do something else. When your pet falls below 1 health, it will run away and hide if possible. In this case, it will not be available for combat for 4 + 1d4 hours. Otherwise, normal [[Combat#Summoning|summoning rules]] apply.  
+Pets can take a variety of forms, but they fall into the main categories ( #TODO ):
 
 **Attacking Pets**
 1. Base health: 40

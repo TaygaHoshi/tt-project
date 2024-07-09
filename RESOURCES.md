@@ -7,6 +7,7 @@ There are not many resources on this topic. If you happen to come across helpful
 	+ <https://en.wikipedia.org/wiki/List_of_Turkic_mythological_figures>
 	+ <https://paratic.com/turk-mitolojisi/> (Turkish)
 	+ <https://en.wikipedia.org/wiki/Godai_(Japanese_philosophy)>
+	+ <https://blog.justinablakeney.com/2014/01/interpreting-the-motifs-on-turkish-rugs.html>
 	+ Calendars
 		+ <https://turkoloji.cu.edu.tr/CAGDAS%20TURK%20LEHCELERI/mehmet_kara_on_iki_hayvanli_takvim.pdf> (Turkish)
 		+ <https://en.wikipedia.org/wiki/Earthly_Branches>

@@ -1,5 +1,5 @@
 # Weapon Masters
-Many professions require extensive training with weapons and armor: soldiers of a tribe, bounty hunters,  and more. Some of them are lone wolves who rely only on brute force, some know a difficult task requires strong allies and some can even use magic. However, they have one common trait: they are very skilled when it comes to down to combat.
+Many professions require extensive training with weapons and armor: soldiers of a tribe, bounty hunters, assassins and more. Some of them are lone wolves who rely only on brute force, some know a difficult task requires strong allies and some can even use magic. However, they have one common trait: they are very skilled when it comes to down to combat.
 
 # Abilities
 
