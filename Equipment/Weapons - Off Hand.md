@@ -3,12 +3,12 @@
 # Off-hand Weapons
 All weapon attacks tagged (Prepared) are prepared actions and they require the weapon to be wielded with the off-hand. All weapon attacks tagged (Passive) are passive abilities which work only when the weapon is actively wielded in your off-hand.
 
-| Weapon       | Parry | Warding | Physical Armor | Magical Armor | Initiative Bonus |
-| ------------ | :---: | :-----: | :------------: | :-----------: | :--------------: |
-| Shield       |   1   |    -    |       5        |       -       |        -1        |
-| Focus        |   -   |    1    |       -        |       5       |        -1        |
-| Warhorn      |   -   |    -    |       -        |       -       |        +1        |
-| Light Weapon |   -   |    -    |       -        |       -       |        -         |
+| Weapon       | Parry | Warding | Physical Armor | Magical Armor | Initiative |
+| ------------ | :---: | :-----: | :------------: | :-----------: | :--------: |
+| Shield       |   1   |    -    |       5        |       -       |     -1     |
+| Focus        |   -   |    1    |       -        |       5       |     -1     |
+| Warhorn      |   -   |    -    |       -        |       -       |     +1     |
+| Light Weapon |   -   |    -    |       -        |       -       |     -      |
 
 ---
 ## Shield

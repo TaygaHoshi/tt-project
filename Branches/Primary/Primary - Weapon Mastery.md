@@ -101,7 +101,7 @@ Choose one combat ability.
 	Ignores weapon precision.
 	As a part of a basic weapon attack with weapon, you can choose to activate this ability.
 	If this attack is a melee attack, its range is doubled.
-	If this attack is a ranged attack, its range is increased by (1 + C/2).
+	If this attack is a ranged attack, its range is increased by (1 + C/2) meters.
 
 ## Tackle
 **Category:** Weapon attack
