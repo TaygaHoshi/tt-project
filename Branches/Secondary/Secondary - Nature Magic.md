@@ -11,7 +11,7 @@
 	This technique's precision roll is made against Evasion.
 	A creature you can touch becomes covered with thick magical branches, which grant (5 + P/2) temporary physical armor. Alternatively, you can spend double energy and grant double the temporary armor. When this temporary armor breaks, the branches wither and the technique ends. 
 	This creature is immobilized and can't do weapon attacks while this technique is active.
-	This armor can be dismissed by the creature freely.
+	This armor can be dismissed by you freely.
 
 ## Growth
 **Category:** Utility
