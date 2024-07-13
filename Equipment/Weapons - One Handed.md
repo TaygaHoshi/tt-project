@@ -48,7 +48,7 @@ One handed weapons are divided into two: heavy weapons and light weapons. Light 
 	+ Range: 5 meters
 	+ This attack's precision rolls are made against Evasion.
 	+ Ignores weapon precision.
-	+ Create an elemental orb, which falls to the ground and explodes, dealing 10 magical damage to all creatures within 1 meter radius. Potency bonus to damage is doubled for this attack. 
+	+ Create a magical orb, which falls to the ground and explodes, dealing 10 magical damage to all creatures within 1 meter radius. Potency bonus to damage is doubled for this attack. 
 
 ## Wand (Light)
 + (Projectile) Bolt
