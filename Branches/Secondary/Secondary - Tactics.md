@@ -27,6 +27,14 @@
 	This technique can't disarm natural weapons.
 	If Disarm is used with a ranged weapon, ignore weapon precision.
 
+## Expose Weakness
+**Category:** Utility
+**Execution Time:** Action
+**Cost:** 2 energy
+**Duration:** (1 + C/2) rounds
+**Effect**
+	Carefully study your target, applying Exposed for the duration of this technique.
+
 ## Insight
 **Category:** Utility
 **Execution Time:** Rapid action
@@ -36,11 +44,3 @@
 	1. Armor and resistances
 	2. Current health
 	3. Actions 
-
-## Expose Weakness
-**Category:** Utility
-**Execution Time:** Action
-**Cost:** 2 energy
-**Duration:** (1 + C/2) rounds
-**Effect**
-	Carefully study your target, applying Exposed for the duration of this technique.
