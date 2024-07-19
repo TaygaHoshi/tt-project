@@ -26,6 +26,7 @@
 
 ## Sickened
 + (1 + P/3) penalty on Constitution.
++ Whenever a creature with sickened receives a harmful status effect, one hit is spent immediately.
 + Does not stack. If target is already sickened, only the one with higher potency applies.
 
 ## Slowed

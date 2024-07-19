@@ -52,8 +52,7 @@ As a rapid action, you can attune to the forces of nature for this round. While 
 **Duration:** (1 + C/2) rounds
 **Effect**
 	This spell's precision roll is made against Constitution. 
-	Apply weakened to a target. 
-	Whenever a creature with weakened receives a harmful status effect, one hit is spent immediately.
+	Apply sickened to a target. 
 	Weakened does not stack. If a creature is already weakened, only the longer one applies. 
 
 ## Lightning

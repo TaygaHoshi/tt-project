@@ -9,6 +9,20 @@ Choose a pet category when you take this branch from the list below. Your pet sh
 Pets can take a variety of forms, but they fall into the main categories ( #TODO ):
 
 **Attacking Pets**
+1. Base health: 30
+2. Walking speed: 6
+3. Precision roll: d10 + level/2
+4. Resistances: Start with 5 and increase by 1 every odd level
+5. Abilities:
+	1. Strike:
+		Deals 15 physical damage.
+	2. Leap: 
+		Range: 5 meters
+		Minimum range: 3 meters
+		Your pet jumps at your target, dealing 10 physical damage.
+		Ignores armor if the target is prone.
+
+**Protective Pets**
 1. Base health: 40
 2. Walking speed: 6
 3. Precision roll: d10 + level/2
@@ -30,7 +44,7 @@ Pets can take a variety of forms, but they fall into the main categories ( #TODO
 5. Abilities:
 	1. Bolt:
 		Range: 5 meters
-		Deals 15 magical damage.
+		Deals 10 magical damage.
 	2. #TODO 
 
 

@@ -45,6 +45,7 @@
 **Effect**
 	Choose an ally. Your magic induces fury within this ally, increasing their potency by 2. 
 	If your target gets out of range, this technique immediately ends, and you can end it freely at any time.
+	You can only have one Song of Fury active.
 
 ## Song of Invigoration
 **Category:** Utility
