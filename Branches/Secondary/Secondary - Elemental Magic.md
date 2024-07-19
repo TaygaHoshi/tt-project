@@ -21,11 +21,11 @@
 **Execution Time:** Action
 **Cost:** 2 energy
 **Range:** 5 meters
-**Duration:** 1 hit
+**Duration:** (2 + C/2) hits
 **Effect**
 	(Projectile)
 	This spell's precision roll is against Constitution. 
-	Your target is slashed with a wave of fire, which applies burning and bleeding for the duration. If the target is already burning or bleeding, their durations are extended by this technique's duration. 
+	Your target is slashed with a wave of fire, which applies burning and bleeding for the duration. 
 
 ## Unsteady Ground
 **Category:**  Utility

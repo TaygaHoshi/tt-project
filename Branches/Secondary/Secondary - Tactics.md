@@ -14,6 +14,7 @@
 **Category:** Modification
 **Execution Time:** Special
 **Cost:** 2 energy
+**Range:** Weapon range
 **Effect**
 	You can use this technique as a part of a damaging weapon attack. If you fail your precision roll with this attack, your attack is cancelled and you can instead take a non-damaging action.
 
@@ -31,6 +32,7 @@
 **Category:** Utility
 **Execution Time:** Action
 **Cost:** 2 energy
+**Range:** 10 meters
 **Duration:** (1 + C/2) rounds
 **Effect**
 	Carefully study your target, applying Exposed for the duration of this technique.
@@ -39,6 +41,7 @@
 **Category:** Utility
 **Execution Time:** Rapid action
 **Cost:** 1 energy
+**Range:** 10 meters
 **Effect**
 	Choose a creature, and reveal one feature of your choosing from the list below. This ability does not require a precision roll.
 	1. Armor and resistances

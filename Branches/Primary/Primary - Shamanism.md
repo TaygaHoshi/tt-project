@@ -46,9 +46,9 @@ Your base health is 70.
 **Category:** Defense
 **Execution Time:** Action 
 **Cost:** 4 energy
-**Radius:** 3 meters
+**Radius:** (2 + C/2) meters
 **Effect**
-	Heal all allies within radius for (10 + C/2). 
+	Heal all allies within radius for (10 + P). 
 
 ## Link of Fate
 **Category:** Utility
@@ -74,11 +74,6 @@ Your base health is 70.
 **Cost:** 2 energy
 **Effect**
 	Touch two willing creatures. You can transfer up to 4 energy from one to the other. This technique takes 1 minute to cast for each point of energy transferred.
-
-
-
-
-
 
 # Class Combinations (Optional)
 #TODO 
