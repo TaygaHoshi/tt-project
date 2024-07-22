@@ -53,17 +53,16 @@ As a rapid action, you can attune to the forces of nature for this round. While 
 **Effect**
 	This spell's precision roll is made against Constitution. 
 	Apply sickened to a target. 
-	Weakened does not stack. If a creature is already weakened, only the longer one applies. 
 
 ## Lightning
 **Category:** Offense
 **Execution Time:** Action
 **Cost:** 2 energy
 **Range:** 5 meters
-**Duration:** (1 + C/2) rounds
+**Duration:** (1 + C/2) hits
 **Effect**
 	(Projectile)
-	A powerful arc of lightning leaves your hand and strikes your target, dealing 10 damage and applying electrified for the duration.
+	A powerful arc of lightning leaves your hand and strikes your target, dealing 10 magical damage and applying electrified for the duration.
 
 ## Selective Effect
 **Category:** Modification

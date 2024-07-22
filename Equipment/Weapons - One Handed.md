@@ -10,9 +10,9 @@ One handed weapons are divided into two: heavy weapons and light weapons. Light 
 | Throwing Spear |   20   |        0         |  1m   |        -         |
 | Scepter        |   20   |        0         |  5m   |        -         |
 | Wand           |   20   |        0         |  5m   |        -         |
-| Shortsword     |   20   |        2         |  1m   |        +1        |
+| Shortsword     |   20   |        2         |  1m   |        -         |
 | Dagger         |   15   |        2         |  1m   |        +1        |
-| Unarmed        |   10   |        1         |  1m   |        +1        |
+| Unarmed        |   10   |        2         |  1m   |        +1        |
 
 ---
 ## Hatchet (Heavy)

@@ -39,9 +39,9 @@ Pets can take a variety of forms, but they fall into the main categories ( #TODO
 **Execution Time:** Rapid action
 **Cost:** 2 energy
 **Range:** 5 meters
-**Duration:** (1 + C/4) rounds
+**Duration:** 1 round
 **Effect**
-	Your pet tries to distract the target. A distracted creature is considered flanked for the next weapon attack against it.
+	Your pet tries to distract the target. A distracted creature is considered flanked for next (1 + C/3) weapon attacks against it.
 	Your pet does not attack this round.
 
 ## Go For Eyes
