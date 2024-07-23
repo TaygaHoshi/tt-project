@@ -6,7 +6,7 @@ It is played with a game master (GM) and one or more players. The GM builds and 
 Sigil of Uchma is an alternate history fantasy game. This means we are not bound strictly by Turkic mythology and lifestyle from early middle age and before. Things can be added, changed and removed. I highly recommend reading the resources in the section below.
 
 # Links
-+ Character creation guide: [[Player Characters|Link]]
++ Character creation guide: [[Archived/sigilofuchma-old/Content/Player Characters|Link]]
 + YouTube channel: <https://www.youtube.com/@SigilofUchma>
 + Feedback form: <https://forms.gle/7NwTYqGUWpBfBWNg8>
 + GitHub repository: <https://github.com/TaygaHoshi/tt-project>
@@ -19,7 +19,7 @@ Rules in this game are trimmed before they are added. This makes Sigil of Uchma 
 Sigil of Uchma has owl vampires, charming snake monsters able to transform into a human form, Central Asian spells and rituals, interesting abilities and more.
 
 **Character creation full of meaningful choice:**
-See [[Player Characters]].
+See [[Archived/sigilofuchma-old/Content/Player Characters]].
 
 **Fun and engaging turn-based combat:**
 Classes have both shared and unique abilities. Weapons have active and passive abilities, spells are varied and carry an impact while not being overpowered, armors are strong. Additionally there is no arbitrarily locking players out of features. A performer can wear any type of armor and wield all weapons without penalties to their spell casting.
