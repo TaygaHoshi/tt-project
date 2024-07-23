@@ -13,7 +13,7 @@ Two handed weapons have three weapon attacks.
 | Longbow          |   20   |        0         |  15m  |        -         |
 | Crossbow         |   25   |        1         |  10m  |        -         |
 | Shortbow         |   15   |        1         |  10m  |        +1        |
-| War drums        |   0    |        1         |  10m  |        +1        |
+| War drums        |   0    |        0         |  10m  |        +1        |
 
 ---
 ## Glaive
@@ -82,7 +82,7 @@ Two handed weapons have three weapon attacks.
 
 ## Crossbow
 + (Passive) Unsteady Aiming
-	+ Unless you use Improved Aiming, your projectile attacks with bows have a -2 penalty on precision rolls. 
+	+ Unless you use Improved Aiming, your projectile attacks with crossbows have a -2 penalty on precision rolls. 
 + (Passive) Reloading
 	+ This weapon requires it to be reloaded before shooting, and it can be reloaded as a rapid action or by spending 1 energy.
 + (Projectile) Shoot
@@ -98,12 +98,11 @@ Two handed weapons have three weapon attacks.
 
 ## Longbow
 + (Passive) Unsteady Aiming
-	+ Unless you use Improved Aiming, your projectile attacks with bows have a -2 penalty on precision rolls. 
+	+ Unless you use Improved Aiming, your projectile attacks with longbows have a -2 penalty on precision rolls. 
 + (Projectile) Shoot
 	+ Range: 15 meters.
 	+ Deals 20 physical damage.
 + (Projectile) Curving Shot
-	+ Ignores weapon precision. 
 	+ Shoot your projectile in a way that it bends and curves around objects.
 	+ This attack ignores non-magical covers, as long as the target is in line of sight.
 	+ Deals 15 physical damage.
@@ -114,7 +113,7 @@ Two handed weapons have three weapon attacks.
 
 ## Shortbow
 + (Passive) Unsteady Aiming
-	+ Unless you use Improved Aiming, your projectile attacks with bows have a -1 penalty on precision rolls. 
+	+ Unless you use Improved Aiming, your projectile attacks with shortbows have a -1 penalty on precision rolls. 
 + (Projectile) Shoot
 	+ Range: 10 meters.
 	+ Deals 15 physical damage.

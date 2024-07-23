@@ -5,14 +5,14 @@ One handed weapons are divided into two: heavy weapons and light weapons. Light 
 
 | Weapon         | Damage | Weapon Precision | Range | Initiative Bonus |
 | -------------- | :----: | :--------------: | :---: | :--------------: |
-| Hatchet        |   25   |        1         |  1m   |        -         |
+| Hatchet        |   25   |        0         |  1m   |        -         |
 | Curved Sword   |   20   |        1         |  1m   |        -         |
 | Throwing Spear |   20   |        0         |  1m   |        -         |
 | Scepter        |   20   |        0         |  5m   |        -         |
 | Wand           |   20   |        0         |  5m   |        -         |
-| Shortsword     |   20   |        2         |  1m   |        -         |
-| Dagger         |   15   |        2         |  1m   |        +1        |
-| Unarmed        |   10   |        2         |  1m   |        +1        |
+| Shortsword     |   20   |        1         |  1m   |        -         |
+| Dagger         |   15   |        1         |  1m   |        +1        |
+| Unarmed        |   10   |        1         |  1m   |        +1        |
 
 ---
 ## Hatchet (Heavy)
@@ -36,7 +36,6 @@ One handed weapons are divided into two: heavy weapons and light weapons. Light 
 	+ Deals 20 physical damage.
 + Sweep
 	+ This attack's precision roll is made against Evasion.
-	+ Ignores weapon precision.
 	+ Deals 10 physical damage. Potency bonus to damage is doubled for this attack. 
 	+ Hits 3 squares in front of you.
 
@@ -47,7 +46,6 @@ One handed weapons are divided into two: heavy weapons and light weapons. Light 
 + Blast
 	+ Range: 5 meters
 	+ This attack's precision rolls are made against Evasion.
-	+ Ignores weapon precision.
 	+ Create a magical orb, which falls to the ground and explodes, dealing 10 magical damage to all creatures within 1 meter radius. Potency bonus to damage is doubled for this attack. 
 
 ## Wand (Light)
@@ -57,7 +55,6 @@ One handed weapons are divided into two: heavy weapons and light weapons. Light 
 + Bind
 	+ Range: 5 meters
 	+ This attack's precision roll is made against Constitution.
-	+ Ignores weapon damage.
 	+ Immobilizes the target for (1 + C/4) rounds.
 + (Prepared action) Magic Protection
 	+ Range: 5 meters
@@ -75,12 +72,15 @@ One handed weapons are divided into two: heavy weapons and light weapons. Light 
 	+ This attack's precision roll is done against Evasion.
 	+ Ignores weapon precision.
 	+ Deals 15 physical damage, ignoring up to 10 physical armor.
-+ (Prepared) #TODO 
++ (Prepared) Countering
+	+ Next time a creature within range attacks you with a melee weapon, you also attack them.
+	+ Ignores weapon precision.
+	+ Deals 10 physical damage.
 
 ## Dagger (Light)
 + (Passive) Sidearm
 	+ This weapon's properties allows it to be used as a sidearm.
-	+ Skills rolls regarding the concealment of this weapon receive a +2 bonus.
+	+ Skills rolls regarding the concealment of this weapon receive a +4 bonus.
 	+ During your turns, you can use the Swap Weapon action to swap to your dagger freely without using a rapid action. 
 	+ Swapping weapons in this way drops the previous weapon onto the ground below you.
 + Stab
@@ -90,14 +90,13 @@ One handed weapons are divided into two: heavy weapons and light weapons. Light 
 	+ You attack the target twice.
 + (Prepared action) Backstab
 	+ Next time a flanked foe within your reach is attacked by an ally, you also attack them.
-	+ Deals 7 physical damage. Potency bonus to damage is doubled for this attack. 
+	+ Deals 10 physical damage. Potency bonus to damage is doubled for this attack. 
 
 ## Unarmed (Light)
 + Punch
 	+ Deals 10 physical damage.
 + Stunning Blow 
 	+ This attack's precision roll is made against Constitution.
-	+ Ignores weapon precision.
 	+ Stuns the target for 1 round.
 + (Prepared action) Disorienting Blow
 	+ This attack's precision roll is made against Constitution.

@@ -98,7 +98,6 @@ Choose one combat ability.
 **Cost:** 1 energy
 **Range:** Double weapon range
 **Effect**
-	Ignores weapon precision.
 	As a part of a basic weapon attack with weapon, you can choose to activate this ability.
 	If this attack is a melee attack, its range is doubled.
 	If this attack is a ranged attack, its range is increased by (1 + C/2) meters.
@@ -109,8 +108,8 @@ Choose one combat ability.
 **Cost:** 2 energy
 **Range:** 1 meter
 **Effect**
-	Ignores weapon damage and precision.
-	Tackle your target, making them fall prone and dealing them 10 damage.
+	Ignores weapon precision.
+	Tackle your target, making them fall prone and dealing 10 damage.
 
 # Class Combinations (Optional)
 #TODO 

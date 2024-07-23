@@ -3,12 +3,13 @@
 # Off-hand Weapons
 All weapon attacks tagged (Prepared) are prepared actions and they require the weapon to be wielded with the off-hand. All weapon attacks tagged (Passive) are passive abilities which work only when the weapon is actively wielded in your off-hand.
 
-| Weapon       | Parry | Warding | Physical Armor | Magical Armor | Initiative |
-| ------------ | :---: | :-----: | :------------: | :-----------: | :--------: |
-| Shield       |   1   |    -    |       5        |       -       |     -1     |
-| Focus        |   -   |    1    |       -        |       5       |     -1     |
-| Warhorn      |   -   |    -    |       -        |       -       |     +1     |
-| Light Weapon |   -   |    -    |       -        |       -       |     -      |
+| Weapon       | Parry | Warding | Physical Armor | Magical Armor | Weapon Precision | Initiative |
+| ------------ | :---: | :-----: | :------------: | :-----------: | :--------------: | :--------: |
+| Shield       |   1   |    -    |       5        |       -       |        0         |     -1     |
+| Focus        |   -   |    1    |       -        |       5       |        0         |     -1     |
+| Charm        |   -   |    -    |       -        |       -       |        1         |     -      |
+| Warhorn      |   -   |    -    |       -        |       -       |        0         |     -      |
+| Light Weapon |   -   |    -    |       -        |       -       |        0         |     -      |
 
 ---
 ## Shield
@@ -22,6 +23,10 @@ All weapon attacks tagged (Prepared) are prepared actions and they require the w
 + (Rapid action) Projectile Defense
 	+ You have quarter cover against magical projectile attacks against you until the start of your next turn.
 + (Rapid action) #TODO 
+
+## Charm
++ (Passive) Weapon Precision Bonus
+	+ A wielded charm gives a +1 bonus to weapon precision.
 
 ## Warhorn
 + (Passive) Playing Horn
