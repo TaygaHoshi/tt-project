@@ -17,21 +17,22 @@ Pets can take a variety of forms, but they fall into the main categories ( #TODO
 	Deals 15 physical/magical damage.
 
 **Tough Pets**
-1. Base health: 40
-2. Walking speed: 6
-3. Precision roll: d10 + level/2
-4. Resistances: Start with 5 and increase by 1 every odd level
-5. Basic weapon attack: 
+1. Base health: 30
+2. Base armor: 5 physical and 5 magical
+3. Walking speed: 6
+4. Precision roll: d10 + level/2
+5. Resistances: Start with 5 and increase by 1 every odd level
+6. Basic weapon attack: 
 	Deals 10 physical/magical damage.
 
 **Sharpshooter Pets**
-1. Base health: 30
+1. Base health: 20
 2. Walking speed: 6
 3. Precision roll: d10 + level/2
 4. Resistances: Start with 5 and increase by 1 every odd level
 5. Basic weapon attack:
 	Range: 5 meters
-	Deals 10 physical/magical damage.
+	Deals 15 physical/magical damage.
 
 # Techniques
 ## Distraction
@@ -43,6 +44,14 @@ Pets can take a variety of forms, but they fall into the main categories ( #TODO
 **Effect**
 	Your pet tries to distract the target. A distracted creature is considered flanked for next (1 + C/3) weapon attacks against it.
 	Your pet does not attack this round.
+
+## Find
+**Category:** Utility
+**Execution Time:** Action
+**Cost:** Special
+**Duration:** Special
+**Effect**
+	Your pet helps you or another creature search or find an item of a certain description by using its sense of smell, sight, hearing or touch. Your pet assists the searching creature for the duration of search. For each point of energy spent on this technique, the next relevant skill roll gains a +1 bonus. You can spend energy up to your control. 
 
 ## Go For Eyes
 **Category:** Modification
