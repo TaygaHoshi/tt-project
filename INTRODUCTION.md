@@ -13,7 +13,7 @@ Sigil of Uchma is an alternate history fantasy game. This means we are not bound
 
 # Design Decisions & Features
 **A base rule set to build and play different types of campaigns:**
-Rules in this game are trimmed before they are added. This makes Sigil of Uchma a good base to build campaigns upon.
+Rules in this game are trimmed before they are added. This makes Sigil of Uchma a good base to build campaigns upon. 
 
 **Uniquely themed items, skills, magic, NPCs and monsters:**
 Sigil of Uchma has owl vampires, charming snake monsters able to transform into a human form, Central Asian spells and rituals, interesting abilities and more.
