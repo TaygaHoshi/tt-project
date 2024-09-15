@@ -1,0 +1,17 @@
+# Resources
+There are not many resources on this topic. If you happen to come across helpful articles, images, videos or anything similar, please let me know or send a pull request.
+
+| Topic        | Title                                                                       | Source                                                                                             | Language                        |
+| ------------ | --------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- | ------------------------------- |
+| General      | Turkic mythology                                                            | <https://en.wikipedia.org/wiki/Turkic_mythology>                                                   | English                         |
+| General      | List of Turkic mythological figures                                         | <https://en.wikipedia.org/wiki/List_of_Turkic_mythological_figures>                                | English                         |
+| General      | Türk Mitolojisi                                                             | <https://paratic.com/turk-mitolojisi>                                                              | Turkish                         |
+| General      | Göktürklerde Gelenekler ve Dini İnançlar                                    | <https://dergipark.org.tr/tr/download/article-file/406175>                                         | Turkish                         |
+| Dictionary   | Türk Mitolojisi Sözlüğü                                                     | <https://www.kayipdunya.com/wp-content/uploads/kalins-pdf/singles/turk-mitolojisi-sozlugu-r-s.pdf> | Turkish                         |
+| Motifs       | Interpreting the motifs on Turkish rugs                                     | <https://blog.justinablakeney.com/2014/01/interpreting-the-motifs-on-turkish-rugs.html>            | English                         |
+| Zodiac Signs | A Common Cultural Element in Asian Societies: Twelve-Animal Zodiac Calendar | <https://turkoloji.cu.edu.tr/CAGDAS%20TURK%20LEHCELERI/mehmet_kara_on_iki_hayvanli_takvim.pdf>     | Turkish (with English abstract) |
+| Zodiac Signs | 12 hayvanlı takvim                                                          | <https://tr.wikipedia.org/wiki/12_hayvanl%C4%B1_takvim>                                            | Turkish                         |
+| General      | Metal Weapons Of Gokturk Period                                             | <https://dergipark.org.tr/en/download/article-file/810705#page=2&zoom=120,-282,808>                | Turkish (with English abstract) |
+| Archery      | Turkish Traditional Archery Part 1                                          | <http://www.tirendaz.com/en/?page_id=3>                                                            | English                         |
+| Archery      | Turkish Traditional Archery Part 2                                          | <http://www.tirendaz.com/en/?page_id=72>                                                           | English                         |
+| Swords       | Yatagan                                                                     | <https://en.wikipedia.org/wiki/Yatagan>                                                            | English                         |

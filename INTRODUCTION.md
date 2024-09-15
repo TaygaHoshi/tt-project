@@ -6,7 +6,7 @@ It is played with a game master (GM) and one or more players. The GM builds and 
 Sigil of Uchma is an alternate history fantasy game. This means we are not bound strictly by Turkic mythology and lifestyle from early middle age and before. Things can be added, changed and removed. I highly recommend reading the resources in the section below.
 
 # Links
-+ Character creation guide: [[Player Characters|Link]]
++ Character creation guide: [[Content/Player Characters|Link]]
 + YouTube channel: <https://www.youtube.com/@SigilofUchma>
 + Feedback form: <https://forms.gle/7NwTYqGUWpBfBWNg8>
 + GitHub repository: <https://github.com/TaygaHoshi/tt-project>
@@ -19,12 +19,12 @@ Rules in this game are trimmed before they are added. This makes Sigil of Uchma 
 Sigil of Uchma has owl vampires, charming snake monsters able to transform into a human form, Central Asian spells and rituals, interesting abilities and more.
 
 **Character creation full of meaningful choice:**
-See [[Player Characters]].
+Each character consists of many choices, each providing unique abilities or passives. 
 
 **Fun and engaging turn-based combat:**
 Classes have both shared and unique abilities. Weapons have active and passive abilities, spells are varied and carry an impact while not being overpowered, armors are strong. Additionally there is no arbitrarily locking players out of features. A performer can wear any type of armor and wield all weapons without penalties to their spell casting.
 
-Furthermore, there are not many calculations to slow turns down during combat. Most numbers like damage of a weapon can be calculated beforehand. With proper notes, turns can get very fast.
+Furthermore, there are not many calculations to slow turns down during combat. Most numbers like damage of a weapon can be calculated beforehand. With proper notes, turns can get fast.
 
 **Soft mechanics and rules for role playing:**
 Sigil of Uchma is a simplified take on modern TTRPGs. Exploration, inventory management, economy, traveling, interactions with NPCs and similar activities mostly have only general rules and suggestions. Imagination in these situations can open up a lot of possibilities.
@@ -35,17 +35,7 @@ Currently, the game is in alpha state. This means it is not ready for running ca
 If you want to play the game anyway, I recommend sticking to one version and only updating if the newer version doesn't break the balance of the campaign.
 
 # Resources
-There are not many resources on this topic. If you know helpful articles, images, videos or anything please let me know or send a pull request.
-
-+ <https://en.wikipedia.org/wiki/Turkic_mythology> (English)
-+ <https://en.wikipedia.org/wiki/List_of_Turkic_mythological_figures> (English)
-+ <https://dergipark.org.tr/en/download/article-file/810705#page=2&zoom=120,-282,808> (English & Turkish)
-+ Tirendaz (English)
-	+ <http://www.tirendaz.com/en/?page_id=3> 
-	+ <http://www.tirendaz.com/en/?page_id=72>
-+ <https://paratic.com/turk-mitolojisi/> (Turkish)
-+ <https://www.kayipdunya.com/wp-content/uploads/kalins-pdf/singles/turk-mitolojisi-sozlugu-r-s.pdf> (Turkish)
-
+See [[RESOURCES|the resources page]].
 # Contact Me
 You can contact me through GitHub or Discord. My Discord username is taygahoshi. The aforementioned [feedback form](https://forms.gle/7NwTYqGUWpBfBWNg8) is the best way for reaching me.
 
