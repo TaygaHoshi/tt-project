@@ -1,4 +1,4 @@
-(See: [[Combat|Combat]])
+(See: [[sigil-of-uchma/Content/Combat|Combat]])
 
 # Speak
 **Execution time:** Action or rapid action
@@ -64,7 +64,7 @@
 **Effect**
 	This attack's precision roll is made against Constitution.
 	Ignores weapon precision.
-	This attack deals half weapon damage, and doesn't get the normal potency bonus to its damage. Instead, it applies 2 rounds of bleeding.
+	This attack deals half weapon damage, and doesn't get the normal potency bonus to its damage. Instead, it applies 2 hits of bleeding.
 	This action is considered a weapon attack.
 
 # Swap Weapons

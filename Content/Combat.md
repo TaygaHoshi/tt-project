@@ -171,7 +171,7 @@ A significant difference in elevation affects projectile attacks' precision roll
 	+ Fall damage = 10 x (fall distance in meters - 5)
 
 ## Ambushes
-When the party ambushes or gets ambushed by one or more foes, the ambushed side is considered disadvantageous and they receive the following effects for the first round of combat:
+When the party ambushes or gets ambushed by one or more foes, the ambushed side is considered disadvantageous and they receive the following effects for the next round of combat:
 + -2 penalty on initiative
 + -1 penalty on all precision rolls
 + -1 penalty on all resistances

@@ -1,12 +1,9 @@
 # One's Best Friend
-Instead of focusing on their personal growth, some choose to share their time, training and effort with their pets. While these people are called "masters", most of those specialized in this common branch of combat can be considered "tamers" or even "summoners" depending on the nature of their pet. 
+Instead of focusing on their personal growth, some choose to share their time, training and effort with their pets. While these people are sometimes called "masters", most of those specialized in this common branch of combat are, in actuality, "tamers" or even "summoners" depending on the nature of their pet.
 
-Techniques in this branch focuses on teamwork
-
-# Secondary Branch Abilities
 ## Call Pet
-Choose a pet category when you take this branch from the list below. Your pet inherits your initiative order, level, potency and control. It takes its turn right after you, and uses its basic weapon attack unless you tell it to do something else. When your pet falls below 1 health, it will run away and hide if possible. In this case, it will not be available for combat for 4 + 1d4 hours. Otherwise, normal [[Combat#Summoning|summoning rules]] apply.  
-Pets can take a variety of forms, but they fall into the main categories ( #TODO ):
+Choose a pet category when you take this branch from the list below. Your pet inherits your initiative order, level, potency and control. It takes its turn right after you, and uses its basic weapon attack unless you tell it to do something else. When your pet falls below 1 health, it will run away and hide if possible. In this case, it will not be available for combat for d4 + 4 hours. Otherwise, normal [[sigil-of-uchma/Content/Combat#Summoning|summoning rules]] apply.  
+Pets can take a variety of forms, but they fall into the main categories below:
 
 **Striker Pets**
 1. Base health: 30
@@ -34,6 +31,17 @@ Pets can take a variety of forms, but they fall into the main categories ( #TODO
 	Range: 5 meters
 	Deals 15 physical/magical damage.
 
+**Scout Pets**
+1. Base health: 20
+2. Walking speed: 8
+	1. (Alternative) Flying and walking speed: 6
+3. Precision roll: d10 + level/2
+4. Resistances: Start with 4 and increase by 1 every odd level, Evasion starts at 6 instead
+5. Beast taming techniques of utility or modification categories have a +1 to their precision rolls when performed by scout pets.
+6. Basic weapon attack:
+	Deals 5 armor-ignoring damage.
+
+---
 # Techniques
 ## Distraction
 **Category:** Offense

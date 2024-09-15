@@ -2,13 +2,8 @@
 Player characters are the other part, alongside the Game Master, of Sigil of Uchma. This page will go over the basics of character creation.
 
 # Character Creation
-## Branches
-Each player character starts with a primary branch and a secondary branch. A particular combination of these two is called a class. Some of the class combinations are:
-1. Hawk tamer (Survival + Beast mastery)
-2. Necromancer (Shamanism + Underworld Magic)
-3. Puppet Master (Performing + Beast mastery)
-
-Each class gets its own class mechanic,
+## Paths and Branches
+Each player character starts with a path and a branch. 
 
 ### Aptitudes
 A player character gains one aptitude point each level starting from level 1. Aptitude points can be spent on either Potency (P) or Control (C):
@@ -16,7 +11,7 @@ A player character gains one aptitude point each level starting from level 1. Ap
 + Control (C) usually increases the duration and size of abilities.
 
 ### Health
-Your primary branch determines your base health. There are three tiers of maximum health:
+Your path determines your base health. There are three tiers of maximum health:
 
 | Tier   | Base Health |
 | ------ | :---------: |
@@ -72,26 +67,26 @@ Resistance choices affect their scaling:
 
 ---
 ## Techniques
-Techniques are branch abilities which usually cost energy to activate. A player character can choose a technique from their primary branch every even level, and from their secondary branch every odd level:
+Techniques are special abilities which usually cost energy to activate. A player character can choose a technique from their path every even level, and from their branch every odd level:
 
-| Level  | Primary Branch Techniques | Secondary Branch Techniques |
-| :----: | :-----------------------: | :-------------------------: |
-| **1**  |             1             |              1              |
-| **2**  |             2             |              1              |
-| **3**  |             2             |              2              |
-| **4**  |             3             |              2              |
-| **5**  |             3             |              3              |
-| **6**  |             4             |              3              |
-| **7**  |             4             |              4              |
-| **8**  |             5             |              4              |
-| **9**  |             5             |              5              |
-| **10** |             5             |              5              |
+| Level  | Path Techniques | Branch Techniques |
+| :----: | :-------------: | :---------------: |
+| **1**  |        1        |         1         |
+| **2**  |        2        |         1         |
+| **3**  |        2        |         2         |
+| **4**  |        3        |         2         |
+| **5**  |        3        |         3         |
+| **6**  |        4        |         3         |
+| **7**  |        4        |         4         |
+| **8**  |        5        |         4         |
+| **9**  |        5        |         5         |
+| **10** |        5        |         5         |
 
 ## Walking Speed
-See: [[Combat#Movement|Movement]].
+See: [[sigil-of-uchma/Content/Combat#Movement|Movement]].
 
 ## Initiative
-See: [[Combat#Turn Order|Turn Order]].
+See: [[sigil-of-uchma/Content/Combat#Turn Order|Turn Order]].
 Each player character has a base initiative of 0. This can be changed with 
 
 ## Starter Equipment
@@ -101,7 +96,7 @@ Each player character can choose a starting equipment:
 + #TODO 
 
 ## Skills
-See: [[Skills|Skills]]
+See: [[sigil-of-uchma/Content/Skills|Skills]]
 Skills are miscellaneous abilities of a character.
 
 ---

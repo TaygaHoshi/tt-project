@@ -1,25 +1,18 @@
-# Witches
-#TODO 
-
 # Abilities
-
-| Level | Ability  |
-| :---: | -------- |
-|   1   | Attuning |
-|   2   |          |
-|   3   | #TODO    |
-|   4   |          |
-|   5   | #TODO    |
-|   6   |          |
-|   7   | #TODO    |
-|   8   |          |
-|   9   |          |
-|  10   | #TODO    |
+| Level | Ability |
+| :---: | ------- |
+|   1   |         |
+|   2   |         |
+|   3   |         |
+|   4   |         |
+|   5   |         |
+|   6   |         |
+|   7   |         |
+|   8   |         |
+|   9   |         |
+|  10   |         |
 ## Base Health
 Your base health is 60.
-
-## Attuning
-As a rapid action, you can attune to the forces of nature for this round. While attuned, your spells are considered to have +1 bonuses to your potency and control. You can't attune if you moved more than half your movement speed this round, and your movement speed is halved while attuned.
 
 # Techniques
 ## Alteration
@@ -41,28 +34,8 @@ As a rapid action, you can attune to the forces of nature for this round. While 
 **Execution Time:** Special
 **Cost:** 1 energy
 **Effect**
-	You can choose to activate this technique when you perform a projectile weapon attack.
+	You can choose to activate this technique when you perform a projectile technique or weapon attack.
 	This projectile curves slightly around obstacles. Penalty to precision rolls from covers for this attack are reduced by 1.
-
-## Magical Weakening
-**Category:** Offense
-**Execution Time:** Action
-**Cost:** 2 energy 
-**Range:** 5 meters
-**Duration:** (1 + C/2) rounds
-**Effect**
-	This spell's precision roll is made against Constitution. 
-	Apply sickened to a target. 
-
-## Lightning
-**Category:** Offense
-**Execution Time:** Action
-**Cost:** 2 energy
-**Range:** 5 meters
-**Duration:** (1 + C/2) hits
-**Effect**
-	(Projectile)
-	A powerful arc of lightning leaves your hand and strikes your target, dealing 10 magical damage and applying electrified for the duration.
 
 ## Selective Effect
 **Category:** Modification
@@ -79,3 +52,22 @@ As a rapid action, you can attune to the forces of nature for this round. While 
 **Effect**
 	You can choose to activate this technique when you perform another technique with an energy cost of at least 2.
 	Gain physical and magical temporary armor equal to that technique's energy cost.
+
+## Spy Object
+**Category:** Utility
+**Execution Time:** Full-turn action
+**Cost:** 4 energy
+**Duration:** (1 + C/2) hours
+**Effect**
+	Bestow a small object magical eyes or ears, and you can use it as an additional sensory organ. You can still use your eyes and ears while this technique is active.
+	As a rapid action, any creature suspecting a spy object nearby try to find one. Make a precision roll against this creature's Warding. If this roll fails, the creature notices this object.
+
+## Weaken Body
+**Category:** Offense
+**Execution Time:** Action
+**Cost:** 2 energy 
+**Range:** 5 meters
+**Duration:** (1 + C/2) rounds
+**Effect**
+	This spell's precision roll is made against Constitution. 
+	Apply sickened to a target. 

@@ -1,6 +1,23 @@
+# Focusing on the Big Picture
+Tacticians concern themselves not with the foe in front of them, but the whole battlefield. 
 
+## Battle Overseer
+You can keep the whole battlefield in your mind as a mental image:
+1. You can't be ambushed by non-magical means. You can take the Speak special action to alert your allies, ending their ambushed status. 
+2. As long as you clearly hear or see a creature once, you can track their location within a 50 meter radius.
 
 # Techniques
+## Adapted Formation
+**Category:** Modification
+**Execution Time:** Action or rapid action
+**Cost:** 2 energy
+**Duration:** (1 + C/4) rounds
+**Effect**
+	As a part of the Speak special ability, you can tell your allies how to adapt to their current situation, for the duration of this technique:
+	1. Flanked allies gain a +1 bonus to Parry.
+	2. Allies ignore the penalty to precision rolls from attacking from low ground.
+	3. Allies attacking from high ground gain half of your potency as bonus damage.
+
 ## Advanced Maneuvering
 **Category:** Modification
 **Execution Time:** Special

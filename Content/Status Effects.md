@@ -1,6 +1,5 @@
 # Debilitating Effects
 
-
 ## Blinded
 + Reduces line of sight to 1 meter. 
 + Grants a -5 penalty to precision rolls. 
@@ -66,7 +65,7 @@
 + Applies 5 damage per hit. This status effect does not gain the potency bonus to its damage.
 + Ignores armor.
 + At the end of a diseased creature's turn, if that creature is still diseased, all adjacent creatures receive the disease for 1 hit.
-+ Does not stack. If target is already frostbitten, only the one with higher damage applies.
++ Does not stack. If target is already diseased, only the one with higher damage applies.
 
 ## Electrified
 + Applies 10 damage per hit.
