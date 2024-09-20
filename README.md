@@ -33,16 +33,17 @@ Alternatively, you can go to your fork repository and press "." (dot). This open
 
 # Project Structure
 ```
-├── Assets -> Gameplay content such as character sheets
-├── Classes
-├── Content -> Pages for gameplay mechanics   
-├── Items
-├── Lists -> Gameplay content such as spell lists and weapons  
-├── Monsters
-├── INTRODUCTION.md -> Starting point!
+├── Assets
+├── Character - Paths
+├── Character - Branches
+├── Content -> Pages for gameplay mechanics and game content
+├── Equipment -> Weapons and armors
+├── Items & Consumables
+├── Monsters -> Sample NPC templates and stat blocks
+├── INTRODUCTION.md -> Starting point
 ├── LICENCE.md -> Full licence text
 ├── README.md -> You are here!
-├── RESOURCES.md -> Sources (links, books, articles, videos, posts) about the inspirations of Sigil
+├── RESOURCES.md -> Links, books, articles, videos, posts and sources about the inspirations of Sigil
 └── VERSIONING.md -> Information about how this project is versioned
 ```
 
