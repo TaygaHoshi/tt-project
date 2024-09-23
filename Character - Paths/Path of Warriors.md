@@ -8,24 +8,32 @@ Many professions require extensive training with weapons and armor: soldiers of 
 |   2   |                   |
 |   3   | Armored Combatant |
 |   4   |                   |
-|   5   | Keen Rejuvenation |
+|   5   | Strong Grip       |
 |   6   |                   |
-|   7   |                   |
+|   7   | Keen Rejuvenation |
 |   8   |                   |
 |   9   |                   |
-|  10   |                   |
-## Base Health
+|  10   | Perfect Wielding  |
+## High Base Health
 Your base health is 80.
 
 ## Critical Training
-If you roll a 10 on a precision roll's d10 with a damaging ability, it gains a (5 + P) bonus to its damage. 
+If you roll a 10 on a precision roll's d10 with a damaging ability, it gains a (5 + P/2) bonus to its damage. 
 If you roll a 9 with the d10 instead, you can convert it to a 10 using 2 energy.
 
 ## Armored Combatant
 When you gain temporary armor of one type, you also gain an equal amount of the other type for the same duration. You are immune to any type of armor piercing while you have temporary armor.
 
+## Strong Grip
+You can use your *critical training* ability to convert an 8 to a 10 using 4 energy. Additionally, you have a +3 bonus to all resistances against abilities which disarm you.
+
 ## Keen Rejuvenation
-Your *critical training* ability additionally regenerates 1 energy. 
+Your *critical training* ability regenerates 1 energy if you successfully hit with your ability. 
+
+## Perfect Wielding
+You can use your *critical training* ability to convert a 7 to a 10 using 8 energy. 
+
+
 
 # Techniques
 ## Crushing Charge

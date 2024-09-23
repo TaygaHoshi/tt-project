@@ -11,12 +11,11 @@
 |   8   |                |
 |   9   |                |
 |  10   |                |
-## Base Health
+## Low Base Health
 Your base health is 60.
 
 ## Rhythmic Sense
-By spending 1 energy when it's your turn, you can use a rapid action instead of an action. 
-
+By spending 1 energy during your turns, you can use a rapid action instead of your action. 
 
 # Techniques
 ## Improve Appearance

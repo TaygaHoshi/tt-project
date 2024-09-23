@@ -11,7 +11,7 @@
 |   8   |         |
 |   9   |         |
 |  10   |         |
-## Base Health
+## Low Base Health
 Your base health is 60.
 
 # Techniques

@@ -12,7 +12,7 @@
 |   9   |         |
 |  10   |         |
 
-## Base Health
+## Medium Base Health
 Your base health is 70.
 
 # Techniques
@@ -42,6 +42,14 @@ Your base health is 70.
 	Choose two targets. 
 	All status effects on the first target have their durations reduced by 1. Then, these status effects are applied to the second target.
 
+## Heal Area
+**Category:** Defense
+**Execution Time:** Action 
+**Cost:** 4 energy
+**Radius:** (2 + C/2) meters
+**Effect**
+	Heal all allies within radius for (10 + P). 
+
 ## Link
 **Category:** Utility
 **Execution Time:** Rapid action
@@ -50,6 +58,15 @@ Your base health is 70.
 **Effect**
 	Link yourself with a willing creature. Whenever that creature takes damage to its health, you take half of it in their stead. Damage you receive from this technique ignores your armor.
 	You can break this link during your turns without any actions. The link breaks if that creature gets out of this technique's range.
+
+## Protect Ally
+**Category:** Defense
+**Execution Time:** Action
+**Cost:** 2 energy
+**Range:** 5 meters
+**Duration:** (1 + C/2) rounds
+**Effect**
+	Choose an ally, heal them for (5 + P/2) and apply protected for the duration.
 
 ## Transfer Energy
 **Category:** Utility
