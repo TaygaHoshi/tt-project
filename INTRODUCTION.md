@@ -36,6 +36,7 @@ If you want to play the game anyway, I recommend sticking to one version and onl
 
 # Resources
 See [[RESOURCES|the resources page]].
+
 # Contact Me
 You can contact me through GitHub or Discord. My Discord username is taygahoshi. The aforementioned [feedback form](https://forms.gle/7NwTYqGUWpBfBWNg8) is the best way for reaching me.
 
