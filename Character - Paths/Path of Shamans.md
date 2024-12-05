@@ -1,31 +1,29 @@
 # Abilities
-| Level | Ability |
-| :---: | ------- |
-|   1   |         |
-|   2   |         |
-|   3   |         |
-|   4   |         |
-|   5   |         |
-|   6   |         |
-|   7   |         |
-|   8   |         |
-|   9   |         |
-|  10   |         |
-
+| Level | Ability          |
+| :---: | ---------------- |
+|   1   | Blessing Prayers |
+|   2   |                  |
+|   3   | Word for Heavens |
+|   4   |                  |
+|   5   |                  |
+|   6   |                  |
+|   7   |                  |
+|   8   |                  |
+|   9   |                  |
+|  10   |                  |
 ## Medium Base Health
 Your base health is 70.
+
+## Blessing Prayers
+By spending 2 energy you can pray for a creature's well-being as an action, healing them for (10 + P). You can then continue your prayers as a rapid action, healing the creatures adjacent to that creature for half that. 
+
+## Word for Heavens
+Whenever you successfully heal a hostile or unwilling creature, you are healed for the same amount. This can happen multiple times per round.
+
 
 
 ---
 # Techniques
-## Cleansing
-**Category:** Defense
-**Execution Time:** Rapid action
-**Cost:** 1 energy
-**Range:** 5 meters
-**Effect**
-	Choose an ally. This ally is cleansed of a harmful status effect of your choosing.
-
 ## Divination
 **Category:** Utility
 **Execution Time:** Rapid action
@@ -44,14 +42,6 @@ Your base health is 70.
 	Choose two targets. 
 	All status effects on the first target have their durations reduced by 1. Then, these status effects are applied to the second target.
 
-## Heal Area
-**Category:** Defense
-**Execution Time:** Action 
-**Cost:** 4 energy
-**Radius:** (2 + C/2) meters
-**Effect**
-	Heal all allies within radius for (10 + P). 
-
 ## Link
 **Category:** Utility
 **Execution Time:** Rapid action
@@ -69,6 +59,14 @@ Your base health is 70.
 **Duration:** (1 + C/2) rounds
 **Effect**
 	Choose an ally, heal them for (5 + P/2) and apply protected for the duration.
+
+## Purification
+**Category:** Defense
+**Execution Time:** Rapid action
+**Cost:** 1 energy
+**Range:** 5 meters
+**Effect**
+	Choose an ally. This ally is cleansed of a harmful status effect of your choosing.
 
 ## Transfer Energy
 **Category:** Utility
