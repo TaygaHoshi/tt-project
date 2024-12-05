@@ -15,6 +15,8 @@
 ## Medium Base Health
 Your base health is 70.
 
+
+---
 # Techniques
 ## Cleansing
 **Category:** Defense

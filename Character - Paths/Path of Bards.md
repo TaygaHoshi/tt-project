@@ -1,9 +1,9 @@
 # Abilities
 | Level | Ability        |
 | :---: | -------------- |
-|   1   | Rhythmic Sense |
+|   1   |                |
 |   2   |                |
-|   3   |                |
+|   3   | Rhythmic Sense |
 |   4   |                |
 |   5   |                |
 |   6   |                |
@@ -11,12 +11,14 @@
 |   8   |                |
 |   9   |                |
 |  10   |                |
-## Low Base Health
-Your base health is 60.
+## Medium Base Health
+Your base health is 70.
 
 ## Rhythmic Sense
 By spending 1 energy during your turns, you can use a rapid action instead of your action. 
 
+
+---
 # Techniques
 ## Improve Appearance
 **Category:** Utility
@@ -25,7 +27,7 @@ By spending 1 energy during your turns, you can use a rapid action instead of yo
 **Range:** 5 meters
 **Duration:** (5 + C/2) minutes
 **Effect**
-	Grant your target a +1 bonus to the next social skill roll or meeting roll.
+	Grant your target a +1 bonus to the next social skill roll or meeting roll. 
 
 ## Song of Fury
 **Category:** Offense

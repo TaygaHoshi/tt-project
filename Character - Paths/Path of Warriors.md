@@ -14,6 +14,7 @@ Many professions require extensive training with weapons and armor: soldiers of 
 |   8   |                   |
 |   9   |                   |
 |  10   | Perfect Wielding  |
+
 ## High Base Health
 Your base health is 80.
 
@@ -33,8 +34,7 @@ Your *critical training* ability regenerates 1 energy if you successfully hit wi
 ## Perfect Wielding
 You can use your *critical training* ability to convert a 7 to a 10 using 8 energy. 
 
-
-
+---
 # Techniques
 ## Crushing Charge
 **Category:** Modification

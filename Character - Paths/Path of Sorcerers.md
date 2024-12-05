@@ -14,6 +14,8 @@
 ## Low Base Health
 Your base health is 60.
 
+
+---
 # Techniques
 ## Alteration
 **Category:** Utility
