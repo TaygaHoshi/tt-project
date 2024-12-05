@@ -26,7 +26,7 @@ If you roll a 9 with the d10 instead, you can convert it to a 10 using 2 energy.
 When you gain temporary armor of one type, you also gain an equal amount of the other type for the same duration. You are immune to any type of armor piercing while you have temporary armor.
 
 ## Strong Grip
-You can use your *critical training* ability to convert an 8 to a 10 using 4 energy. Additionally, you have a +3 bonus to all resistances against abilities which disarm you.
+You can use your *critical training* ability to convert an 8 to a 10 using 4 energy. Additionally, you have a +2 bonus to all resistances against abilities which disarm you.
 
 ## Keen Rejuvenation
 Your *critical training* ability regenerates 1 energy if you successfully hit with your ability. 
