@@ -51,14 +51,14 @@ Whenever you successfully heal a hostile or unwilling creature, you are healed f
 	Link yourself with a willing creature. Whenever that creature takes damage to its health, you take half of it in their stead. Damage you receive from this technique ignores your armor.
 	You can break this link during your turns without any actions. The link breaks if that creature gets out of this technique's range.
 
-## Protect Ally
+## Protect Creature
 **Category:** Defense
 **Execution Time:** Action
 **Cost:** 2 energy
 **Range:** 5 meters
 **Duration:** (1 + C/2) rounds
 **Effect**
-	Choose an ally, heal them for (5 + P/2) and apply protected for the duration.
+	Choose a creature, heal them for (5 + P/2) and apply protected for the duration.
 
 ## Purification
 **Category:** Defense
@@ -66,7 +66,7 @@ Whenever you successfully heal a hostile or unwilling creature, you are healed f
 **Cost:** 1 energy
 **Range:** 5 meters
 **Effect**
-	Choose an ally. This ally is cleansed of a harmful status effect of your choosing.
+	Choose a creature. This creature is cleansed of a harmful status effect of your choosing.
 
 ## Transfer Energy
 **Category:** Utility
