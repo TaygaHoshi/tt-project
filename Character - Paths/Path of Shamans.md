@@ -18,7 +18,7 @@ Your base health is 70.
 By spending 2 energy you can pray for a creature's well-being as an action, healing them for (10 + P). You can then continue your prayers as a rapid action, healing the creatures adjacent to that creature for half that. 
 
 ## Word for Heavens
-Whenever you successfully heal a hostile or unwilling creature, you are healed for the same amount. This can happen multiple times per round.
+Whenever you successfully heal a hostile or unwilling creature, you are healed for the amount of health it gained.
 
 
 
