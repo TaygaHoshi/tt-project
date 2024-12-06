@@ -1,5 +1,5 @@
 # Armor
-This equipment protects its wearer from physical and magical damage, depending on its type. 
+This equipment protects its wearer from physical and magical damage, depending on its type.
 
 ## Armor Types and Armor Rating
 | Armor Type | Physical Armor | Magical Armor | Evasion & Initiative | Speed | Stealth |

@@ -2,8 +2,21 @@
 Player characters are the other part, alongside the Game Master, of Sigil of Uchma. This page will go over the basics of character creation.
 
 # Character Creation
-## Paths and Branches
-Each player character starts with a path and a branch. 
+### Paths
+Paths determine a characters' abilities gained through leveling up and half of their techniques. Current list of paths are:
+- [[Path of Warriors]]
+- [[Path of Sorcerers]]
+- [[Path of Shamans]]
+- [[Path of Bards]]
+
+### Branches
+Paths determine a characters' branch abilities and half of their techniques. Current list of branches are:
+- [[Underworld Magic]]
+- [[Tactics]]
+- [[Legend Calling]]
+- [[Idol Magic]]
+- [[Druid Magic]]
+- [[Beast Taming]]
 
 ### Aptitudes
 A player character gains one aptitude point each level starting from level 1. Aptitude points can be spent on either Potency (P) or Control (C):
@@ -91,7 +104,7 @@ Each player character has a base initiative of 0. This can be changed with
 
 ## Starter Equipment
 Each player character can choose a starting equipment:
-+ Any armor type of their choosing
++ Any [[Armor & Weapons#Armor Types and Armor Rating|armor type]] of their choosing
 + Two of any [[Armor & Weapons#Weapon Sets|weapon sets]]
 + #TODO 
 
