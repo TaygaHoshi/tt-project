@@ -37,7 +37,7 @@ Your base health is 60.
 **Cost:** 1 energy
 **Effect**
 	You can choose to activate this technique when you perform a projectile technique or weapon attack.
-	This projectile curves slightly around obstacles. Penalty to precision rolls from covers for this attack are reduced by 1.
+	This projectile curves slightly around obstacles. Penalty to precision rolls from covers for this attack is reduced by 1.
 
 ## Selective Effect
 **Category:** Modification
@@ -53,7 +53,7 @@ Your base health is 60.
 **Cost:** 1 energy
 **Effect**
 	You can choose to activate this technique when you perform another technique with an energy cost of at least 2.
-	Gain physical and magical temporary armor equal to that technique's energy cost.
+	Gain temporary health equal to that technique's energy cost.
 
 ## Spy Object
 **Category:** Utility
