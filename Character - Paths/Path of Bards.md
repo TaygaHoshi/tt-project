@@ -1,27 +1,29 @@
 # Abilities
-| Level | Ability   |
-| :---: | --------- |
-|   1   | In Rhythm |
-|   2   |           |
-|   3   | Resonance |
-|   4   |           |
-|   5   |           |
-|   6   |           |
-|   7   |           |
-|   8   |           |
-|   9   |           |
-|  10   |           |
+| Level | Ability                        |
+| :---: | ------------------------------ |
+|   1   | In Rhythm, Instrument Training |
+|   2   |                                |
+|   3   | Resonance                      |
+|   4   |                                |
+|   5   |                                |
+|   6   |                                |
+|   7   |                                |
+|   8   |                                |
+|   9   |                                |
+|  10   |                                |
 ## Medium Base Health
 Your base health is 70.
 
 ## In Rhythm
 By spending 1 energy during your turns, you can use a rapid action instead of your action. 
 
-## Resonance
-Whenever you perform a technique that targets only one creature, you can spend 1 energy to apply one of the following effects:
-1. Heal them for (3 + P/3).
-2. Deal 5 magical damage. Potency bonus to this technique's damage is halved. 
+## Instrument Training
+You are proficient in one instrument, which you start with in your inventory, receiving a permanent (1+C/4) bonus to skill rolls involving that instrument. 
 
+## Resonance
+Whenever you successfully perform a technique that targets only one creature, you gain resonance for 1 minute. You can spend your resonance as a rapid action to deal 5 magical damage to a creature you can touch.
+
+Resonance does not stack, and you can only gain it once per round. Upkeeping poems count as one technique. 
 
 ---
 # Techniques
@@ -32,7 +34,7 @@ Whenever you perform a technique that targets only one creature, you can spend 1
 **Range:** 5 meters
 **Duration:** (1 + C/3) rounds
 **Effect**
-	For the duration of this technique, your target can use a rapid action and a prepared action in the same round.
+	For the duration of this technique, your target can use a rapid action and a prepared action in the same round. This technique does not stack. 
 
 ## Improve Appearance
 **Category:** Utility
@@ -83,4 +85,4 @@ Whenever you perform a technique that targets only one creature, you can spend 1
 **Range:** 3 meters
 **Duration:** (1 + C/2) rounds
 **Effect**
-	Choose an ally. You play an invigorating song for them. Next time this ally uses an ability that costs energy, you spend the energy cost in their stead.
+	Choose an ally. You play a rejuvenating song for them. Next time this ally uses an ability that costs energy, you spend the energy cost in their stead.
