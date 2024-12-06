@@ -18,7 +18,10 @@ Your base health is 70.
 By spending 1 energy during your turns, you can use a rapid action instead of your action. 
 
 ## Resonance
-Whenever you perform a technique that targets only one creature, you choose to heal them for (3 + P/3) by spending 1 energy. 
+Whenever you perform a technique that targets only one creature, you can spend 1 energy to apply one of the following effects:
+1. Heal them for (3 + P/3).
+2. Deal 5 magical damage. Potency bonus to this technique's damage is halved. 
+
 
 ---
 # Techniques
