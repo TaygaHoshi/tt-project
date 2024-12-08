@@ -47,7 +47,7 @@ Energy is used for performing techniques and other abilities. As your character 
 | **9**  |     24      |
 | **10** |     24      |
 
-### Resistance
+### Resistances
 Resistances lower the accuracy of incoming hits. They act as the success thresholds of precision rolls. List of resistances is given below:
 
 |  Resistance  | Used Against           |
