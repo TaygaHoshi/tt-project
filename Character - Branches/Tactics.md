@@ -4,7 +4,7 @@ Tacticians concern themselves not with the foe in front of them, but the whole b
 ## Battle Overseer
 You can keep the whole battlefield in your mind as a mental image:
 1. You can't be ambushed by non-magical means. You can take the Speak special action to alert your allies, ending their ambushed status. 
-2. As long as you clearly hear or see a creature once, you can track their location within a 50 meter radius.
+2. As long as you clearly hear or see a creature once, you can track their location within a 25 meter radius for up to 1 hour from the last time you hear or see it.
 
 # Techniques
 ## Adapt to Environment
