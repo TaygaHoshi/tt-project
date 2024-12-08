@@ -17,7 +17,7 @@ All weapon attacks tagged (Prepared) are prepared actions and they require the w
 	+ You have quarter cover against physical projectile attacks against you until the start of your next turn.
 + (Rapid action) Shield Bash
 	+ Ignores weapon precision.
-	+ Deals 5 damage to target foe. 
+	+ Deals 5 physical damage to target foe. 
 
 ## Focus
 + (Rapid action) Projectile Defense
