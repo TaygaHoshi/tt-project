@@ -71,17 +71,17 @@ Movement speed of a creature is equal to:
 + A running creature can't take actions, rapid actions, prepared actions or full-turn actions.
 ### Flying
 + If a creature can fly, their flight speed is equal to their walking speed unless specified otherwise. 
-+ Flight speed can be used vertically or horizontally. However, ascending takes up 4 flight speed per meter ascended.
++ Flight speed can be used vertically or horizontally. However, ascending takes up 3 flight speed per meter ascended.
 + A flying creature can't use its walking speed unless they land.
 + If a creature is flying, they are unaffected by any effects on the ground, unless the effect is tall enough to reach it.
 ### Rough Terrain
 + There are two kinds of rough terrain: light and heavy.
 	+ Walking or running through light rough terrain such as soft sand or shallow water takes up 2 walking speed per meter walked.
-	+ Walking through heavy rough terrain such as quicksand takes up 4 walking speed per meter walked.
+	+ Walking through heavy rough terrain such as quicksand takes up 3 walking speed per meter walked.
 	+ Swimming, climbing and crawling are considered heavy rough terrain.
 
 ## Precision Rolls
-Precision rolls determine whether a weapon attack, a spell, a combat technique or any other ability succeeds against an unwilling target. A precision roll is done against a resistance, such as Parry or Evasion. If the result of this roll exceeds or is equal to the resistance it is rolled against, the roll succeeds and the technique or attack connects.  Additionally, if you roll a 10 with a precision roll's d10, the roll succeeds regardless of the relevant resistance. 
+Precision rolls determine whether a weapon attack, a technique or any other ability succeeds against an unwilling target. A precision roll is done against a resistance, such as Parry or Evasion. If the result of this roll exceeds or is equal to the resistance it is rolled against, the roll succeeds and the technique or attack connects.  Additionally, if you roll a 10 with a precision roll's d10, the roll succeeds regardless of the relevant resistance. 
 
 A precision roll is calculated according to this formula:
 	1d10 + (level)/2 + weapon precision bonus + other bonuses
@@ -91,7 +91,7 @@ Terms in this formula are explained below:
 	**Weapon precision bonus:** This bonus is determined by the type of the weapon held in main hand.
 	**Other bonuses:** These are bonuses or penalties which come from various sources like status effects, environment and the like.
 
-In some cases, a specific spell, an ability or an attack might include a precision bonus or penalty itself. For example, "Spinning Slash" attack of a glaive doesn't include "weapon precision bonus" in its precision roll. We know this because "Spinning Slash" has the phrase "ignores weapon precision" in its explanation. A weapon precision bonus only applies when a precision roll matches the weapon's precision type. For example, a wand of any type normally doesn't affect precision rolls based on strength.
+In some cases, a specific spell, an ability or an attack might include a precision bonus or penalty itself.
 
 Some abilities may affect multiple targets. In this case, multiple precision rolls are required to determine which targets get affected by this ability.
 
@@ -135,7 +135,7 @@ On the other hand, bonus damage is just added into the delivering attack's damag
 + A creature is adjacent to another if there aren't any battle map squares between them. 
 + Significant height difference between two creatures due to environmental factors may break adjacency. 
 ### Flanking
-+ During battle, whenever a creature has two or more adjacent foes wielding melee weapons, they are considered flanked.
++ During battle, whenever a creature has two or more adjacent foes wielding melee weapons, it is considered flanked.
 + Attacking a flanked creature grants a +1 bonus to precision rolls done with melee abilities.
 
 ## High and Low Ground
@@ -144,14 +144,14 @@ A significant difference in elevation affects projectile attacks' precision roll
 2. Attacking from low ground gives you a -1 penalty.
 
 ## Cover and Line of Sight
-+ When a character is behind cover, they are semi-protected against projectile attacks or projectile spells.
++ When a character is behind cover, they are semi-protected against projectile attacks or abilities.
 + There are 3 types of cover:
 	+ Quarter Cover: +1 bonus to all resistances versus projectiles.
 	+ Half Cover: +2 bonus to all resistances versus projectiles.
 	+ Full Cover: +4 bonus to all resistances versus projectiles.
 + Having other creatures in the way while determining cover counts as half cover. This doesn't increase with the amount of creatures in the way.
-+ If a creature is completely blocked from another's point of view, they are out of line of sight and can't be interacted with targeted attacks and spells.
-+ Abilities, spells and attacks which affect an area may require hearing or sight:
++ If a creature is completely blocked from another's point of view, they are out of line of sight and can't be interacted with targeted attacks and techniques.
++ Abilities, techniques and attacks which affect an area may require hearing or sight:
 	+ Sounds can't pass rocks, deep water and similar materials.
 	+ Sounds can pass 1 meter of wood, metal, shallow water and other similar materials.
 	+ Cover of any kind doesn't break line of sight.
@@ -162,7 +162,7 @@ A significant difference in elevation affects projectile attacks' precision roll
 + A creature can go into prone voluntarily if they give up half of their base movement speed as a part of their movement during their turn.
 + When a creature falls or goes prone, they have to be in movement phase of their turn and use half of their base movement speed to get up.
 + A prone creature has half cover against projectiles.
-+ A prone creature has -2 to all resistances against attacks and spells used within melee range, including projectiles.
++ A prone creature has -2 to all resistances against abilities used within melee range, including projectiles.
 + A prone creature can only do their basic weapon attack, dealing half damage and ignoring weapon precision.
 
 ## Fall Damage
