@@ -7,7 +7,7 @@ Pets can take a variety of forms, but they fall into the main categories below:
 
 **Striker Pets**
 1. Base health: 30
-2. Walking speed: 6
+2. Walking speed: 6 meters
 3. Precision roll: d10 + level/2
 4. Resistances: Start with 5 and increase by 1 every odd level
 5. Basic weapon attack: 
@@ -16,7 +16,7 @@ Pets can take a variety of forms, but they fall into the main categories below:
 **Tough Pets**
 1. Base health: 30
 2. Base armor: 5 physical and 5 magical
-3. Walking speed: 6
+3. Walking speed: 6 meters
 4. Precision roll: d10 + level/2
 5. Resistances: Start with 5 and increase by 1 every odd level
 6. Basic weapon attack: 
@@ -24,7 +24,7 @@ Pets can take a variety of forms, but they fall into the main categories below:
 
 **Sharpshooter Pets**
 1. Base health: 20
-2. Walking speed: 6
+2. Walking speed: 6 meters
 3. Precision roll: d10 + level/2
 4. Resistances: Start with 5 and increase by 1 every odd level
 5. Basic weapon attack:
@@ -33,8 +33,8 @@ Pets can take a variety of forms, but they fall into the main categories below:
 
 **Scout Pets**
 1. Base health: 20
-2. Walking speed: 8
-	1. (Alternative) Flying and walking speed: 6
+2. Walking speed: 8 meters
+	1. Alternatively, flying and walking speeds: 6 meters
 3. Precision roll: d10 + level/2
 4. Resistances: Start with 4 and increase by 1 every odd level, Evasion starts at 6 instead
 5. Beast taming techniques of utility or modification categories have a +1 to their precision rolls when performed by scout pets.
