@@ -24,7 +24,7 @@
 		+ Attacks the next foe who moves into, within or out of melee range, dealing 10 physical damage.
 
 ---
-## Weak Vampire Kin
+## Vampire Kin
 + **Lore:** Low level vampire kins are flightless beasts. They are almost exclusively found as summons from vampires.
 + **Tier:** Level 1 Novice Minion
 + **Stats**
