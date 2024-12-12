@@ -1,5 +1,5 @@
 # Focusing on the Big Picture
-Tacticians concern themselves not with the foe in front of them, but the whole battlefield. 
+The Warwise concern themselves not with the foe in front of them, but the whole battlefield. 
 
 ## Battle Overseer
 You can keep the whole battlefield in your mind as a mental image:
