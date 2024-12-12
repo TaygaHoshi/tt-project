@@ -6,29 +6,28 @@ Many professions require extensive training with weapons and armor: soldiers of 
 | :---: | ----------------- |
 |   1   | Critical Training |
 |   2   |                   |
-|   3   | Armored Combatant |
+|   3   | Keen Rejuvenation |
 |   4   |                   |
 |   5   | Strong Grip       |
 |   6   |                   |
-|   7   | Keen Rejuvenation |
+|   7   | Armored Combatant |
 |   8   |                   |
 |   9   |                   |
 |  10   | Perfect Wielding  |
-
 ## High Base Health
 Your base health is 80.
 
 ## Critical Training
-If you roll a 9 or higher on a precision roll's d10 with a damaging ability, it gains a (5 + P/2) bonus to its damage. You can spend 2 energy to apply this bonus damage on a roll of 8 or higher.
+If you roll a 10 on a precision roll's d10 with a damaging ability, it gains a (5 + P/2) bonus to its damage. You can spend 2 energy to apply this bonus damage on a roll of 8 or higher. This can happen multiple times per turn.
 
-## Armored Combatant
-When you gain temporary armor of one type, you also gain an equal amount of the other type for the same duration. You are immune to any type of armor piercing while you have temporary armor.
+## Keen Rejuvenation
+Your *critical training* ability regenerates 1 energy if you successfully hit with your ability. 
 
 ## Strong Grip
 Your *critical training* improves. When you spend energy on it, you can apply the bonus damage on a roll of 7 or higher instead. Additionally, you have a +2 bonus to all resistances against abilities which disarm you.
 
-## Keen Rejuvenation
-Your *critical training* ability regenerates 1 energy if you successfully hit with your ability. 
+## Armored Combatant
+When you gain temporary armor of one type, you also gain an equal amount of the other type for the same duration. You are immune to any type of armor piercing while you have temporary armor.
 
 ## Perfect Wielding
 Your *critical training* is perfected, allowing you to apply the bonus damage on a precision roll of 6 or higher instead of 7 or higher when spending energy on it. 
