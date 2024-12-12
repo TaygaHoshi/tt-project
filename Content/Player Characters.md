@@ -11,12 +11,11 @@ Paths determine a characters' abilities gained through leveling up and half of t
 
 ### Branches
 Paths determine a characters' branch abilities and half of their techniques. Current list of branches are:
-- [[Underworld Magic]]
-- [[Tactics]]
-- [[Legend Calling]]
-- [[Idol Magic]]
-- [[Druid Magic]]
-- [[Beast Taming]]
+- [[Wildbond]]
+- [[Warwise]] 
+- [[Iconcraft]]
+- [[Druid]]
+- [[Channeling]]
 
 ### Aptitudes
 A player character gains one aptitude point each level starting from level 1. Aptitude points can be spent on either Potency (P) or Control (C):
