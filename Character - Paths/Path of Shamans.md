@@ -11,8 +11,8 @@
 |   8   |                  |
 |   9   |                  |
 |  10   |                  |
-## Medium Base Health
-Your base health is 70.
+## Low Base Health
+Your base health is 60.
 
 ## Blessing Prayers
 By spending 2 energy you can pray for a creature's well-being as an action, healing them for (10 + P). You can then continue your prayers as a rapid action, healing the creatures adjacent to that creature for half that. 
