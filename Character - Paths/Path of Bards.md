@@ -29,7 +29,7 @@ Resonance does not stack, and you can only gain it once per round. Upkeeping poe
 # Techniques
 ## Echo
 **Category:** Offense
-**Execution Time:** Full-turn action
+**Execution Time:** Action
 **Cost:** 3 energy
 **Range:** 5 meters
 **Duration:** (1 + C/3) rounds
@@ -59,7 +59,7 @@ Resonance does not stack, and you can only gain it once per round. Upkeeping poe
 ## Poem of Fury
 **Category:** Offense
 **Execution Time:** Rapid action
-**Cost:** 1 energy per round
+**Cost:** 2 energy per round
 **Range:** (2 + C/2) meters
 **Duration:** Special
 **Effect**
