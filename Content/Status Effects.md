@@ -51,30 +51,25 @@
 ---
 # Harming Effects
 ## Bleeding
-+ Applies 5 damage per hit.
-+ Ignores armor.
++ Applies 5 armor-ignoring damage per hit.
 + Does not stack. If target is already bleeding, only the one with higher damage applies.
 
 ## Burning
-+ Applies 10 damage per hit.
-+ Affected by physical armor.
++ Applies 10 physical damage per hit.
 + If target is frostbitten or soaked, it is cured and burning doesn't get applied.
 + Does not stack. If target is already burning, only the one with higher damage applies.
 
 ## Diseased
-+ Applies 5 damage per hit. This status effect does not gain the potency bonus to its damage.
-+ Ignores armor.
++ Applies 5 armor-ignoring damage per hit. This status effect does not gain the potency bonus to its damage.
 + At the end of a diseased creature's turn, if that creature is still diseased, all adjacent creatures receive the disease for 1 hit.
 + Does not stack. If target is already diseased, only the one with higher damage applies.
 
 ## Electrified
-+ Applies 10 damage per hit.
-+ Affected by magical armor.
++ Applies 10 magical damage per hit.
 + Does not stack. If target is already electrified, only the one with higher damage applies.
 
 ## Frostbitten
-+ Applies 5 damage per hit.
-+ Ignores armor.
++ Applies 5 armor-ignoring damage per hit.
 + If target is burning, it is cured and frostbitten doesn't get applied.
 + Does not stack. If target is already frostbitten, only the one with higher damage applies.
 

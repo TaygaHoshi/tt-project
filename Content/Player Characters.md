@@ -2,8 +2,20 @@
 Player characters are the other part, alongside the Game Master, of Sigil of Uchma. This page will go over the basics of character creation.
 
 # Character Creation
-## Paths and Branches
-Each player character starts with a path and a branch. 
+### Paths
+Paths determine a characters' abilities gained through leveling up and half of their techniques. Current list of paths are:
+- [[Path of Warriors]]
+- [[Path of Sorcerers]]
+- [[Path of Shamans]]
+- [[Path of Bards]]
+
+### Branches
+Paths determine a characters' branch abilities and half of their techniques. Current list of branches are:
+- [[Wildbond]]
+- [[Warwise]] 
+- [[Iconcraft]]
+- [[Druid]]
+- [[Channeling]]
 
 ### Aptitudes
 A player character gains one aptitude point each level starting from level 1. Aptitude points can be spent on either Potency (P) or Control (C):
@@ -34,7 +46,7 @@ Energy is used for performing techniques and other abilities. As your character 
 | **9**  |     24      |
 | **10** |     24      |
 
-### Resistance
+### Resistances
 Resistances lower the accuracy of incoming hits. They act as the success thresholds of precision rolls. List of resistances is given below:
 
 |  Resistance  | Used Against           |
@@ -87,11 +99,11 @@ See: [[sigil-of-uchma/Content/Combat#Movement|Movement]].
 
 ## Initiative
 See: [[sigil-of-uchma/Content/Combat#Turn Order|Turn Order]].
-Each player character has a base initiative of 0. This can be changed with 
+Each player character has a base initiative of 0. This changes with equipment like armor and some abilities affect it.
 
 ## Starter Equipment
 Each player character can choose a starting equipment:
-+ Any armor type of their choosing
++ Any [[Armor & Weapons#Armor Types and Armor Rating|armor type]] of their choosing
 + Two of any [[Armor & Weapons#Weapon Sets|weapon sets]]
 + #TODO 
 

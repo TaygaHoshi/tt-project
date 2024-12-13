@@ -1,21 +1,20 @@
 # Armor
-This equipment protects its wearer from physical and magical damage, depending on its type. 
+This equipment protects its wearer from physical and magical damage, depending on its type.
 
 ## Armor Types and Armor Rating
-| Armor Type | Physical Armor | Magical Armor | Evasion & Initiative | Speed | Stealth |
-| ---------- | :------------: | :-----------: | :------------------: | :---: | :-----: |
-| Unarmored  |       -        |       -       |          +2          |  +2   |   +2    |
-| Robes      |       -        |       5       |          +1          |  +1   |   +1    |
-| Light      |       5        |       -       |          +1          |  +1   |   +1    |
-| Adventurer |       5        |       5       |          -           |   -   |    -    |
-| Heavy      |       10       |       -       |          -           |   -   |   -2    |
+| Armor Type | Physical Armor | Magical Armor | Initiative | Walking Speed | Stealth |
+| ---------- | :------------: | :-----------: | :--------: | :-----------: | :-----: |
+| Unarmored  |                |               |     +2     |               |   +2    |
+| Robes      |                |       5       |     +1     |               |   +1    |
+| Light      |       5        |               |            |               |         |
+| Adventurer |       5        |       5       |            |      -1       |   -1    |
+| Heavy      |       10       |               |            |      -2       |   -2    |
 
 ## Temporary Armor
 Additional armor can be gained through spells and abilities which grant temporary armor. Rules of temporary armor can be found in the [[Status Effects]] page.
 
 # Weapons
 Weapons are what creatures use to hit their foes. Most creatures with body parts similar to arms and hands can use every weapon. There are several categories of weapons. Each of these can be found in their respective list:
-
 1. [[Weapons - One Handed|One Handed weapons]] 
 2. [[Weapons - Off Hand|Off-hand weapons]] 
 3. [[Weapons - Two Handed|Two handed weapons]] 
