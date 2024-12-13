@@ -99,7 +99,7 @@ See: [[sigil-of-uchma/Content/Combat#Movement|Movement]].
 
 ## Initiative
 See: [[sigil-of-uchma/Content/Combat#Turn Order|Turn Order]].
-Each player character has a base initiative of 0. This can be changed with 
+Each player character has a base initiative of 0. This changes with equipment like armor and some abilities affect it.
 
 ## Starter Equipment
 Each player character can choose a starting equipment:
