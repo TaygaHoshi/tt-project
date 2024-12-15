@@ -10,7 +10,7 @@ Paths determine a characters' abilities gained through leveling up and half of t
 - [[Path of Bards]]
 
 ### Branches
-Paths determine a characters' branch abilities and half of their techniques. Current list of branches are:
+Branches determine a characters' branch abilities and half of their techniques. Current list of branches are:
 - [[Wildbond]]
 - [[Warwise]] 
 - [[Iconcraft]]
