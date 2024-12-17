@@ -134,7 +134,7 @@
 	+ **Initiative:** -3
 	+ **Movement:** 3 meters
 	+ **Precision roll:** d10 + 6
-	+ **Resistances:** x Parry | x Warding | x Constitution | x Evasion
+	+ **Resistances:** 10 Parry | 9 Warding | 11 Constitution | 7 Evasion
 + **Equipment**
 	+ **Physical Armor:** 10
 	+ **Magic Armor:** 5
@@ -143,7 +143,7 @@
 	+ (Passive) *Large Creature*
 		+ This creature is physically large, and it takes up a 2 meters by 2 meters space on a battle map. 
 	+ (Passive) *Poisonous*
-		+ Touching the outer skin of this worm in any way applies 1 round of sickened (-2). 
+		+ Touching the outer skin of this worm in any way applies 1 round of sickened (-3). 
 	+ *Bite*
 		+ Range: 2 meters. 
 		+ Deals 30 physical damage.
