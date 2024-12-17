@@ -35,7 +35,7 @@ Rituals of icon magic are techniques with two special properties:
 **Radius:** (2 + C/4) meters
 **Duration:** 1 hour
 **Effect**
-	Manifest your icon's destructive power, creating an area of harm. Make a precision roll against any creature who moves into, out of or within this area. On success, those creatures take 5 magical damage and a bonus 2 damage per meter they willingly moved within this area, at the end of this turn.
+	Manifest your icon's destructive power, creating an area of harm. Make a precision roll against any creature who moves into, out of or within this area. On success, those creatures take 3 magical damage and a bonus 2 damage per meter they willingly moved within this area, at the end of this turn. Potency bonus to this ability's damage is halved.
 
 ## Guiding Ritual
 **Category:** Utility
