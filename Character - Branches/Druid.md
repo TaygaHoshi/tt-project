@@ -48,7 +48,7 @@
 **Radius:** (20 + P) meters
 **Effect**
 	 This ability does not require precision rolls.
-	 Create a small earthquake centered around you, making every non-flying creature within radius fall prone. Small structures and similar constructs within radius, depending on their strength, become destroyed or damaged.
+	 Create a small earthquake centered around you, making every non-flying and unsuspecting creature within radius fall prone. Small structures and similar constructs within radius, depending on their strength, become destroyed or damaged.
 
 ## Rain
 **Category:** Utility
