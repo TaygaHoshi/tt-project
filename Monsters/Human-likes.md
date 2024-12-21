@@ -22,7 +22,7 @@
 		+ This monster is unable to Slash while tickling someone.
 
 ---
-## Lesser Bloodslasher Vampire
+## Lesser Vampire Warrior
 + **Lore:** Vampires are the reason why forests at night are dangerous. Lesser vampires are almost always found working or studying under a higher vampire. However, there are sightings of rogue vampires who lead bandits or beasts.
 + **Tier:** Level 3 Novice Minion/Boss
 + **Stats**
@@ -52,7 +52,7 @@
 	+ (Technique) *Blood Manipulation*
 		+ This attack's precision roll is made against Constitution.
 		+ Range: 5 meters.
-		+ Targets a bleeding creature, steals 10 health from it and it stops bleeding. 
+		+ Targets a bleeding creature, steals 10 health from it. 
 	+ (Full-turn action) *Charge*
 		+ -2 penalty on precision roll.
 		+ Can charge for up to 10 meters and attack with Slash, receiving a -2 penalty to all resistances for 1 round.
@@ -60,7 +60,7 @@
 		+ This vampire grows its wings and spreads them around itself, gaining a +1 bonus to Parry against the next physical attack.
 
 ---
-## Lesser Bloodstealer Vampire
+## Lesser Vampire Kincaller
 + **Lore:** Vampires are the reason why forests at night are dangerous. Lesser vampires, especially magic users, are almost always found working or studying under a higher vampire. However, there are sightings of rogue vampires who lead bandits or beasts.
 + **Tier:** Level 3 Novice Boss
 + **Stats**
