@@ -21,8 +21,7 @@
 # Dual Strike
 **Execution time:** Full-turn action
 **Requirements:** 
-	A one handed weapon in main hand, or
-	A light weapon in off-hand.
+	A one handed weapon in main hand, and a light weapon in off-hand.
 **Explanation:** 
 	You attack with both your main hand weapon and off-hand weapon. 
 	Your off-hand weapon receives a -2 penalty to its precision roll and deals half weapon damage.
@@ -80,13 +79,13 @@
 # Throw Weapon
 **Execution time:** Action
 **Requirements:** 
-	A throwing spear, a hatchet, a shortsword or a dagger in main hand.
-	Alternatively, any throwing item in main hand.
+	A throwing spear, a hatchet, a shortsword, a dagger or any other throwable item in main hand.
 **Explanation:** 
 	(Projectile)
 	Ignores weapon precision.
-	You throw your weapon to a target or to a square within (5 + C/2) meters.
+	You throw your weapon to a target or to a square within (5 + C/2) meters. If you have additional ammo of the same weapon or item, you can wield one as a part of this action. 
 	This action is considered a basic weapon attack.
+
 
 # Retrieve Weapon
 **Execution time:** Action
