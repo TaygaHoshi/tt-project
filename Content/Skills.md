@@ -4,18 +4,18 @@ Skills are miscellaneous abilities of a character. Each skill is about a certain
 
 Players gain a set amount of skill points on each level up. These points can be spent on a skill to increase its value by one. A skill can be increased only once per level. A total of 22 SP can be earned. Points gained per level are given in this table:
 
-Level | Gained SP
-:---: | :---:
- 1|+4
- 2|+2
- 3|+2
- 4|+2
- 5|+2
- 6|+2
- 7|+2
- 8|+2
- 9|+2
-10|+2
+| Level | Gained SP |
+| :---: | :-------: |
+|   1   |    +4     |
+|   2   |    +2     |
+|   3   |    +2     |
+|   4   |    +2     |
+|   5   |    +2     |
+|   6   |    +2     |
+|   7   |    +2     |
+|   8   |    +2     |
+|   9   |    +2     |
+|  10   |    +2     |
 
 The skills a character can focus on are given in this list:
 + Engineering
