@@ -14,15 +14,18 @@ All weapon attacks tagged (Prepared) are prepared actions and they require the w
 ---
 ## Shield
 + (Rapid action) Projectile Defense
-	+ You have quarter cover against physical projectile attacks against you until the start of your next turn.
+	+ You have quarter cover against physical projectile attacks until the start of your next turn.
 + (Rapid action) Shield Bash
 	+ Ignores weapon precision.
 	+ Deals 5 physical damage to target foe. 
 
 ## Focus
 + (Rapid action) Projectile Defense
-	+ You have quarter cover against magical projectile attacks against you until the start of your next turn.
-+ (Rapid action) #TODO 
+	+ You have quarter cover against magical projectile attacks until the start of your next turn.
++ (Projectile) (Rapid action) Focus Ray
+	+ Range: (2 + C/2) meters. 
+	+ Ignores weapon precision. 
+	+ Shoot a ray that deals 3 magical damage. Potency bonus to this weapon attack's damage is halved. 
 
 ## Charm
 + (Passive) Weapon Precision Bonus
