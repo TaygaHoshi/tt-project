@@ -60,15 +60,15 @@ Two handed weapons have three weapon attacks.
 
 ## War Hammer
 + Smash
-	+ Deals 20 physical damage, ignoring physical armor.
+	+ Deals 20 physical damage, ignoring physical armor less than 10.
 + Momentum Swing
 	+ This attack's precision rolls are made against Evasion.
-	+ Deals 5 physical damage, ignoring physical armor.
+	+ Deals 5 armor-ignoring damage.
 	+ Hits all creatures within range, stunning the creatures you hit for 1 round.
 	+ These creatures are also pushed away for 1 meter.
 + (Prepared action) Fierce Slam 
 	+ Attack the next foe who falls prone within range. 
-	+ Deals 10 physical damage, ignoring physical armor. Potency bonus to damage is doubled for this attack.
+	+ Deals 10 armor-ignoring damage. Potency bonus to damage is doubled for this attack.
 
 ## Staff
 + (Passive) Unsteady Aiming
