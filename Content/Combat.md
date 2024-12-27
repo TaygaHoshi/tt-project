@@ -23,7 +23,9 @@
 Combat has rules for resolving various situations that players and the GM might come across.
 
 ## Battle Map
-A battle map is a grid of squares overlaid on top of a map, a sketch or a similar image depicting the location that the combat takes place in. Each square in a battle map is considered to be a 1 square meter area. Creatures can be represented with tokens or similar objects on this battle map.
+A battle map is a grid of squares overlaid on top of a map, a sketch or a similar image depicting the location that the combat takes place in. Each square in a battle map is considered to be a 1 square meter area. Creatures such as [[Player Characters]] and [[Introduction to Monsters|Monsters]] can be represented with tokens or similar objects on this battle map.
+
+Battle maps can be virtual or physical, depending on the medium of play.
 
 ## Action Types and Timing
 Each turn takes approximately 10 seconds in game.
