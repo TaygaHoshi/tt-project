@@ -124,10 +124,9 @@ Sleeping has stricter requirements. Alongside the resting requirements, a charac
 1. They have a place to sleep.
 2. They are wearing clothing, robes or light armor.
 
-Resting and sleeping, normally, have the following benefits:
-1. Characters heal 10 health per hour while sleeping, up to the their base health.
-2. Similarly, 2 points of energy regenerates per hour while sleeping, up to the character's base energy.
-3. While only resting, these regeneration rates are halved.
+Sleeping and resting, normally, have the following benefits:
+1. While sleeping, you regenerate 10 health per hour and 2 energy per hour until level 5. Starting from level 5, you regenerate 3 energy per hour instead. 
+2. While only resting, you regenerate 5 health and 1 energy per hour.
 
 However, not all damage and status effects can be healed this way. What makes sense and what does not is left primarily to the GM.
 
