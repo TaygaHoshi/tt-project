@@ -5,12 +5,12 @@ One handed weapons are divided into two: heavy weapons and light weapons. Light 
 
 | Weapon         | Damage | Weapon Precision | Range | Initiative Bonus |
 | -------------- | :----: | :--------------: | :---: | :--------------: |
-| Hatchet        |   25   |        0         |  1m   |        -         |
-| Curved Sword   |   20   |        1         |  1m   |        -         |
-| Throwing Spear |   20   |        0         |  1m   |        -         |
-| Scepter        |   20   |        0         |  5m   |        -         |
-| Wand           |   20   |        0         |  5m   |        -         |
-| Shortsword     |   20   |        1         |  1m   |        -         |
+| Hatchet        |   25   |        0         |  1m   |                  |
+| Curved Sword   |   20   |        1         |  1m   |                  |
+| Throwing Spear |   20   |        0         |  1m   |                  |
+| Scepter        |   20   |        0         |  5m   |                  |
+| Wand           |   20   |        0         |  5m   |                  |
+| Shortsword     |   20   |        1         |  1m   |                  |
 | Dagger         |   15   |        1         |  1m   |        +1        |
 | Unarmed        |   10   |        1         |  1m   |        +1        |
 

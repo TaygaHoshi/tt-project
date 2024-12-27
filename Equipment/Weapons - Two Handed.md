@@ -5,15 +5,15 @@ Two handed weapons have three weapon attacks.
 
 | Weapon           | Damage | Weapon Precision | Range | Initiative Bonus |
 | ---------------- | :----: | :--------------: | :---: | :--------------: |
-| Glaive           |   30   |        0         |  2m   |        -         |
-| Spear            |   25   |        1         |  2m   |        -         |
-| Two-handed sword |   25   |        1         |  1m   |        -         |
-| War hammer       |   20   |        0         |  1m   |        -         |
-| Staff            |   20   |        1         |  10m  |        -         |
-| Longbow          |   20   |        0         |  15m  |        -         |
-| Crossbow         |   25   |        1         |  10m  |        -         |
+| Glaive           |   30   |        0         |  2m   |                  |
+| Spear            |   25   |        1         |  2m   |                  |
+| Two-handed sword |   25   |        1         |  1m   |                  |
+| War hammer       |   20   |        0         |  1m   |                  |
+| Staff            |   20   |        1         |  10m  |                  |
+| Longbow          |   20   |        0         |  15m  |                  |
+| Crossbow         |   25   |        1         |  10m  |                  |
 | Shortbow         |   15   |        1         |  10m  |        +1        |
-| War drums        |   0    |        0         |  10m  |        +1        |
+| War drums        |   0    |        0         |  15m  |                  |
 
 ---
 ## Glaive
@@ -136,9 +136,9 @@ Two handed weapons have three weapon attacks.
 	+ Allies who are unable to hear are not affected by war drums. 
 	+ Being stunned, falling or going prone, diving underwater or becoming unavailable to use techniques in any way stops the bonuses granted by this weapon. 
 + (Rapid action) "Empowering"
-	+ Radius: 10 meters
+	+ Radius: 15 meters
 	+ All other allies within radius gain a (5 + P/3) bonus to their damage with single target damaging abilities until your next turn. 
 	+ This bonus doesn't affect harming status effects such as bleeding and burning.
 + (Rapid action) "Invigorating"
-	+ Radius: 10 meters
+	+ Radius: 15 meters
 	+ All other allies within radius gain (5 + C/3) temporary health until your next turn.

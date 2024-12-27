@@ -5,11 +5,11 @@ All weapon attacks tagged (Prepared) are prepared actions and they require the w
 
 | Weapon       | Parry | Warding | Physical Armor | Magical Armor | Weapon Precision | Initiative |
 | ------------ | :---: | :-----: | :------------: | :-----------: | :--------------: | :--------: |
-| Shield       |   1   |    -    |       5        |       -       |        0         |     -1     |
-| Focus        |   -   |    1    |       -        |       5       |        0         |     -1     |
-| Charm        |   -   |    -    |       -        |       -       |        1         |     -      |
-| Warhorn      |   -   |    -    |       -        |       -       |        0         |     -      |
-| Light Weapon |   -   |    -    |       -        |       -       |        0         |     -      |
+| Shield       |   1   |         |       5        |               |        0         |     -1     |
+| Focus        |       |    1    |                |       5       |        0         |     -1     |
+| Charm        |       |         |                |               |        1         |            |
+| Warhorn      |       |         |                |               |        0         |            |
+| Light Weapon |       |         |                |               |        0         |            |
 
 ---
 ## Shield

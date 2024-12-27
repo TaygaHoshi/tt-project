@@ -8,7 +8,7 @@ This equipment protects its wearer from physical and magical damage, depending o
 | Robes      |                |       5       |     +1     |               |   +1    |
 | Light      |       5        |               |            |               |         |
 | Adventurer |       5        |       5       |            |      -1       |   -1    |
-| Heavy      |       10       |               |            |      -2       |   -2    |
+| Heavy      |       10       |               |     -1     |      -2       |   -2    |
 
 ## Temporary Armor
 Additional armor can be gained through spells and abilities which grant temporary armor. Rules of temporary armor can be found in the [[Status Effects]] page.
