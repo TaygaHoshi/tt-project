@@ -23,7 +23,7 @@ You are proficient in one instrument, which you start with in your inventory, re
 ## Resonance
 Whenever you successfully perform a technique that targets only one creature, you gain resonance for 1 minute. You can spend your resonance as a rapid action to deal 5 magical damage to a creature you can touch.
 
-Resonance does not stack, and you can only gain it once per round. Upkeeping poems count as one technique. 
+Resonance does not stack, and you can only gain it once per round. Upkeeping poems does not count as a technique, only the initial application is considered one. 
 
 ---
 # Techniques
@@ -38,10 +38,10 @@ Resonance does not stack, and you can only gain it once per round. Upkeeping poe
 
 ## Improve Appearance
 **Category:** Utility
-**Execution Time:** Action
+**Execution Time:** 5 minutes
 **Cost:** 2 energy
 **Range:** 5 meters
-**Duration:** (5 + C/2) minutes
+**Duration:** (10 + C) minutes
 **Effect**
 	Grant your target a +1 bonus to the next social skill roll or meeting roll. 
 
