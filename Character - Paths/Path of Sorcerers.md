@@ -20,7 +20,7 @@ Whenever you fail a precision roll, you can sacrifice 5 health to increase that 
 In addition, whenever you spend any amount of energy, you are healed for that amount.
 
 ## Equivalent Exchange
-At the start of a round, you can sacrifice 5 health to gain 10 temporary health for that round.
+At the start of a round, you can sacrifice 5 health to gain 10 temporary health for that round. This effect is clearly visible to other creatures.
 
 ---
 # Techniques
@@ -41,16 +41,18 @@ At the start of a round, you can sacrifice 5 health to gain 10 temporary health 
 ## Spread Curses
 **Category:** Offense
 **Execution Time:** Action
-**Cost:** 5 health
+**Cost:** 10 health
+**Range:** 5 meters
+**Radius:** (1 + C/3) meters
 **Duration:** Special
 **Effect**
-	This spell's precision roll is made against Constitution. 
-	Debilitating and harmful status effects you are affected by spreads to the creatures adjacent to you with their remaining durations.
+	This spell's precision rolls are made against Constitution. 
+	Debilitating and harmful status effects that the target creature is affected by spreads to the creatures within the radius around it with their remaining durations. You can choose to reduce the radius of this ability when you use it, to a minimum of 1 meter.
 
 ## Spy Object
 **Category:** Utility
 **Execution Time:** Full-turn action
-**Cost:** 10 health
+**Cost:** 4 energy
 **Duration:** (1 + C/2) hours
 **Effect**
 	Bestow a small object magical eyes or ears, and you can use it as an additional sensory organ. You can still use your eyes and ears while this technique is active.
