@@ -16,12 +16,11 @@ One handed weapons are divided into two: heavy weapons and light weapons. Light 
 
 ---
 ## Hatchet (Heavy)
++ Slash
+	+ Deals 25 physical damage.
+	+ Ignores temporary armor.
 + Chop
-	+ Deals 25 physical damage.
-+ Heavy Chop
-	+ Ignores weapon precision. 
-	+ Deals 25 physical damage.
-	+ Ignores temporary armor and armor gained from wielded shields.
+	+ Deals 20 physical damage, ignoring physical armor up to 10.
 
 ## Curved Sword (Heavy)
 + Slash
