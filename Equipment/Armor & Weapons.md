@@ -22,6 +22,14 @@ Weapons are what creatures use to hit their foes. Most creatures with body parts
 ## Basic Weapon Attacks
 Some abilities may include a phrase similar to "doing a basic weapon attack". This means using the regular attack of a weapon, which is almost always the first active ability. 
 
+## Improvised Weapons
+Some objects can be used as de facto weapons, at the GM's discretion. These objects can be used to perform a basic weapon attack and when making a precision roll with an improvised weapon, it breaks if the roll of the d10 is 3 or below, but the damage is still applied if the attack hits. There are two general sizes of improvised weapons:
+
+| Size  | Damage   | Throwable | Weapon Precision |
+| ----- | -------- | --------- | ---------------- |
+| Small | d10 + 5  | Yes       | 0                |
+| Large | d10 + 10 | No        | -1               |
+
 ## Weapon Sets
 Weapon sets are helpful guides used primarily during character creation. If you take a bow, you will also get a quiver and 30 basic arrows/bolts. If you choose the throwing spear, you can take up to five spears. Extra spears take up space and require a quiver. A weapon set is any of these:
 1. A one handed weapon and an off-hand weapon.
