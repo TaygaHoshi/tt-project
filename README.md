@@ -34,17 +34,17 @@ Alternatively, you can go to your fork repository and press "." (dot). This open
 # Project Structure
 ```
 ├── Assets
-├── Character - Paths
 ├── Character - Branches
-├── Content -> Pages for gameplay mechanics and game content
-├── Equipment -> Weapons and armors
+├── Character - Paths
+├── Content
+├── docs
+├── Equipment
 ├── Items & Consumables
-├── Monsters -> Sample NPC templates and stat blocks
+├── Monsters
 ├── INTRODUCTION.md -> Starting point
-├── LICENCE.md -> Full licence text
-├── README.md -> You are here!
-├── RESOURCES.md -> Links, books, articles, videos, posts and sources about the inspirations of Sigil
-└── VERSIONING.md -> Information about how this project is versioned
+├── LICENCE.md
+├── README.md -> You are here
+└── RESOURCES.md
 ```
 
 # Licence
