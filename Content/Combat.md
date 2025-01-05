@@ -185,11 +185,18 @@ When the party ambushes or gets ambushed by one or more foes, the ambushed side 
 + Minions gain potency bonus to their damage normally, according to their relevant potency stat.
 + Minions don't use energy and energy for their skills, unless specified otherwise.
 
+## Transforming
+When a creature transforms into another, several rules should be followed:
++ A creature can only use the abilities of what it transformed into, and its stats are set to the stats of the new form. Status effects or abilities with durations are unaffected by transforming. 
++ When returning to the original form, a creature's health is set to what it was before the transformation. Going below 0 health does not break the transformation. See: [[Combat#Death|death]].
++ If a creature is unwillingly transformed during its own turn, the turn immediately ends.
++ If the new form is too large or small for the environment, the creature takes 5 armor-ignoring damage and the transformation fails.
+
+
 ## Mounted Combat
 #TODO 
 
-## Transformation and Transforming
-#TODO 
+
 
 ## Player versus Player
 #TODO 
