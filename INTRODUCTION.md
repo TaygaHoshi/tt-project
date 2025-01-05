@@ -1,5 +1,5 @@
 # Introduction
-Sigil of Uchma is a work-in-progress fantasy tabletop role playing game based on a hypothetical medieval Central Asian society, based primarily on Gokturks and secondarily on other cultures within the area. The name is a reference to historical usage of [Nazar amulets](https://en.wikipedia.org/wiki/Nazar_(amulet)). Currently, the game is in alpha state. This means it is not ready for running campaigns yet.
+Sigil of Uchma is a work-in-progress fantasy tabletop role playing game based on a hypothetical medieval Central Asian society, based primarily on Gokturks and secondarily on other cultures within the area. The name is a reference to historical usage of [Nazar amulets](https://en.wikipedia.org/wiki/Nazar_(amulet)). Currently, the game is not ready for running campaigns yet.
 
 Sigil of Uchma is played with a game master (GM) and one or more players. The GM builds and runs a campaign, enforces the rules of the game, applies or creates resolution mechanics as necessary, and controls the non-player characters (NPCs). Players, on the other hand, are responsible from their characters, which are called player characters (PCs). Each player is assumed to bring only one PC. With the use of their characters, players can explore places, fight foes, deceive or help NPCs, take on quests, collect items and go on adventures.
 
@@ -23,6 +23,15 @@ This game has owl vampires, charming snake-humans, Central Asia themed spells an
 
 **Soft mechanics and rules for role playing:**
 Sigil of Uchma is a simplified take on modern TTRPGs. Exploration, inventory management, economy, traveling, interactions with NPCs and similar activities mostly have only general rules and suggestions. Many cases of moment-to-moment decision making outside combat is left to common sense and imagination.
+
+# Release Cycle
+Sigil of Uchma is versioned using a simple release cycle consisting of the following stages:
+1. Alpha (v1-a)
+2. Beta (v1-b)
+3. Feature freeze (v1-f)
+4. Full version release (v1)
+
+Sigil is currently in alpha.
 
 # Contributors & Contract Information
 You can contact me through GitHub or Discord. The aforementioned [feedback form](https://forms.gle/7NwTYqGUWpBfBWNg8) is the best way for reaching me. Please do not contact anyone other than me in this section.
