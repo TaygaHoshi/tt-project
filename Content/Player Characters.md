@@ -101,8 +101,7 @@ See: [[sigil-of-uchma/Content/Combat#Movement|Movement]].
 See: [[sigil-of-uchma/Content/Combat#Turn Order|Turn Order]].
 Each player character has a base initiative of 0. This changes with equipment like armor and some abilities affect it.
 
-## Starter Equipment
-Each player character can choose a starting equipment:
+## Starter EquipmentEach player character can choose a starting equipment:
 + Any [[Armor & Weapons#Armor Types and Armor Rating|armor type]] of their choosing
 + Two of any [[Armor & Weapons#Weapon Sets|weapon sets]]
 + #TODO 
@@ -112,6 +111,9 @@ See: [[sigil-of-uchma/Content/Skills|Skills]]
 Skills are miscellaneous abilities of a character.
 
 ---
+## Leveling Up
+#TODO 
+
 ## Resting and Sleeping
 Usually, a character requires 6 to 8 hours of sleep per day. Not getting proper sleep for a night gives a character one stack of fatigue. Skipping sleep while having 5 stacks of fatigue is lethal and the character dies. While it is usually the best to sleep at night, it is not rare to see parties resting during the day. When the players decide the party should rest or sleep, they must declare this to the GM. In the case of just resting, the players should also explain what their characters will be doing while resting. In this case, the GM can determine whether or not these activities are allowed as a part of resting.
 
@@ -130,6 +132,32 @@ Sleeping and resting, normally, have the following benefits:
 
 However, not all damage and status effects can be healed this way. What makes sense and what does not is left primarily to the GM.
 
-## Leveling Up
+## Traveling
+When moving between points of interest with large distances between them, a player character can usually walk 25 kilometers in a day, from early morning to sunset. This is called "travel speed". If all members of a party is traveling on horseback or with a carriage, travel speed is doubled. There are various conditions that may affect the distance:
+1. Particularly good routes such as paved roads and good weather increase travel speed by 10 kilometers.
+2. Difficult routes and especially bad weather reduce travel speed by 10 kilometers each, depending on the conditions.
+3. [[Player Characters#Encumbrance|Encumbrance]] also affects travel speed, explained in the next section. 
+4. Minimum travel speed is 5 kilometers on foot and 15 kilometers on horseback or with a carriage. Below this, travel using that route is considered impassable.
+
+
+## Inventory Management
+A player character can keep some items on their person. 
+
+When a player character wants to put an item into their inventory and it is not easy to see how they would achieve this, the player has to briefly explain their reasoning to other players and the GM. 
+
+### Containers
+In some cases, properties of an object might be as important as its size and weight. A thin rope might not have that much mass but it is difficult to carry around as it might unravel. Containers help with items like this. 
+
+There are many items that can act as a container: backpacks, pouches, boxes, belts, leather straps and more. 
+
+### Quick Access Slots
+Not every object can be accessed with the same speed. A bedroll deep in a backpack might take several minutes to take out, while a small flask of potion hanging from the backpack can be used almost immediately. This means only items in quick access slots can be used with [[Special Actions#Use Item|use item]] special action. 
+
+Each player character has two quick access slots by default, and can place suitable items in them. Some containers might grant more slots, but a character can have 5 quick access slots at most. 
+
+### Equipment
+A player character can wear one set of [[Armor & Weapons#Armor Types and Armor Rating|armor]] and equip two [[Armor & Weapons#Weapon Sets|weapon sets]]. 
+
+### Encumbrance
 #TODO 
 

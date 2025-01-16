@@ -100,7 +100,7 @@
 # Use Item
 **Execution time:** Action
 **Explanation:** 
-	You use a usable item from your inventory.
+	You use a [[Player Characters#Inventory Management#Quick Access Slots|quick access item]] from your inventory.
 	This action can be used to apply a potion on an adjacent target.
 
 
