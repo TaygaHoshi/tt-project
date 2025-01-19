@@ -57,9 +57,9 @@ Pets can take a variety of forms, but they fall into the main categories below:
 **Category:** Utility
 **Execution Time:** Action
 **Cost:** Special
-**Duration:** Special
+**Duration:** (20 + 10 x C) minutes
 **Effect**
-	Your pet helps you or another creature search or find an item of a certain description by using its sense of smell, sight, hearing or touch. Your pet assists the searching creature for the duration of search. For each point of energy spent on this technique, the next relevant skill roll gains a +1 bonus. You can spend energy up to your control. 
+	Your pet helps you or another creature search or find an item of a certain description by using its sense of smell, sight, hearing or touch. Your pet assists the search for the duration. For each point of energy spent on this technique, the next relevant skill roll gains a +1 bonus.
 
 ## Go For Eyes
 **Category:** Modification
