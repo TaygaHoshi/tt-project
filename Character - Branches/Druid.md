@@ -39,7 +39,7 @@
 **Duration:** (1 + C/2) hits
 **Effect**
 	(Projectile)
-	A powerful arc of lightning leaves your hand and strikes your target, dealing 10 magical damage and applying electrified for the duration.
+	A powerful arc of lightning leaves your hand and strikes your target, dealing 10 magical damage and applying electrified for the duration. If you fail the precision roll, the lightning hits the conductive object or soaked creature nearest your target within your line of sight, including yourself.
 
 ## Earthquake
 **Category:** Offense
@@ -47,7 +47,7 @@
 **Cost:** 4 energy
 **Radius:** (20 + P) meters
 **Effect**
-	 This ability does not require precision rolls.
+	 This ability does not require any precision roll.
 	 Create a small earthquake centered around you, making every non-flying and unsuspecting creature within radius fall prone. Small structures and similar constructs within radius, depending on their strength, become destroyed or damaged.
 
 ## Rain
