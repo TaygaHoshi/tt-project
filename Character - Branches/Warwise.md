@@ -6,6 +6,9 @@ You can keep the whole battlefield in your mind as a mental image:
 1. You can't be ambushed by non-magical means. You can take the Speak special action to alert your allies, ending their ambushed status. 
 2. As long as you clearly hear or see a creature once, you can track their location within a 25 meter radius for up to 1 hour from the last time you hear or see it.
 
+## Backup Plan
+If you fail all of the precision rolls of a damaging weapon attack, you can spend 2 energy to instead use a non-damaging ability in its place.
+
 # Techniques
 ## Adapt to Environment
 **Category:** Modification
@@ -25,14 +28,6 @@ You can keep the whole battlefield in your mind as a mental image:
 	You can choose to activate this technique when you take any full-turn action other than the Charge special action.
 	You can move up to (2 + C/3) meters before taking that action.
 	This ability can be used alongside Improved Aiming. 
-
-## Backup Plan
-**Category:** Modification
-**Execution Time:** Special
-**Cost:** 2 energy
-**Range:** Weapon range
-**Effect**
-	You can use this technique as a part of a damaging weapon attack. If you fail your precision roll with this attack, your attack is cancelled and you can instead take a non-damaging action.
 
 ## Disarm
 **Category:** Weapon attack
