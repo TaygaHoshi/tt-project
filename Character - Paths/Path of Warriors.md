@@ -59,7 +59,7 @@ Your *critical training* is perfected, allowing you to apply the bonus damage on
 **Cost:** 2 energy
 **Range:** 1 meter
 **Effect**
-	You can choose to activate this ability when you use a prepared action. This prepared action can trigger twice instead of once. You can instead spend double the energy cost to have your prepared action trigger three times instead.
+	You can choose to activate this ability when you use a prepared action. This prepared action can trigger twice instead of once. You can instead spend 4 energy to have your prepared action trigger three times.
 
 ## Extend Preparation
 **Category:** Modification
