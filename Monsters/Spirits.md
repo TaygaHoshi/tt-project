@@ -47,6 +47,7 @@ Creates a burning area around this spirit, dealing 10 magical damage to all crea
 <tr>
 <td colspan="4"><i>Flame Wall</i> - Rapid action, technique
 This attack's precision rolls are made against Constitution.
+Range: 3 meters.
 Burns an empty 1 square meter area, which stays alight for 1 round. This area deals 10 magical damage whenever a creature passes through it.
 </td>
 </tr>
@@ -100,6 +101,57 @@ This spirit creates a whip of water, and pushes or pulls the target for up to tw
 </tr>
 </table>
 
+---
+<table style="width: 100%; max-width: 720px; border-style: inset;">
+<tr>
+<th>Lesser Metal Spirit</th>
+<td colspan="3">Level 2 - Minion</td>
+</tr>
+<tr style="border-bottom: solid 2px"><td colspan="4">To do: add lore</td></tr>
+<tr>  
+<td><b>Health:</b> 80</td>  
+<td colspan="2"><b>Movement:</b> 4 meters</td>  
+<td><b>Initiative:</b> -2</td>  
+</tr>
+<tr style="border-bottom: dashed 2px">
+<td><b>Potency:</b> 2</td> 
+<td><b>Control:</b> 0</td> 
+<td colspan="2"><b>Precision Roll:</b> d10 + 2</td> 
+</tr>
+<tr>
+<td><b>Parry:</b> 8</td>  
+<td><b>Warding:</b> 5</td>  
+<td><b>Constitution:</b> 5</td>  
+<td><b>Evasion:</b> 5</td>  
+</tr>
+<tr style="border-bottom: solid 2px">  
+<td colspan="1"><b>Physical Armor:</b> 10</td>
+<td colspan="1"><b>Magical Armor:</b> 0</td>
+<td colspan="2"><b>Weapon:</b> Metal body</td>
+</tr>
+<tr>
+<td colspan="4"><i>Metal Affinity</i> - Passive
+Damage from burning ignores the armor of this creature.
+</td>
+</tr>
+<tr>
+<td colspan="4"><i>Slash</i> - Action, basic weapon attack
+Deals 25 physical damage.
+</td>
+</tr>
+<tr>
+<td colspan="4"><i>Shoot Shards</i> - Action, weapon attack
+This attack's precision rolls are made against Evasion.
+Range: 5 meters.
+This spirit creates various shapes from metal and shoots them at its target, dealing 15 physical damage.
+</td>
+</tr>
+<tr>
+<td colspan="4"><i>Metalskin</i> - Rapid action, technique
+This spirit gains 6 temporary physical armor for 2 rounds, but becomes immobilized until this temporary armor breaks.
+</td>
+</tr>
+</table>
 
 ---
 <table style="width: 100%; max-width: 720px; border-style: inset;">
