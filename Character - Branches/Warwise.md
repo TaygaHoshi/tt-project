@@ -7,7 +7,7 @@ You can keep the whole battlefield in your mind as a mental image:
 2. As long as you clearly hear or see a creature once, you can track their location within a 25 meter radius for up to 1 hour from the last time you hear or see it.
 
 ## Backup Plan
-If you fail all of the precision rolls of a damaging weapon attack, you can spend 2 energy to instead use a non-damaging ability in its place.
+You can use this ability as a part of a damaging weapon attack by spending 2 energy. If you fail all of the precision rolls of this attack, you can instead use a non-damaging ability in its place.
 
 # Techniques
 ## Adapt to Environment
@@ -19,15 +19,6 @@ If you fail all of the precision rolls of a damaging weapon attack, you can spen
 	As a part of the Speak special ability, you can tell your allies how to adapt to their current environment, for the duration of this technique:
 	1. Allies ignore the penalties of attacking from low ground. 
 	2. Allies attacking from high ground gain bonus damage equal to half your level, with a minimum of 1. 
-
-## Improved Maneuvering
-**Category:** Modification
-**Execution Time:** Special
-**Cost:** 2 energy
-**Effect**
-	You can choose to activate this technique when you take any full-turn action other than the Charge special action.
-	You can move up to (2 + C/3) meters before taking that action.
-	This ability can be used alongside Improved Aiming. 
 
 ## Disarm
 **Category:** Weapon attack
@@ -47,6 +38,15 @@ If you fail all of the precision rolls of a damaging weapon attack, you can spen
 **Duration:** (1 + C/2) rounds
 **Effect**
 	Study your target, applying Exposed for the duration of this technique.
+
+## Improved Maneuvering
+**Category:** Modification
+**Execution Time:** Special
+**Cost:** 2 energy
+**Effect**
+	You can choose to activate this technique when you take any full-turn action other than the Charge special action.
+	You can move up to (2 + C/3) meters before taking that action.
+	This ability can be used alongside Improved Aiming.  
 
 ## Insight
 **Category:** Utility
