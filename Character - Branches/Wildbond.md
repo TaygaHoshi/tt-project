@@ -28,7 +28,7 @@ Pets can take a variety of forms, but they fall into the main categories below:
 3. Precision roll: d10 + level/2
 4. Resistances: Start with 5 and increase by 1 every odd level
 5. Basic weapon attack:
-	Range: 5 meters
+	Range: 5 meters. 
 	Deals 15 physical/magical damage.
 
 **Scout Pets**

@@ -56,7 +56,7 @@ Each place corresponds to exactly one element, and an effect gained from this ab
 **Duration:** (1 + C/2) rounds
 **Effect**
 	This technique's precision roll is made against Evasion.
-	Skin of a creature you can touch becomes enhanced with the metal element, gaining (5 + P/2) temporary physical armor. Alternatively, you can spend 4 energy and grant double the temporary armor. This creature is immobilized while this technique is active. When this temporary armor breaks, the technique ends. It can be dismissed by you freely.
+	Skin of a creature you can touch becomes enhanced with the metal element, gaining (5 + P/2) temporary physical armor. Alternatively, you can spend 4 energy and grant double the temporary armor. This creature is immobilized while this technique is active. When this temporary armor breaks, it rusts away and the technique ends. It can be dismissed by you freely.
 
 ## Rain
 **Category:** Utility
