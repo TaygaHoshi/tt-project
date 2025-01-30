@@ -36,7 +36,7 @@ Whenever you successfully heal a hostile or unwilling creature, you are healed f
 ## Fate Reversal
 **Category:** Utility
 **Execution Time:** Action 
-**Cost:** 2 energy
+**Cost:** 3 energy
 **Range:** 5 meters
 **Effect**
 	Choose two targets. 
@@ -63,7 +63,7 @@ Whenever you successfully heal a hostile or unwilling creature, you are healed f
 ## Purification
 **Category:** Defense
 **Execution Time:** Rapid action
-**Cost:** 1 energy
+**Cost:** 2 energy
 **Range:** 5 meters
 **Effect**
 	Choose a creature. This creature is cleansed of a harmful status effect of your choosing.
