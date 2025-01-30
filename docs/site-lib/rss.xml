@@ -1,0 +1,812 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[SigilOfUchma]]></title><description><![CDATA[Obsidian digital garden]]></description><link>https://sigil.tyghsh.cc</link><image><url>https://sigil.tyghsh.cc/site-lib/media/favicon.png</url><title>SigilOfUchma</title><link>https://sigil.tyghsh.cc</link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Thu, 30 Jan 2025 15:09:58 GMT</lastBuildDate><atom:link href="https://sigil.tyghsh.cc/site-lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Thu, 30 Jan 2025 15:09:42 GMT</pubDate><copyright><![CDATA[TaygaHoshi]]></copyright><ttl>60</ttl><dc:creator>TaygaHoshi</dc:creator><item><title><![CDATA[Channeling]]></title><link>https://sigil.tyghsh.cc/sigil-of-uchma/character-branches/channeling.html</link><guid isPermaLink="false">sigil-of-uchma/Character - Branches/Channeling.md</guid><dc:creator><![CDATA[TaygaHoshi]]></dc:creator><pubDate>Thu, 30 Jan 2025 15:06:50 GMT</pubDate></item><item><title><![CDATA[Path of Warriors]]></title><description><![CDATA[Many professions require extensive training with weapons and armor: soldiers of a tribe, bounty hunters, assassins and more. Some of them are lone wolves who rely only on brute force, some know a difficult task requires strong allies and some can even use magic. However, they have one common trait: they are very skilled when it comes to down to combat.Your base health is 80.If you roll a 10 on a precision roll's d10 with a damaging ability, it gains a (5 + P/2) bonus to its damage. You can spend 2 energy to apply this bonus damage on a roll of 8 or higher. This can happen multiple times per turn.Your critical training ability regenerates 1 energy if you successfully hit with your ability. Your critical training improves. When you spend energy on it, you can apply the bonus damage on a roll of 7 or higher instead. Additionally, you have a +2 bonus to all resistances against abilities which disarm you.When you gain temporary armor of one type, you also gain an equal amount of the other type for the same duration. You are immune to any type of armor piercing while you have temporary armor.Your critical training is perfected, allowing you to apply the bonus damage on a precision roll of 6 or higher instead of 7 or higher when spending energy on it. Category: Modification
+Execution Time: Special
+Cost: 3 energy
+Duration: 1 round
+Effect
+This attack's precision roll is made against Constitution.
+You can choose to activate this technique when you take the Charge special action.
+At the end of this charge, your attack additionally stuns the target for the duration.Category: Modification
+Execution Time: Special
+Cost: 1 energy
+Duration: 1 round
+Effect
+As a part of a basic weapon attack with a melee weapon, you can choose to activate this ability, except for the Charge special action.
+Choose a resistance. You gain a (1 + C/3) bonus to this resistance against attacks from this target for 1 round.Category: Modification
+Execution Time: Special
+Cost: 2 energy
+Range: 1 meter
+Effect
+You can choose to activate this ability when you use a prepared action. This prepared action can trigger twice instead of once. You can instead spend 4 energy to have your prepared action trigger three times.Category: Modification
+Execution Time: Special
+Cost: 1 energy
+Effect
+You can choose to activate this ability when you use a prepared action. This prepared action lasts until your next turn.Category: Modification
+Execution Time: Special
+Cost: 1 energy
+Range: Weapon range
+Effect
+You can choose to activate this ability when you attempt a basic melee weapon attack. If this attack misses, you deal damage equal to your potency.Category: Weapon attack
+Execution Time: Action
+Cost: 2 energy
+Range: Weapon range
+Duration: (1 + C/3) rounds
+Requirements:
+Any melee weapon in main hand.
+Effect
+This attack's precision roll is made against Constitution.
+Deals half weapon damage.
+Applies slowed for the duration.Category: Modification
+Execution Time: Special
+Cost: 1 energy
+Range: Double weapon range
+Effect
+As a part of a basic weapon attack with weapon, you can choose to activate this ability.
+If this attack is a melee attack, its range is doubled.
+If this attack is a ranged attack, its range is increased by (1 + C/2) meters.Category: Weapon attack
+Execution Time: Action
+Cost: 2 energy
+Range: 1 meter
+Effect
+Ignores weapon precision.
+Tackle your target, making them fall prone and dealing 10 damage.]]></description><link>https://sigil.tyghsh.cc/sigil-of-uchma/character-paths/path-of-warriors.html</link><guid isPermaLink="false">sigil-of-uchma/Character - Paths/Path of Warriors.md</guid><dc:creator><![CDATA[TaygaHoshi]]></dc:creator><pubDate>Thu, 30 Jan 2025 15:06:30 GMT</pubDate></item><item><title><![CDATA[Path of Shamans]]></title><description><![CDATA[Your base health is 60.By spending 2 energy you can pray for a creature's well-being as an action, healing them for (10 + P). You can then continue your prayers as a rapid action, healing the creatures adjacent to that creature for half that. Whenever you successfully heal a hostile or unwilling creature, you are healed for the amount of health it gained.Category: Utility
+Execution Time: Rapid action
+Cost: 2 energy
+Range: 5 meters
+Duration: 1 minutes
+Effect
+You grant an ally either protective foresight or predictive foresight for the duration.Category: Utility
+Execution Time: Action
+Cost: 3 energy
+Range: 5 meters
+Effect
+Choose two targets.
+All status effects on the first target have their durations reduced by 1. Then, these status effects are applied to the second target.Category: Utility
+Execution Time: Rapid action
+Cost: 2 energy
+Range: 5 meters
+Effect
+Link yourself with a willing creature. Whenever that creature takes damage to its health, you take half of it in their stead. Damage you receive from this technique ignores your armor.
+You can break this link during your turns without any actions. The link breaks if that creature gets out of this technique's range.Category: Defense
+Execution Time: Action
+Cost: 2 energy
+Range: 5 meters
+Duration: (1 + C/2) rounds
+Effect
+Choose a creature, heal them for (5 + P/2) and apply protected for the duration.Category: Defense
+Execution Time: Rapid action
+Cost: 2 energy
+Range: 5 meters
+Effect
+Choose a creature. This creature is cleansed of a harmful status effect of your choosing.Category: Utility
+Execution Time: Special
+Cost: 2 energy
+Effect
+Touch two willing creatures. You can transfer up to 4 energy from one to the other. This technique takes 1 minute to cast for each point of energy transferred.]]></description><link>https://sigil.tyghsh.cc/sigil-of-uchma/character-paths/path-of-shamans.html</link><guid isPermaLink="false">sigil-of-uchma/Character - Paths/Path of Shamans.md</guid><dc:creator><![CDATA[TaygaHoshi]]></dc:creator><pubDate>Thu, 30 Jan 2025 14:52:34 GMT</pubDate></item><item><title><![CDATA[Druid]]></title><description><![CDATA[Druids are not just "tree magicians" or "wild magicians", a powerful druid has control over each of the five elements the material world offers: earth, metal, fire, water and, of course, nature. This connection to the environment isn’t passive either: druids must constantly journey across the world, uncovering the countless ways these elements manifest. Earth can be fertile or barren; metal is hard but malleable to many shapes; fire scares animals but some tribes worship it; water sustains life but has the power to flood entire cities; and nature is both nurturing and merciless.A druid is always in harmony with the elements in their environment. When a druid spends more than an hour in an environment, they receive one of the following effects depending on where they are:
+Earth: Mountains, caves or underground. +1 bonus to Warding and Constitution.
+Metal: Settlements or large battlefields. (3 + P/3) bonus to physical damage, once per turn.
+Fire: Deserts or volcanoes. (3 + P/3) bonus to magical damage, once per turn.
+Water: Sea, rivers, rainy or snowy places. +1 bonus to Parry and Evasion.
+Nature: Woods, plains or forests. +1 bonus to precision rolls for druid techniques. Each place corresponds to exactly one element, and an effect gained from this ability lasts until the environment changes significantly.Category: Offense
+Execution Time: 5 minutes
+Cost: 4 energy
+Radius: (20 + P) meters
+Effect
+This ability does not require any precision roll, even against unwilling creatures.
+Create a small earthquake centered around you, making every non-flying and unsuspecting creature within radius fall prone. Small structures and similar constructs within radius, depending on their strength, become destroyed or damaged.Category: Utility
+Execution Time: 1 hour
+Cost: 6 energy
+Radius: (50 + 5 x P) meters
+Duration: (7 + C) days
+Effect
+You spread your powers wide; improving, curing and growing nearby plants slightly. Plant creatures within radius gain 5 temporary physical armor for the duration. Category: Utility
+Execution Time: Full-turn action
+Cost: 4 energy
+Radius: (3 + P/2) meters
+Duration: (2 + C/2) hours
+Effect
+You can vaguely guide the natural features of the geography around you to change shape. After half of this technique's duration has passed, the geography starts slowly returning to its original shape. While performing this technique, you can choose to spend double the energy cost instead. In this case, the technique requires 1 hour of uninterrupted casting but its effects stay permanent. Category: Offense
+Execution Time: Action
+Cost: 2 energy
+Range: 5 meters
+Duration: (1 + C/2) hits
+Effect
+(Projectile)
+A powerful arc of lightning leaves your hand and strikes your target, dealing 10 magical damage and applying electrified for the duration. If you fail the precision roll, the lightning hits the conductive object or soaked creature nearest your target within your line of sight, including yourself.Category: Defense
+Execution Time: Rapid action
+Cost: 2 energy
+Duration: (1 + C/2) rounds
+Effect
+This technique's precision roll is made against Evasion.
+Skin of a creature you can touch becomes enhanced with the metal element, gaining (5 + P/2) temporary physical armor. Alternatively, you can spend 4 energy and grant double the temporary armor. This creature is immobilized while this technique is active. When this temporary armor breaks, it rusts away and the technique ends. It can be dismissed by you freely.Category: Utility
+Execution Time: Full-turn action
+Cost: 4 energy
+Radius: 5 meters
+Duration: (2 + C/2) rounds
+Effect
+You generate a large and stationary rain cloud above you, and it starts to rain immediately. Any creature who moves into, out of or within the area below this cloud is soaked for one round unless it has cover from rain.
+Alternatively, you can choose to perform a wider and longer version of this technique. This requires 1 hour of uninterrupted casting. In this case, this rain cloud lasts for (2 + C/2) hours and affects a 50 meter radius area, which is considered a water environment for your element-enveloped ability.
+This technique can only be used outside or interiors with sufficient space.Category: Offense
+Execution Time: Full-turn action
+Cost: 6 energy
+Range: 5 meters
+Radius: (1 + C/3) meters
+Duration: (1 + C/2) hits
+Effect
+(Projectile)
+This technique's precision rolls are made against Evasion.
+The ground turns into blazing embers within this technique's radius for 10 minutes. Make a precision roll against creatures ending their turns within this area. On success, a creature starts burning for the duration of this technique.Category: Offense
+Execution Time: Action
+Cost: 2 energy
+Range: 1 meter
+Radius: (2 + C/2) meters
+Duration: 5 minutes
+Effect
+You grow a stationary and autonomous plant, which shoots needles to your foes within radius, right after your turn. It can shoot one needle per round, applying bleeding for 2 hit if it hits.
+This plant inherits your aptitudes. It has 10 health, and its resistances are equal to 5.
+A sprout created by this technique is immune to debilitating status effects.
+Sprouts you create do not count towards your summon limit, and you can have up to (1 + P/2) sprouts at any time.Category: Utility
+Execution Time: Action
+Cost: 4 energy
+Range: 5 meters
+Radius: 1 meter
+Duration: (2 + C/2) rounds
+Effect
+This technique's precision rolls are made against Evasion.
+Create an area of shifting, moving, waving and spiraling ground. Make a precision roll against any creature walking into or ending their turn within this area. On success, the creature falls prone.
+This area is light rough terrain.]]></description><link>https://sigil.tyghsh.cc/sigil-of-uchma/character-branches/druid.html</link><guid isPermaLink="false">sigil-of-uchma/Character - Branches/Druid.md</guid><dc:creator><![CDATA[TaygaHoshi]]></dc:creator><pubDate>Tue, 28 Jan 2025 17:31:28 GMT</pubDate></item><item><title><![CDATA[Path of Sorcerers]]></title><description><![CDATA[Your base health is 60.Whenever you fail a precision roll, you can sacrifice 5 health to increase that roll by one. You can do this multiple times per failed roll.In addition, whenever you spend any amount of energy, you are healed for that amount.At the start of a round, you can sacrifice 5 health to gain 10 temporary health for that round. This effect is clearly visible to other creatures.Category: Utility
+Execution Time: Action
+Cost: 2 energy
+Range: 1 meter
+Duration: (1 + C/4) hours
+Effect
+You can precisely manipulate a lifeless object smaller than (15 + C) cubic centimeters. You can apply one of the following:
+1. Change the shape.
+2. Shrink down to at most half size.
+3. Enlarge up to double size or 25 cubic centimeters, whichever is smaller.
+4. Cut or open holes.
+This object returns to its original shape and properties after the duration. This ability can't be used on magical items.Category: Offense
+Execution Time: Action
+Cost: 10 health
+Range: 5 meters
+Radius: (1 + C/3) meters
+Duration: Special
+Effect
+This spell's precision rolls are made against Constitution.
+Debilitating and harmful status effects that the target creature is affected by spreads to the creatures within the radius around it with their remaining durations. You can choose to reduce the radius of this ability when you use it, to a minimum of 1 meter.Category: Utility
+Execution Time: Full-turn action
+Cost: 4 energy
+Duration: (1 + C/2) hours
+Effect
+Bestow a small object magical eyes or ears, and you can use it as an additional sensory organ. You can still use your eyes and ears while this technique is active.
+As a rapid action, any creature suspecting a spy object nearby try to find one. Make a precision roll against this creature's Warding. If this roll fails, the creature notices this object.Category: Offense
+Execution Time: Action
+Cost: 2 energy
+Range: 5 meters
+Duration: (1 + C/2) rounds
+Effect
+This spell's precision roll is made against Constitution.
+Apply either sickened or diseased to the target creature for the duration of this technique.]]></description><link>https://sigil.tyghsh.cc/sigil-of-uchma/character-paths/path-of-sorcerers.html</link><guid isPermaLink="false">sigil-of-uchma/Character - Paths/Path of Sorcerers.md</guid><dc:creator><![CDATA[TaygaHoshi]]></dc:creator><pubDate>Tue, 28 Jan 2025 11:33:46 GMT</pubDate></item><item><title><![CDATA[Combat]]></title><description><![CDATA[
+Setting up the battle map
+Determining ambush for the first round
+Round start Start phase Calculate turn order for this round Action phase Players and NPCs take their turns in order, choosing and executing one of the following ordered groups: Move -&gt; Action and Rapid Action
+Action and Rapid Action -&gt; Move
+Move -&gt; Action and Prepared Action
+Action and Prepared Action -&gt; Move
+Move -&gt; Move (Running)
+Full-turn Action End phase Death, leaving combat and fleeing
+Conversing, discussing, bargaining End of round Return to round start if necessary. Combat has rules for resolving various situations that players and the GM might come across.A battle map is a grid of squares overlaid on top of a map, a sketch or a similar image depicting the location that the combat takes place in. Each square in a battle map is considered to be a 1 square meter area. Creatures such as <a data-href="Player Characters" href="https://sigil.tyghsh.cc/sigil-of-uchma/content/player-characters.html#_0" class="internal-link" target="_self" rel="noopener nofollow">Player Characters</a> and <a data-tooltip-position="top" aria-label="Introduction to Monsters" data-href="Introduction to Monsters" href="https://sigil.tyghsh.cc/sigil-of-uchma/monsters/introduction-to-monsters.html#_0" class="internal-link" target="_self" rel="noopener nofollow">Monsters</a> can be represented with tokens or similar objects on this battle map.Battle maps can be virtual or physical, depending on the medium of play.Each turn takes approximately 10 seconds in game.These are regular actions. Mostly, only one action can be taken during a turn.During a turn, one rapid action can be taken alongside a regular action.
+A rapid action is mutually exclusive with a prepared action. Only one of them can be taken during a turn.During a turn, one prepared action can be taken alongside a regular action.
+This kind of actions always come with a trigger, and they are always performed outside a character's turn.
+Prepared actions last until end of the current round, unless explicitly told otherwise.
+A prepared action is mutually exclusive with a rapid action. Only one of them can be taken during a turn.<br>These actions can be taken by any player character as long as they fulfill the requirements. See <a data-tooltip-position="top" aria-label="Special Actions" data-href="Special Actions" href="https://sigil.tyghsh.cc/sigil-of-uchma/content/special-actions.html#_0" class="internal-link" target="_self" rel="noopener nofollow">the list of special actions</a>.At the start phase of every round, turn order will be calculated for this round. There are several rules:
+Every creature in combat is ordered in terms of their initiative value from highest to lowest.
+Allies with same initiative value must determine who goes first beforehand. This can only be changed in the end phase during combat.
+If there are creatures with equal initiative in at least any two sides in the combat, the following rules are applied: The conflicting sides roll a d20 each.
+For conflicting turn order spots, higher rolling teams' members will go earlier than the lower rolling teams' members with the same initiative.
+If there is a draw, another set of d20s must be rolled between the drawing sides. A creature can only have one turn within one round, even if it is next in initiative order.
+Effects of abilities with a duration of one or more "hits" trigger and end during the recipient's turns: If a creature is bleeding for one hit, they will take bleeding damage at the start of their next turn and the bleeding ends. If the bleeding has a duration of two or more hits, then one hit will be spent when the bleeding damage happens. Effects of abilities with a duration of one or more "rounds" end at the start of the turns of their owners.
+<br>See: <a data-tooltip-position="top" aria-label="Battle Map" data-href="#Battle Map" href="https://sigil.tyghsh.cc/sigil-of-uchma/content/combat.html#Battle_Map_0" class="internal-link" target="_self" rel="noopener nofollow">Battle Maps</a>
+During combat, a creature can move within the battle map grid. There are various types of moving, which are explained below.Movement speed of a creature is equal to:
+(base movement speed + other bonuses) squares/round
+Base movement speed: Most creatures have a base movement speed of 6 by default.
+Walking is the simplest way of movement. a creature's walking speed is equal to its movement speed, normally. Instead of taking an action, a creature might "walk" twice. This is called "running" and unless specified otherwise, it is equal to double the walking speed.
+A running creature can't take actions, rapid actions, prepared actions or full-turn actions. If a creature can fly, their flight speed is equal to their walking speed unless specified otherwise. Flight speed can be used vertically or horizontally. However, ascending takes up 3 flight speed per meter ascended.
+A flying creature can't use its walking speed unless they land.
+If a creature is flying, they are unaffected by any effects on the ground, unless the effect is tall enough to reach it. There are two kinds of rough terrain: light and heavy. Walking or running through light rough terrain such as soft sand or shallow water takes up 2 walking speed per meter walked.
+Walking through heavy rough terrain such as quicksand takes up 3 walking speed per meter walked.
+Swimming, climbing and crawling are considered heavy rough terrain. Precision rolls determine whether a weapon attack, a technique or any other ability succeeds against an unwilling target. A precision roll is done against a resistance, such as Parry or Evasion. If the result of this roll exceeds or is equal to the resistance it is rolled against, the roll succeeds and the technique or attack connects. Additionally, if you roll a 10 with a precision roll's d10, the roll succeeds regardless of the relevant resistance. A precision roll is calculated according to this formula:
+1d10 + (level)/2 + weapon precision bonus + other bonusesTerms in this formula are explained below:
+Level: Your character's current level.
+Weapon precision bonus: This bonus is determined by the type of the weapon held in main hand.
+Other bonuses: These are bonuses or penalties which come from various sources like status effects, environment and the like.In some cases, a specific spell, an ability or an attack might include a precision bonus or penalty itself.Some abilities may affect multiple targets. In this case, multiple precision rolls are required to determine which targets get affected by this ability.When a creature takes damage, this damage value reduces their health.Damage done to a target is calculated according to this formula:
+Action damage + potency + other bonuses - target's armorTerms in this formula are explained below:
+Action damage: Action damage is the damage of the respective ability.
+Potency: Equal to the potency aptitude of the character dealing the damage.
+Other bonuses: These are bonuses or penalties which come from various sources like status effects, environment and the like.<br>
+Target's armor: Armor is explained in the <a data-href="#Armor" href="https://sigil.tyghsh.cc/sigil-of-uchma/content/combat.html#Armor_0" class="internal-link" target="_self" rel="noopener nofollow">Armor</a> section. In some cases, a specific ability might include a potency bonus or penalty itself. As an example, let's take an ability which includes the phrase "potency bonus to damage is halved for this attack". This simply means "potency" is divided by two in the formula:
+Action damage + (potency)/2 + other bonuses - target's armorEach creature has two kinds of armor: physical armor and magical armor. Normally, damage from weapon attacks and similar abilities are affected by physical armor and damage from magical techniques are affected by magical armor. If something is an exception to this rule, this is noted in the description of that ability.For an ability to be considered a "damaging ability", it should have a base damage. Examples could be abilities like "Shield Bash" or the hatchet's "Hack". Some actions only apply a status effect, but do not have a base damage. These abilities are not considered damaging abilities.Extra damage is a completely different packet of damage that just shares the precision roll of another attack. Extra damage has its own values for action damage, potency, bonuses and it is affected by armor separately from the delivering attack.On the other hand, bonus damage is just added into the delivering attack's damage calculation. Specifically, into the "other bonuses" term.
+When a player character falls below 0 health, they are considered "unconscious".
+An unconscious character is considered prone.
+If a player character takes damage equal to or more than double their base maximum health in total, they die immediately.
+At the end phase of each round, unconscious characters make a death save roll against increased thresholds: Death save rolls are calculated with this formula: (1d10 + level/2)
+1st round: 3
+2nd round: 5
+3rd round: 7
+4th round: 9 A character dies if they fail any of their death saves or when they reach their 5th consecutive round in unconscious state. If a character is healed to at least 1 health during unconscious state, they become conscious again and they are considered prone. A creature is adjacent to another if there aren't any battle map squares between them. Significant height difference between two creatures due to environmental factors may break adjacency. During battle, whenever a creature has two or more adjacent foes wielding melee weapons, it is considered flanked.
+Attacking a flanked creature grants a +1 bonus to precision rolls done with melee abilities.
+A significant difference in elevation affects projectile attacks' precision rolls:
+Attacking from high ground grants you a +1 bonus.
+Attacking from low ground gives you a -1 penalty. When a character is behind cover, they are semi-protected against projectile attacks or abilities.
+There are 3 types of cover: Quarter Cover: +1 bonus to all resistances versus projectiles.
+Half Cover: +2 bonus to all resistances versus projectiles.
+Full Cover: +4 bonus to all resistances versus projectiles. Having other creatures in the way while determining cover counts as half cover. This doesn't increase with the amount of creatures in the way.
+If a creature is completely blocked from another's point of view, they are out of line of sight and can't be interacted with targeted attacks and techniques.
+Abilities, techniques and attacks which affect an area may require hearing or sight: Sounds can't pass rocks, deep water and similar materials.
+Sounds can pass 1 meter of wood, metal, shallow water and other similar materials.
+Cover of any kind doesn't break line of sight.
+Magical remote eyes and ears count as sight and hearing for the purposes of these kind of effects.
+There may be magical effects which can break line of sight or block sounds. A creature can go into prone voluntarily if they give up half of their base movement speed as a part of their movement during their turn.
+When a creature falls or goes prone, they have to be in movement phase of their turn and use half of their base movement speed to get up.
+A prone creature has half cover against projectiles.
+A prone creature has -2 to all resistances against abilities used within melee range, including projectiles.
+A prone creature can only do their basic weapon attack, dealing half damage and ignoring weapon precision. A character takes fall damage when they fall more than 5 meters.
+This damage is armor-ignoring and it is calculated as such: Fall damage = 10 x (fall distance in meters - 5) When the party ambushes or gets ambushed by one or more foes, the ambushed side is considered disadvantageous and they receive the following effects for the next round of combat:
+-2 penalty on initiative
+-1 penalty on all precision rolls
+-1 penalty on all resistances Summoner can control their minions during combat. A minion disappears immediately when its summoner dies.
+Summoners have a simple telepathic bond to their minions. A summoner will know where a minion is and how much damage it suffered at all times. The minions follow the regular initiative order. On a turn a minion is summoned, if they have higher initiative than their summoner, they take their turn immediately after the summoner.
+Minions gain potency bonus to their damage normally, according to their relevant potency stat.
+Minions don't use energy and energy for their skills, unless specified otherwise.
+When a creature transforms into another, several rules should be followed:
+A creature can only use the abilities of what it transformed into, and its stats are set to the stats of the new form. Status effects or abilities with durations are unaffected by transforming. <br>When returning to the original form, a creature's health is set to what it was before the transformation. Going below 0 health does not break the transformation. See: <a data-tooltip-position="top" aria-label="Combat > Death" data-href="Combat#Death" href="https://sigil.tyghsh.cc/sigil-of-uchma/content/combat.html#Death_0" class="internal-link" target="_self" rel="noopener nofollow">death</a>.
+If a creature is unwillingly transformed during its own turn, the turn immediately ends.
+If the new form is too large or small for the environment, the creature takes 5 armor-ignoring damage and the transformation fails.
+<br><a href="https://sigil.tyghsh.cc?query=tag:TODO" class="tag is-unresolved" target="_self" rel="noopener nofollow" data-href="#TODO">#TODO</a> <br><a href="https://sigil.tyghsh.cc?query=tag:TODO" class="tag is-unresolved" target="_self" rel="noopener nofollow" data-href="#TODO">#TODO</a> ]]></description><link>https://sigil.tyghsh.cc/sigil-of-uchma/content/combat.html</link><guid isPermaLink="false">sigil-of-uchma/Content/Combat.md</guid><dc:creator><![CDATA[TaygaHoshi]]></dc:creator><pubDate>Tue, 28 Jan 2025 07:09:11 GMT</pubDate></item><item><title><![CDATA[Wildbond]]></title><description><![CDATA[Instead of focusing on their personal growth, some choose to share their time, training and effort with their pets. While these people are sometimes called "masters", most of those specialized in this common branch of combat are, in actuality, "tamers" or even "summoners" depending on the nature of their pet.Choose a pet category when you take this branch from the list below. Your pet inherits your initiative order, level, potency and control. It takes its turn right after you, and uses its basic weapon attack unless you tell it to do something else. When your pet falls below 1 health, it will run away and hide if possible. In this case, it will not be available for combat for (d4 + 4) hours. Otherwise, normal <a data-tooltip-position="top" aria-label="sigil-of-uchma/Content/Combat > Summoning" data-href="sigil-of-uchma/Content/Combat#Summoning" href="https://sigil.tyghsh.cc/sigil-of-uchma/content/combat.html#Summoning_0" class="internal-link" target="_self" rel="noopener nofollow">summoning rules</a> apply.
+Pets can take a variety of forms, but they fall into the main categories below:Striker Pets
+Base health: 30
+Walking speed: 6 meters
+Precision roll: d10 + level/2
+Resistances: Start with 5 and increase by 1 every odd level
+Basic weapon attack:
+Deals 15 physical/magical damage.
+Tough Pets
+Base health: 30
+Base armor: 5 physical and 5 magical
+Walking speed: 6 meters
+Precision roll: d10 + level/2
+Resistances: Start with 5 and increase by 1 every odd level
+Basic weapon attack:
+Deals 10 physical/magical damage.
+Sharpshooter Pets
+Base health: 20
+Walking speed: 6 meters
+Precision roll: d10 + level/2
+Resistances: Start with 5 and increase by 1 every odd level
+Basic weapon attack:
+Range: 5 meters.
+Deals 15 physical/magical damage.
+Scout Pets
+Base health: 20
+Walking speed: 8 meters Alternatively, flying and walking speeds: 6 meters Precision roll: d10 + level/2
+Resistances: Start with 4 and increase by 1 every odd level, Evasion starts at 6 instead
+Wildbond techniques of utility or modification categories have a +1 to their precision rolls when performed by scout pets.
+Basic weapon attack:
+Deals 5 armor-ignoring damage.
+Category: Offense
+Execution Time: Rapid action
+Cost: 2 energy
+Range: 5 meters
+Duration: 1 round
+Effect
+Your pet tries to distract the target. A distracted creature is considered flanked for next (1 + C/3) weapon attacks against it.
+Your pet does not attack this round.Category: Utility
+Execution Time: Action
+Cost: Special
+Duration: (20 + 10 x C) minutes
+Effect
+Your pet helps you or another creature search or find an item of a certain description by using its sense of smell, sight, hearing or touch. Your pet assists the search for the duration. For each point of energy spent on this technique, the next relevant skill roll gains a +1 bonus.Category: Modification
+Execution Time: Rapid action
+Cost: 2 energy
+Range: Pet's range
+Duration: (1 + C/4) rounds
+Effect
+This attack's precision roll is made against Constitution.
+Direct your pet to attack your target's eyes. Your pet's next basic weapon attack done until the end of next round applies blinded for the duration of this technique.Category: Offense
+Execution Time: Action
+Cost: 1 energy
+Range: 1 meter
+Effect
+This attack's precision roll is made against Parry.
+Target a prone creature. Your pet grabs this creature and drags it towards you up to (2 + P/3) meters, dealing 5 armor ignoring damage per square dragged.
+Your pet does not attack this round.Category: Defense
+Execution Time: Rapid action
+Cost: Special
+Effect
+Your pet tries to heal itself. For every point of energy spent for this ability, your pet heals for (d4 + 4) health. You can spend points of energy up to your potency.
+Your pet does not attack this round.]]></description><link>https://sigil.tyghsh.cc/sigil-of-uchma/character-branches/wildbond.html</link><guid isPermaLink="false">sigil-of-uchma/Character - Branches/Wildbond.md</guid><dc:creator><![CDATA[TaygaHoshi]]></dc:creator><pubDate>Tue, 28 Jan 2025 07:07:10 GMT</pubDate></item><item><title><![CDATA[INTRODUCTION]]></title><description><![CDATA[Sigil of Uchma is a work-in-progress fantasy tabletop role playing game based on a hypothetical medieval Central Asian society, based primarily on Gokturks and secondarily on other cultures within the area. The name is a reference to historical usage of <a data-tooltip-position="top" aria-label="https://en.wikipedia.org/wiki/Nazar_(amulet)" rel="noopener nofollow" class="external-link is-unresolved" href="https://en.wikipedia.org/wiki/Nazar_(amulet)" target="_self">Nazar amulets</a>. Currently, the game is not ready for running campaigns yet.Sigil of Uchma is played with a game master (GM) and one or more players. The GM builds and runs a campaign, enforces the rules of the game, applies or creates resolution mechanics as necessary, and controls the non-player characters (NPCs). Players, on the other hand, are responsible from their characters, which are called player characters (PCs). Each player is assumed to bring only one PC. With the use of their characters, players can explore places, fight foes, deceive or help NPCs, take on quests, collect items and go on adventures.Sigil of Uchma can be abbreviated simply as "Sigil".
+<br><a data-tooltip-position="top" aria-label="Content/Player Characters" data-href="Content/Player Characters" href="https://sigil.tyghsh.cc/sigil-of-uchma/content/player-characters.html#_0" class="internal-link" target="_self" rel="noopener nofollow">Creating a character</a> (start here)
+<br><a data-tooltip-position="top" aria-label="https://www.youtube.com/@SigilofUchma" rel="noopener nofollow" class="external-link is-unresolved" href="https://www.youtube.com/@SigilofUchma" target="_self">YouTube channel</a>
+<br><a data-tooltip-position="top" aria-label="https://forms.gle/7NwTYqGUWpBfBWNg8" rel="noopener nofollow" class="external-link is-unresolved" href="https://forms.gle/7NwTYqGUWpBfBWNg8" target="_self">Feedback form</a>
+<br><a data-tooltip-position="top" aria-label="https://github.com/TaygaHoshi/tt-project" rel="noopener nofollow" class="external-link is-unresolved" href="https://github.com/TaygaHoshi/tt-project" target="_self">GitHub repository</a>
+<br><a data-tooltip-position="top" aria-label="RESOURCES" data-href="RESOURCES" href="https://sigil.tyghsh.cc/sigil-of-uchma/resources.html#_0" class="internal-link" target="_self" rel="noopener nofollow">Resources used as inspiration</a>
+Fun and engaging turn-based combat:
+Each character consists of many unique but balanced choices: weapons provide both active and passive abilities, techniques carry an impact while not being overpowered, and armors are strong. There are only rarely limitations: a Shaman can wear any type of armor and wield all weapons without penalties.Furthermore, Sigil is a relatively simplified take on the more well-known tabletop games. There are not many calculations to slow turns down during combat. Most numbers like damage of a weapon can be calculated beforehand. With proper notes, turns can get fast.Unique items, skills, magic, NPCs and monsters:
+This game has owl vampires, charming snake-humans, Central Asia themed spells and rituals, interesting abilities and more.Soft mechanics and rules for role playing:
+Sigil of Uchma is a simplified take on modern TTRPGs. Exploration, inventory management, economy, traveling, interactions with NPCs and similar activities mostly have only general rules and suggestions. Many cases of moment-to-moment decision making outside combat is left to common sense and imagination.Sigil of Uchma is versioned using a simple release cycle consisting of the following stages:
+Alpha (v1-a)
+Beta (v1-b)
+Feature freeze (v1-f)
+Full version release (v1)
+Sigil is currently in alpha.<br>You can contact me through GitHub or Discord. The aforementioned <a data-tooltip-position="top" aria-label="https://forms.gle/7NwTYqGUWpBfBWNg8" rel="noopener nofollow" class="external-link is-unresolved" href="https://forms.gle/7NwTYqGUWpBfBWNg8" target="_self">feedback form</a> is the best way for reaching me. Please do not contact anyone other than me in this section.]]></description><link>https://sigil.tyghsh.cc/sigil-of-uchma/introduction.html</link><guid isPermaLink="false">sigil-of-uchma/INTRODUCTION.md</guid><dc:creator><![CDATA[TaygaHoshi]]></dc:creator><pubDate>Sun, 26 Jan 2025 15:43:17 GMT</pubDate></item><item><title><![CDATA[Spirits]]></title><link>https://sigil.tyghsh.cc/sigil-of-uchma/monsters/spirits.html</link><guid isPermaLink="false">sigil-of-uchma/Monsters/Spirits.md</guid><dc:creator><![CDATA[TaygaHoshi]]></dc:creator><pubDate>Sat, 25 Jan 2025 09:32:37 GMT</pubDate></item><item><title><![CDATA[Warwise]]></title><description><![CDATA[The Warwise concern themselves not with the foe in front of them, but the whole battlefield. You can keep the whole battlefield in your mind as a mental image:
+You can't be ambushed by non-magical means. You can take the Speak special action to alert your allies, ending their ambushed status. As long as you clearly hear or see a creature once, you can track their location within a 25 meter radius for up to 1 hour from the last time you hear or see it.
+You can use this ability as a part of a damaging weapon attack by spending 2 energy. If you fail all of the precision rolls of this attack, you can instead use a non-damaging ability in its place.Category: Modification
+Execution Time: Action or rapid action
+Cost: 4 energy
+Duration: (2 + C/4) rounds
+Effect
+As a part of the Speak special ability, you can tell your allies how to adapt to their current environment, for the duration of this technique:
+1. Allies ignore the penalties of attacking from low ground.
+2. Allies attacking from high ground gain bonus damage equal to half your level, with a minimum of 1. Category: Weapon attack
+Execution Time: Action
+Cost: 2 energy
+Range: Weapon range
+Effect
+You attack your target for half weapon damage with your main weapon, trying to make it drop one of its weapons. This weapon falls below the target.
+This technique can't disarm natural weapons.
+If Disarm is used with a ranged weapon, your weapon precision is ignored.Category: Utility
+Execution Time: Action
+Cost: 2 energy
+Range: 10 meters
+Duration: (1 + C/2) rounds
+Effect
+Study your target, applying Exposed for the duration of this technique.Category: Modification
+Execution Time: Special
+Cost: 2 energy
+Effect
+You can choose to activate this technique when you take any full-turn action other than the Charge special action.
+You can move up to (2 + C/3) meters before taking that action.
+This ability can be used alongside Improved Aiming. Category: Utility
+Execution Time: Rapid action
+Cost: 1 energy
+Range: 10 meters
+Effect
+Choose a creature, and reveal one feature of your choosing from the list below. This ability does not require a precision roll.
+1. Armor and resistances
+2. Current health
+3. Actions ]]></description><link>https://sigil.tyghsh.cc/sigil-of-uchma/character-branches/warwise.html</link><guid isPermaLink="false">sigil-of-uchma/Character - Branches/Warwise.md</guid><dc:creator><![CDATA[TaygaHoshi]]></dc:creator><pubDate>Sat, 25 Jan 2025 08:05:19 GMT</pubDate></item><item><title><![CDATA[Player Characters]]></title><description><![CDATA[Player characters are the other part, alongside the Game Master, of Sigil of Uchma. This page will go over the basics of character creation.Paths determine a characters' abilities gained through leveling up and half of their techniques. Current list of paths are:
+<a data-href="Path of Warriors" href="https://sigil.tyghsh.cc/sigil-of-uchma/character-paths/path-of-warriors.html#_0" class="internal-link" target="_self" rel="noopener nofollow">Path of Warriors</a>
+<br><a data-href="Path of Sorcerers" href="https://sigil.tyghsh.cc/sigil-of-uchma/character-paths/path-of-sorcerers.html#_0" class="internal-link" target="_self" rel="noopener nofollow">Path of Sorcerers</a>
+<br><a data-href="Path of Shamans" href="https://sigil.tyghsh.cc/sigil-of-uchma/character-paths/path-of-shamans.html#_0" class="internal-link" target="_self" rel="noopener nofollow">Path of Shamans</a>
+<br><a data-href="Path of Bards" href="https://sigil.tyghsh.cc/sigil-of-uchma/character-paths/path-of-bards.html#_0" class="internal-link" target="_self" rel="noopener nofollow">Path of Bards</a>
+Branches determine a characters' branch abilities and half of their techniques. Current list of branches are:
+<br><a data-href="Wildbond" href="https://sigil.tyghsh.cc/sigil-of-uchma/character-branches/wildbond.html#_0" class="internal-link" target="_self" rel="noopener nofollow">Wildbond</a>
+<br><a data-href="Warwise" href="https://sigil.tyghsh.cc/sigil-of-uchma/character-branches/warwise.html#_0" class="internal-link" target="_self" rel="noopener nofollow">Warwise</a> <br><a data-href="Iconcraft" href="https://sigil.tyghsh.cc/sigil-of-uchma/character-branches/iconcraft.html#_0" class="internal-link" target="_self" rel="noopener nofollow">Iconcraft</a>
+<br><a data-href="Druid" href="https://sigil.tyghsh.cc/sigil-of-uchma/character-branches/druid.html#_0" class="internal-link" target="_self" rel="noopener nofollow">Druid</a>
+<br><a data-href="Channeling" href="https://sigil.tyghsh.cc/sigil-of-uchma/character-branches/channeling.html#_0" class="internal-link" target="_self" rel="noopener nofollow">Channeling</a>
+A player character gains one aptitude point each level starting from level 1. Aptitude points can be spent on either Potency (P) or Control (C):
+Potency (P) usually increases the strength of abilities, meanwhile
+Control (C) usually increases the duration and size of abilities.
+Your path determines your base health. There are three tiers of maximum health:Energy is used for performing techniques and other abilities. As your character levels up, your base energy increases:Resistances lower the accuracy of incoming hits. They act as the success thresholds of precision rolls. List of resistances is given below:If an ability doesn't specify what resistance it is used against, it will either use Parry or Warding depending whether or not it is a magical ability.Resistances are determined by stats, equipment, and other various things. At level 1, you can choose to focus on certain resistances:
+You can choose one resistance to be "major" and another one to be "minor".
+Alternatively, you can choose three resistances to be "minor".
+Resistance choices affect their scaling:Techniques are special abilities which usually cost energy to activate. A player character can choose a technique from their path every even level, and from their branch every odd level:<br>See: <a data-tooltip-position="top" aria-label="sigil-of-uchma/Content/Combat > Movement" data-href="sigil-of-uchma/Content/Combat#Movement" href="https://sigil.tyghsh.cc/sigil-of-uchma/content/combat.html#Movement_0" class="internal-link" target="_self" rel="noopener nofollow">Movement</a>.<br>See: <a data-tooltip-position="top" aria-label="sigil-of-uchma/Content/Combat > Turn Order" data-href="sigil-of-uchma/Content/Combat#Turn Order" href="https://sigil.tyghsh.cc/sigil-of-uchma/content/combat.html#Turn_Order_0" class="internal-link" target="_self" rel="noopener nofollow">Turn Order</a>.
+Each player character has a base initiative of 0. Initiative is affected by some abilities and equipment such as armor or weapons.
+<br>Any <a data-tooltip-position="top" aria-label="Armor &amp; Weapons > Armor Types and Armor Rating" data-href="Armor &amp; Weapons#Armor Types and Armor Rating" href="https://sigil.tyghsh.cc/sigil-of-uchma/equipment/armor-&amp;-weapons.html#Armor_Types_and_Armor_Rating_0" class="internal-link" target="_self" rel="noopener nofollow">armor type</a> of their choosing
+<br>Two of any <a data-tooltip-position="top" aria-label="Armor &amp; Weapons > Weapon Sets" data-href="Armor &amp; Weapons#Weapon Sets" href="https://sigil.tyghsh.cc/sigil-of-uchma/equipment/armor-&amp;-weapons.html#Weapon_Sets_0" class="internal-link" target="_self" rel="noopener nofollow">weapon sets</a>
+<br><a href="https://sigil.tyghsh.cc?query=tag:TODO" class="tag is-unresolved" target="_self" rel="noopener nofollow" data-href="#TODO">#TODO</a> <br>See: <a data-tooltip-position="top" aria-label="sigil-of-uchma/Content/Skills" data-href="sigil-of-uchma/Content/Skills" href="https://sigil.tyghsh.cc/sigil-of-uchma/content/skills.html#_0" class="internal-link" target="_self" rel="noopener nofollow">Skills</a>
+Skills are miscellaneous abilities of a character.<br><a href="https://sigil.tyghsh.cc?query=tag:TODO" class="tag is-unresolved" target="_self" rel="noopener nofollow" data-href="#TODO">#TODO</a> Usually, a character requires 6 to 8 hours of sleep per day. Not getting proper sleep for a night gives a character one stack of fatigue. Skipping sleep while having 5 stacks of fatigue is lethal and the character dies. While it is usually the best to sleep at night, it is not rare to see parties resting during the day. When the players decide the party should rest or sleep, they must declare this to the GM. In the case of just resting, the players should also explain what their characters will be doing while resting. In this case, the GM can determine whether or not these activities are allowed as a part of resting.There are a few basic requirements to resting and sleeping. For a character to be able to rest, they should:
+Be able to sit or lie down. Be relaxed.
+Be in a safe environment.
+Sleeping has stricter requirements. Alongside the resting requirements, a character can sleep only if:
+They have a place to sleep.
+They are wearing clothing, robes or light armor.
+Sleeping and resting, normally, have the following benefits:
+While sleeping, you regenerate 10 health per hour and 2 energy per hour until level 5. Starting from level 5, you regenerate 3 energy per hour instead. While only resting, you regenerate 5 health and 1 energy per hour.
+However, not all damage and status effects can be healed this way. What makes sense and what does not is left primarily to the GM.When moving between points of interest with large distances between them, a player character can usually walk 25 kilometers in a day, from early morning to sunset. This is called "travel speed". If all members of a party is traveling on horseback or with a carriage, travel speed is doubled. There are various conditions that may affect the distance:
+Particularly good routes such as paved roads and good weather increase travel speed by 10 kilometers.
+Difficult routes and especially bad weather reduce travel speed by 10 kilometers each, depending on the conditions.
+<br><a data-tooltip-position="top" aria-label="Player Characters > Encumbrance" data-href="Player Characters#Encumbrance" href="https://sigil.tyghsh.cc/sigil-of-uchma/content/player-characters.html#Encumbrance_0" class="internal-link" target="_self" rel="noopener nofollow">Encumbrance</a> also affects travel speed, explained in the next section. Minimum travel speed is 5 kilometers on foot and 15 kilometers on horseback or with a carriage. Below this, travel using that route is considered impassable.
+A player character can keep some items on their person. When a player character wants to put an item into their inventory and it is not easy to see how they would achieve this, the player has to briefly explain their reasoning to other players and the GM. In some cases, properties of an object might be as important as its size and weight. A thin rope might not have that much mass but it is difficult to carry around as it might unravel. Containers help with items like this. There are many items that can act as a container: backpacks, pouches, boxes, belts, leather straps and more. <br>Not every object can be accessed with the same speed. A bedroll deep in a backpack might take several minutes to take out, while a small flask of potion hanging from the backpack can be used almost immediately. This means only items in quick access slots can be used with <a data-tooltip-position="top" aria-label="Special Actions > Use Item" data-href="Special Actions#Use Item" href="https://sigil.tyghsh.cc/sigil-of-uchma/content/special-actions.html#Use_Item_0" class="internal-link" target="_self" rel="noopener nofollow">use item</a> special action. Each player character has two quick access slots by default, and can place suitable items in them. Some containers might grant more slots, but a character can have 5 quick access slots at most. <br>A player character can wear one set of <a data-tooltip-position="top" aria-label="Armor &amp; Weapons > Armor Types and Armor Rating" data-href="Armor &amp; Weapons#Armor Types and Armor Rating" href="https://sigil.tyghsh.cc/sigil-of-uchma/equipment/armor-&amp;-weapons.html#Armor_Types_and_Armor_Rating_0" class="internal-link" target="_self" rel="noopener nofollow">armor</a> and equip two <a data-tooltip-position="top" aria-label="Armor &amp; Weapons > Weapon Sets" data-href="Armor &amp; Weapons#Weapon Sets" href="https://sigil.tyghsh.cc/sigil-of-uchma/equipment/armor-&amp;-weapons.html#Weapon_Sets_0" class="internal-link" target="_self" rel="noopener nofollow">weapon sets</a>. <br><a href="https://sigil.tyghsh.cc?query=tag:TODO" class="tag is-unresolved" target="_self" rel="noopener nofollow" data-href="#TODO">#TODO</a> ]]></description><link>https://sigil.tyghsh.cc/sigil-of-uchma/content/player-characters.html</link><guid isPermaLink="false">sigil-of-uchma/Content/Player Characters.md</guid><dc:creator><![CDATA[TaygaHoshi]]></dc:creator><pubDate>Fri, 24 Jan 2025 15:36:18 GMT</pubDate></item><item><title><![CDATA[Special Actions]]></title><description><![CDATA[(See: <a data-tooltip-position="top" aria-label="sigil-of-uchma/Content/Combat" data-href="sigil-of-uchma/Content/Combat" href="https://sigil.tyghsh.cc/sigil-of-uchma/content/combat.html#_0" class="internal-link" target="_self" rel="noopener nofollow">Combat</a>)Execution time: Action or rapid action
+Explanation:
+During your turn, you can shout a few sentences. Your voice is heard within a reasonable radius.
+Alternatively, you can whisper to a creature or an object within melee range. In this case, your voice is only heard by that creature or object.
+This ability can be used freely in the end phase of a combat round.Execution time: Full-turn action
+Requirements:
+An unobstructed straight path to target, out of your weapon range.
+Any melee weapon in main hand.
+Explanation:
+Ignores weapon precision.
+You gain a (3 + C/2) bonus to your movement speed, and you charge your target using your movement speed. Then, you perform a basic weapon attack.
+You receive a -2 penalty to all resistances for 1 round.
+This penalty increases by -1 if you move more than your base movement speed.Execution time: Full-turn action
+Requirements:
+A one handed weapon in main hand, and a light weapon in off-hand.
+Explanation:
+You attack with both your main hand weapon and off-hand weapon.
+Your off-hand weapon receives a -2 penalty to its precision roll and deals half weapon damage.
+The strike with your main hand weapon is considered a basic weapon attack.Execution time: Prepared action
+Requirements:
+Any melee weapon in main hand.
+Explanation:
+Ignores weapon precision.
+Attack the next foe who moves into, within or out of this weapon's range.
+This attack deals half weapon damage.Execution time: Action
+Requirements:
+An unconscious creature within 1 meter.
+Explanation:
+Make a Healing skill roll against target creature against (3 + their current death save threshold).
+If you succeed, this creature is stabilized and it is considered successful on its death save rolls.
+This creature is returned back to 1 health.Execution time: Special
+Requirements:
+Any ranged weapon.
+No foes in melee range.
+You haven't moved this round.
+Explanation:
+Your walking speed drops to zero for this round.
+As a part any weapon attack affected by Unsteady Aiming, you can activate this ability. That attack does not receive the penalty from Unsteady Aiming.Execution Time: Action
+Range: Weapon range
+Requirements:
+Any melee weapon in main hand.
+Effect
+This attack's precision roll is made against Constitution.
+Ignores weapon precision.
+This attack deals half weapon damage, and doesn't get the normal potency bonus to its damage. Instead, it applies 2 hits of bleeding.
+This action is considered a weapon attack.Execution time: Rapid action
+Explanation:
+You swap your wielded weapon with a weapon in your inventory or on the ground below you. Only one weapon can be swapped this way every round. This action can be used for swapping items you can hold in a similar manner. If dual-wielding two light weapons, you can swap the weapons with each other.Execution time: Special
+Explanation:
+You drop one or both of the weapons you are currently wielding onto the ground below you, leaving you unarmed.Execution time: Action
+Requirements:
+A throwing spear, a hatchet, a shortsword, a dagger or any other throwable item in main hand.
+Explanation:
+(Projectile)
+Ignores weapon precision.
+You throw your weapon to a target or to a square within (5 + C/2) meters. If you have additional ammo of the same weapon or item, you can wield one as a part of this action.
+This action is considered a basic weapon attack.Execution time: Action
+Requirements:
+A stuck thrown weapon in target.
+A free main hand.
+Explanation:
+Ignores weapon precision.
+You retrieve the weapon stuck in the target.
+This attack deals half weapon damage, ignoring physical armor.
+This action is considered a basic weapon attack.Execution time: Action
+Explanation:<br>
+You use a <a data-tooltip-position="top" aria-label="Player Characters > Inventory Management > Quick Access Slots" data-href="Player Characters#Inventory Management#Quick Access Slots" href="https://sigil.tyghsh.cc/sigil-of-uchma/content/player-characters.html#Inventory_Management_0" class="internal-link" target="_self" rel="noopener nofollow">quick access item</a> from your inventory.
+This action can be used to apply a potion on an adjacent target.]]></description><link>https://sigil.tyghsh.cc/sigil-of-uchma/content/special-actions.html</link><guid isPermaLink="false">sigil-of-uchma/Content/Special Actions.md</guid><dc:creator><![CDATA[TaygaHoshi]]></dc:creator><pubDate>Thu, 16 Jan 2025 20:18:07 GMT</pubDate></item><item><title><![CDATA[Weapons - One Handed]]></title><description><![CDATA[(see: <a data-href="Armor &amp; Weapons#Weapons" href="https://sigil.tyghsh.cc/sigil-of-uchma/equipment/armor-&amp;-weapons.html#Weapons_0" class="internal-link" target="_self" rel="noopener nofollow">Armor &amp; Weapons &gt; Weapons</a>)One handed weapons are divided into two: heavy weapons and light weapons. Light weapons can be wielded as an off-hand weapon. When you wield a light weapon with your off-hand, you can only use its prepared action. Conversely, prepared actions of light weapons can't be used while they are wielded with the main hand.
+Slash Deals 25 physical damage.
+Ignores temporary armor. Chop Deals 20 physical damage, ignoring physical armor up to 10. Slash Deals 20 physical damage. Feint Deals 10 physical damage. Potency bonus to damage is doubled for this attack. You have a (1 + P/3) bonus to precision roll of this attack. Aptitude: Strength
+Thrust Deals 20 physical damage. Sweep This attack's precision roll is made against Evasion.
+Deals 10 physical damage. Potency bonus to damage is doubled for this attack. Hits 3 squares in front of you. (Projectile) Bolt Range: 5 meters
+Deals 20 magical damage. Blast Range: 5 meters
+This attack's precision rolls are made against Evasion.
+Create a magical orb, which falls to the ground and explodes, dealing 10 magical damage to all creatures within 1 meter radius. Potency bonus to damage is doubled for this attack. (Projectile) Bolt Range: 5 meters
+Deals 20 magical damage. Bind Range: 5 meters
+This attack's precision roll is made against Constitution.
+Immobilizes the target for (1 + C/4) rounds. (Prepared action) Magic Protection Range: 5 meters
+Choose an ally. Grant them (3 + P/2) temporary magical armor for 1 round. (Passive) Sidearm This weapon's properties allows it to be used as a sidearm.
+Skills rolls regarding the concealment of this weapon receive a +1 bonus.
+During your turns, you can use the Swap Weapon action to swap to your shortsword freely without using a rapid action. Swapping weapons in this way drops the previous weapon onto the ground below you. Slash Deals 20 physical damage. Thrust This attack's precision roll is done against Evasion.
+Ignores weapon precision.
+Deals 15 physical damage, ignoring up to 10 physical armor. (Prepared) Countering Next time a creature within range attacks you with a melee weapon, you also attack them.
+Ignores weapon precision.
+Deals 10 physical damage. (Passive) Sidearm This weapon's properties allows it to be used as a sidearm.
+Skills rolls regarding the concealment of this weapon receive a +4 bonus.
+During your turns, you can use the Swap Weapon action to swap to your dagger freely without using a rapid action. Swapping weapons in this way drops the previous weapon onto the ground below you. Stab Deals 15 physical damage. Double Slash Deals 10 physical damage.
+You attack the target twice. (Prepared action) Backstab Next time a flanked foe within your reach is attacked by an ally, you also attack them.
+Deals 10 physical damage. Potency bonus to damage is doubled for this attack. Punch Deals 10 physical damage. Stunning Blow This attack's precision roll is made against Constitution.
+Stuns the target for 1 round. (Prepared action) Disorienting Blow This attack's precision roll is made against Constitution.
+Ignores weapon precision.
+Attack the next foe who moves into, within or out of melee range, applying 1 round of disorientation. ]]></description><link>https://sigil.tyghsh.cc/sigil-of-uchma/equipment/weapons-one-handed.html</link><guid isPermaLink="false">sigil-of-uchma/Equipment/Weapons - One Handed.md</guid><dc:creator><![CDATA[TaygaHoshi]]></dc:creator><pubDate>Sun, 05 Jan 2025 10:09:19 GMT</pubDate></item><item><title><![CDATA[Armor & Weapons]]></title><description><![CDATA[This equipment protects its wearer from physical and magical damage, depending on its type.Additional armor can be gained through spells and abilities which grant temporary armor. Rules of temporary armor can be found in the <a data-href="Status Effects" href="https://sigil.tyghsh.cc/sigil-of-uchma/content/status-effects.html#_0" class="internal-link" target="_self" rel="noopener nofollow">Status Effects</a> page.Weapons are what creatures use to hit their foes. Most creatures with body parts similar to arms and hands can use every weapon. There are several categories of weapons. Each of these can be found in their respective list:
+<br><a data-tooltip-position="top" aria-label="Weapons - One Handed" data-href="Weapons - One Handed" href="https://sigil.tyghsh.cc/sigil-of-uchma/equipment/weapons-one-handed.html#_0" class="internal-link" target="_self" rel="noopener nofollow">One Handed weapons</a> <br><a data-tooltip-position="top" aria-label="Weapons - Off Hand" data-href="Weapons - Off Hand" href="https://sigil.tyghsh.cc/sigil-of-uchma/equipment/weapons-off-hand.html#_0" class="internal-link" target="_self" rel="noopener nofollow">Off-hand weapons</a> <br><a data-tooltip-position="top" aria-label="Weapons - Two Handed" data-href="Weapons - Two Handed" href="https://sigil.tyghsh.cc/sigil-of-uchma/equipment/weapons-two-handed.html#_0" class="internal-link" target="_self" rel="noopener nofollow">Two handed weapons</a> Some abilities may include a phrase similar to "doing a basic weapon attack". This means using the regular attack of a weapon, which is almost always the first active ability. Some objects can be used as de facto weapons, at the GM's discretion. These objects can be used to perform a basic weapon attack and when making a precision roll with an improvised weapon, it breaks if the roll of the d10 is 3 or below, but the damage is still applied if the attack hits. There are two general sizes of improvised weapons:Weapon sets are helpful guides used primarily during character creation. If you take a bow, you will also get a quiver and 30 basic arrows/bolts. If you choose the throwing spear, you can take up to five spears. Extra spears take up space and require a quiver. A weapon set is any of these:
+A one handed weapon and an off-hand weapon.
+A one handed weapon and a light one handed weapon.
+A two handed weapon. ]]></description><link>https://sigil.tyghsh.cc/sigil-of-uchma/equipment/armor-&amp;-weapons.html</link><guid isPermaLink="false">sigil-of-uchma/Equipment/Armor &amp; Weapons.md</guid><dc:creator><![CDATA[TaygaHoshi]]></dc:creator><pubDate>Sun, 05 Jan 2025 09:53:49 GMT</pubDate></item><item><title><![CDATA[Introduction to Monsters]]></title><description><![CDATA[In Sigil of Uchma, the players may come across various enemies (or even allies):
+<a data-href="Spirits" href="https://sigil.tyghsh.cc/sigil-of-uchma/monsters/spirits.html#_0" class="internal-link" target="_self" rel="noopener nofollow">Spirits</a>
+<br><a data-href="Plants" href="https://sigil.tyghsh.cc/sigil-of-uchma/monsters/plants.html#_0" class="internal-link" target="_self" rel="noopener nofollow">Plants</a>
+<br><a data-href="Humans" href="https://sigil.tyghsh.cc/sigil-of-uchma/monsters/humans.html#_0" class="internal-link" target="_self" rel="noopener nofollow">Humans</a>
+<br><a data-href="Human-likes" href="https://sigil.tyghsh.cc/sigil-of-uchma/monsters/human-likes.html#_0" class="internal-link" target="_self" rel="noopener nofollow">Human-likes</a>
+<br><a data-href="Beasts" href="https://sigil.tyghsh.cc/sigil-of-uchma/monsters/beasts.html#_0" class="internal-link" target="_self" rel="noopener nofollow">Beasts</a>
+<br><a data-href="Miscellaneous" href="https://sigil.tyghsh.cc/sigil-of-uchma/monsters/miscellaneous.html#_0" class="internal-link" target="_self" rel="noopener nofollow">Miscellaneous</a>
+<br>Each of the monsters have unique (and generic) abilities, usually with a stat distribution similar to <a data-href="Player Characters" href="https://sigil.tyghsh.cc/sigil-of-uchma/content/player-characters.html#_0" class="internal-link" target="_self" rel="noopener nofollow">Player Characters</a>. However, they might have surprising or unusual abilities or stats depending on their type. ]]></description><link>https://sigil.tyghsh.cc/sigil-of-uchma/monsters/introduction-to-monsters.html</link><guid isPermaLink="false">sigil-of-uchma/Monsters/Introduction to Monsters.md</guid><dc:creator><![CDATA[TaygaHoshi]]></dc:creator><pubDate>Fri, 27 Dec 2024 09:27:56 GMT</pubDate></item><item><title><![CDATA[Weapons - Two Handed]]></title><description><![CDATA[(see: <a data-href="Armor &amp; Weapons#Weapons" href="https://sigil.tyghsh.cc/sigil-of-uchma/equipment/armor-&amp;-weapons.html#Weapons_0" class="internal-link" target="_self" rel="noopener nofollow">Armor &amp; Weapons &gt; Weapons</a>)Two handed weapons have three weapon attacks.
+(Passive) Polearm You cannot attack adjacent targets with a glaive. Slash Range: 2 meters.
+Deals 30 physical damage. Spinning Slash Range: 2 meters.
+This attack's precision rolls are made against Evasion.
+Ignores weapon precision.
+Deals 15 physical damage.
+Choose a direction: clockwise or counter-clockwise. Attack a target, then continue attacking the next creature in the direction you chose. You continue this until you complete a full rotation, or if there is an adjacent obstacle such as a creature blocking your spin. (Prepared action) Hilt Block Range: 2 meters.
+Next time a foe attempts to move into or within range, try to block them. If you succeed, the area within your weapon range is considered light rough terrain for that creature. This ability works with adjacent targets. (Passive) Polearm A spear only deals half damage to adjacent targets, except for with Keep At Bay. Thrust Range: 2 meters.
+Deals 25 physical damage. Keep At Bay Range: 2 meters.
+Deals 15 physical damage. Potency bonus to damage is doubled for this attack. Target is pushed (2 + P/4) meters away from you. (Prepared action) Spear Brace Range: 2 meters.
+Ignores weapon precision.
+Next time a foe charges or runs into or within range, you attack them and deal 25 physical damage. Slash Deals 25 physical damage. Half Swording This attack's precision roll is done against Evasion.
+Ignores weapon precision.
+Deals 20 physical damage, ignoring physical armor up to 10. (Prepared action) Defensive Stance You have a (1 + P/3) bonus to Parry against the next physical attack. Smash Deals 20 physical damage, ignoring physical armor up to 15. Momentum Swing This attack's precision rolls are made against Evasion.
+Deals 5 armor-ignoring damage.
+Hits all creatures within range, stunning the creatures you hit for 1 round.
+These creatures are also pushed away for 1 meter. (Prepared action) Fierce Slam Attack the next foe who falls prone within range. Deals 10 armor-ignoring damage. Potency bonus to damage is doubled for this attack. (Passive) Unsteady Aiming Unless you use Improved Aiming, your projectile attacks with staves have a -2 penalty on precision rolls. (Projectile) Bolt Range: 10 meters
+Deals 20 magical damage. Projectile Shielding Range: 5 meters.
+Choose a 2 meters by 2 meters area. You create a spherical magical shield there.
+This shield acts like half cover against projectiles passing through it and lasts for 1 round.
+Projectiles shot from creatures inside this shield are unaffected by it. (Prepared action) Protection from Magic You have a (1 + P/3) bonus to Warding against the next magical ability used against you. (Passive) Unsteady Aiming Unless you use Improved Aiming, your projectile attacks with crossbows have a -2 penalty on precision rolls. (Passive) Reloading This weapon requires it to be reloaded before shooting, and it can be reloaded as a rapid action or by spending 1 energy. (Projectile) Shoot Range: 10 meters.
+Deals 25 physical damage. (Projectile) Piercing Shot Range: 10 meters.
+Deals 15 physical damage, ignoring physical armor. Potency bonus to damage is doubled for this attack. (Prepared action) Bash Ignores weapon precision.
+Attack the next foe who moves into, within or out of melee range.
+This attack deals 10 physical damage. (Passive) Unsteady Aiming Unless you use Improved Aiming, your projectile attacks with longbows have a -2 penalty on precision rolls. (Projectile) Shoot Range: 15 meters.
+Deals 20 physical damage. (Projectile) Curving Shot Shoot your projectile in a way that it bends and curves around objects.
+This attack ignores non-magical covers, as long as the target is in line of sight.
+Deals 15 physical damage. (Prepared action) Bash Ignores weapon precision.
+Attack the next foe who moves into, within or out of melee range.
+This attack deals 10 physical damage. (Passive) Unsteady Aiming Unless you use Improved Aiming, your projectile attacks with shortbows have a -1 penalty on precision rolls. (Projectile) Shoot Range: 10 meters.
+Deals 15 physical damage. (Projectile) Multishot Range: 10 meters.
+Ignores weapon precision.
+Deals 10 physical damage.
+You attack the target twice. (Prepared action) Bash Ignores weapon precision.
+Attack the next foe who moves into, within or out of melee range.
+This attack deals 5 physical damage. (Passive) Playing Drums Allies who are unable to hear are not affected by war drums. Being stunned, falling or going prone, diving underwater or becoming unavailable to use techniques in any way stops the bonuses granted by this weapon. (Rapid action) "Empowering" Radius: 15 meters
+All other allies within radius gain a (5 + P/3) bonus to their damage with single target damaging abilities until your next turn. This bonus doesn't affect harming status effects such as bleeding and burning. (Rapid action) "Invigorating" Radius: 15 meters
+All other allies within radius gain (5 + C/3) temporary health until your next turn. ]]></description><link>https://sigil.tyghsh.cc/sigil-of-uchma/equipment/weapons-two-handed.html</link><guid isPermaLink="false">sigil-of-uchma/Equipment/Weapons - Two Handed.md</guid><dc:creator><![CDATA[TaygaHoshi]]></dc:creator><pubDate>Fri, 27 Dec 2024 08:58:58 GMT</pubDate></item><item><title><![CDATA[Weapons - Off Hand]]></title><description><![CDATA[(see: <a data-href="Armor &amp; Weapons#Weapons" href="https://sigil.tyghsh.cc/sigil-of-uchma/equipment/armor-&amp;-weapons.html#Weapons_0" class="internal-link" target="_self" rel="noopener nofollow">Armor &amp; Weapons &gt; Weapons</a>)All weapon attacks tagged (Prepared) are prepared actions and they require the weapon to be wielded with the off-hand. All weapon attacks tagged (Passive) are passive abilities which work only when the weapon is actively wielded in your off-hand.
+(Rapid action) Projectile Defense You have quarter cover against physical projectile attacks until the start of your next turn. (Rapid action) Shield Bash Ignores weapon precision.
+Deals 5 physical damage to target foe. (Rapid action) Projectile Defense You have quarter cover against magical projectile attacks until the start of your next turn. (Projectile) (Rapid action) Focus Ray Range: (2 + C/2) meters. Ignores weapon precision. Shoot a ray that deals 3 magical damage. Potency bonus to this weapon attack's damage is halved. (Passive) Weapon Precision Bonus A wielded charm gives a +1 bonus to weapon precision. (Passive) Playing Horn Allies who are unable to hear are not affected by your warhorn. Being stunned, falling or going prone, diving underwater or becoming unavailable to use techniques in any way stops the bonuses granted by this weapon. (Action) "Alacrity" Allies within (5 + C/2) meters gain a bonus (1 + P/3) to their initiative for 1 round. (Action) "Persistence" Allies within (5 + C/2) meters can ignore a debilitating status effect of their choosing for 1 round. ]]></description><link>https://sigil.tyghsh.cc/sigil-of-uchma/equipment/weapons-off-hand.html</link><guid isPermaLink="false">sigil-of-uchma/Equipment/Weapons - Off Hand.md</guid><dc:creator><![CDATA[TaygaHoshi]]></dc:creator><pubDate>Fri, 27 Dec 2024 08:58:49 GMT</pubDate></item><item><title><![CDATA[Path of Bards]]></title><description><![CDATA[Your base health is 70.By spending 1 energy during your turns, you can use a rapid action instead of your action. You are proficient in one instrument, which you start with in your inventory, receiving a permanent (1+C/4) bonus to skill rolls involving that instrument. Whenever you successfully perform a technique that targets only one creature, you gain resonance for 1 minute. You can spend your resonance as a rapid action to deal 5 magical damage to a creature you can touch.Resonance does not stack, and you can only gain it once per round. Upkeeping poems does not count as a technique, only the initial application is considered one. Category: Offense
+Execution Time: Action
+Cost: 3 energy
+Range: 5 meters
+Duration: (1 + C/3) rounds
+Effect
+For the duration of this technique, your target can use a rapid action and a prepared action in the same round. This technique does not stack. Category: Utility
+Execution Time: 5 minutes
+Cost: 2 energy
+Range: 5 meters
+Duration: (10 + C) minutes
+Effect
+Grant your target a +1 bonus to the next social skill roll or meeting roll. Category: Defense
+Execution Time: Rapid action
+Cost: 2 energy per round
+Range: (2 + C/2) meters
+Duration: Special
+Effect
+Choose a creature. It becomes agitated by your words and motions of slander, and receives a -1 penalty to precision rolls. Whenever this creature fails a precision roll, it takes 5 magical damage. Potency bonus to this technique's damage is halved.
+If your target gets out of range, this technique immediately ends, and you can end it freely at any time.
+You can only have one poem active at any time.Category: Offense
+Execution Time: Rapid action
+Cost: 2 energy per round
+Range: (2 + C/2) meters
+Duration: Special
+Effect
+Choose a creature. Your magical poetry induces fury, might and courage within it; increasing its potency by 2.
+If your target gets out of range, this technique immediately ends, and you can end it freely at any time.
+You can only have one poem active at any time.Category: Utility
+Execution Time: Rapid action
+Cost: 2 energy per round
+Range: (2 + C/2) meters
+Duration: Special
+Effect
+Choose a creature. This creature is unaffected by immobilized, slowed and stunned status effects.
+If your target gets out of range, this technique immediately ends, and you can end it freely at any time.
+You can only have one poem active at any time.Category: Utility
+Execution Time: Action
+Cost: Special
+Range: 3 meters
+Duration: (1 + C/2) rounds
+Effect
+Choose an ally. You play a rejuvenating song for them. Next time this ally uses an ability that costs energy, you spend the energy cost in their stead.]]></description><link>https://sigil.tyghsh.cc/sigil-of-uchma/character-paths/path-of-bards.html</link><guid isPermaLink="false">sigil-of-uchma/Character - Paths/Path of Bards.md</guid><dc:creator><![CDATA[TaygaHoshi]]></dc:creator><pubDate>Fri, 27 Dec 2024 08:48:06 GMT</pubDate></item><item><title><![CDATA[Human-likes]]></title><link>https://sigil.tyghsh.cc/sigil-of-uchma/monsters/human-likes.html</link><guid isPermaLink="false">sigil-of-uchma/Monsters/Human-likes.md</guid><dc:creator><![CDATA[TaygaHoshi]]></dc:creator><pubDate>Thu, 26 Dec 2024 08:40:47 GMT</pubDate></item><item><title><![CDATA[Beasts]]></title><link>https://sigil.tyghsh.cc/sigil-of-uchma/monsters/beasts.html</link><guid isPermaLink="false">sigil-of-uchma/Monsters/Beasts.md</guid><dc:creator><![CDATA[TaygaHoshi]]></dc:creator><pubDate>Thu, 26 Dec 2024 06:30:31 GMT</pubDate></item><item><title><![CDATA[Plants]]></title><link>https://sigil.tyghsh.cc/sigil-of-uchma/monsters/plants.html</link><guid isPermaLink="false">sigil-of-uchma/Monsters/Plants.md</guid><dc:creator><![CDATA[TaygaHoshi]]></dc:creator><pubDate>Thu, 26 Dec 2024 06:23:21 GMT</pubDate></item><item><title><![CDATA[Humans]]></title><link>https://sigil.tyghsh.cc/sigil-of-uchma/monsters/humans.html</link><guid isPermaLink="false">sigil-of-uchma/Monsters/Humans.md</guid><dc:creator><![CDATA[TaygaHoshi]]></dc:creator><pubDate>Thu, 26 Dec 2024 06:22:26 GMT</pubDate></item><item><title><![CDATA[Miscellaneous]]></title><link>https://sigil.tyghsh.cc/sigil-of-uchma/monsters/miscellaneous.html</link><guid isPermaLink="false">sigil-of-uchma/Monsters/Miscellaneous.md</guid><dc:creator><![CDATA[TaygaHoshi]]></dc:creator><pubDate>Mon, 23 Dec 2024 15:20:32 GMT</pubDate></item><item><title><![CDATA[Skills]]></title><description><![CDATA[Skills are miscellaneous abilities of a character. Each skill is about a certain set of actions or abilities. Skills are improved by spending skill points. At any point, the GM might ask for a skill roll from a player. This can be because of something the player wants to do, an environmental effect or something else. While the GM can freely determine the success threshold, a list of sample success thresholds for common situations will be given. When making a skill roll, the following formula is used: 1d10 + skill value + bonuses
+Players gain a set amount of skill points on each level up. These points can be spent on a skill to increase its value by one. A skill can be increased only once per level. A total of 22 SP can be earned. Points gained per level are given in this table:The skills a character can focus on are given in this list:
+Engineering Crafting mechanisms and simple machinery. Smithing Creating and improving weapons and armor. Also includes fletching. Surveying Path finding, detecting traps and noticing things. Apothecary Identifying herbs, crafting poisons, brewing potions and cooking herbal dishes. Husbandry Hunting, trapping, catching, tracking, butchering, skinning animals and cooking meat dishes. Stealth Hiding, disguising as something else and staying undetected. Also includes lock-picking and pick-pocketing. Riding Riding a horse, a chariot or any other animal or vehicle. Intimidation Scaring, intimidating and bullying. Force Handling heavy objects or creatures. Also includes pulling and pushing. Athletics Swimming, jumping over and climbing. Also includes enduring pain. Reflexes Balancing, moving around, not triggering traps and avoiding. Scribing Creating magical scrolls, documents, contracts and deciphering magically encrypted messages. Identification Finding about the magical properties of an object or a place. Lorekeeping Knowledge of historical events, ancient civilizations, religions and hidden societies. Healing Treating minor wounds, applying first aid and stabilizing a patient. Insight Understanding lies, intentions and ulterior motives. Deception Persuading or successfully lying to someone. ]]></description><link>https://sigil.tyghsh.cc/sigil-of-uchma/content/skills.html</link><guid isPermaLink="false">sigil-of-uchma/Content/Skills.md</guid><dc:creator><![CDATA[TaygaHoshi]]></dc:creator><pubDate>Tue, 17 Dec 2024 07:51:23 GMT</pubDate></item><item><title><![CDATA[Iconcraft]]></title><description><![CDATA[Any object or place of immense power can be considered an icon: be it an eternal fireplace, a ceremonial weapon, a runestone or a mighty beast. Practicers of this type of magic are followers of their icon and they use symbolic manifestations of it to perform techniques called "rituals". Choose an icon when you take this branch. You receive a small object representing it in return, called a totem. You can recall your totem to yourself as an action. A totem can be partially or fully destroyed, making it lose its powers. A destroyed totem magically restores itself within at most 12 hours depending on the degree of damage it suffered. Your totem can be used in a variety of ways:
+You can perform rituals originating from yourself or your totem.
+If you hold your totem like a weapon in either hand, you can have a ritual of your choice in a one meter radius around you by spending 1 energy per round. This ability ends if you stop holding your totem.
+You can tap into your icon's power through your totem as a full-turn action, halving the cost of the next ritual you perform, down to a minimum of 1 energy.
+If you are in the vicinity of your icon, your totem stops functioning. Instead, you can receive power from your icon directly:
+Your rituals originate from your icon.
+Your rituals cost no energy to cast.
+Rituals of icon magic are techniques with two special properties:
+You can have at most one ritual active at any time, and you can stop your rituals freely.
+Your rituals do not affect you, and creatures carrying totems of your icon, unless specified otherwise.
+Category: Defense
+Execution Time: Full-turn action
+Cost: 6 energy
+Radius: (2 + C/4) meters
+Duration: 1 hour
+Effect
+This ability's precision rolls are made against Evasion.
+Create an area of banishment. Make a precision roll against any creature who end their turn within this area. If this roll succeeds, that creature is pushed (1 + P/4) meters away from the center of this area.Category: Offense
+Execution Time: Full-turn action
+Cost: 6 energy
+Radius: (2 + C/4) meters
+Duration: 1 hour
+Effect
+Manifest your icon's destructive power, creating an area of harm. Make a precision roll against any creature who moves into, out of or within this area. On success, those creatures take 3 magical damage and a bonus 2 damage per meter they willingly moved within this area, at the end of this turn. Potency bonus to this ability's damage is halved.Category: Utility
+Execution Time: Full-turn action
+Cost: 4 energy
+Radius: (2 + C/4) meters
+Duration: 1 hour
+Effect
+Your icon guides the weapons of creatures within the area, granting their weapon attacks a +5 bonus damage.Category: Defense
+Execution Time: Full-turn action
+Cost: 6 energy
+Radius: (2 + C/4) meters
+Duration: 1 hour
+Effect
+Your icon protects creatures within radius. Creatures within this area take 5 less damage from weapon attacks. ]]></description><link>https://sigil.tyghsh.cc/sigil-of-uchma/character-branches/iconcraft.html</link><guid isPermaLink="false">sigil-of-uchma/Character - Branches/Iconcraft.md</guid><dc:creator><![CDATA[TaygaHoshi]]></dc:creator><pubDate>Sun, 15 Dec 2024 12:10:08 GMT</pubDate></item><item><title><![CDATA[Status Effects]]></title><description><![CDATA[
+Reduces line of sight to 1 meter. Grants a -5 penalty to precision rolls. Does not stack. If target is already blinded, only the longer one applies. (1 + P/3) penalty on precision rolls.
+Does not stack. If target is already disoriented, only the one with higher potency applies. Next time this creature takes damage from a weapon attack, it receives bonus damage equal to your potency. Does not stack. If target is already exposed, only the one with higher potency applies. Reduces movement speed by 2 per stack.
+Applies a -2 penalty on precision rolls and all resistances per stack.
+Stacks up to 5. If target already has 5 fatigue stacks, an application with longer duration will override the stack with the shortest duration. Lowers walking, swimming, climbing and flying speeds to 0.
+Grants a -1 penalty to Evasion.
+Does not stack. If target is already immobilized, only the longer one applies. (1 + P/3) penalty on Constitution.
+Whenever a creature with sickened receives a harmful status effect, one hit is spent immediately.
+Does not stack. If target is already sickened, only the one with higher potency applies. Halves walking, swimming, climbing and flying speeds.
+(1 + P/3) penalty on Evasion and initiative.
+Does not stack. If target is already slowed, only the one with higher potency applies. If a creature is soaked and frostbitten or electrified at the start of its turn, it is no longer soaked and that damaging effect deals double damage this turn. If this creature is both frostbitten and electrified, soaked affects the status effect with the lowest damage. If target is burning, it is cured and soaked doesn't get applied.
+Does not stack. If target is already soaked, only the longer one applies. Lowers movement, swimming, climbing and flying speeds to 0.
+Target is unable to take any action.
+Applies a -2 penalty to all resistances.
+Does not stack. If target is already stunned, only the longer one applies. (1 + P/3) penalty on Parry.
+Does not stack. If target's defenses are already weakened, only the one with higher potency applies. Applies 5 armor-ignoring damage per hit.
+Does not stack. If target is already bleeding, only the one with higher damage applies. Applies 10 physical damage per hit.
+If target is frostbitten or soaked, it is cured and burning doesn't get applied.
+Does not stack. If target is already burning, only the one with higher damage applies. Applies 5 armor-ignoring damage per hit. This status effect does not gain the potency bonus to its damage.
+At the end of a diseased creature's turn, if that creature is still diseased, all adjacent creatures receive the disease for 1 hit.
+Does not stack. If target is already diseased, only the one with higher damage applies. Applies 10 magical damage per hit.
+Does not stack. If target is already electrified, only the one with higher damage applies. Applies 5 armor-ignoring damage per hit.
+If target is burning, it is cured and frostbitten doesn't get applied.
+Does not stack. If target is already frostbitten, only the one with higher damage applies. Once, halves incoming damage before armor.
+Does not affect status effects and damage over time effects.
+Does not stack unless all stacks of protected come from the same ability. (1 + P/4) bonus to the next precision roll.
+Does not stack. If target is already effected by a prediction foresight, only the one with higher potency applies. (1 + P/4) bonus to all resistances for the next precision roll against this target.
+Does not stack. If target is already effected by a protective foresight, only the one with higher potency applies. Increases health until the duration ends.
+Affected by damage after armor.
+Does not stack. If target already has temporary health, only larger the one applies. Protects target against magical damage until it breaks or the duration ends.
+One point of temporary magical armor breaks for every point of magical damage reduced by it.
+Affected by damage before armor.
+Does not stack. If target already has temporary armor, only larger the one applies. Protects target against physical damage until it breaks or the duration ends.
+One point of temporary physical armor breaks for every point of physical damage reduced by it.
+Affected by damage before armor.
+Does not stack. If target already has temporary armor, only larger the one applies.
+]]></description><link>https://sigil.tyghsh.cc/sigil-of-uchma/content/status-effects.html</link><guid isPermaLink="false">sigil-of-uchma/Content/Status Effects.md</guid><dc:creator><![CDATA[TaygaHoshi]]></dc:creator><pubDate>Fri, 13 Dec 2024 00:24:07 GMT</pubDate></item><item><title><![CDATA[RESOURCES]]></title><description><![CDATA[There are not many resources on this topic. If you happen to come across helpful articles, images, videos or anything similar, please let me know or send a pull request.]]></description><link>https://sigil.tyghsh.cc/sigil-of-uchma/resources.html</link><guid isPermaLink="false">sigil-of-uchma/RESOURCES.md</guid><dc:creator><![CDATA[TaygaHoshi]]></dc:creator><pubDate>Sun, 15 Sep 2024 16:37:00 GMT</pubDate></item><item><title><![CDATA[LICENCE]]></title><description><![CDATA[Attribution-NonCommercial-ShareAlike 4.0 International=======================================================================Creative Commons Corporation ("Creative Commons") is not a law firm and
+does not provide legal services or legal advice. Distribution of
+Creative Commons public licenses does not create a lawyer-client or
+other relationship. Creative Commons makes its licenses and related
+information available on an "as-is" basis. Creative Commons gives no
+warranties regarding its licenses, any material licensed under their
+terms and conditions, or any related information. Creative Commons
+disclaims all liability for damages resulting from their use to the
+fullest extent possible.Using Creative Commons Public LicensesCreative Commons public licenses provide a standard set of terms and
+conditions that creators and other rights holders may use to share
+original works of authorship and other material subject to copyright
+and certain other rights specified in the public license below. The
+following considerations are for informational purposes only, are not
+exhaustive, and do not form part of our licenses. Considerations for licensors: Our public licenses are intended for use by those authorized to give the public permission to use material in ways otherwise restricted by copyright and certain other rights. Our licenses are irrevocable. Licensors should read and understand the terms and conditions of the license they choose before applying it. Licensors should also secure all rights necessary before applying our licenses so that the public can reuse the material as expected. Licensors should clearly mark any material not subject to the license. This includes other CC- licensed material, or material used under an exception or limitation to copyright. More considerations for licensors:
+wiki.creativecommons.org/Considerations_for_licensors Considerations for the public: By using one of our public licenses, a licensor grants the public permission to use the licensed material under specified terms and conditions. If the licensor's permission is not necessary for any reason--for example, because of any applicable exception or limitation to copyright--then that use is not regulated by the license. Our licenses grant only permissions under copyright and certain other rights that a licensor has authority to grant. Use of the licensed material may still be restricted for other reasons, including because others have copyright or other rights in the material. A licensor may make special requests, such as asking that all changes be marked or described. Although not required by our licenses, you are encouraged to respect those requests where reasonable. More considerations for the public:
+wiki.creativecommons.org/Considerations_for_licensees
+=======================================================================Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
+Public LicenseBy exercising the Licensed Rights (defined below), You accept and agree
+to be bound by the terms and conditions of this Creative Commons
+Attribution-NonCommercial-ShareAlike 4.0 International Public License
+("Public License"). To the extent this Public License may be
+interpreted as a contract, You are granted the Licensed Rights in
+consideration of Your acceptance of these terms and conditions, and the
+Licensor grants You such rights in consideration of benefits the
+Licensor receives from making the Licensed Material available under
+these terms and conditions.Section 1 -- Definitions. a. Adapted Material means material subject to Copyright and Similar
+Rights that is derived from or based upon the Licensed Material
+and in which the Licensed Material is translated, altered,
+arranged, transformed, or otherwise modified in a manner requiring
+permission under the Copyright and Similar Rights held by the
+Licensor. For purposes of this Public License, where the Licensed
+Material is a musical work, performance, or sound recording,
+Adapted Material is always produced where the Licensed Material is
+synched in timed relation with a moving image. b. Adapter's License means the license You apply to Your Copyright
+and Similar Rights in Your contributions to Adapted Material in
+accordance with the terms and conditions of this Public License. c. BY-NC-SA Compatible License means a license listed at
+creativecommons.org/compatiblelicenses, approved by Creative
+Commons as essentially the equivalent of this Public License. d. Copyright and Similar Rights means copyright and/or similar rights
+closely related to copyright including, without limitation,
+performance, broadcast, sound recording, and Sui Generis Database
+Rights, without regard to how the rights are labeled or
+categorized. For purposes of this Public License, the rights
+specified in Section 2(b)(1)-(2) are not Copyright and Similar
+Rights. e. Effective Technological Measures means those measures that, in the
+absence of proper authority, may not be circumvented under laws
+fulfilling obligations under Article 11 of the WIPO Copyright
+Treaty adopted on December 20, 1996, and/or similar international
+agreements. f. Exceptions and Limitations means fair use, fair dealing, and/or
+any other exception or limitation to Copyright and Similar Rights
+that applies to Your use of the Licensed Material. g. License Elements means the license attributes listed in the name
+of a Creative Commons Public License. The License Elements of this
+Public License are Attribution, NonCommercial, and ShareAlike. h. Licensed Material means the artistic or literary work, database,
+or other material to which the Licensor applied this Public
+License. i. Licensed Rights means the rights granted to You subject to the
+terms and conditions of this Public License, which are limited to
+all Copyright and Similar Rights that apply to Your use of the
+Licensed Material and that the Licensor has authority to license. j. Licensor means the individual(s) or entity(ies) granting rights
+under this Public License. k. NonCommercial means not primarily intended for or directed towards
+commercial advantage or monetary compensation. For purposes of
+this Public License, the exchange of the Licensed Material for
+other material subject to Copyright and Similar Rights by digital
+file-sharing or similar means is NonCommercial provided there is
+no payment of monetary compensation in connection with the
+exchange. l. Share means to provide material to the public by any means or
+process that requires permission under the Licensed Rights, such
+as reproduction, public display, public performance, distribution,
+dissemination, communication, or importation, and to make material
+available to the public including in ways that members of the
+public may access the material from a place and at a time
+individually chosen by them. m. Sui Generis Database Rights means rights other than copyright
+resulting from Directive 96/9/EC of the European Parliament and of
+the Council of 11 March 1996 on the legal protection of databases,
+as amended and/or succeeded, as well as other essentially
+equivalent rights anywhere in the world. n. You means the individual or entity exercising the Licensed Rights
+under this Public License. Your has a corresponding meaning.Section 2 -- Scope. a. License grant. 1. Subject to the terms and conditions of this Public License, the Licensor hereby grants You a worldwide, royalty-free, non-sublicensable, non-exclusive, irrevocable license to exercise the Licensed Rights in the Licensed Material to: a. reproduce and Share the Licensed Material, in whole or in part, for NonCommercial purposes only; and b. produce, reproduce, and Share Adapted Material for NonCommercial purposes only. 2. Exceptions and Limitations. For the avoidance of doubt, where Exceptions and Limitations apply to Your use, this Public License does not apply, and You do not need to comply with its terms and conditions. 3. Term. The term of this Public License is specified in Section 6(a). 4. Media and formats; technical modifications allowed. The Licensor authorizes You to exercise the Licensed Rights in all media and formats whether now known or hereafter created, and to make technical modifications necessary to do so. The Licensor waives and/or agrees not to assert any right or authority to forbid You from making technical modifications necessary to exercise the Licensed Rights, including technical modifications necessary to circumvent Effective Technological Measures. For purposes of this Public License, simply making modifications authorized by this Section 2(a) (4) never produces Adapted Material. 5. Downstream recipients. a. Offer from the Licensor -- Licensed Material. Every recipient of the Licensed Material automatically receives an offer from the Licensor to exercise the Licensed Rights under the terms and conditions of this Public License. b. Additional offer from the Licensor -- Adapted Material. Every recipient of Adapted Material from You automatically receives an offer from the Licensor to exercise the Licensed Rights in the Adapted Material under the conditions of the Adapter's License You apply. c. No downstream restrictions. You may not offer or impose any additional or different terms or conditions on, or apply any Effective Technological Measures to, the Licensed Material if doing so restricts exercise of the Licensed Rights by any recipient of the Licensed Material. 6. No endorsement. Nothing in this Public License constitutes or may be construed as permission to assert or imply that You are, or that Your use of the Licensed Material is, connected with, or sponsored, endorsed, or granted official status by, the Licensor or others designated to receive attribution as provided in Section 3(a)(1)(A)(i). b. Other rights. 1. Moral rights, such as the right of integrity, are not licensed under this Public License, nor are publicity, privacy, and/or other similar personality rights; however, to the extent possible, the Licensor waives and/or agrees not to assert any such rights held by the Licensor to the limited extent necessary to allow You to exercise the Licensed Rights, but not otherwise. 2. Patent and trademark rights are not licensed under this Public License. 3. To the extent possible, the Licensor waives any right to collect royalties from You for the exercise of the Licensed Rights, whether directly or through a collecting society under any voluntary or waivable statutory or compulsory licensing scheme. In all other cases the Licensor expressly reserves any right to collect such royalties, including when the Licensed Material is used other than for NonCommercial purposes.
+Section 3 -- License Conditions.Your exercise of the Licensed Rights is expressly made subject to the
+following conditions. a. Attribution. 1. If You Share the Licensed Material (including in modified form), You must: a. retain the following if it is supplied by the Licensor with the Licensed Material: i. identification of the creator(s) of the Licensed Material and any others designated to receive attribution, in any reasonable manner requested by the Licensor (including by pseudonym if designated); ii. a copyright notice; iii. a notice that refers to this Public License; iv. a notice that refers to the disclaimer of warranties; v. a URI or hyperlink to the Licensed Material to the extent reasonably practicable; b. indicate if You modified the Licensed Material and retain an indication of any previous modifications; and c. indicate the Licensed Material is licensed under this Public License, and include the text of, or the URI or hyperlink to, this Public License. 2. You may satisfy the conditions in Section 3(a)(1) in any reasonable manner based on the medium, means, and context in which You Share the Licensed Material. For example, it may be reasonable to satisfy the conditions by providing a URI or hyperlink to a resource that includes the required information. 3. If requested by the Licensor, You must remove any of the information required by Section 3(a)(1)(A) to the extent reasonably practicable. b. ShareAlike. In addition to the conditions in Section 3(a), if You Share Adapted Material You produce, the following conditions also apply. 1. The Adapter's License You apply must be a Creative Commons license with the same License Elements, this version or later, or a BY-NC-SA Compatible License. 2. You must include the text of, or the URI or hyperlink to, the Adapter's License You apply. You may satisfy this condition in any reasonable manner based on the medium, means, and context in which You Share Adapted Material. 3. You may not offer or impose any additional or different terms or conditions on, or apply any Effective Technological Measures to, Adapted Material that restrict exercise of the rights granted under the Adapter's License You apply.
+Section 4 -- Sui Generis Database Rights.Where the Licensed Rights include Sui Generis Database Rights that
+apply to Your use of the Licensed Material: a. for the avoidance of doubt, Section 2(a)(1) grants You the right
+to extract, reuse, reproduce, and Share all or a substantial
+portion of the contents of the database for NonCommercial purposes
+only; b. if You include all or a substantial portion of the database
+contents in a database in which You have Sui Generis Database
+Rights, then the database in which You have Sui Generis Database
+Rights (but not its individual contents) is Adapted Material,
+including for purposes of Section 3(b); and c. You must comply with the conditions in Section 3(a) if You Share
+all or a substantial portion of the contents of the database.For the avoidance of doubt, this Section 4 supplements and does not
+replace Your obligations under this Public License where the Licensed
+Rights include other Copyright and Similar Rights.Section 5 -- Disclaimer of Warranties and Limitation of Liability. a. UNLESS OTHERWISE SEPARATELY UNDERTAKEN BY THE LICENSOR, TO THE
+EXTENT POSSIBLE, THE LICENSOR OFFERS THE LICENSED MATERIAL AS-IS
+AND AS-AVAILABLE, AND MAKES NO REPRESENTATIONS OR WARRANTIES OF
+ANY KIND CONCERNING THE LICENSED MATERIAL, WHETHER EXPRESS,
+IMPLIED, STATUTORY, OR OTHER. THIS INCLUDES, WITHOUT LIMITATION,
+WARRANTIES OF TITLE, MERCHANTABILITY, FITNESS FOR A PARTICULAR
+PURPOSE, NON-INFRINGEMENT, ABSENCE OF LATENT OR OTHER DEFECTS,
+ACCURACY, OR THE PRESENCE OR ABSENCE OF ERRORS, WHETHER OR NOT
+KNOWN OR DISCOVERABLE. WHERE DISCLAIMERS OF WARRANTIES ARE NOT
+ALLOWED IN FULL OR IN PART, THIS DISCLAIMER MAY NOT APPLY TO YOU. b. TO THE EXTENT POSSIBLE, IN NO EVENT WILL THE LICENSOR BE LIABLE
+TO YOU ON ANY LEGAL THEORY (INCLUDING, WITHOUT LIMITATION,
+NEGLIGENCE) OR OTHERWISE FOR ANY DIRECT, SPECIAL, INDIRECT,
+INCIDENTAL, CONSEQUENTIAL, PUNITIVE, EXEMPLARY, OR OTHER LOSSES,
+COSTS, EXPENSES, OR DAMAGES ARISING OUT OF THIS PUBLIC LICENSE OR
+USE OF THE LICENSED MATERIAL, EVEN IF THE LICENSOR HAS BEEN
+ADVISED OF THE POSSIBILITY OF SUCH LOSSES, COSTS, EXPENSES, OR
+DAMAGES. WHERE A LIMITATION OF LIABILITY IS NOT ALLOWED IN FULL OR
+IN PART, THIS LIMITATION MAY NOT APPLY TO YOU. c. The disclaimer of warranties and limitation of liability provided
+above shall be interpreted in a manner that, to the extent
+possible, most closely approximates an absolute disclaimer and
+waiver of all liability.Section 6 -- Term and Termination. a. This Public License applies for the term of the Copyright and
+Similar Rights licensed here. However, if You fail to comply with
+this Public License, then Your rights under this Public License
+terminate automatically. b. Where Your right to use the Licensed Material has terminated under
+Section 6(a), it reinstates: 1. automatically as of the date the violation is cured, provided it is cured within 30 days of Your discovery of the violation; or 2. upon express reinstatement by the Licensor. For the avoidance of doubt, this Section 6(b) does not affect any right the Licensor may have to seek remedies for Your violations of this Public License. c. For the avoidance of doubt, the Licensor may also offer the
+Licensed Material under separate terms or conditions or stop
+distributing the Licensed Material at any time; however, doing so
+will not terminate this Public License. d. Sections 1, 5, 6, 7, and 8 survive termination of this Public
+License.Section 7 -- Other Terms and Conditions. a. The Licensor shall not be bound by any additional or different
+terms or conditions communicated by You unless expressly agreed. b. Any arrangements, understandings, or agreements regarding the
+Licensed Material not stated herein are separate from and
+independent of the terms and conditions of this Public License.Section 8 -- Interpretation. a. For the avoidance of doubt, this Public License does not, and
+shall not be interpreted to, reduce, limit, restrict, or impose
+conditions on any use of the Licensed Material that could lawfully
+be made without permission under this Public License. b. To the extent possible, if any provision of this Public License is
+deemed unenforceable, it shall be automatically reformed to the
+minimum extent necessary to make it enforceable. If the provision
+cannot be reformed, it shall be severed from this Public License
+without affecting the enforceability of the remaining terms and
+conditions. c. No term or condition of this Public License will be waived and no
+failure to comply consented to unless expressly agreed to by the
+Licensor. d. Nothing in this Public License constitutes or may be interpreted
+as a limitation upon, or waiver of, any privileges and immunities
+that apply to the Licensor or You, including from the legal
+processes of any jurisdiction or authority.=======================================================================Creative Commons is not a party to its public
+licenses. Notwithstanding, Creative Commons may elect to apply one of
+its public licenses to material it publishes and in those instances
+will be considered the “Licensor.” The text of the Creative Commons
+public licenses is dedicated to the public domain under the CC0 Public
+Domain Dedication. Except for the limited purpose of indicating that
+material is shared under a Creative Commons public license or as
+otherwise permitted by the Creative Commons policies published at
+creativecommons.org/policies, Creative Commons does not authorize the
+use of the trademark "Creative Commons" or any other trademark or logo
+of Creative Commons without its prior written consent including,
+without limitation, in connection with any unauthorized modifications
+to any of its public licenses or any other arrangements,
+understandings, or agreements concerning use of licensed material. For
+the avoidance of doubt, this paragraph does not form part of the
+public licenses.Creative Commons may be contacted at creativecommons.org.]]></description><link>https://sigil.tyghsh.cc/sigil-of-uchma/licence.html</link><guid isPermaLink="false">sigil-of-uchma/LICENCE.md</guid><dc:creator><![CDATA[TaygaHoshi]]></dc:creator><pubDate>Fri, 15 Dec 2023 06:23:27 GMT</pubDate></item></channel></rss>
