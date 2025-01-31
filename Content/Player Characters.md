@@ -27,9 +27,9 @@ Your path determines your base health. There are three tiers of maximum health:
 
 | Tier   | Base Health |
 | ------ | :---------: |
-| High   |  80 health  |
-| Medium |  70 health  |
-| Low    |  60 health  |
+| High   |     80      |
+| Medium |     70      |
+| Low    |     60      |
 ### Energy
 Energy is used for performing techniques and other abilities. As your character levels up, your base energy increases:
 
