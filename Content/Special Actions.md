@@ -7,6 +7,12 @@
 	Alternatively, you can whisper to a creature or an object within melee range. In this case, your voice is only heard by that creature or object.
 	This ability can be used freely in the end phase of a combat round.
 
+# Self Cure
+**Execution time:** Full-turn action
+**Cost:** 2 energy
+**Explanation:**
+	Remove one status effect from yourself.
+
 # Charge
 **Execution time:** Full-turn action
 **Requirements:** 
