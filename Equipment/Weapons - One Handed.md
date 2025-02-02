@@ -62,7 +62,7 @@ One handed weapons are divided into two: heavy weapons and light weapons. Light 
 ## Shortsword (Light)
 + (Passive) Sidearm
 	+ This weapon's properties allows it to be used as a sidearm.
-	+ Skills rolls regarding the concealment of this weapon receive a +1 bonus.
+	+ Skills rolls regarding the concealment of this weapon receive a +2 bonus.
 	+ During your turns, you can use the Swap Weapon action to swap to your shortsword freely without using a rapid action. 
 	+ Swapping weapons in this way drops the previous weapon onto the ground below you.
 + Slash
@@ -79,12 +79,13 @@ One handed weapons are divided into two: heavy weapons and light weapons. Light 
 ## Dagger (Light)
 + (Passive) Sidearm
 	+ This weapon's properties allows it to be used as a sidearm.
-	+ Skills rolls regarding the concealment of this weapon receive a +4 bonus.
+	+ Skills rolls regarding the concealment of this weapon receive a +3 bonus.
 	+ During your turns, you can use the Swap Weapon action to swap to your dagger freely without using a rapid action. 
 	+ Swapping weapons in this way drops the previous weapon onto the ground below you.
 + Stab
 	+ Deals 15 physical damage.
 + Double Slash
+	+ Ignores weapon precision.
 	+ Deals 10 physical damage.
 	+ You attack the target twice.
 + (Prepared action) Backstab

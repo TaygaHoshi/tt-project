@@ -118,6 +118,11 @@ Two handed weapons have three weapon attacks.
 ## Shortbow
 + (Passive) Unsteady Aiming
 	+ Unless you use Improved Aiming, your projectile attacks with shortbows have a -1 penalty on precision rolls. 
++ (Passive) Sidearm
+	+ This weapon's properties allows it to be used as a sidearm.
+	+ Skills rolls regarding the concealment of this weapon receive a +1 bonus if you have less than 2 arrows on yourself.
+	+ During your turns, you can use the Swap Weapon action to swap to your shortbow freely without using a rapid action. 
+	+ Swapping weapons in this way drops the previous weapon(s) onto the ground below you.
 + (Projectile) Shoot
 	+ Range: 10 meters.
 	+ Deals 15 physical damage.
