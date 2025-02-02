@@ -47,7 +47,8 @@ Each place corresponds to exactly one element, and an effect gained from this ab
 **Duration:** (1 + C/2) hits
 **Effect**
 	(Projectile)
-	A powerful arc of lightning leaves your hand and strikes your target, dealing 10 magical damage and applying electrified for the duration. If you fail the precision roll, the lightning hits the conductive object or soaked creature nearest your target within your line of sight, including yourself.
+	A powerful arc of lightning leaves your hand and strikes your target, dealing 5 magical damage and applying electrified for the duration. 
+	If you fail the precision roll, the lightning hits the conductive object or soaked creature nearest you within your range and line of sight including yourself. In this case, it only applies 1 hit of electrified and deals no damage. 
 
 ## Metalskin
 **Category:** Defense
@@ -65,7 +66,7 @@ Each place corresponds to exactly one element, and an effect gained from this ab
 **Radius:** 5 meters
 **Duration:** (2 + C/2) rounds
 **Effect**
-	You generate a large and stationary rain cloud above you, and it starts to rain immediately. Any creature who moves into, out of or within the area below this cloud is soaked for one round unless it has cover from rain.
+	You generate a large and stationary rain cloud above you, and it starts to rain immediately. Any creature who starts or ends their turn in the area below this cloud is soaked for one round unless it has cover from rain.
 	Alternatively, you can choose to perform a wider and longer version of this technique. This requires 1 hour of uninterrupted casting. In this case, this rain cloud lasts for (2 + C/2) hours and affects a 50 meter radius area, which is considered a water environment for your element-enveloped ability.
 	This technique can only be used outside or interiors with sufficient space.
 
@@ -90,7 +91,7 @@ Each place corresponds to exactly one element, and an effect gained from this ab
 **Duration:** 5 minutes
 **Effect**
 	You grow a stationary and autonomous plant, which shoots needles to your foes within radius, right after your turn. It can shoot one needle per round, applying bleeding for 2 hit if it hits.
-	This plant inherits your aptitudes. It has 10 health, and its resistances are equal to 5. 
+	This plant inherits your aptitudes. It has 10 health, and its resistances are equal to your base resistances. 
 	A sprout created by this technique is immune to debilitating status effects.
 	Sprouts you create do not count towards your summon limit, and you can have up to (1 + P/2) sprouts at any time.
 
