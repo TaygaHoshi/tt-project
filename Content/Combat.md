@@ -29,18 +29,23 @@ Battle maps can be virtual or physical, depending on the medium of play.
 
 ## Action Types and Timing
 Each turn takes approximately 10 seconds in game.
+
 ### Action
-These are regular actions. Mostly, only one action can be taken during a turn.
++ These are regular actions. Mostly, only one action can be taken during a turn.
+
 ### Rapid Action
-During a turn, one rapid action can be taken alongside a regular action.
-A rapid action is mutually exclusive with a prepared action. Only one of them can be taken during a turn.
++ During a turn, one rapid action can be taken alongside a regular action.
++ A rapid action is mutually exclusive with a prepared action. Only one of them can be taken during a turn.
+
 ### Prepared Action
-During a turn, one prepared action can be taken alongside a regular action.
-This kind of actions always come with a trigger, and they are always performed outside a character's turn.
-Prepared actions last until end of the current round, unless explicitly told otherwise.
-A prepared action is mutually exclusive with a rapid action. Only one of them can be taken during a turn.
++ During a turn, one prepared action can be taken alongside a regular action.
++ This kind of actions always come with a trigger, and they are always performed outside a character's turn.
++ Prepared actions last until end of the current round, unless explicitly told otherwise.
++ A prepared action is mutually exclusive with a rapid action. Only one of them can be taken during a turn.
++ Some prepared actions may mention "moving into, out of or within an area". In this case, the attack is done after the creature successfully moves to a new square on the battle map, even if it would be out of range otherwise. 
+
 ### Special Actions
-These actions can be taken by any player character as long as they fulfill the requirements. See [[Special Actions|the list of special actions]].
++ These actions can be taken by any player character as long as they fulfill the requirements. See [[Special Actions|the list of special actions]].
 
 ## Turn Order
 At the start phase of every round, turn order will be calculated for this round. There are several rules:
