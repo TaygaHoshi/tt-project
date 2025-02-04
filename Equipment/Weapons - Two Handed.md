@@ -10,8 +10,8 @@ Two handed weapons have three weapon attacks.
 | Two-handed sword |   25   |        1         |  1m   |                  |
 | War hammer       |   20   |        0         |  1m   |                  |
 | Staff            |   20   |        1         |  10m  |                  |
-| Longbow          |   20   |        0         |  15m  |                  |
 | Crossbow         |   25   |        1         |  10m  |                  |
+| Longbow          |   20   |        0         |  15m  |                  |
 | Shortbow         |   15   |        1         |  10m  |        +1        |
 | War drums        |   0    |        0         |  15m  |                  |
 
@@ -94,7 +94,7 @@ Two handed weapons have three weapon attacks.
 	+ Deals 25 physical damage.
 + (Projectile) Piercing Shot
 	+ Range: 10 meters.
-	+ Deals 15 physical damage, ignoring physical armor. Potency bonus to damage is doubled for this attack. 
+	+ Deals 15 armor-ignoring damage. Potency bonus to damage is doubled for this attack. 
 + (Prepared action) Bash
 	+ Ignores weapon precision.
 	+ Attack the next foe who moves into, within or out of melee range.

@@ -100,7 +100,7 @@
 **Explanation:**
 	Ignores weapon precision.
 	You retrieve the weapon stuck in the target.
-	This attack deals half weapon damage, ignoring physical armor.
+	This attack deals half weapon damage as armor-ignoring damage.
 	This action is considered a basic weapon attack.
 
 # Use Item
