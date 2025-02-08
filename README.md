@@ -1,9 +1,9 @@
 # Sigil of Uchma
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
-Sigil of Uchma (formerly TT Project) is a work-in-progress tabletop role playing game being created by me, [TaygaHoshi](https://github.com/TaygaHoshi). The game is currently in alpha stage and actively in development.
+Sigil of Uchma (formerly TT Project) is a work-in-progress tabletop role playing game being created by [TaygaHoshi](https://github.com/TaygaHoshi). The game is currently in alpha stage and actively in development.
 
-You can start reading the rules from [this website](https://sigil.tyghsh.cc). If you want to read the development version instead, check out [the test website](https://sigil-test.tyghsh.cc)
+You can start reading the rules from [this website](https://sigil.tyghsh.cc). If you want to read the in-development version instead, check out [the test website](https://sigil-test.tyghsh.cc).
 
 You can send me feedback from this form: https://forms.gle/7NwTYqGUWpBfBWNg8.
 
