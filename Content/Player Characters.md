@@ -101,7 +101,8 @@ See: [[sigil-of-uchma/Content/Combat#Movement|Movement]].
 See: [[sigil-of-uchma/Content/Combat#Turn Order|Turn Order]].
 Each player character has a base initiative of 0. Initiative is affected by some abilities and equipment such as armor or weapons.
 
-## Starter EquipmentEach player character can choose a starting equipment:
+## Starter Equipment
+Each player character can choose a starting equipment:
 + Any [[Armor & Weapons#Armor Types and Armor Rating|armor type]] of their choosing
 + Two of any [[Armor & Weapons#Weapon Sets|weapon sets]]
 + #TODO 
