@@ -3,7 +3,7 @@ Sigil of Uchma is a work-in-progress fantasy tabletop role playing game based on
 
 Sigil of Uchma is played with a game master (GM) and one or more players. The GM builds and runs a campaign, enforces the rules of the game, applies or creates resolution mechanics as necessary, and controls the non-player characters (NPCs). Players, on the other hand, are responsible from their characters, which are called player characters (PCs). Each player is expected to bring only one PC. With the use of their characters, the party can explore places, fight foes, deceive or help NPCs, take on quests, collect items and go on adventures.
 
-Sigil is not yet ready for running campaigns. You are seeing the version: *v1-a8*. 
+Sigil is not yet ready for running campaigns. You are seeing the version: *v1-a9*. 
 
 # Various Links
 + [[Content/Player Characters|Creating a character]] (start here)
