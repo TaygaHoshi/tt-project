@@ -90,7 +90,7 @@ Each place corresponds to exactly one element, and an effect gained from this ab
 **Radius:** (2 + C/2) meters
 **Duration:** 5 minutes
 **Effect**
-	You grow a stationary and autonomous plant, which shoots needles to your foes within radius, right after your turn. It can shoot one needle per round, applying bleeding for 2 hit if it hits.
+	You grow a stationary and autonomous plant, which shoots needles to your foes within radius, right after your turn. It can shoot one needle per round, applying bleeding for 2 hits.
 	This plant inherits your aptitudes. It has 10 health, and its resistances are equal to your base resistances. 
 	A sprout created by this technique is immune to debilitating status effects.
 	Sprouts you create do not count towards your summon limit, and you can have up to (1 + P/2) sprouts at any time.
