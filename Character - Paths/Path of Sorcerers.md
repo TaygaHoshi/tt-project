@@ -38,6 +38,23 @@ At the start of a round, you can sacrifice 5 health to gain 10 temporary health 
 	4. Cut or open holes.
 	This object returns to its original shape and properties after the duration. This ability can't be used on magical items.
 
+## Disenchant
+**Category:** Offense
+**Execution Time:** Action
+**Cost:** 5 health
+**Range:** 5 meters
+**Effect**
+	Remove a status effect from the target creature, dealing 15 magical damage in the process.
+
+## Mark of Sacrifice
+**Category:** Offense
+**Execution Time:** Action
+**Cost:** 2 energy
+**Range:** 5 meters
+**Duration:** (2 + C/3) rounds
+**Effect**
+	Mark a creature. If this creature dies while marked, adjacent creatures take 10 magical damage without requiring precision rolls. Potency bonus to this technique's damage is halved.
+
 ## Spread Curses
 **Category:** Offense
 **Execution Time:** Action
