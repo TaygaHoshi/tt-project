@@ -10,7 +10,7 @@
 + Does not stack. If target is already disoriented, only the one with higher potency applies.
 
 ## Exposed
-+ Next time this creature takes damage from a weapon attack, it receives bonus damage equal to your potency. 
++ Next time this creature takes damage from a weapon attack, it receives (2 + P) bonus damage. 
 + Does not stack. If target is already exposed, only the one with higher potency applies.
 
 ## Fatigued
@@ -60,7 +60,7 @@
 + Does not stack. If target is already burning, only the one with higher damage applies.
 
 ## Diseased
-+ Applies 5 armor-ignoring damage per hit. This status effect does not gain the potency bonus to its damage.
++ Applies 5 armor-ignoring damage per hit. This status effect does not gain potency bonus to its damage.
 + At the end of a diseased creature's turn, if that creature is still diseased, all adjacent creatures receive the disease for 1 hit.
 + Does not stack. If target is already diseased, only the one with higher damage applies.
 
