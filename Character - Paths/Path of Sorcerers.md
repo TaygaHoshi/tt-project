@@ -5,9 +5,9 @@
 |   2   |                     |
 |   3   | Equivalent Exchange |
 |   4   |                     |
-|   5   |                     |
+|   5   | Blood is Power      |
 |   6   |                     |
-|   7   |                     |
+|   7   | Death's Edge        |
 |   8   |                     |
 |   9   |                     |
 |  10   |                     |
@@ -21,6 +21,14 @@ In addition, whenever you spend any amount of energy, you are healed for that am
 
 ## Equivalent Exchange
 At the start of a round, you can sacrifice 5 health to gain 10 temporary health for that round. This effect is clearly visible to other creatures.
+
+## Blood is Power
+As a rapid action, you can sacrifice 5 health to increase your aptitudes in one of the following ways:
+1. Increase either potency or control by 2, or
+2. Increase both by 1 each.
+
+## Death's Edge
+When you are below 15 health and use an ability that costs health, you can instead spend 1 energy per 5 health cost to use that ability.
 
 ---
 # Techniques
@@ -38,22 +46,32 @@ At the start of a round, you can sacrifice 5 health to gain 10 temporary health 
 	4. Cut or open holes.
 	This object returns to its original shape and properties after the duration. This ability can't be used on magical items.
 
-## Disenchant
+## Call Chaos
 **Category:** Offense
-**Execution Time:** Action
-**Cost:** 5 health
-**Range:** 5 meters
+**Execution Time:** Full-turn action
+**Cost:** 15 health
+**Radius:** (2 + P/3) meters
+**Duration:** (2 + C/3) rounds
 **Effect**
-	Remove a status effect from the target creature, dealing 15 magical damage in the process.
+	Create an area of darkness around you. This area is considered quarter cover and is a light rough terrain. 
+	Summon a spiritling of chaos next to each creature up to a maximum of (2 + P/3) spiritlings for the duration, excluding yourself. Spiritlings of chaos summoned by this technique share your level. These spiritlings act independent from you and attack the creature closest to them.
 
 ## Mark of Sacrifice
 **Category:** Offense
 **Execution Time:** Action
 **Cost:** 2 energy
 **Range:** 5 meters
-**Duration:** (2 + C/3) rounds
+**Duration:** (2 + C/4) rounds
 **Effect**
-	Mark a creature. If this creature dies while marked, adjacent creatures take 10 magical damage without requiring precision rolls. Potency bonus to this technique's damage is halved.
+	Mark (1 + C/3) creatures. If one of these creatures die while marked, adjacent creatures take 10 magical damage without requiring precision rolls. Potency bonus to this technique's damage is halved.
+
+## Purge Blessings
+**Category:** Utility
+**Execution Time:** Action
+**Cost:** 5 health
+**Range:** 5 meters
+**Effect**
+	Remove (1 + P/4) helpful status effects from the target creature, dealing 10 magical damage per status effect removed.
 
 ## Spread Curses
 **Category:** Offense
@@ -80,7 +98,50 @@ At the start of a round, you can sacrifice 5 health to gain 10 temporary health 
 **Execution Time:** Action
 **Cost:** 2 energy 
 **Range:** 5 meters
-**Duration:** (1 + C/2) rounds
+**Duration:** (2 + C/3) rounds
 **Effect**
 	This spell's precision roll is made against Constitution. 
-	Apply either sickened or diseased to the target creature for the duration of this technique.
+	Apply either sickened or weakened defenses to the target creature for the duration of this technique. Alternatively, you can apply fatigue by spending 4 energy instead.
+
+
+---
+# Summons
+
+<table style="width: 100%; max-width: 720px; border-style: inset;">
+<tr>
+<th>Spiritling of Chaos</th>
+<td colspan="3">Level x - Minion</td>
+</tr>
+<tr style="border-bottom: solid 2px"><td colspan="4">To do: add lore</td></tr>
+<tr>  
+<td><b>Health:</b> 10</td>  
+<td colspan="2"><b>Movement:</b> 4 meters</td>  
+<td><b>Initiative:</b> -2</td>  
+</tr>
+<tr style="border-bottom: dashed 2px">
+<td><b>Potency:</b> 0</td> 
+<td><b>Control:</b> 0</td> 
+<td colspan="2"><b>Precision Roll:</b> d10 + level/2</td> 
+</tr>
+<tr>
+<td><b>Parry:</b> 5 + level/2</td>  
+<td><b>Warding:</b> 5 + level/2</td>  
+<td><b>Constitution:</b> 5 + level/2</td>  
+<td><b>Evasion:</b> 5 + level/2</td>  
+</tr>
+<tr style="border-bottom: solid 2px">  
+<td colspan="1"><b>Physical Armor:</b> 0</td>
+<td colspan="1"><b>Magical Armor:</b> 0</td>
+<td colspan="2"><b>Weapon:</b> Spirit body</td>
+</tr>
+<tr>
+<td colspan="4"><i>Chaos Affinity</i> - Passive
+Immune to diseased.
+</td>
+</tr>
+<tr>
+<td colspan="4"><i>Strike</i> - Action, basic weapon attack
+Applies 1 hit of diseased.
+</td>
+</tr>
+</table>
