@@ -66,12 +66,12 @@ When you are below 15 health and use an ability that costs health, you can inste
 	Mark (1 + C/3) creatures. If one of these creatures die while marked, adjacent creatures take 10 magical damage without requiring precision rolls. Potency bonus to this technique's damage is halved.
 
 ## Purge Blessings
-**Category:** Utility
+**Category:** Offense
 **Execution Time:** Action
 **Cost:** 5 health
 **Range:** 5 meters
 **Effect**
-	Remove (1 + P/4) helpful status effects from the target creature, dealing 10 magical damage per status effect removed.
+	Remove (1 + P/4) supportive status effects from the target creature, dealing 10 magical damage per status effect removed.
 
 ## Spread Curses
 **Category:** Offense
