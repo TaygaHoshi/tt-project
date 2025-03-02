@@ -5,12 +5,17 @@
 + Grants a -5 penalty to precision rolls. 
 + Does not stack. If target is already blinded, only the longer one applies.
 
+## Cracked Armor
+- This creature's armor is ineffective.
+- Does not affect temporary armor.
+- Does not stack. If target already has cracked armor, only the one with higher duration applies.
+
 ## Disoriented
 + (1 + P/3) penalty on precision rolls.
 + Does not stack. If target is already disoriented, only the one with higher potency applies.
 
 ## Exposed
-+ Next time this creature takes damage from a weapon attack, it receives (2 + P) bonus damage. 
++ Next time this creature takes damage from a weapon attack, it receives (3 + P/2) bonus damage. 
 + Does not stack. If target is already exposed, only the one with higher potency applies.
 
 ## Fatigued
@@ -75,6 +80,13 @@
 
 ---
 # Supportive Effects
+## Inspired
+- Once, allows the creature to use the result of a dice in one of the following ways:
+	- 1d2 for a precision roll bonus
+	- 1d4 for a skill roll bonus
+	- 2d4 for a bonus to a basic weapon attack's damage
+- Does not stack. If target is already inspired, only the one with higher duration applies.
+
 ## Protected
 + Once, halves incoming damage before armor.
 + Does not affect status effects and damage over time effects.
@@ -87,6 +99,9 @@
 ## Protective Foresight
 + (1 + P/4) bonus to all resistances for the next precision roll against this target.
 + Does not stack. If target is already effected by a protective foresight, only the one with higher potency applies.
+
+## Regeneration
+- Heals for (2 + P/3) per hit.
 
 ## Temporary Health
 + Increases health until the duration ends.
