@@ -33,18 +33,18 @@ You can use this ability as a part of a damaging weapon attack by spending 2 ene
 ## Expose Weakness
 **Category:** Utility
 **Execution Time:** Action
-**Cost:** 2 energy
-**Range:** 10 meters
-**Duration:** (1 + C/2) rounds
+**Cost:** 4 energy
+**Range:** 5 meters
+**Duration:** (1 + C/3) rounds
 **Effect**
-	Study your target, applying Exposed for the duration of this technique.
+	Study your target, applying exposed and cracked armor for the duration of this technique. 
 
 ## Improved Maneuvering
 **Category:** Modification
 **Execution Time:** Special
 **Cost:** 2 energy
 **Effect**
-	You can choose to activate this technique when you take any full-turn action other than the Charge special action.
+	You can choose to activate this technique when you take any full-turn action.
 	You can move up to (2 + C/3) meters before taking that action.
 	This ability can be used alongside Improved Aiming.  
 
@@ -55,6 +55,7 @@ You can use this ability as a part of a damaging weapon attack by spending 2 ene
 **Range:** 10 meters
 **Effect**
 	Choose a creature, and reveal one feature of your choosing from the list below. This ability does not require a precision roll.
-	1. Armor and resistances
-	2. Current health
-	3. Actions 
+	1. Armor
+	2. Resistances
+	3. Current health
+	4. One ability
