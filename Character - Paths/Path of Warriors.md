@@ -6,11 +6,11 @@ Many professions require extensive training with weapons and armor: soldiers of 
 | :---: | ----------------- |
 |   1   | Critical Training |
 |   2   |                   |
-|   3   | Keen Rejuvenation |
+|   3   | Weapon Expertise  |
 |   4   |                   |
-|   5   | Strong Grip       |
+|   5   | Keen Rejuvenation |
 |   6   |                   |
-|   7   | Armored Combatant |
+|   7   | Armor Expertise   |
 |   8   |                   |
 |   9   |                   |
 |  10   | Perfect Wielding  |
@@ -18,19 +18,25 @@ Many professions require extensive training with weapons and armor: soldiers of 
 Your base health is 80.
 
 ## Critical Training
-If you roll a 10 on a precision roll's d10 with a damaging ability, it gains a (5 + P/2) bonus to its damage. You can spend 2 energy to apply this bonus damage on a roll of 8 or higher. This can happen multiple times per turn.
+If you roll an unmodified 10 on a precision roll of a damaging ability, you gain a (5 + P/2) bonus to this ability's damage. This can happen multiple times per turn.
+
+Additionally, you can choose to activate this ability as a part of a basic weapon attack by spending 3 energy.
+
+## Weapon Expertise
+You can swap weapons without a rapid action by spending 1 energy.
 
 ## Keen Rejuvenation
-Your *critical training* ability regenerates 1 energy if you successfully hit with your ability. 
+Your *critical training* triggers on an unmodified roll of 9 or above, and grants you 1 energy if you successfully hit with your ability.
 
-## Strong Grip
-Your *critical training* improves. When you spend energy on it, you can apply the bonus damage on a roll of 7 or higher instead. Additionally, you have a +2 bonus to all resistances against abilities which disarm you.
+Instead of gaining bonus damage, you can gain regeneration for 1 hit.
 
-## Armored Combatant
-When you gain temporary armor of one type, you also gain an equal amount of the other type for the same duration. You are immune to any type of armor piercing while you have temporary armor.
+## Armor Expertise
+When you gain temporary armor of one type, you also gain an equal amount of the other type for the same duration.
 
-## Perfect Wielding
-Your *critical training* is perfected, allowing you to apply the bonus damage on a precision roll of 6 or higher instead of 7 or higher when spending energy on it. 
+## Veteran Combatant
+Your *critical training* is perfected and it triggers on an unmodified roll of 8 or above.
+
+Instead of gaining bonus damage, you can apply exposed for 1 round.
 
 ---
 # Techniques
@@ -50,7 +56,7 @@ Your *critical training* is perfected, allowing you to apply the bonus damage on
 **Cost:** 1 energy
 **Duration:** 1 round
 **Effect**
-	As a part of a basic weapon attack with a melee weapon, you can choose to activate this ability, except for the Charge special action.
+	You can choose to activate this ability as a part of a basic weapon attack with a melee weapon, except for the Charge special action.
 	Choose a resistance. You gain a (1 + C/3) bonus to this resistance against attacks from this target for 1 round.
 
 ## Double Opportunity
