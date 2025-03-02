@@ -15,7 +15,7 @@
 + Does not stack. If target is already disoriented, only the one with higher potency applies.
 
 ## Exposed
-+ Next time this creature takes damage from a weapon attack, it receives (3 + P/2) bonus damage. 
++ Whenever this creature takes damage from a weapon attack, it receives (3 + P/2) bonus damage. 
 + Does not stack. If target is already exposed, only the one with higher potency applies.
 
 ## Fatigued
