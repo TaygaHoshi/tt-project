@@ -23,7 +23,7 @@ In addition, whenever you spend any amount of energy, you are healed for that am
 At the start of a round, you can sacrifice 5 health to gain 10 temporary health for that round. This effect is clearly visible to other creatures.
 
 ## Blood is Power
-As a rapid action, you can sacrifice 5 health to increase your aptitudes in one of the following ways:
+As a rapid action, you can sacrifice 5 health to increase your aptitudes in one of the following ways, until the end of this round:
 1. Increase either potency or control by 2, or
 2. Increase both by 1 each.
 
@@ -54,7 +54,7 @@ When you are below 15 health and use an ability that costs health, you can inste
 **Duration:** (2 + C/3) rounds
 **Effect**
 	Create an area of darkness around you. This area is considered quarter cover and is a light rough terrain. 
-	Summon a spiritling of chaos next to each creature up to a maximum of (2 + P/3) spiritlings for the duration, excluding yourself. Spiritlings of chaos summoned by this technique share your level. These spiritlings act independent from you and attack the creature closest to them.
+	Summon a spiritling of chaos next to each creature within the radius up to a maximum of (2 + P/3) spiritlings for the duration, excluding yourself. Spiritlings of chaos summoned by this technique share your level. These spiritlings act independent from you and attack the creature closest to them.
 
 ## Mark of Sacrifice
 **Category:** Offense
