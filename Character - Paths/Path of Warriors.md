@@ -18,7 +18,7 @@ Many professions require extensive training with weapons and armor: soldiers of 
 Your base health is 80.
 
 ## Critical Training
-If you roll an unmodified 10 on a precision roll of a damaging ability, you gain a (5 + P/2) bonus to this ability's damage. This can happen multiple times per turn.
+If you roll an unmodified 10 on a precision roll of a damaging ability, you gain a (5 + P/2) bonus to that ability's damage. This can happen multiple times per turn.
 
 Additionally, you can choose to activate this ability as a part of a basic weapon attack by spending 3 energy.
 

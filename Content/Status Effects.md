@@ -25,7 +25,7 @@
 
 ## Immobilized
 + Lowers walking, swimming, climbing and flying speeds to 0.
-+ Grants a -1 penalty to Evasion.
++ Applies a -1 penalty to Evasion.
 + Does not stack. If target is already immobilized, only the longer one applies.
 
 ## Sickened
