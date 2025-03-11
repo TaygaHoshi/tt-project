@@ -1,88 +1,86 @@
 # Abilities
-| Level | Ability                        |
-| :---: | ------------------------------ |
-|   1   | In Rhythm, Instrument Training |
-|   2   |                                |
-|   3   | Resonance                      |
-|   4   |                                |
-|   5   |                                |
-|   6   |                                |
-|   7   |                                |
-|   8   |                                |
-|   9   |                                |
-|  10   |                                |
+| Level | Ability              |
+| :---: | -------------------- |
+|   1   | Echo, Magical Poetry |
+|   2   |                      |
+|   3   | Resonance            |
+|   4   |                      |
+|   5   | In Rhythm            |
+|   6   |                      |
+|   7   |                      |
+|   8   |                      |
+|   9   |                      |
+|  10   | Fade Out             |
 ## Medium Base Health
 Your base health is 70.
 
-## In Rhythm
-By spending 1 energy during your turns, you can use a rapid action instead of your action. 
+## Echo
+You can give your action to a creature within 3 meters for 1 round. This creature can use this action during their next turn.
 
-## Instrument Training
-You are proficient in one instrument, which you start with in your inventory, receiving a permanent (1+C/4) bonus to skill rolls involving that instrument. 
+## Magical Poetry
+You can upkeep your magical songs and poems to affect their allies or foes. Poems can be started with a rapid action, but you can keep them up freely as long as you have enough energy. 
+
+You can only have one poem active at any time. If your target gets out of range or you become unable to sing in any way, your poem immediately ends. You can also end a poem freely at any time.
 
 ## Resonance
-Whenever you successfully perform a technique that targets only one creature, you gain resonance for 1 minute. You can spend your resonance as a rapid action to deal 5 magical damage to a creature you can touch.
+When you start a new poem, both you and your target are healed for (3 + P/4). If you perform a poem for yourself, you are healed for (3 + P/2) instead.
 
-Resonance does not stack, and you can only gain it once per round. Upkeeping poems does not count as a technique, only the initial application is considered one. 
+## In Rhythm
+By spending 2 energy during your turn, you can use both a rapid action and a prepared action.
+
+## Fade Out
+If you are upkeeping a poem, you can swap it with another poem without using a rapid action.
+
+
+
 
 ---
 # Techniques
-## Echo
-**Category:** Offense
-**Execution Time:** Action
-**Cost:** 3 energy
-**Range:** 5 meters
-**Duration:** (1 + C/3) rounds
-**Effect**
-	For the duration of this technique, your target can use a rapid action and a prepared action in the same round. This technique does not stack. 
-
-## Improve Appearance
+## Poem of Beauty
 **Category:** Utility
-**Execution Time:** 5 minutes
-**Cost:** 2 energy
-**Range:** 5 meters
-**Duration:** (10 + C) minutes
+**Execution Time:** Rapid action
+**Cost:** 1 energy per hour
+**Range:** (2 + C/2) meters
+**Duration:** Special
 **Effect**
-	Grant your target a +1 bonus to the next social skill roll or meeting roll. 
+	Choose a creature. This creature's appearance is improved, gaining a +1 bonus to its next social skill roll or meeting roll. 
+
+## Poem of Brutishness
+**Category:** Defense
+**Execution Time:** Rapid action
+**Cost:** 3 energy per round
+**Range:** (2 + C/2) meters
+**Effect**
+	Choose a creature. This creature can only use weapon attacks with their actions.
 
 ## Poem of Humility
 **Category:** Defense
 **Execution Time:** Rapid action
 **Cost:** 2 energy per round
 **Range:** (2 + C/2) meters
-**Duration:** Special
 **Effect**
-	Choose a creature. It becomes agitated by your words and motions of slander, and receives a -1 penalty to precision rolls. Whenever this creature fails a precision roll, it takes 5 magical damage. Potency bonus to this technique's damage is halved. 
-	If your target gets out of range, this technique immediately ends, and you can end it freely at any time.
-	You can only have one poem active at any time.
+	Choose a creature. It becomes agitated by your words and motions of slander, and becomes disoriented. Whenever this creature fails a precision roll, it takes 5 magical damage. Potency bonus to this technique's damage is halved. 
 
 ## Poem of Fury
 **Category:** Offense
 **Execution Time:** Rapid action
 **Cost:** 2 energy per round
 **Range:** (2 + C/2) meters
-**Duration:** Special
 **Effect**
 	Choose a creature. Your magical poetry induces fury, might and courage within it; increasing its potency by 2. 
-	If your target gets out of range, this technique immediately ends, and you can end it freely at any time.
-	You can only have one poem active at any time.
 
 ## Poem of Freedom
 **Category:** Utility
 **Execution Time:** Rapid action
 **Cost:** 2 energy per round
 **Range:** (2 + C/2) meters
-**Duration:** Special
 **Effect**
 	Choose a creature. This creature is unaffected by immobilized, slowed and stunned status effects.
-	If your target gets out of range, this technique immediately ends, and you can end it freely at any time.
-	You can only have one poem active at any time.
 
-## Rejuvenating
+## Poem of Rejuvenation
 **Category:** Utility
 **Execution Time:** Action 
 **Cost:** Special
-**Range:** 3 meters
-**Duration:** (1 + C/2) rounds
+**Range:** (2 + C/2) meters
 **Effect**
 	Choose an ally. You play a rejuvenating song for them. Next time this ally uses an ability that costs energy, you spend the energy cost in their stead.
