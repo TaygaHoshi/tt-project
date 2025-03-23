@@ -13,7 +13,7 @@ Many professions require extensive training with weapons and armor: soldiers of 
 |   7   | Armor Expertise   |
 |   8   |                   |
 |   9   |                   |
-|  10   | Perfect Wielding  |
+|  10   | Veteran Combatant |
 ## High Base Health
 Your base health is 80.
 
