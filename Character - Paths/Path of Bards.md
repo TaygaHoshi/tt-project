@@ -3,9 +3,9 @@
 | :---: | -------------------- |
 |   1   | Echo, Magical Poetry |
 |   2   |                      |
-|   3   | Resonance            |
+|   3   | In Rhythm            |
 |   4   |                      |
-|   5   | In Rhythm            |
+|   5   | Resonance            |
 |   6   |                      |
 |   7   |                      |
 |   8   |                      |
@@ -22,11 +22,11 @@ You can upkeep your magical songs and poems to affect their allies or foes. Poem
 
 You can only have one poem active at any time. If your target gets out of range or you become unable to sing in any way, your poem immediately ends. You can also end a poem freely at any time.
 
+## In Rhythm
+By spending 2 energy during your turn, you can use both a rapid action and a prepared action. 
+
 ## Resonance
 When you start a new poem, both you and your target are healed for (3 + P/4). If you perform a poem for yourself, you are healed for (3 + P/2) instead.
-
-## In Rhythm
-By spending 2 energy during your turn, you can use both a rapid action and a prepared action.
 
 ## Fade Out
 If you are upkeeping a poem, you can swap it with another poem without using a rapid action.
