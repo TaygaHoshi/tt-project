@@ -188,12 +188,6 @@ If this spirit is soaked or frostbitten, it is also slowed.
 </td>
 </tr>
 <tr>
-<td colspan="4"><i>Flame Trail</i> - Passive
-This attack's precision rolls are made against Constitution.
-Whenever this creature moves, it leaves a trail of fire behind the squares it passes through. This trail stays alight for 1 round, and it deals 10 magical damage whenever a creature passes through it, excluding other fire spirits.
-</td>
-</tr>
-<tr>
 <td colspan="4"><i>Burning Claw</i> - Action, basic weapon attack
 Deals 10 physical damage.
 Applies burning (14 damage) for 2 hits.
@@ -204,6 +198,17 @@ Applies burning (14 damage) for 2 hits.
 This attack's precision rolls are made against Evasion.
 Radius: 3 meters.
 Creates a burning area around this spirit, dealing 10 magical damage to all creatures within range, excluding other fire spirits. This attack deals a +5 bonus damage to burning creatures.
+</td>
+</tr>
+<tr>
+<td colspan="4"><i>Flame Trail</i> - Rapid Action, technique
+This attack's precision rolls are made against Constitution.
+Whenever this creature moves, it leaves a trail of fire behind the squares it passes through. This trail stays alight for This attack's precision rolls are made against Constitution.1 round, and it deals 10 magical damage whenever a creature passes through it, excluding other fire spirits.
+</td>
+</tr>
+<tr>
+<td colspan="4"><i>Opportunistic Strike</i> - Prepared action, weapon attack
+Attacks the next foe who moves into, within or out of melee range, dealing 10 physical damage.
 </td>
 </tr>
 </table>

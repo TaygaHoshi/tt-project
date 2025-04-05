@@ -64,7 +64,7 @@ Attacks the next foe who moves into, within or out of melee range, dealing 10 ph
 <tr style="border-bottom: dashed 2px">
 <td><b>Potency:</b> 1</td> 
 <td><b>Control:</b> 0</td> 
-<td colspan="2"><b>Precision Roll:</b> d10 (longbow), d10 + 1 (dagger)</td> 
+<td colspan="2"><b>Precision Roll:</b> d10 (longbow)</td> 
 </tr>
 <tr>
 <td><b>Parry:</b> 6</td>  
@@ -75,7 +75,7 @@ Attacks the next foe who moves into, within or out of melee range, dealing 10 ph
 <tr style="border-bottom: solid 2px">  
 <td colspan="1"><b>Physical Armor:</b> 5</td>
 <td colspan="1"><b>Magical Armor:</b> 0</td>
-<td colspan="2"><b>Weapon:</b> Longbow and dagger</td>
+<td colspan="2"><b>Weapon:</b> Longbow</td>
 </tr>
 <tr>
 <td colspan="4"><i>Unsteady Aiming (-2)</i> - Passive
@@ -85,19 +85,19 @@ This archer's longbow is affected by unsteady aiming.
 <tr>
 <td colspan="4"><i>Shoot</i> - Action, basic weapon attack
 Range: 15 meters.
-Requires wielding the longbow.
 Deals 20 physical damage.
 </td>
 </tr>
 <tr>
-<td colspan="4"><i>Slash</i> - Action, basic weapon attack
-Requires wielding the dagger.
+<td colspan="4"><i>Rapid shot</i> - Rapid action, weapon attack
+If this archer hits with its basic weapon attack, it can shoot once more.
 Deals 15 physical damage.
 </td>
 </tr>
 <tr>
-<td colspan="4"><i>Swap Weapons</i> - Rapid action
-This archer can swap between its dagger and longbow.
+<td colspan="4"><i>Bash</i> - Prepared action, weapon attack
+Attacks the next foe who moves into, within or out of melee range.
+Deals 10 physical damage.
 </td>
 </tr>
 </table>
