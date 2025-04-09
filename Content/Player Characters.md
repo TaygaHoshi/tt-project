@@ -15,7 +15,6 @@ Branches determine a characters' branch abilities and half of their techniques. 
 - [[Warwise]] 
 - [[Iconcraft]]
 - [[Druid]]
-- [[Channeling]]
 
 ### Aptitudes
 A player character gains one aptitude point each level starting from level 1. Aptitude points can be spent on either Potency (P) or Control (C):
