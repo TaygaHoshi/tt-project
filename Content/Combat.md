@@ -205,5 +205,5 @@ When a creature transforms into another, several rules should be followed:
 ## Player versus Player
 Conflicts between player characters should be resolved with words. However, sometimes arguments might escalate into fights, duels or even ambushes. In this case, rather than getting into a combat, the GM may opt to use the simple method of PvP instead:
 1. Players split into teams or stay neutral.
-2. Each team rolls a d10 per player. The team that rolls the highest wins.
+2. Each team rolls a d10 per player. The team that rolls the highest in total wins.
 3. A team may get up to a +2 bonus to its total roll if it has advantage over other teams.
