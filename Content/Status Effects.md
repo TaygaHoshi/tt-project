@@ -44,9 +44,9 @@
 + Does not stack. If target is already soaked, only the longer one applies.
 
 ## Stunned
-+ Lowers movement, swimming, climbing and flying speeds to 0.
++ Lowers walking, swimming, climbing and flying speeds to 0.
 + Target is unable to take any action.
-+ Applies a -2 penalty to all resistances.
++ Applies a -3 penalty to Parry and Evasion.
 + Does not stack. If target is already stunned, only the longer one applies.
 
 ## Weakened Defenses
