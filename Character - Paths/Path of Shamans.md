@@ -1,32 +1,76 @@
+# Bridge Between Realms
+While souls of the living are eventually dragged to the Underworld, not all souls are former living beings. Some are born from evil energy left in the wake of battleOthers are false gods, manifestations of belief and worship; and some just spontaneously come into existence without a cause or origin. These souls reside in where the souls of the living temporarily stay in: the realm of souls. These souls take various forms, but most show themselves as animals or humans.
+
+Shamans practice their connection with the realm of souls to take care of their communities or tribes. Some shamans, however, start travelling the world in search of a greater purpose.
+
 # Abilities
-| Level | Ability        |
-| :---: | -------------- |
-|   1   | Healing Prayer |
-|   2   |                |
-|   3   |                |
-|   4   |                |
-|   5   |                |
-|   6   |                |
-|   7   |                |
-|   8   |                |
-|   9   |                |
-|  10   |                |
+| Level | Ability |
+| :---: | ------- |
+|   1   | Passage |
+|   2   |         |
+|   3   | Boon    |
+|   4   |         |
+|   5   |         |
+|   6   |         |
+|   7   |         |
+|   8   |         |
+|   9   |         |
+|  10   |         |
 ## Low Base Health
 Your base health is 60.
 
-## Healing Prayer
-By spending 2 energy you can pray for a creature's well-being as an action, healing them for (10 + P). You can then continue your prayers as a rapid action, healing the creatures adjacent to your target for half of that amount. 
+## Passage
+As a full-turn action, you can temporarily enter the realm of souls for 1 round by spending 3 energy. While in the realm of souls, you are:
+1. unable to be effected by any abilities or status effects,
+2. unable to use any abilities or communicate with anyone, and
+3. unable enter areas protected against souls.
+
+When you return, you are slowed and disoriented for 1 round.
+
+## Boon
+When you use a technique that affects only one creature, you can spend 1 energy to heal them for 5.
+
+
+
+
 
 ---
 # Techniques
+## Astral Travel
+**Category:** Utility
+**Execution Time:** 15 minutes
+**Cost:** 4 energy per hour
+**Duration:** (1 + C/3) hours
+**Effect**
+	While you are meditating, your soul leaves your body behind and can move separately. In this form, you gain 20 meters of flying speed, become immune to status effects and you are invisible to all creatures except those who follow the path of shamans. However, you are unable enter areas magically protected against souls. You can willingly return to body at any time.
+	If your body takes any type of damage, you are immediately return to your body and become stunned for 1 round. 
+
 ## Clairvoyance
 **Category:** Utility
 **Execution Time:** 5 minutes
-**Cost:** 2 energy
-**Radius:** (20 + P) meters
+**Cost:** 4 energy
+**Radius:** (5 + P/2) kilometers
 **Effect**
 	Think of an object that you know the current appearance of. If this object is within radius, you will know its direction and distance from you.
 	Alternatively, you can mark an object using this technique. This way, you will always know its direction and distance for 24 hours.
+
+## Cleanse
+**Category:** Defense
+**Execution Time:** Rapid action
+**Cost:** 2 energy
+**Range:** (3 + C/4) meters
+**Effect**
+	Choose a creature. This creature is relieved of a harmful status effect of your choosing.
+
+## Guest Soul
+**Category:** Utility
+**Execution Time:** Special
+**Cost:** 2 energy
+**Range:** 5 meters
+**Duration:** 10 minutes
+**Effect**
+	If the soul of the target living or dead creature is still in the realm of souls, you can temporarily talk with them.
+	Communication in this way allows 
 
 ## Divination
 **Category:** Utility
@@ -46,14 +90,20 @@ By spending 2 energy you can pray for a creature's well-being as an action, heal
 	Choose two targets. 
 	All status effects on the first target have their durations reduced by 1. Then, these status effects are applied to the second target.
 
-## Link
-**Category:** Utility
-**Execution Time:** Rapid action
+## Heal Creatures
+**Category:** Defense
+**Execution Time:** Full-turn action
 **Cost:** 2 energy
-**Range:** 5 meters
+**Range:** 3 meters
 **Effect**
-	Link yourself with a willing creature. Whenever that creature takes damage to its health, you take half of it in their stead. Damage you receive from this technique ignores your armor.
-	You can break this link during your turns without any actions. The link breaks if that creature gets out of this technique's range.
+	Heal a creature for (10 + P/2), and heal the creatures adjacent to your target for half of that amount. 
+
+## Message
+**Category:** Utility
+**Execution Time:** 5 minutes 
+**Cost:** 4 energy
+**Effect**
+	Call a message-bearer soul. Provide a description of the recipient, and the soul will deliver your written message of any length, as long as the recipient is alive and reachable. The time required for your message to reach the recipient depends on the level of detail of the description.
 
 ## Protect Creature
 **Category:** Defense
@@ -64,18 +114,10 @@ By spending 2 energy you can pray for a creature's well-being as an action, heal
 **Effect**
 	Choose a creature. Apply protected and regeneration for the duration.
 
-## Purification
-**Category:** Defense
-**Execution Time:** Rapid action
-**Cost:** 2 energy
-**Range:** 5 meters
-**Effect**
-	Choose a creature. This creature is cleansed of a harmful status effect of your choosing.
-
 ## Transfer Energy
 **Category:** Utility
 **Execution Time:** Special
-**Cost:** 2 energy
+**Cost:** 1 energy
 **Effect**
-	Touch two willing creatures. You can transfer up to 4 energy from one to the other. This technique takes 1 minute to cast for each point of energy transferred.
+	Touch two willing creatures. You can transfer up to 4 energy from one to the other. This technique takes 1 minute to execute for each point of energy transferred.
 

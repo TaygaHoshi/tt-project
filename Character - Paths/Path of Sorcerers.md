@@ -84,15 +84,6 @@ When you are below 15 health and use an ability that costs health, you can inste
 	This spell's precision rolls are made against Constitution. 
 	Debilitating and harmful status effects that the target creature is affected by spreads to the creatures within the radius around it with their remaining durations. You can choose to reduce the radius of this ability when you use it, to a minimum of 1 meter.
 
-## Spy Object
-**Category:** Utility
-**Execution Time:** Full-turn action
-**Cost:** 4 energy
-**Duration:** (1 + C/2) hours
-**Effect**
-	Bestow a small object magical eyes or ears, and you can use it as an additional sensory organ. You can still use your eyes and ears while this technique is active.
-	As a rapid action, any creature suspecting a spy object nearby try to find one. Make a precision roll against this creature's Warding. If this roll fails, the creature notices this object.
-
 ## Weaken Body
 **Category:** Offense
 **Execution Time:** Action
