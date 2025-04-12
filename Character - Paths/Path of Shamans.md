@@ -1,21 +1,21 @@
 # Bridge Between Realms
-While souls of the living are eventually dragged to the Underworld, not all souls are former living beings. Some are born from evil energy left in the wake of battleOthers are false gods, manifestations of belief and worship; and some just spontaneously come into existence without a cause or origin. These souls reside in where the souls of the living temporarily stay in: the realm of souls. These souls take various forms, but most show themselves as animals or humans.
+While souls of the living are eventually dragged to the Underworld, not all souls are former living beings. Some are born from evil energy left in the wake of battle. Others are false gods, manifestations of belief and worship; and some just spontaneously come into existence without a cause or origin. These souls reside in where the souls of the living temporarily stay in: the realm of souls. These souls take various forms, but most show themselves as animals or humans.
 
 Shamans practice their connection with the realm of souls to take care of their communities or tribes. Some shamans, however, start travelling the world in search of a greater purpose.
 
 # Abilities
-| Level | Ability |
-| :---: | ------- |
-|   1   | Passage |
-|   2   |         |
-|   3   | Boon    |
-|   4   |         |
-|   5   |         |
-|   6   |         |
-|   7   |         |
-|   8   |         |
-|   9   |         |
-|  10   |         |
+| Level | Ability    |
+| :---: | ---------- |
+|   1   | Passage    |
+|   2   |            |
+|   3   | Grant Boon |
+|   4   |            |
+|   5   | Induce     |
+|   6   |            |
+|   7   |            |
+|   8   |            |
+|   9   |            |
+|  10   |            |
 ## Low Base Health
 Your base health is 60.
 
@@ -27,8 +27,12 @@ As a full-turn action, you can temporarily enter the realm of souls for 1 round 
 
 When you return, you are slowed and disoriented for 1 round.
 
-## Boon
+## Grant Boon
 When you use a technique that affects only one creature, you can spend 1 energy to heal them for 5.
+
+## Induce
+This ability's precision roll is done against Constitution.
+You can use your *passage* on a creature you can touch by spending 4 energy instead. 
 
 
 
@@ -62,16 +66,6 @@ When you use a technique that affects only one creature, you can spend 1 energy 
 **Effect**
 	Choose a creature. This creature is relieved of a harmful status effect of your choosing.
 
-## Guest Soul
-**Category:** Utility
-**Execution Time:** Special
-**Cost:** 2 energy
-**Range:** 5 meters
-**Duration:** 10 minutes
-**Effect**
-	If the soul of the target living or dead creature is still in the realm of souls, you can temporarily talk with them.
-	Communication in this way allows 
-
 ## Divination
 **Category:** Utility
 **Execution Time:** Rapid action
@@ -89,6 +83,16 @@ When you use a technique that affects only one creature, you can spend 1 energy 
 **Effect**
 	Choose two targets. 
 	All status effects on the first target have their durations reduced by 1. Then, these status effects are applied to the second target.
+
+## Guest Soul
+**Category:** Utility
+**Execution Time:** Action
+**Cost:** 2 energy
+**Range:** 5 meters
+**Duration:** 10 minutes
+**Effect**
+	If the soul of the target living or dead creature is still in the realm of souls, you can temporarily talk with them.
+	This technique allows communication even if you don't share a language with your target.
 
 ## Heal Creatures
 **Category:** Defense
