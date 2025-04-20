@@ -1,7 +1,9 @@
 # Introduction
-Sigil of Uchma is a work-in-progress fantasy tabletop role playing game based on a hypothetical medieval Central Asian society, based primarily on Gokturks and secondarily on other cultures within the area. The name is a reference to historical usage of [Nazar amulets](https://en.wikipedia.org/wiki/Nazar_(amulet)). Sigil of Uchma can be abbreviated simply as "Sigil".
+Sigil of Uchma is a work-in-progress fantasy tabletop role playing game based on mythologies of medieval Central Asian societies. The name is a reference to historical usage of [Nazar amulets](https://en.wikipedia.org/wiki/Nazar_(amulet)). Sigil of Uchma can be abbreviated simply as "Sigil".
 
-Sigil of Uchma is played with a game master (GM) and one or more players. The GM builds and runs a campaign, enforces the rules of the game, applies or creates resolution mechanics as necessary, and controls the non-player characters (NPCs). Players, on the other hand, are responsible from their characters, which are called player characters (PCs). Each player is expected to bring only one PC. With the use of their characters, the party can explore places, fight foes, deceive or help NPCs, take on quests, collect items and go on adventures.
+The game is played with one game master (GM) and one or more players:
+- The GM builds and runs a campaign, enforces the rules of the game, applies or creates resolution mechanics as necessary, and controls the non-player characters (NPCs). 
+- Each player controls a single player character (PC). Through their PCs, players can explore the world, battle enemies, interact with NPCs, pursue and complete quests, find treasures and go on adventures.
 
 Sigil is not yet ready for running campaigns. You are seeing the version: *v1-a9*. 
 
@@ -38,4 +40,3 @@ You can contact me through GitHub or Discord. The aforementioned [feedback form]
 | ----------------------------- | ------------ | ------------------- |
 | Project owner & main designer | TaygaHoshi   | Discord: taygahoshi |
 | Special thanks                | oddspelunker |                     |
-
