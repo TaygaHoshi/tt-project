@@ -20,7 +20,7 @@ Shamans practice their connection with the realm of souls to take care of their 
 Your base health is 60.
 
 ## Passage
-As a full-turn action, you can temporarily enter the realm of souls for 1 round by spending 3 energy. While in the realm of souls, you are:
+As an action, you can temporarily enter the realm of souls for 1 round by spending 3 energy. While in the realm of souls, you are:
 1. unable to be effected by any abilities or status effects,
 2. unable to use any abilities or communicate with anyone, and
 3. unable enter areas protected against souls.
@@ -114,7 +114,7 @@ You can use your *passage* on a creature you can touch by spending 4 energy inst
 **Execution Time:** Action
 **Cost:** 2 energy
 **Range:** 5 meters
-**Duration:** (2 + C/3) rounds
+**Duration:** (2 + C/4) rounds
 **Effect**
 	Choose a creature. Apply protected and regeneration for the duration.
 

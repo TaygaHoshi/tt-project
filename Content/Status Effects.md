@@ -21,7 +21,7 @@
 ## Fatigued
 + Reduces movement speed by 2 per stack.
 + Applies a -2 penalty on precision rolls and all resistances per stack.
-+ Stacks up to 5. If target already has 5 fatigue stacks, an application with longer duration will override the stack with the shortest duration.
++ Stacks up to 5. 
 
 ## Immobilized
 + Lowers walking, swimming, climbing and flying speeds to 0.
@@ -88,13 +88,13 @@
 - Does not stack. If target is already inspired, only the one with higher duration applies.
 
 ## Protected
-+ Once, halves incoming damage before armor.
++ Once, halves incoming damage after armor.
 + Does not affect status effects and damage over time effects.
 + Does not stack unless all stacks of protected come from the same ability.
 
 ## Predictive Foresight
 + (1 + P/4) bonus to the next precision roll.
-+ Does not stack. If target is already effected by a prediction foresight, only the one with higher potency applies.
++ Does not stack. If target is already effected by a predictive foresight, only the one with higher potency applies.
 
 ## Protective Foresight
 + (1 + P/4) bonus to all resistances for the next precision roll against this target.
@@ -102,6 +102,7 @@
 
 ## Regeneration
 - Heals for (2 + P/3) per hit.
+- Does not stack. If target is already regenerating, only the one with higher potency applies.
 
 ## Temporary Health
 + Increases health until the duration ends.

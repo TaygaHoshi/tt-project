@@ -87,12 +87,12 @@ Instead of gaining bonus damage, you can apply exposed for 1 round.
 **Execution Time:** Action
 **Cost:** 2 energy
 **Range:** Weapon range
-**Duration:** (1 + C/3) rounds
+**Duration:** (2 + C/4) rounds
 **Requirements:**
 	Any melee weapon in main hand.
 **Effect**
 	This attack's precision roll is made against Constitution.
-	Deals half weapon damage.
+	Deals half damage after armor.
 	Applies slowed for the duration.
 
 ## Reaching Attack
@@ -101,7 +101,7 @@ Instead of gaining bonus damage, you can apply exposed for 1 round.
 **Cost:** 1 energy
 **Range:** Double weapon range
 **Effect**
-	As a part of a basic weapon attack with weapon, you can choose to activate this ability.
+	As a part of a basic weapon attack, you can choose to activate this ability.
 	If this attack is a melee attack, its range is doubled.
 	If this attack is a ranged attack, its range is increased by (1 + C/2) meters.
 
@@ -112,5 +112,5 @@ Instead of gaining bonus damage, you can apply exposed for 1 round.
 **Range:** 1 meter
 **Effect**
 	Ignores weapon precision.
-	Tackle your target, making them fall prone and dealing 10 damage.
+	Tackle your target, making them fall prone and dealing 5 armor-ignoring damage.
 

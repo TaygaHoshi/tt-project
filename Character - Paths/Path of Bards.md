@@ -7,7 +7,7 @@
 |   4   |                      |
 |   5   | Resonance            |
 |   6   |                      |
-|   7   |                      |
+|   7   | Duet                 |
 |   8   |                      |
 |   9   |                      |
 |  10   | Fade Out             |
@@ -26,7 +26,11 @@ You can only have one poem active at any time. If your target gets out of range 
 By spending 2 energy during your turn, you can use both a rapid action and a prepared action. 
 
 ## Resonance
-When you start a new poem, both you and your target are healed for (3 + P/4). If you perform a poem for yourself, you are healed for (3 + P/2) instead.
+When you start a new poem, optionally, you can heal both the target and yourself for (3 + P/4). If you perform a poem for yourself, you are healed for (3 + P/2) instead.
+
+## Duet
+When you are singing a poem for an ally, this ally can pay half of the energy cost at the start of your turns. 
+
 
 ## Fade Out
 If you are upkeeping a poem, you can swap it with another poem without using a rapid action.
@@ -76,11 +80,3 @@ If you are upkeeping a poem, you can swap it with another poem without using a r
 **Range:** (2 + C/2) meters
 **Effect**
 	Choose a creature. This creature is unaffected by immobilized, slowed and stunned status effects.
-
-## Poem of Rejuvenation
-**Category:** Utility
-**Execution Time:** Action 
-**Cost:** Special
-**Range:** (2 + C/2) meters
-**Effect**
-	Choose an ally. You play a rejuvenating song for them. Next time this ally uses an ability that costs energy, you spend the energy cost in their stead.

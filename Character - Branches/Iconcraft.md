@@ -66,7 +66,7 @@ Rituals of icon magic are techniques with two special properties:
 	Your icon strengthens the weapons of creatures within the area, granting their weapon attacks (3 + P/3) bonus damage.
 
 ## Shrouding Ritual
-**Category:** Offense
+**Category:** Utility
 **Execution Time:** Full-turn action
 **Cost:** 6 energy
 **Radius:** (2 + C/4) meters
