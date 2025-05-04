@@ -32,6 +32,14 @@ When you are below 15 health and use an ability that costs health, you can inste
 
 ---
 # Techniques
+## Absorption
+**Category:** Defense
+**Execution Time:** Full-turn action
+**Cost:** 5 health
+**Range:** 5 meters
+**Effect**
+	Steal 10 health from the target creature. Potency bonus to this technique's damage is halved. 
+
 ## Alteration
 **Category:** Utility
 **Execution Time:** Action
@@ -61,7 +69,7 @@ When you are below 15 health and use an ability that costs health, you can inste
 **Execution Time:** Action
 **Cost:** 2 energy
 **Range:** 5 meters
-**Duration:** (2 + C/4) rounds
+**Duration:** 3 rounds
 **Effect**
 	Mark (1 + C/3) creatures. If one of these creatures die while marked, adjacent creatures take 10 magical damage without requiring precision rolls. Potency bonus to this technique's damage is halved.
 
