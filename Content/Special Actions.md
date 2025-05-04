@@ -11,7 +11,7 @@
 **Execution time:** Full-turn action
 **Cost:** 2 energy
 **Explanation:**
-	Remove one status effect from yourself.
+	Remove a status effect of your choosing from yourself.
 
 # Charge
 **Execution time:** Full-turn action
@@ -21,8 +21,7 @@
 **Explanation:** 
 	Ignores weapon precision.
 	You gain a (3 + C/2) bonus to your movement speed, and you charge your target using your movement speed. Then, you perform a basic weapon attack.
-	You receive a -2 penalty to all resistances for 1 round.
-	This penalty increases by -1 if you move more than your base movement speed.
+	You become fatigued until the end of your next turn.
 
 # Dual Strike
 **Execution time:** Full-turn action
@@ -30,7 +29,7 @@
 	A one handed weapon in main hand, and a light weapon in off-hand.
 **Explanation:** 
 	You attack with both your main hand weapon and off-hand weapon. 
-	Your off-hand weapon receives a -2 penalty to its precision roll and deals half weapon damage.
+	Your off-hand weapon receives a -2 penalty to its precision roll and deals half damage after armor.
 	The strike with your main hand weapon is considered a basic weapon attack.
 
 # Opportunistic Strike
@@ -100,7 +99,7 @@
 **Explanation:**
 	Ignores weapon precision.
 	You retrieve the weapon stuck in the target.
-	This attack deals half weapon damage as armor-ignoring damage.
+	This attack deals half damage as armor-ignoring damage.
 	This action is considered a basic weapon attack.
 
 # Use Item

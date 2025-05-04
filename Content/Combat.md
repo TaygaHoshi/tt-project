@@ -125,6 +125,15 @@ Extra damage is a completely different packet of damage that just shares the pre
 
 On the other hand, bonus damage is just added into the delivering attack's damage calculation. Specifically, into the "other bonuses" term.
 
+### Stealing Health
+Some abilities, magic items or creatures may have health stealing effects. This is always considered magical damage. 
+
+When a creature tries to steal health, the amount it gains is equal to the health loss of target. 
+
+For example, if an ability steals 20 health and the target has 5 magical armor, the user of the ability would be healed for 15. 
+
+Unless specified otherwise, health stealing abilities use normal damage calculation.
+
 ## Death
 + When a player character falls below 0 health, they are considered "unconscious".
 + An unconscious character is considered prone.

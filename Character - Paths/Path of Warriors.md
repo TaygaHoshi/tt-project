@@ -47,7 +47,7 @@ Instead of gaining bonus damage, you can apply exposed for 1 round.
 **Duration:** 1 round
 **Effect**
 	This attack's precision roll is made against Constitution.
-	You can choose to activate this technique when you take the Charge special action.
+	You can choose to activate this technique when you take the *charge* special action.
 	At the end of this charge, your attack additionally stuns the target for the duration.
 
 ## Defensive Strike
@@ -56,7 +56,7 @@ Instead of gaining bonus damage, you can apply exposed for 1 round.
 **Cost:** 1 energy
 **Duration:** 1 round
 **Effect**
-	You can choose to activate this ability as a part of a basic weapon attack with a melee weapon, except for the Charge special action.
+	You can choose to activate this ability as a part of a basic weapon attack with a melee weapon, except for the *charge* special action.
 	Choose a resistance. You gain a (1 + C/3) bonus to this resistance against attacks from this target for 1 round.
 
 ## Double Opportunity
@@ -65,7 +65,8 @@ Instead of gaining bonus damage, you can apply exposed for 1 round.
 **Cost:** 2 energy
 **Range:** 1 meter
 **Effect**
-	You can choose to activate this ability when you use a prepared action. This prepared action can trigger twice instead of once. You can instead spend 4 energy to have your prepared action trigger three times.
+	You can choose to activate this ability when you use a prepared action. 
+	This prepared action can trigger twice instead of once. You can instead spend 4 energy to have your prepared action trigger three times.
 
 ## Extend Preparation
 **Category:** Modification
@@ -101,9 +102,9 @@ Instead of gaining bonus damage, you can apply exposed for 1 round.
 **Cost:** 1 energy
 **Range:** Double weapon range
 **Effect**
-	As a part of a basic weapon attack, you can choose to activate this ability.
-	If this attack is a melee attack, its range is doubled.
-	If this attack is a ranged attack, its range is increased by (1 + C/2) meters.
+	You can choose to activate this ability as a part of a basic weapon attack.
+	If it is a melee attack, its range is doubled.
+	If it is a ranged attack, its range is increased by (1 + C/2) meters.
 
 ## Tackle
 **Category:** Weapon attack
@@ -112,5 +113,5 @@ Instead of gaining bonus damage, you can apply exposed for 1 round.
 **Range:** 1 meter
 **Effect**
 	Ignores weapon precision.
-	Tackle your target, making them fall prone and dealing 5 armor-ignoring damage.
+	Tackle your target, making them fall prone and dealing 5 physical damage.
 
