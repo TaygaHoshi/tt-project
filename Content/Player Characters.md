@@ -14,6 +14,7 @@ Branches determine a characters' branch abilities and half of their techniques. 
 - [[Wildbond]]
 - [[Warwise]] 
 - [[Iconcraft]]
+- [[Hunter]]
 - [[Druid]]
 
 ### Aptitudes
