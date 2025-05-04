@@ -18,7 +18,7 @@ Two handed weapons have three weapon attacks.
 ---
 ## Glaive
 + (Passive) Polearm
-	+ You cannot attack adjacent targets with a glaive.
+	+ You cannot attack with a glaive when there is a foe adjacent to you, except for with Hilt Block. 
 + Slash
 	+ Range: 2 meters.
 	+ Deals 30 physical damage.
@@ -27,7 +27,7 @@ Two handed weapons have three weapon attacks.
 	+ This attack's precision rolls are made against Evasion.
 	+ Ignores weapon precision.
 	+ Deals 15 physical damage.
-	+ Choose a direction: clockwise or counter-clockwise. Attack a target, then continue attacking the next creature in the direction you chose. You continue this until you complete a full rotation, or if there is an adjacent obstacle such as a creature blocking your spin.
+	+ Choose a direction: clockwise or counter-clockwise. Attack a target, then continue attacking the next creature in the direction you chose. You continue this until you complete a full rotation, or if there is an adjacent obstaclex such as a creature, blocking your spin.
 + (Prepared action) Hilt Block
 	+ Range: 2 meters.
 	+ Next time a foe attempts to move into or within range, try to block them. If you succeed, the area within your weapon range is considered light rough terrain for that creature. 
@@ -64,7 +64,7 @@ Two handed weapons have three weapon attacks.
 + Momentum Swing
 	+ This attack's precision rolls are made against Evasion.
 	+ Deals 5 armor-ignoring damage.
-	+ Hits all creatures within range, stunning the creatures you hit for 1 round.
+	+ Hits all adjacent creatures, stunning the creatures you hit for 1 round.
 	+ These creatures are also pushed away for 1 meter.
 + (Prepared action) Fierce Slam 
 	+ Attack the next foe who falls prone within range. 
