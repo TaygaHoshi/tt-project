@@ -2,6 +2,9 @@
 Player characters are the other part, alongside the Game Master, of Sigil of Uchma. This page will go over the basics of character creation.
 
 # Character Creation
+### Helper Website
+There is a website which guides you through creating a character: <https://sigil-create.tyghsh.cc>
+
 ### Paths
 Paths determine a characters' abilities gained through leveling up and half of their techniques. Current list of paths are:
 - [[Path of Warriors]]
