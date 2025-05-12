@@ -18,6 +18,13 @@ Rituals of icon magic are techniques with two special properties:
 2. Your rituals do not affect you, and creatures carrying totems of your icon, unless specified otherwise.
 
 # Techniques
+## Affect Self
+**Category:** Utility
+**Execution Time:** Rapid action
+**Cost:** 1 energy
+**Effect**
+	Your currently active ritual also affects you until the end of your next round.
+
 ## Banishing Ritual
 **Category:** Defense
 **Execution Time:** Full-turn action
@@ -27,6 +34,7 @@ Rituals of icon magic are techniques with two special properties:
 **Effect**
 	This ritual's precision rolls are made against Evasion.
 	Create an area of banishment. Make a precision roll against any creature who end their turn within this area. If this roll succeeds, that creature is pushed (1 + P/4) meters away from the center of this area.
+	Creature already in this area's center is unaffected.
 
 ## Destructing Ritual
 **Category:** Offense
@@ -87,5 +95,5 @@ Rituals of icon magic are techniques with two special properties:
 **Duration:** 1 hour
 **Effect**
 	This ritual does not require precision rolls.
-	Objects within the radius are enhanced with your icon's magic. Creatures within the area gain 5 physical armor for 1 round at the start of their turns, while other objects become twice as resistant to damage and breaking.
+	Objects within the radius are enhanced with your icon's magic. Creatures within the area gain 5 temporary physical armor for 1 round at the start of their turns, while other objects become twice as resistant to damage and breaking.
 
