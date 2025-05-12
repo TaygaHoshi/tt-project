@@ -71,7 +71,7 @@ When you are below 15 health and use an ability that costs health, you can inste
 **Range:** 5 meters
 **Duration:** 3 rounds
 **Effect**
-	Mark (1 + C/3) creatures. If one of these creatures die while marked, adjacent creatures take 10 magical damage without requiring precision rolls. Potency bonus to this technique's damage is halved.
+	Mark (1 + C/3) creatures for the duration. If one of these creatures die while marked, adjacent creatures take 10 magical damage without requiring precision rolls. Potency bonus to this technique's damage is halved.
 
 ## Purge Blessings
 **Category:** Offense
@@ -86,7 +86,7 @@ When you are below 15 health and use an ability that costs health, you can inste
 **Execution Time:** Action
 **Cost:** 10 health
 **Range:** 5 meters
-**Radius:** (1 + C/3) meters
+**Radius:** (1 + C/2) meters
 **Duration:** Special
 **Effect**
 	This spell's precision rolls are made against Constitution. 
