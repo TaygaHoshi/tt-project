@@ -15,7 +15,9 @@
 Your base health is 70.
 
 ## Echo
-You can give your action to a creature within 3 meters for 1 round. This creature can use this action during their next turn.
+Choose a creature within 3 meters at the start of your turns. This creature can take one action this turn instead of you. 
+
+You are still able to use your rapid action or prepared action normally.
 
 ## Magical Poetry
 You can upkeep your magical songs and poems to affect their allies or foes. Poems can be started with a rapid action, but you can keep them up freely as long as you have enough energy. 
@@ -26,7 +28,7 @@ You can only have one poem active at any time. If your target gets out of range 
 By spending 2 energy during your turn, you can use both a rapid action and a prepared action. 
 
 ## Resonance
-When you start a new poem, optionally, you can heal both the target and yourself for (3 + P/4). If you perform a poem for yourself, you are healed for (3 + P/2) instead.
+When you start a new poem, you can choose to apply regeneration for 2 rounds. 
 
 ## Duet
 When you are singing a poem for an ally, this ally can pay half of the energy cost at the start of your turns. 
