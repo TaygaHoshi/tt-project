@@ -28,9 +28,9 @@
 **Requirements:** 
 	A one handed weapon in main hand, and a light weapon in off-hand.
 **Explanation:** 
-	You attack with both your main hand weapon and off-hand weapon. 
-	Your off-hand weapon receives a -2 penalty to its precision roll and deals half damage after armor.
-	The strike with your main hand weapon is considered a basic weapon attack.
+	You perform basic weapon attacks with both your main hand weapon and off-hand weapon. 
+	Your off-hand weapon attack gets a -2 penalty to its precision roll and doesn't receive potency bonus to its damage.
+	This ability itself is not a basic weapon attack. 
 
 # Opportunistic Strike
 **Execution time:** Prepared action
