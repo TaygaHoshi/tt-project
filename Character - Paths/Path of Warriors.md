@@ -40,15 +40,24 @@ Instead of gaining bonus damage, you can apply exposed for 1 round.
 
 ---
 # Techniques
+## Brutal Attack
+**Category:** Modification
+**Execution Time:** Special
+**Cost:** 1 energy
+**Effect**
+	You can choose to activate this ability as a part of a weapon attack.
+	Ignores weapon precision.
+	This attack gains a +5 bonus to its damage, but receives a -1 penalty to its precision rolls.
+
 ## Crushing Charge
 **Category:** Modification
 **Execution Time:** Special
 **Cost:** 3 energy
-**Duration:** 1 round
+**Duration:** (1 + C/4) rounds
 **Effect**
 	This attack's precision roll is made against Constitution.
 	You can choose to activate this technique when you take the *charge* special action.
-	At the end of this charge, your attack additionally stuns the target for the duration.
+	At the end of this charge, this attack additionally applies stunned to the target for the duration.
 
 ## Defensive Strike
 **Category:** Modification
@@ -56,7 +65,7 @@ Instead of gaining bonus damage, you can apply exposed for 1 round.
 **Cost:** 1 energy
 **Duration:** 1 round
 **Effect**
-	You can choose to activate this ability as a part of a basic weapon attack with a melee weapon, except for the *charge* special action.
+	You can choose to activate this ability as a part of a basic weapon attack, except for with the *charge* special action.
 	Choose a resistance. You gain a (1 + C/3) bonus to this resistance against attacks from this target for 1 round.
 
 ## Double Opportunity
@@ -73,38 +82,36 @@ Instead of gaining bonus damage, you can apply exposed for 1 round.
 **Execution Time:** Special
 **Cost:** 1 energy
 **Effect**
-	You can choose to activate this ability when you use a prepared action. This prepared action lasts until your next turn.
+	You can choose to activate this ability when you use a prepared action. 
+	This prepared action lasts until your next turn.
 
 ## Graze
 **Category:** Modification
 **Execution Time:** Special
 **Cost:** 1 energy
-**Range:** Weapon range
 **Effect**
-	You can choose to activate this ability when you attempt a basic melee weapon attack. If this attack misses, you deal damage equal to your potency.
+	You can choose to activate this ability when you attempt a basic weapon attack.
+	 If this attack misses, you deal damage equal to your potency.
 
 ## Hamstring
-**Category:** Weapon attack
-**Execution Time:** Action
+**Category:** Modification
+**Execution Time:** Special
 **Cost:** 2 energy
-**Range:** Weapon range
-**Duration:** (2 + C/4) rounds
-**Requirements:**
-	Any melee weapon in main hand.
+**Duration:** (1 + C/3) rounds
 **Effect**
 	This attack's precision roll is made against Constitution.
-	Deals half damage after armor.
-	Applies slowed for the duration.
+	You can choose to activate this ability when you attempt a basic weapon attack.
+	This attack also applies slowed for the duration.
 
 ## Reaching Attack
 **Category:** Modification
 **Execution Time:** Special 
 **Cost:** 1 energy
-**Range:** Double weapon range
+**Range:** Special
 **Effect**
 	You can choose to activate this ability as a part of a basic weapon attack.
 	If it is a melee attack, its range is doubled.
-	If it is a ranged attack, its range is increased by (1 + C/2) meters.
+	If it is a ranged attack, its range is increased by (2 + C/2) meters.
 
 ## Tackle
 **Category:** Weapon attack
@@ -113,5 +120,5 @@ Instead of gaining bonus damage, you can apply exposed for 1 round.
 **Range:** 1 meter
 **Effect**
 	Ignores weapon precision.
-	Tackle your target, making them fall prone and dealing 5 physical damage.
+	Tackle your target, making them fall prone and dealing 10 physical damage.
 
