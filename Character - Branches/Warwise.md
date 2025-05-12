@@ -13,12 +13,12 @@ You can use this ability as a part of a damaging weapon attack by spending 1 ene
 ## Adapt to Environment
 **Category:** Modification
 **Execution Time:** Special
-**Cost:** 4 energy
+**Cost:** 3 energy
 **Duration:** (2 + C/4) rounds
 **Effect**
-	As a part of the *speak* special action, you can tell your allies how to adapt to their current environment, for the duration of this technique:
+	As a part of the *speak* special action, you can tell your allies how to adapt to their current environment. For the duration of this technique:
 	1. Allies ignore the penalties of attacking from low ground. 
-	2. Allies attacking from high ground gain bonus damage equal to half your level, with a minimum of 1. 
+	2. Allies attacking from high ground gain (3 + P/2) bonus damage. 
 
 ## Disarm
 **Category:** Weapon attack
@@ -26,16 +26,15 @@ You can use this ability as a part of a damaging weapon attack by spending 1 ene
 **Cost:** 2 energy
 **Range:** Weapon range
 **Effect**
-	You attack your target for half weapon damage with your main weapon, trying to make it drop one of its weapons. This weapon falls below the target.
+	You attack your target for half damage after armor with your main weapon, trying to make it drop one of its weapons. This weapon falls below the target.
 	This technique can't disarm natural weapons.
-	If Disarm is used with a ranged weapon, your weapon precision is ignored.
 
 ## Expose Weakness
 **Category:** Utility
 **Execution Time:** Action
-**Cost:** 4 energy
+**Cost:** 3 energy
 **Range:** 5 meters
-**Duration:** (1 + C/3) rounds
+**Duration:** (2 + C/3) rounds
 **Effect**
 	Study your target, applying exposed and cracked armor for the duration of this technique. 
 
@@ -46,7 +45,7 @@ You can use this ability as a part of a damaging weapon attack by spending 1 ene
 **Effect**
 	You can choose to activate this technique when you take any full-turn action.
 	You can move up to (2 + C/3) meters before taking that action.
-	This ability can be used alongside Improved Aiming.  
+	This ability can be used alongside *improved aiming*.  
 
 ## Insight
 **Category:** Utility
