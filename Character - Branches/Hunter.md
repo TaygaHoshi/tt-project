@@ -4,6 +4,16 @@ As a rapid action, you can designate a visible creature within 25 meters as your
 You can only have one prey at a time, and changing your designation to another creature costs 2 energy.
 
 # Techniques
+## Break Armor
+**Category:** Weapon attack
+**Execution Time:** Action
+**Cost:** 2 energy
+**Range:** Weapon range
+**Duration:** (1 + C/4) rounds
+**Effect**
+	This technique's precision roll is made against Parry.
+	Damage your prey's armor with your weapon, removing temporary armor of any kind. Then, apply cracked armor for the duration instead.
+
 ## Execute
 **Category:** Weapon attack
 **Execution Time:** Action
@@ -14,14 +24,6 @@ You can only have one prey at a time, and changing your designation to another c
 	If your prey is at or below half health, deal 10 armor-ignoring damage.
 	If you fail the precision roll, deal half that instead. 
 	This technique does not gain potency bonus to its damage.
-
-## Focused Preparation
-**Category:** Modification
-**Execution Time:** Special
-**Cost:** 1 energy
-**Effect**
-	You can choose to activate this ability as a part of a damaging prepared action. 
-	If your prey triggers this prepared action, deal an extra 5 damage of this action's type. Potency bonus to this technique's damage is halved. 
 
 ## Readiness
 **Category:** Utility
@@ -36,5 +38,15 @@ You can only have one prey at a time, and changing your designation to another c
 **Cost:** 2 energy
 **Range:** Weapon range
 **Effect**
-	You can choose to activate this ability as a part of a basic weapon attack against your prey. 
-	If thr target is ambushed, prone, stunned or immobilized, this attack has a +1 bonus to its precision rolls and ignores temporary armor of any kind. 
+	You can choose to activate this ability as a part of a weapon attack against your prey. 
+	If the target is ambushed, flanked, immobilized, prone or stunned, this attack has a +1 bonus to its precision rolls and ignores temporary armor of any kind. 
+
+## Weak Point
+**Category:** Modification
+**Execution Time:** Action
+**Cost:** 1 energy
+**Range:** Weapon range
+**Duration:** (2 + C/4) hits
+**Effect**
+	You can choose to activate this ability as a part of a basic weapon attack against your prey.  
+	This attack also applies bleeding for the duration. 
