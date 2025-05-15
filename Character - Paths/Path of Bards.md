@@ -82,3 +82,11 @@ If you are upkeeping a poem, you can swap it with another poem without using a r
 **Range:** (2 + C/2) meters
 **Effect**
 	Choose a creature. This creature is unaffected by immobilized, slowed and stunned status effects.
+
+## Poem of Mastery
+**Category:** Offense
+**Execution Time:** Rapid action
+**Cost:** 2 energy per round
+**Range:** (2 + C/2) meters
+**Effect**
+	Choose a creature. Your poem makes this creature become more proficient in its abilities, increasing its control by 2. 

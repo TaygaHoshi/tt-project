@@ -93,8 +93,9 @@ Two handed weapons have three weapon attacks.
 	+ Range: 10 meters.
 	+ Deals 25 physical damage.
 + (Projectile) Piercing Shot
-	+ Range: 10 meters.
-	+ Deals 15 armor-ignoring damage. Potency bonus to damage is doubled for this attack. 
+	+ Range: 5 meters.
+	+ Hits a creature directly behind your target. 
+	+ Deals 10 armor-ignoring damage. 
 + (Prepared action) Bash
 	+ Ignores weapon precision.
 	+ Attack the next foe who moves into, within or out of melee range.
@@ -107,6 +108,7 @@ Two handed weapons have three weapon attacks.
 	+ Range: 15 meters.
 	+ Deals 20 physical damage.
 + (Projectile) Curving Shot
+	+ Range: 15 meters. 
 	+ Shoot your projectile in a way that it bends and curves around objects.
 	+ This attack ignores non-magical covers, as long as the target is in line of sight.
 	+ Deals 15 physical damage.
@@ -141,9 +143,8 @@ Two handed weapons have three weapon attacks.
 	+ Allies who are unable to hear are not affected by war drums. 
 	+ Being stunned, falling or going prone, diving underwater or becoming unavailable to use techniques in any way stops the bonuses granted by this weapon. 
 + (Rapid action) "Empowering"
-	+ Radius: 15 meters
-	+ All other allies within radius gain a (5 + P/3) bonus to their damage with single target damaging abilities until your next turn. 
-	+ This bonus doesn't affect harming status effects such as bleeding and burning.
+	+ Radius: 10 meters. 
+	+ All other allies within radius gain a (5 + P/2) bonus to their damage with single target damaging abilities for 1 round. 
 + (Rapid action) "Invigorating"
-	+ Radius: 15 meters
-	+ All other allies within radius gain (5 + C/3) temporary health until your next turn.
+	+ Radius: 10 meters. 
+	+ All other allies within radius gain (5 + C/2) temporary health for 1 round.

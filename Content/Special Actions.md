@@ -20,7 +20,7 @@
 	Any melee weapon in main hand.
 **Explanation:** 
 	Ignores weapon precision.
-	You gain a (3 + C/2) bonus to your movement speed, and you charge your target using your movement speed. Then, you perform a basic weapon attack.
+	You gain a (3 + C/4) bonus to your movement speed, and you charge your target using your movement speed. Then, you perform a basic weapon attack.
 	You become fatigued until the end of your next turn.
 
 # Dual Strike
@@ -57,8 +57,8 @@
 	No foes in melee range.
 	You haven't moved this round.
 **Explanation:**
+	As a part any weapon attack affected by *unsteady aiming*, you can activate this ability to remove penalties from it. 
 	Your walking speed drops to zero for this round.
-	As a part any weapon attack affected by Unsteady Aiming, you can activate this ability. That attack does not receive the penalty from Unsteady Aiming.
 
 # Sever
 **Execution Time:** Action
@@ -68,8 +68,7 @@
 **Effect**
 	This attack's precision roll is made against Constitution.
 	Ignores weapon precision.
-	This attack deals half weapon damage, and doesn't get the normal potency bonus to its damage. Instead, it applies 2 hits of bleeding.
-	This action is considered a weapon attack.
+	This attack deals half damage after armor, but it also applies bleeding for 2 hits.
 
 # Swap Weapons
 **Execution time:** Rapid action

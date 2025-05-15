@@ -28,7 +28,7 @@ You can swap weapons without a rapid action by spending 1 energy.
 ## Keen Rejuvenation
 Your *critical training* triggers on an unmodified roll of 9 or above, and grants you 1 energy if you successfully hit with your ability.
 
-Instead of gaining bonus damage, you can gain regeneration for 1 hit.
+Instead of gaining bonus damage, you can choose to gain regeneration for 2 hits.
 
 ## Armor Expertise
 When you gain temporary armor of one type, you also gain an equal amount of the other type for the same duration.
@@ -36,18 +36,18 @@ When you gain temporary armor of one type, you also gain an equal amount of the 
 ## Veteran Combatant
 Your *critical training* is perfected and it triggers on an unmodified roll of 8 or above.
 
-Instead of gaining bonus damage, you can apply exposed for 1 round.
+Instead of gaining bonus damage, you can choose to apply exposed for 1 round.
 
 ---
 # Techniques
+
 ## Brutal Attack
 **Category:** Modification
 **Execution Time:** Special
 **Cost:** 1 energy
 **Effect**
 	You can choose to activate this ability as a part of a weapon attack.
-	Ignores weapon precision.
-	This attack gains a +5 bonus to its damage, but receives a -1 penalty to its precision rolls.
+	This attack gains a +5 bonus to its damage, but receives a -2 penalty to its precision rolls.
 
 ## Crushing Charge
 **Category:** Modification
@@ -113,12 +113,19 @@ Instead of gaining bonus damage, you can apply exposed for 1 round.
 	If it is a melee attack, its range is doubled.
 	If it is a ranged attack, its range is increased by (2 + C/2) meters.
 
+## Stability
+**Category:** Defense
+**Execution Time:** Rapid action
+**Cost:** 2 energy
+**Duration:** (1 + C/2) rounds
+**Effect**
+	For the duration of this technique, you can't fall prone or be moved unwillingly.  
+
 ## Tackle
 **Category:** Weapon attack
 **Execution Time:** Action
 **Cost:** 2 energy
-**Range:** 1 meter
 **Effect**
 	Ignores weapon precision.
-	Tackle your target, making them fall prone and dealing 10 physical damage.
+	Tackle an adjacent creature, making it fall prone and dealing 10 physical damage.
 

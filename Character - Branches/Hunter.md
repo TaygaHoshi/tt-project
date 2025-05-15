@@ -7,23 +7,23 @@ You can only have one prey at a time, and changing your designation to another c
 ## Break Armor
 **Category:** Weapon attack
 **Execution Time:** Action
-**Cost:** 2 energy
+**Cost:** 1 energy
 **Range:** Weapon range
 **Duration:** (1 + C/4) rounds
 **Effect**
 	This technique's precision roll is made against Parry.
-	Damage your prey's armor with your weapon, removing temporary armor of any kind. Then, apply cracked armor for the duration instead.
+	Damage your prey's armor with your weapon, removing temporary armor of any kind. Then, apply cracked armor for the duration.
 
 ## Execute
 **Category:** Weapon attack
 **Execution Time:** Action
-**Cost:** 3 energy
+**Cost:** 2 energy
 **Range:** Weapon range
 **Effect**
 	This technique's precision roll is made against Constitution.
 	If your prey is at or below half health, deal 10 armor-ignoring damage.
 	If you fail the precision roll, deal half that instead. 
-	This technique does not gain potency bonus to its damage.
+	Potency bonus to this technique's damage is halved. 
 
 ## Readiness
 **Category:** Utility
@@ -44,9 +44,9 @@ You can only have one prey at a time, and changing your designation to another c
 ## Weak Point
 **Category:** Modification
 **Execution Time:** Action
-**Cost:** 1 energy
+**Cost:** 2 energy
 **Range:** Weapon range
-**Duration:** (2 + C/4) hits
+**Duration:** (1 + C/2) hits
 **Effect**
 	You can choose to activate this ability as a part of a basic weapon attack against your prey.  
 	This attack also applies bleeding for the duration. 

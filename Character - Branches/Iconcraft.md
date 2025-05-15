@@ -23,7 +23,7 @@ Rituals of icon magic are techniques with two special properties:
 **Execution Time:** Rapid action
 **Cost:** 1 energy
 **Effect**
-	Your currently active ritual also affects you until the end of your next round.
+	Your currently active ritual also affects you for 3 rounds.
 
 ## Banishing Ritual
 **Category:** Defense
@@ -44,7 +44,7 @@ Rituals of icon magic are techniques with two special properties:
 **Duration:** 1 hour
 **Effect**
 	This ritual's precision rolls are made against Evasion.
-	Manifest your icon's destructive power, creating an area of harm. Make a precision roll against any creature who moves into, out of or within this area. On success, those creatures take 3 magical damage and a bonus 2 damage per meter they willingly moved within this area, at the end of this turn. Potency bonus to this ability's damage is halved.
+	Manifest your icon's destructive power, creating an area of harm. Make a precision roll against any creature who moves into, out of or within this area. On success, those creatures take a combined 3 magical damage per meter they willingly moved within this area, at the end of this turn. Potency bonus to this ability's damage is halved.
 
 ## Dulling Ritual
 **Category:** Defense
@@ -61,7 +61,7 @@ Rituals of icon magic are techniques with two special properties:
 **Execution Time:** Special
 **Cost:** 2 energy
 **Effect**
-	You can use this technique as you start performing a ritual. This ritual's radius is doubled, but lasts only (1 + C/4) rounds.
+	You can use this technique as you start performing a ritual. This ritual's radius is doubled, but lasts only (1 + C/2) rounds.
 
 ## Sharpening Ritual
 **Category:** Offense
@@ -71,7 +71,7 @@ Rituals of icon magic are techniques with two special properties:
 **Duration:** 1 hour
 **Effect**
 	This ritual does not require precision rolls.
-	Your icon strengthens the weapons of creatures within the area, granting their weapon attacks (3 + P/3) bonus damage.
+	Your icon strengthens the weapons of creatures within the area, granting their weapon attacks (1 + P/2) bonus damage.
 
 ## Shrouding Ritual
 **Category:** Utility

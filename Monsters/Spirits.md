@@ -148,9 +148,14 @@ This spirit creates various shapes from metal and shoots them at its target, dea
 </tr>
 <tr>
 <td colspan="4"><i>Metalskin</i> - Rapid action, technique
-This spirit gains 6 temporary physical armor for 2 rounds, but becomes immobilized until this temporary armor breaks.
+This spirit gains 6 temporary physical armor for 1 round, but becomes immobilized until this temporary armor breaks.
 </td>
 </tr>
+<tr>
+<td colspan="4"><i>Stability</i> - Rapid action, technique
+This spirit can't fall prone or be moved unwillingly for 1 round. 
+</td>
+</tr>  
 </table>
 
 ---

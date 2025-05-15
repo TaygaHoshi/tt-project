@@ -52,9 +52,9 @@ At the start phase of every round, turn order will be calculated for this round.
 + Every creature in combat is ordered in terms of their initiative value from highest to lowest.
 + Allies with same initiative value must determine who goes first beforehand. This can only be changed in the end phase during combat.
 + If there are creatures with equal initiative in at least any two sides in the combat, the following rules are applied:
-	+ The conflicting sides roll a d20 each.
+	+ The conflicting sides roll 2d10 each.
 	+ For conflicting turn order spots, higher rolling teams' members will go earlier than the lower rolling teams' members with the same initiative.
-	+ If there is a draw, another set of d20s must be rolled between the drawing sides.
+	+ If there is a draw, another set of 2d10s must be rolled between the drawing sides.
 
 A creature can only have one turn within one round, even if it is next in initiative order.
 
@@ -88,7 +88,7 @@ Movement speed of a creature is equal to:
 	+ Swimming, climbing and crawling are considered heavy rough terrain.
 
 ## Precision Rolls
-Precision rolls determine whether a weapon attack, a technique or any other ability succeeds against an unwilling target. A precision roll is done against a resistance, such as Parry or Evasion. If the result of this roll exceeds or is equal to the resistance it is rolled against, the roll succeeds and the technique or attack connects.  Additionally, if you roll a 10 with a precision roll's d10, the roll succeeds regardless of the relevant resistance. 
+Precision rolls determine whether a weapon attack, a technique or any other ability succeeds against an unwilling target. A precision roll is done against a resistance, such as Parry or Evasion. If the result of this roll exceeds or is equal to the resistance it is rolled against, the roll succeeds and the technique or attack connects. 
 
 A precision roll is calculated according to this formula:
 	1d10 + (level)/2 + weapon precision bonus + other bonuses

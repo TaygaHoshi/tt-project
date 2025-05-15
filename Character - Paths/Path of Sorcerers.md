@@ -79,7 +79,7 @@ When you are below 15 health and use an ability that costs health, you can inste
 **Cost:** 5 health
 **Range:** 5 meters
 **Effect**
-	Remove (1 + P/4) supportive status effects from the target creature, dealing 10 magical damage per status effect removed.
+	Remove (1 + P/4) supportive status effects from the target creature, then deal a combined 10 magical damage per effect removed.
 
 ## Spread Curses
 **Category:** Offense

@@ -10,15 +10,23 @@ You can keep the whole battlefield in your mind as a mental image:
 You can use this ability as a part of a damaging weapon attack by spending 1 energy. If you fail all of the precision rolls of this attack, you can instead use a non-damaging ability in its place.
 
 # Techniques
-## Adapt to Environment
+## Adapt to Elevation
 **Category:** Modification
 **Execution Time:** Special
 **Cost:** 3 energy
-**Duration:** (2 + C/4) rounds
+**Duration:** (1 + C/2) rounds
 **Effect**
-	As a part of the *speak* special action, you can tell your allies how to adapt to their current environment. For the duration of this technique:
-	1. Allies ignore the penalties of attacking from low ground. 
-	2. Allies attacking from high ground gain (3 + P/2) bonus damage. 
+	You can choose to activate this ability as a part of the *speak* special action.
+	For the duration of this technique, allies who can hear you ignore the penalties of attacking from low ground and their attacks from high ground gain (3 + P/2) bonus damage. 
+
+## Adapt to Terrain
+**Category:** Modification
+**Execution Time:** Special
+**Cost:** 3 energy
+**Duration:** (1 + C/2) rounds
+**Effect**
+	You can choose to activate this ability as a part of the *speak* special action. 
+	Allies who can hear you ignore movement penalties from rough terrain for the duration of this technique. 
 
 ## Disarm
 **Category:** Weapon attack
@@ -26,7 +34,7 @@ You can use this ability as a part of a damaging weapon attack by spending 1 ene
 **Cost:** 2 energy
 **Range:** Weapon range
 **Effect**
-	You attack your target for half damage after armor with your main weapon, trying to make it drop one of its weapons. This weapon falls below the target.
+	You attack your target for half damage after armor with your main hand weapon, trying to make it drop one of its weapons. This weapon falls below the target.
 	This technique can't disarm natural weapons.
 
 ## Expose Weakness
@@ -34,7 +42,7 @@ You can use this ability as a part of a damaging weapon attack by spending 1 ene
 **Execution Time:** Action
 **Cost:** 3 energy
 **Range:** 5 meters
-**Duration:** (2 + C/3) rounds
+**Duration:** (2 + C/4) rounds
 **Effect**
 	Study your target, applying exposed and cracked armor for the duration of this technique. 
 
@@ -44,7 +52,7 @@ You can use this ability as a part of a damaging weapon attack by spending 1 ene
 **Cost:** 2 energy
 **Effect**
 	You can choose to activate this technique when you take any full-turn action.
-	You can move up to (2 + C/3) meters before taking that action.
+	You can move up to (2 + C/4) meters before taking that action.
 	This ability can be used alongside *improved aiming*.  
 
 ## Insight

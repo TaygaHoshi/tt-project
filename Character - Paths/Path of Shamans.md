@@ -62,7 +62,7 @@ You can use your *passage* on a creature you can touch by spending 4 energy inst
 **Category:** Defense
 **Execution Time:** Rapid action
 **Cost:** 2 energy
-**Range:** (3 + C/4) meters
+**Range:** 3 meters
 **Effect**
 	Choose a creature. This creature is relieved of a harmful status effect of your choosing.
 
@@ -100,7 +100,7 @@ You can use your *passage* on a creature you can touch by spending 4 energy inst
 **Cost:** 2 energy
 **Range:** 3 meters
 **Effect**
-	Heal a creature for (10 + P/2), and heal the creatures adjacent to your target for half of that amount. 
+	Heal a creature for (10 + P/2), and heal creatures adjacent to your target for half of that amount. 
 
 ## Message
 **Category:** Utility
