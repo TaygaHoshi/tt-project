@@ -35,3 +35,5 @@ Weapon sets are helpful guides used primarily during character creation. If you 
 1. A one handed weapon and an off-hand weapon.
 2. A one handed weapon and a light one handed weapon.
 3. A two handed weapon. 
+
+Bonuses or penalties from weapons, such as initiative, resistance or armor, only apply when you are currently wielding them.

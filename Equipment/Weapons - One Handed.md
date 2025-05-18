@@ -35,7 +35,7 @@ One handed weapons are divided into two: heavy weapons and light weapons. Light 
 	+ Deals 20 physical damage.
 + Sweep
 	+ This attack's precision roll is made against Evasion.
-	+ Deals 10 physical damage. Potency bonus to damage is doubled for this attack. 
+	+ Deals 10 physical damage.
 	+ Hits 3 squares in front of you.
 
 ## Scepter (Heavy)
@@ -45,7 +45,7 @@ One handed weapons are divided into two: heavy weapons and light weapons. Light 
 + Blast
 	+ Range: 5 meters
 	+ This attack's precision rolls are made against Evasion.
-	+ Create a magical orb, which falls to the ground and explodes, dealing 10 magical damage to all creatures within 1 meter radius. Potency bonus to damage is doubled for this attack. 
+	+ Create a magical orb, which falls to the ground and explodes, dealing 10 magical damage to all creatures within 1 meter radius.
 
 ## Wand (Light)
 + (Projectile) Bolt
