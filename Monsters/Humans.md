@@ -64,7 +64,7 @@ Attacks the next foe who moves into, within or out of melee range, dealing 10 ph
 <tr style="border-bottom: dashed 2px">
 <td><b>Potency:</b> 1</td> 
 <td><b>Control:</b> 0</td> 
-<td colspan="2"><b>Precision Roll:</b> d10 (longbow)</td> 
+<td colspan="2"><b>Precision Roll:</b> d10</td> 
 </tr>
 <tr>
 <td><b>Parry:</b> 6</td>  
@@ -203,7 +203,6 @@ If the target is already burning, applies bleeding (7 damage) for 1 hit instead.
 </td>
 </tr>
 </table>
-
 
 ---
 <table style="width: 100%; max-width: 720px; border-style: inset;">

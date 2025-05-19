@@ -70,7 +70,7 @@ This monster is unable to move or use any other ability while tickling someone.
 </tr>
 <tr>
 <td colspan="4"><i>Vampiric Affinity</i> - Passive
-Receives double damage from burning., and starts burning while in direct sunlight.
+Receives double damage from burning, and starts burning while in direct sunlight.
 </td>
 </tr>
 <tr>
@@ -129,7 +129,7 @@ This vampire grows its wings and spreads them around itself, gaining a +1 bonus 
 </tr>
 <tr>
 <td colspan="4"><i>Vampiric Affinity</i> - Passive
-Receives double damage from burning., and starts burning while in direct sunlight.
+Receives double damage from burning, and starts burning while in direct sunlight.
 </td>
 </tr>
 <tr>

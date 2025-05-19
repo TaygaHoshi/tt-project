@@ -39,7 +39,7 @@ You can only have one prey at a time, and changing your designation to another c
 **Range:** Weapon range
 **Effect**
 	You can choose to activate this ability as a part of a weapon attack against your prey. 
-	If the target is ambushed, flanked, immobilized, prone or stunned, this attack has a +1 bonus to its precision rolls and ignores temporary armor of any kind. 
+	If the target is ambushed, flanked, immobilized, prone, slowed or stunned, this attack has a +1 bonus to its precision rolls and ignores temporary armor of any kind. 
 
 ## Weak Point
 **Category:** Modification

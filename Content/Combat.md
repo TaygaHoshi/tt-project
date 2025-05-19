@@ -87,6 +87,7 @@ Movement speed of a creature is equal to:
 	+ Walking through heavy rough terrain such as quicksand takes up 3 walking speed per meter walked.
 	+ Swimming, climbing and crawling are considered heavy rough terrain.
 
+
 ## Precision Rolls
 Precision rolls determine whether a weapon attack, a technique or any other ability succeeds against an unwilling target. A precision roll is done against a resistance, such as Parry or Evasion. If the result of this roll exceeds or is equal to the resistance it is rolled against, the roll succeeds and the technique or attack connects. 
 

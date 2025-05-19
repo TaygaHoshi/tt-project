@@ -89,7 +89,7 @@ When you are below 15 health and use an ability that costs health, you can inste
 **Radius:** (1 + C/2) meters
 **Duration:** Special
 **Effect**
-	This spell's precision rolls are made against Constitution. 
+	This technique's precision rolls are made against Constitution. 
 	Debilitating and harmful status effects that the target creature is affected by spreads to the creatures within the radius around it with their remaining durations. You can choose to reduce the radius of this ability when you use it, to a minimum of 1 meter.
 
 ## Weaken Body
@@ -99,7 +99,7 @@ When you are below 15 health and use an ability that costs health, you can inste
 **Range:** 5 meters
 **Duration:** (2 + C/3) rounds
 **Effect**
-	This spell's precision roll is made against Constitution. 
+	This technique's precision roll is made against Constitution. 
 	Apply either sickened or weakened defenses to the target creature for the duration of this technique. Alternatively, you can apply fatigue by spending 4 energy instead.
 
 
@@ -140,6 +140,7 @@ Immune to diseased.
 </tr>
 <tr>
 <td colspan="4"><i>Strike</i> - Action, basic weapon attack
+This attack's precision rolls are made against Constitution. 
 Applies 1 hit of diseased.
 </td>
 </tr>

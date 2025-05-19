@@ -39,7 +39,7 @@
 **Explanation:** 
 	Ignores weapon precision.
 	Attack the next foe who moves into, within or out of this weapon's range.
-	This attack deals half weapon damage.
+	This attack deals half damage after armor.
 
 # First Aid
 **Execution time:** Action
