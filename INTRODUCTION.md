@@ -5,7 +5,7 @@ The game is played with one game master (GM) and one or more players:
 - The GM builds and runs a campaign, enforces the rules of the game, applies or creates resolution mechanics as necessary and controls the non-player characters (NPCs). 
 - Each player controls a single player character (PC). Through their PCs, players can explore the world, battle enemies, interact with NPCs, pursue and complete quests, find treasures and go on adventures.
 
-Sigil is not ready for running campaigns yet. You are seeing the version: *v1-a9*. 
+Sigil is not ready for running campaigns yet. You are seeing the version: *v1-a10*. 
 
 # Where to Start
 You can start from [[Player Characters]], or you can use [the character creation website](https://sigil-create.tyghsh.cc).
