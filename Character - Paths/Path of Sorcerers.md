@@ -5,9 +5,9 @@
 |   2   |                     |
 |   3   | Equivalent Exchange |
 |   4   |                     |
-|   5   |                     |
+|   5   | Blood is Power      |
 |   6   |                     |
-|   7   |                     |
+|   7   | Death's Edge        |
 |   8   |                     |
 |   9   |                     |
 |  10   |                     |
@@ -22,8 +22,24 @@ In addition, whenever you spend any amount of energy, you are healed for that am
 ## Equivalent Exchange
 At the start of a round, you can sacrifice 5 health to gain 10 temporary health for that round. This effect is clearly visible to other creatures.
 
+## Blood is Power
+As a rapid action, you can sacrifice 5 health to increase your aptitudes in one of the following ways, until the end of this round:
+1. Increase either potency or control by 2, or
+2. Increase both by 1 each.
+
+## Death's Edge
+When you are below 15 health and use an ability that costs health, you can instead spend 1 energy per 5 health cost to use that ability.
+
 ---
 # Techniques
+## Absorption
+**Category:** Defense
+**Execution Time:** Full-turn action
+**Cost:** 5 health
+**Range:** 5 meters
+**Effect**
+	Steal 10 health from the target creature. Potency bonus to this technique's damage is halved. 
+
 ## Alteration
 **Category:** Utility
 **Execution Time:** Action
@@ -38,32 +54,93 @@ At the start of a round, you can sacrifice 5 health to gain 10 temporary health 
 	4. Cut or open holes.
 	This object returns to its original shape and properties after the duration. This ability can't be used on magical items.
 
+## Call Chaos
+**Category:** Offense
+**Execution Time:** Full-turn action
+**Cost:** 15 health
+**Radius:** (2 + P/3) meters
+**Duration:** (2 + C/3) rounds
+**Effect**
+	Create an area of darkness around you. This area is considered quarter cover and is light rough terrain. 
+	Summon a spiritling of chaos next to each creature hostile to you within the radius up to a maximum of (2 + P/3) spiritlings for the duration, excluding yourself. Spiritlings of chaos summoned by this technique share your level, and attack the creature closest to them. 
+
+## Mark of Sacrifice
+**Category:** Offense
+**Execution Time:** Action
+**Cost:** 2 energy
+**Range:** 5 meters
+**Duration:** 3 rounds
+**Effect**
+	Mark (1 + C/2) creatures for the duration. If one of these creatures die while marked, adjacent creatures take 10 magical damage without requiring precision rolls. Potency bonus to this technique's damage is halved.
+
+## Purge Blessings
+**Category:** Offense
+**Execution Time:** Action
+**Cost:** 5 health
+**Range:** 5 meters
+**Effect**
+	Remove (1 + P/4) supportive status effects from the target creature, then deal a combined 10 magical damage per effect removed.
+
 ## Spread Curses
 **Category:** Offense
 **Execution Time:** Action
 **Cost:** 10 health
 **Range:** 5 meters
-**Radius:** (1 + C/3) meters
+**Radius:** (1 + C/2) meters
 **Duration:** Special
 **Effect**
-	This spell's precision rolls are made against Constitution. 
+	This technique's precision rolls are made against Constitution. 
 	Debilitating and harmful status effects that the target creature is affected by spreads to the creatures within the radius around it with their remaining durations. You can choose to reduce the radius of this ability when you use it, to a minimum of 1 meter.
-
-## Spy Object
-**Category:** Utility
-**Execution Time:** Full-turn action
-**Cost:** 4 energy
-**Duration:** (1 + C/2) hours
-**Effect**
-	Bestow a small object magical eyes or ears, and you can use it as an additional sensory organ. You can still use your eyes and ears while this technique is active.
-	As a rapid action, any creature suspecting a spy object nearby try to find one. Make a precision roll against this creature's Warding. If this roll fails, the creature notices this object.
 
 ## Weaken Body
 **Category:** Offense
 **Execution Time:** Action
 **Cost:** 2 energy 
 **Range:** 5 meters
-**Duration:** (1 + C/2) rounds
+**Duration:** (2 + C/3) rounds
 **Effect**
-	This spell's precision roll is made against Constitution. 
-	Apply either sickened or diseased to the target creature for the duration of this technique.
+	This technique's precision roll is made against Constitution. 
+	Apply either sickened or weakened defenses to the target creature for the duration of this technique. Alternatively, you can apply fatigue by spending 4 energy instead.
+
+
+---
+# Summons
+
+<table style="width: 100%; max-width: 720px; border-style: inset;">
+<tr>
+<th>Spiritling of Chaos</th>
+<td colspan="3">Level x - Minion</td>
+</tr>
+<tr style="border-bottom: solid 2px"><td colspan="4">To do: add lore</td></tr>
+<tr>  
+<td colspan="2"><b>Health:</b> 10</td> 
+<td colspan="2"><b>Movement:</b> 4 meters</td>
+</tr>
+<tr style="border-bottom: dashed 2px">
+<td><b>Potency:</b> 0</td> 
+<td><b>Control:</b> 0</td> 
+<td colspan="2"><b>Precision Roll:</b> d10 + level/2</td> 
+</tr>
+<tr>
+<td><b>Parry:</b> 5 + level/2</td>  
+<td><b>Warding:</b> 5 + level/2</td>  
+<td><b>Constitution:</b> 5 + level/2</td>  
+<td><b>Evasion:</b> 5 + level/2</td>  
+</tr>
+<tr style="border-bottom: solid 2px">  
+<td colspan="1"><b>Physical Armor:</b> 0</td>
+<td colspan="1"><b>Magical Armor:</b> 0</td>
+<td colspan="2"><b>Weapon:</b> Spirit body</td>
+</tr>
+<tr>
+<td colspan="4"><i>Chaos Affinity</i> - Passive
+Immune to diseased.
+</td>
+</tr>
+<tr>
+<td colspan="4"><i>Strike</i> - Action, basic weapon attack
+This attack's precision roll is made against Constitution. 
+Applies 1 hit of diseased.
+</td>
+</tr>
+</table>

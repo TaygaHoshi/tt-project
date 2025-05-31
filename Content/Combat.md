@@ -44,6 +44,9 @@ Each turn takes approximately 10 seconds in game.
 + A prepared action is mutually exclusive with a rapid action. Only one of them can be taken during a turn.
 + Some prepared actions may mention "moving into, out of or within an area". In this case, the attack is done after the creature successfully moves to a new square on the battle map, even if it would be out of range otherwise. 
 
+### Full-turn Action
+- A full-turn action takes up your whole turn, meaning you can't move or use any other type of action.
+
 ### Special Actions
 + These actions can be taken by any player character as long as they fulfill the requirements. See [[Special Actions|the list of special actions]].
 
@@ -52,9 +55,9 @@ At the start phase of every round, turn order will be calculated for this round.
 + Every creature in combat is ordered in terms of their initiative value from highest to lowest.
 + Allies with same initiative value must determine who goes first beforehand. This can only be changed in the end phase during combat.
 + If there are creatures with equal initiative in at least any two sides in the combat, the following rules are applied:
-	+ The conflicting sides roll a d20 each.
+	+ The conflicting sides roll 2d10 each.
 	+ For conflicting turn order spots, higher rolling teams' members will go earlier than the lower rolling teams' members with the same initiative.
-	+ If there is a draw, another set of d20s must be rolled between the drawing sides.
+	+ If there is a draw, another set of 2d10s must be rolled between the drawing sides.
 
 A creature can only have one turn within one round, even if it is next in initiative order.
 
@@ -71,24 +74,29 @@ During combat, a creature can move within the battle map grid. There are various
 Movement speed of a creature is equal to:
 	(base movement speed + other bonuses) squares/round 
 	**Base movement speed:** Most creatures have a base movement speed of 6 by default.
+
 ### Walking
 * Walking is the simplest way of movement. a creature's walking speed is equal to its movement speed, normally.
+
 ### Running
 + Instead of taking an action, a creature might "walk" twice. This is called "running" and unless specified otherwise, it is equal to double the walking speed.
 + A running creature can't take actions, rapid actions, prepared actions or full-turn actions.
+
 ### Flying
 + If a creature can fly, their flight speed is equal to their walking speed unless specified otherwise. 
 + Flight speed can be used vertically or horizontally. However, ascending takes up 3 flight speed per meter ascended.
 + A flying creature can't use its walking speed unless they land.
 + If a creature is flying, they are unaffected by any effects on the ground, unless the effect is tall enough to reach it.
+
 ### Rough Terrain
 + There are two kinds of rough terrain: light and heavy.
 	+ Walking or running through light rough terrain such as soft sand or shallow water takes up 2 walking speed per meter walked.
 	+ Walking through heavy rough terrain such as quicksand takes up 3 walking speed per meter walked.
 	+ Swimming, climbing and crawling are considered heavy rough terrain.
 
+
 ## Precision Rolls
-Precision rolls determine whether a weapon attack, a technique or any other ability succeeds against an unwilling target. A precision roll is done against a resistance, such as Parry or Evasion. If the result of this roll exceeds or is equal to the resistance it is rolled against, the roll succeeds and the technique or attack connects.  Additionally, if you roll a 10 with a precision roll's d10, the roll succeeds regardless of the relevant resistance. 
+Precision rolls determine whether a weapon attack, a technique or any other ability succeeds against an unwilling target. A precision roll is done against a resistance, such as Parry or Evasion. If the result of this roll exceeds or is equal to the resistance it is rolled against, the roll succeeds and the technique or attack connects. 
 
 A precision roll is calculated according to this formula:
 	1d10 + (level)/2 + weapon precision bonus + other bonuses
@@ -103,9 +111,7 @@ In some cases, a specific spell, an ability or an attack might include a precisi
 Some abilities may affect multiple targets. In this case, multiple precision rolls are required to determine which targets get affected by this ability.
 
 ## Damage
-When a creature takes damage, this damage value reduces their health.
-
-Damage done to a target is calculated according to this formula:
+When a creature takes damage, this damage value reduces their health. Damage done to a target is calculated according to this formula:
 	Action damage + potency + other bonuses - target's armor
 
 Terms in this formula are explained below:
@@ -116,14 +122,22 @@ Terms in this formula are explained below:
 
 In some cases, a specific ability might include a potency bonus or penalty itself. As an example, let's take an ability which includes the phrase "potency bonus to damage is halved for this attack". This simply means "potency" is divided by two in the formula:
 	Action damage + (potency)/2 + other bonuses - target's armor
+	
 ### Armor
 Each creature has two kinds of armor: physical armor and magical armor. Normally, damage from weapon attacks and similar abilities are affected by physical armor and damage from magical techniques are affected by magical armor. If something is an exception to this rule, this is noted in the description of that ability.
+
 ### Damaging Ability
 For an ability to be considered a "damaging ability", it should have a base damage. Examples could be abilities like "Shield Bash" or the hatchet's "Hack". Some actions only apply a status effect, but do not have a base damage. These abilities are not considered damaging abilities.
+
 ### "Extra damage" versus "Bonus damage"
 Extra damage is a completely different packet of damage that just shares the precision roll of another attack. Extra damage has its own values for action damage, potency, bonuses and it is affected by armor separately from the delivering attack.
 
 On the other hand, bonus damage is just added into the delivering attack's damage calculation. Specifically, into the "other bonuses" term.
+
+### Stealing Health
+Some abilities, magic items or creatures may have health stealing effects. This is always considered magical damage. 
+
+When a creature tries to steal health, the amount it gains is equal to the health loss of target. Unless specified otherwise, health stealing abilities use normal damage calculation. For example, if an ability steals 20 health and the target has 5 magical armor, the user of the ability would be healed for 15. 
 
 ## Death
 + When a player character falls below 0 health, they are considered "unconscious".
@@ -141,7 +155,8 @@ On the other hand, bonus damage is just added into the delivering attack's damag
 ## Adjacency
 + A creature is adjacent to another if there aren't any battle map squares between them. 
 + Significant height difference between two creatures due to environmental factors may break adjacency. 
-### Flanking
+
+## Flanking
 + During battle, whenever a creature has two or more adjacent foes wielding melee weapons, it is considered flanked.
 + Attacking a flanked creature grants a +1 bonus to precision rolls done with melee abilities.
 
@@ -202,6 +217,8 @@ When a creature transforms into another, several rules should be followed:
 #TODO 
 
 
-
 ## Player versus Player
-#TODO 
+Conflicts between player characters should be resolved with words. However, sometimes arguments might escalate into fights, duels or even ambushes. In this case, rather than getting into a combat, the GM may opt to use the simple method of PvP instead:
+1. Players split into teams or stay neutral.
+2. Each team rolls a d10 per player. The team that rolls the highest in total wins.
+3. A team may get up to a +2 bonus to its total roll if it has advantage over other teams.

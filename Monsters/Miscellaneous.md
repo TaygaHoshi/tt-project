@@ -1,7 +1,7 @@
 <table style="width: 100%; max-width: 720px; border-style: inset;">
 <tr>
 <th>Magicspawn</th>
-<td colspan="3">Level 1 - Novice Minion</td>
+<td colspan="3">Level 1 - Minion</td>
 </tr>
 <tr style="border-bottom: solid 2px"><td colspan="4">The magicspawn are small, unconscious beings of various shapes found near magically active places. They attack anything they think is a disturbance to the place they are guarding.</td></tr>
 <tr>  

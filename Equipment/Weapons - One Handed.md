@@ -26,8 +26,8 @@ One handed weapons are divided into two: heavy weapons and light weapons. Light 
 + Slash
 	+ Deals 20 physical damage.
 + Feint
-	+ Deals 10 physical damage. Potency bonus to damage is doubled for this attack. 
-	+ You have a (1 + P/3) bonus to precision roll of this attack.
+	+ Deals 10 physical damage. 
+	+ You have a (1 + P/4) bonus to precision roll of this attack.
 
 ## Throwing Spear (Heavy)
 + Aptitude: Strength
@@ -35,7 +35,7 @@ One handed weapons are divided into two: heavy weapons and light weapons. Light 
 	+ Deals 20 physical damage.
 + Sweep
 	+ This attack's precision roll is made against Evasion.
-	+ Deals 10 physical damage. Potency bonus to damage is doubled for this attack. 
+	+ Deals 10 physical damage.
 	+ Hits 3 squares in front of you.
 
 ## Scepter (Heavy)
@@ -45,7 +45,7 @@ One handed weapons are divided into two: heavy weapons and light weapons. Light 
 + Blast
 	+ Range: 5 meters
 	+ This attack's precision rolls are made against Evasion.
-	+ Create a magical orb, which falls to the ground and explodes, dealing 10 magical damage to all creatures within 1 meter radius. Potency bonus to damage is doubled for this attack. 
+	+ Create a magical orb, which falls to the ground and explodes, dealing 10 magical damage to all creatures within 1 meter radius.
 
 ## Wand (Light)
 + (Projectile) Bolt
@@ -56,22 +56,21 @@ One handed weapons are divided into two: heavy weapons and light weapons. Light 
 	+ This attack's precision roll is made against Constitution.
 	+ Immobilizes the target for (1 + C/4) rounds.
 + (Prepared action) Magic Protection
-	+ Range: 5 meters
-	+ Choose an ally. Grant them (3 + P/2) temporary magical armor for 1 round.
+	+ Gain (3 + P/3) temporary magical armor for the duration of this weapon attack. 
 
 ## Shortsword (Light)
 + (Passive) Sidearm
 	+ This weapon's properties allows it to be used as a sidearm.
 	+ Skills rolls regarding the concealment of this weapon receive a +2 bonus.
 	+ During your turns, you can use the Swap Weapon action to swap to your shortsword freely without using a rapid action. 
-	+ Swapping weapons in this way drops the previous weapon onto the ground below you.
+	+ Swapping weapons in this way drops the previous weapon(s) onto the ground below you.
 + Slash
 	+ Deals 20 physical damage.
 +  Thrust
 	+ This attack's precision roll is done against Evasion.
 	+ Ignores weapon precision.
 	+ Deals 15 physical damage, ignoring up to 10 physical armor.
-+ (Prepared) Countering
++ (Prepared action) Countering
 	+ Next time a creature within range attacks you with a melee weapon, you also attack them.
 	+ Ignores weapon precision.
 	+ Deals 10 physical damage.
@@ -81,7 +80,7 @@ One handed weapons are divided into two: heavy weapons and light weapons. Light 
 	+ This weapon's properties allows it to be used as a sidearm.
 	+ Skills rolls regarding the concealment of this weapon receive a +3 bonus.
 	+ During your turns, you can use the Swap Weapon action to swap to your dagger freely without using a rapid action. 
-	+ Swapping weapons in this way drops the previous weapon onto the ground below you.
+	+ Swapping weapons in this way drops the previous weapon(s) onto the ground below you.
 + Stab
 	+ Deals 15 physical damage.
 + Double Slash
@@ -90,7 +89,7 @@ One handed weapons are divided into two: heavy weapons and light weapons. Light 
 	+ You attack the target twice.
 + (Prepared action) Backstab
 	+ Next time a flanked foe within your reach is attacked by an ally, you also attack them.
-	+ Deals 10 physical damage. Potency bonus to damage is doubled for this attack. 
+	+ Deals 10 physical damage.
 
 ## Unarmed (Light)
 + Punch
@@ -101,4 +100,4 @@ One handed weapons are divided into two: heavy weapons and light weapons. Light 
 + (Prepared action) Disorienting Blow
 	+ This attack's precision roll is made against Constitution.
 	+ Ignores weapon precision.
-	+ Attack the next foe who moves into, within or out of melee range, applying 1 round of disorientation.
+	+ Attack the next foe who moves into, within or out of melee range, applying 1 round of disoriented.

@@ -70,7 +70,7 @@ This monster is unable to move or use any other ability while tickling someone.
 </tr>
 <tr>
 <td colspan="4"><i>Vampiric Affinity</i> - Passive
-Receives double damage from burning., and starts burning while in direct sunlight.
+Receives double damage from burning, and starts burning while in direct sunlight.
 </td>
 </tr>
 <tr>
@@ -129,7 +129,7 @@ This vampire grows its wings and spreads them around itself, gaining a +1 bonus 
 </tr>
 <tr>
 <td colspan="4"><i>Vampiric Affinity</i> - Passive
-Receives double damage from burning., and starts burning while in direct sunlight.
+Receives double damage from burning, and starts burning while in direct sunlight.
 </td>
 </tr>
 <tr>
@@ -212,8 +212,10 @@ Applies disoriented (-2) for 2 rounds.
 </td>
 </tr>
 <tr>
-<td colspan="4"><i>Opportunistic Slash</i> - Prepared action, weapon attack
-Attacks the next foe who moves into, within or out of melee range, dealing 10 physical damage.
+<td colspan="4"><i>Charge</i> - Full-turn action, basic weapon attack
+-1 penalty on precision roll.
+This yooha gains a +3 bonus to its movement speed, and charges at its target using its movement speed. Then, it attacks with slash.
+After charging, this yooha becomes fatigued for 1 round.
 </td>
 </tr>
 </table>
@@ -253,7 +255,7 @@ This monster has a human form that they can transform into for 16 hours per day.
 </tr>
 <tr>
 <td colspan="4"><i>Slash</i> - Action, basic weapon attack
-Deals 20 physical damage.
+Deals 25 physical damage.
 </td>
 </tr>
 <tr>
@@ -270,8 +272,12 @@ If the target is already disoriented, it is instead immobilized for 2 rounds.
 </td>
 </tr>
 <tr>
-<td colspan="4"><i>Opportunistic Slash</i> - Prepared action, weapon attack
-Attacks the next foe who moves into, within or out of melee range, dealing 10 physical damage.
+<td colspan="4"><i>Charge</i> - Full-turn action, basic weapon attack
+-1 penalty on precision roll.
+This yooha gains a +3 bonus to its movement speed, and charges at its target using its movement speed. Then, it attacks with slash.
+After charging, this yooha becomes fatigued for 1 round.
 </td>
 </tr>
 </table>
+
+---

@@ -244,6 +244,65 @@ Attacks the next foe who moves into, within or out of melee range, dealing 10 ph
 ---
 <table style="width: 100%; max-width: 720px; border-style: inset;">
 <tr>
+<th>Nature Wyrm</th>
+<td colspan="3">Level 6 - Minion</td>
+</tr>
+<tr style="border-bottom: solid 2px"><td colspan="4">To do: add lore</td></tr>
+<tr>  
+<td><b>Health:</b> 80</td>  
+<td colspan="2"><b>Movement:</b> 8 meters (flying)</td>  
+<td><b>Initiative:</b> 1</td>  
+</tr>
+<tr style="border-bottom: dashed 2px">
+<td><b>Potency:</b> 6</td> 
+<td><b>Control:</b> 0</td> 
+<td colspan="2"><b>Precision Roll:</b> d10 + 3</td> 
+</tr>
+<tr>
+<td><b>Parry:</b> 7</td>  
+<td><b>Warding:</b> 7</td>  
+<td><b>Constitution:</b> 9</td>  
+<td><b>Evasion:</b> 9</td>  
+</tr>
+<tr style="border-bottom: solid 2px">  
+<td colspan="1"><b>Physical Armor:</b> 5</td>
+<td colspan="1"><b>Magical Armor:</b> 10</td>
+<td colspan="2"><b>Weapon:</b> Teeth and tail</td>
+</tr>
+<tr>
+<td colspan="4"><i>Large Creature</i> - Passive
+This creature is physically large, and it takes up a 2 meters by 2 meters space on a battle map.
+</td>
+</tr>
+<tr>
+<td colspan="4"><i>Nature Affinity</i> - Passive
+This wyrm's armor is ineffective against burning.
+</td>
+</tr>
+<tr>
+<td colspan="4"><i>Tail Whip</i> - Action, basic weapon attack
+This attack's precision rolls are made against Evasion.
+Deals 25 physical damage to the target and 15 physical damage to a creature adjacent to the target.
+</td>
+</tr>
+<tr>
+<td colspan="4"><i>Breath</i> - Rapid action, technique
+This attack's precision rolls are made against Evasion.
+The wyrm breathes out a blast to 18 squares in a conic shape in front of it.
+Deals 20 magical damage and applies 2 hits of diseased (5 dpr).
+This technique can only be used after the wrym catches its breath.
+</td>
+</tr>
+<tr>
+<td colspan="4"><i>Catch Breath</i> - Rapid action, technique
+The wyrm recharges its breath ability.
+</td>
+</tr>
+</table>
+
+---
+<table style="width: 100%; max-width: 720px; border-style: inset;">
+<tr>
 <th>Legendary Earthworm</th>
 <td colspan="3">Level 10 - Boss</td>
 </tr>
@@ -309,4 +368,5 @@ The worm enhances itself, gaining 10 temporary physical armor for 1 round.
 </tr>
 </table>
 
+---
 

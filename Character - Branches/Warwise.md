@@ -7,18 +7,26 @@ You can keep the whole battlefield in your mind as a mental image:
 2. As long as you clearly hear or see a creature once, you can track their location within a 25 meter radius for up to 1 hour from the last time you hear or see it.
 
 ## Backup Plan
-You can use this ability as a part of a damaging weapon attack by spending 2 energy. If you fail all of the precision rolls of this attack, you can instead use a non-damaging ability in its place.
+You can use this ability as a part of a damaging weapon attack by spending 1 energy. If you fail all of the precision rolls of this attack, you can instead use a non-damaging ability in its place.
 
 # Techniques
-## Adapt to Environment
+## Adapt to Elevation
 **Category:** Modification
-**Execution Time:** Action or rapid action
-**Cost:** 4 energy
-**Duration:** (2 + C/4) rounds
+**Execution Time:** Special
+**Cost:** 3 energy
+**Duration:** (1 + C/2) rounds
 **Effect**
-	As a part of the Speak special ability, you can tell your allies how to adapt to their current environment, for the duration of this technique:
-	1. Allies ignore the penalties of attacking from low ground. 
-	2. Allies attacking from high ground gain bonus damage equal to half your level, with a minimum of 1. 
+	You can choose to activate this ability as a part of the *speak* special action.
+	For the duration of this technique, allies who can hear you ignore the penalties of attacking from low ground and their attacks from high ground gain (3 + P/2) bonus damage. 
+
+## Adapt to Terrain
+**Category:** Modification
+**Execution Time:** Special
+**Cost:** 3 energy
+**Duration:** (1 + C/2) rounds
+**Effect**
+	You can choose to activate this ability as a part of the *speak* special action. 
+	Allies who can hear you ignore movement penalties from rough terrain for the duration of this technique. 
 
 ## Disarm
 **Category:** Weapon attack
@@ -26,27 +34,25 @@ You can use this ability as a part of a damaging weapon attack by spending 2 ene
 **Cost:** 2 energy
 **Range:** Weapon range
 **Effect**
-	You attack your target for half weapon damage with your main weapon, trying to make it drop one of its weapons. This weapon falls below the target.
+	You attack your target for half damage after armor with your main hand weapon, trying to make it drop one of its weapons. This weapon falls below the target.
 	This technique can't disarm natural weapons.
-	If Disarm is used with a ranged weapon, your weapon precision is ignored.
 
 ## Expose Weakness
 **Category:** Utility
 **Execution Time:** Action
-**Cost:** 2 energy
-**Range:** 10 meters
-**Duration:** (1 + C/2) rounds
+**Cost:** 3 energy
+**Range:** 5 meters
+**Duration:** (2 + C/4) rounds
 **Effect**
-	Study your target, applying Exposed for the duration of this technique.
+	Study your target, applying exposed and cracked armor for the duration of this technique. 
 
 ## Improved Maneuvering
 **Category:** Modification
 **Execution Time:** Special
 **Cost:** 2 energy
 **Effect**
-	You can choose to activate this technique when you take any full-turn action other than the Charge special action.
-	You can move up to (2 + C/3) meters before taking that action.
-	This ability can be used alongside Improved Aiming.  
+	You can choose to activate this technique when you take any full-turn action or after spending your movement against *unsteady aiming*.
+	You can move up to (2 + C/4) meters before taking that action.
 
 ## Insight
 **Category:** Utility
@@ -55,6 +61,7 @@ You can use this ability as a part of a damaging weapon attack by spending 2 ene
 **Range:** 10 meters
 **Effect**
 	Choose a creature, and reveal one feature of your choosing from the list below. This ability does not require a precision roll.
-	1. Armor and resistances
-	2. Current health
-	3. Actions 
+	1. Armor
+	2. Resistances
+	3. Current health
+	4. One ability

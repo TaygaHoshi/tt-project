@@ -4,12 +4,12 @@ Druids are not just "tree magicians" or "wild magicians", a powerful druid has c
 ## Element-enveloped
 A druid is always in harmony with the elements in their environment. When a druid spends more than an hour in an environment, they receive one of the following effects depending on where they are:
 1. *Earth:* Mountains, caves or underground. +1 bonus to Warding and Constitution.
-2. *Metal:* Settlements or large battlefields. (3 + P/3) bonus to physical damage, once per turn.
-3. *Fire:* Deserts or volcanoes. (3 + P/3) bonus to magical damage, once per turn.
+2. *Metal:* Settlements or large battlefields. (1 + P/2) bonus damage to physical attacks, once per turn.
+3. *Fire:* Deserts or volcanoes. (1 + P/2) bonus damage to magical attacks, once per turn.
 4. *Water:* Sea, rivers, rainy or snowy places. +1 bonus to Parry and Evasion.
 5. *Nature:* Woods, plains or forests. +1 bonus to precision rolls for druid techniques. 
 
-Each place corresponds to exactly one element, and an effect gained from this ability lasts until the environment changes significantly.
+Each location corresponds to exactly one element, and an effect gained from this ability lasts until the environment changes significantly.
 
 # Techniques
 ## Earthquake
@@ -28,7 +28,7 @@ Each place corresponds to exactly one element, and an effect gained from this ab
 **Radius:** (50 + 5 x P) meters
 **Duration:** (7 + C) days
 **Effect**
-	You spread your powers wide; improving, curing and growing nearby plants slightly. Plant creatures within radius gain 5 temporary physical armor for the duration. 
+	You spread your powers wide; improving, curing and growing nearby plants slightly. Plant creatures within radius gain regeneration for the duration. 
 
 ## Landshape
 **Category:** Utility
@@ -57,7 +57,9 @@ Each place corresponds to exactly one element, and an effect gained from this ab
 **Duration:** (1 + C/2) rounds
 **Effect**
 	This technique's precision roll is made against Evasion.
-	Skin of a creature you can touch becomes enhanced with the metal element, gaining (5 + P/2) temporary physical armor. Alternatively, you can spend 4 energy and grant double the temporary armor. This creature is immobilized while this technique is active. When this temporary armor breaks, it rusts away and the technique ends. It can be dismissed by you freely.
+	Skin of a creature you can touch becomes enhanced with the metal element, granting it (5 + P/2) temporary physical armor. Alternatively, you can spend 4 energy and grant double the temporary armor. 
+	This creature is unable to move while this technique is active. 
+	When this temporary armor breaks, it rusts away and the technique ends. It can be dismissed by you freely.
 
 ## Rain
 **Category:** Utility
@@ -90,10 +92,18 @@ Each place corresponds to exactly one element, and an effect gained from this ab
 **Radius:** (2 + C/2) meters
 **Duration:** 5 minutes
 **Effect**
-	You grow a stationary and autonomous plant, which shoots needles to your foes within radius, right after your turn. It can shoot one needle per round, applying bleeding for 2 hit if it hits.
+	Grow a stationary and autonomous plant, which shoots needles to your foes within radius, right after your turn. It can shoot one needle per round, applying bleeding for 2 hits.
 	This plant inherits your aptitudes. It has 10 health, and its resistances are equal to your base resistances. 
 	A sprout created by this technique is immune to debilitating status effects.
 	Sprouts you create do not count towards your summon limit, and you can have up to (1 + P/2) sprouts at any time.
+
+## Thorns
+**Category:**  Offense
+**Execution Time:** Action
+**Cost:** 2 energy
+**Duration:** (1 + C/2) rounds
+**Effect**
+	Grow magical thorns on yourself for the duration. Whenever you are hit with a melee attack while these thorns are active, deal 5 magical damage to the attacker. 
 
 ## Unsteady Ground
 **Category:**  Utility

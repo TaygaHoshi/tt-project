@@ -7,7 +7,7 @@
 <tr>  
 <td><b>Health:</b> 80</td>  
 <td colspan="2"><b>Movement:</b> 4 meters</td>  
-<td><b>Initiative:</b> -1</td>  
+<td><b>Initiative:</b> -2</td>  
 </tr>
 <tr style="border-bottom: dashed 2px">
 <td><b>Potency:</b> 1</td> 
@@ -38,13 +38,8 @@ Deals 5 physical damage.
 <tr>
 <td colspan="4"><i>Charge</i> - Full-turn action, basic weapon attack
 -1 penalty on precision roll.
-This fighter gains a +3 bonus to its movement speed, and charges at its target using its movement speed. Then, it attacks with Slash.
-After charging, it receives a -2 penalty to its resistances for 1 round.
-</td>
-</tr>
-<tr>
-<td colspan="4"><i>Opportunistic Strike</i> - Prepared action, weapon attack
-Attacks the next foe who moves into, within or out of melee range, dealing 10 physical damage.
+This fighter gains a +3 bonus to its movement speed, and charges at its target using its movement speed. Then, it attacks with slash.
+After charging, this fighter becomes fatigued for 1 round.
 </td>
 </tr>
 </table>
@@ -59,12 +54,12 @@ Attacks the next foe who moves into, within or out of melee range, dealing 10 ph
 <tr>  
 <td><b>Health:</b> 70</td>  
 <td colspan="2"><b>Movement:</b> 6 meters</td>  
-<td><b>Initiative:</b> 0</td>  
+<td><b>Initiative:</b> 1</td>  
 </tr>
 <tr style="border-bottom: dashed 2px">
 <td><b>Potency:</b> 1</td> 
 <td><b>Control:</b> 0</td> 
-<td colspan="2"><b>Precision Roll:</b> d10 (longbow), d10 + 1 (dagger)</td> 
+<td colspan="2"><b>Precision Roll:</b> d10</td> 
 </tr>
 <tr>
 <td><b>Parry:</b> 6</td>  
@@ -75,7 +70,7 @@ Attacks the next foe who moves into, within or out of melee range, dealing 10 ph
 <tr style="border-bottom: solid 2px">  
 <td colspan="1"><b>Physical Armor:</b> 5</td>
 <td colspan="1"><b>Magical Armor:</b> 0</td>
-<td colspan="2"><b>Weapon:</b> Longbow and dagger</td>
+<td colspan="2"><b>Weapon:</b> Longbow</td>
 </tr>
 <tr>
 <td colspan="4"><i>Unsteady Aiming (-2)</i> - Passive
@@ -85,19 +80,19 @@ This archer's longbow is affected by unsteady aiming.
 <tr>
 <td colspan="4"><i>Shoot</i> - Action, basic weapon attack
 Range: 15 meters.
-Requires wielding the longbow.
 Deals 20 physical damage.
 </td>
 </tr>
 <tr>
-<td colspan="4"><i>Slash</i> - Action, basic weapon attack
-Requires wielding the dagger.
-Deals 15 physical damage.
+<td colspan="4"><i>Curved Shot</i> - Action, weapon attack
+Range: 5 meters.
+Deals 15 physical damage, ignoring non-magical covers. 
 </td>
 </tr>
 <tr>
-<td colspan="4"><i>Swap Weapons</i> - Rapid action
-This archer can swap between its dagger and longbow.
+<td colspan="4"><i>Bash</i> - Prepared action, weapon attack
+Attacks the next foe who moves into, within or out of melee range.
+Deals 10 physical damage.
 </td>
 </tr>
 </table>
@@ -203,7 +198,6 @@ If the target is already burning, applies bleeding (7 damage) for 1 hit instead.
 </td>
 </tr>
 </table>
-
 
 ---
 <table style="width: 100%; max-width: 720px; border-style: inset;">

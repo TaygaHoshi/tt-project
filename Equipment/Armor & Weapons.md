@@ -19,8 +19,21 @@ Weapons are what creatures use to hit their foes. Most creatures with body parts
 2. [[Weapons - Off Hand|Off-hand weapons]] 
 3. [[Weapons - Two Handed|Two handed weapons]] 
 
+## Weapon Sets
+Weapon sets are helpful guides used primarily during character creation. If you take a bow, you will also get a quiver and 30 basic arrows/bolts. If you choose the throwing spear, you can take up to five spears. Extra spears take up space and require a quiver. A weapon set is any of these:
+1. A one handed weapon and an off-hand weapon.
+2. A one handed weapon and a light one handed weapon.
+3. A two handed weapon. 
+
+Bonuses or penalties from weapons, such as initiative, resistance or armor, only apply when you are currently wielding them.
+
 ## Basic Weapon Attacks
 Some abilities may include a phrase similar to "doing a basic weapon attack". This means using the regular attack of a weapon, which is almost always the first active ability. 
+
+## Unsteady Aiming
+Projectile attacks of some ranged weapons suffer a penalty to their precision rolls if the shooter moves during the same turn. The severity of the penalty varies by weapon.
+
+As long as there no adjacent foes, the attacker can negate these penalties by spending their movement to steady their aim.
 
 ## Improvised Weapons
 Some objects can be used as de facto weapons, at the GM's discretion. These objects can be used to perform a basic weapon attack and when making a precision roll with an improvised weapon, it breaks if the roll of the d10 is 3 or below, but the damage is still applied if the attack hits. There are two general sizes of improvised weapons:
@@ -29,9 +42,3 @@ Some objects can be used as de facto weapons, at the GM's discretion. These obje
 | ----- | -------- | --------- | ---------------- |
 | Small | d10 + 5  | Yes       | 0                |
 | Large | d10 + 10 | No        | -1               |
-
-## Weapon Sets
-Weapon sets are helpful guides used primarily during character creation. If you take a bow, you will also get a quiver and 30 basic arrows/bolts. If you choose the throwing spear, you can take up to five spears. Extra spears take up space and require a quiver. A weapon set is any of these:
-1. A one handed weapon and an off-hand weapon.
-2. A one handed weapon and a light one handed weapon.
-3. A two handed weapon. 

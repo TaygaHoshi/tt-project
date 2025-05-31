@@ -11,7 +11,7 @@
 **Execution time:** Full-turn action
 **Cost:** 2 energy
 **Explanation:**
-	Remove one status effect from yourself.
+	Remove a status effect of your choosing from yourself.
 
 # Charge
 **Execution time:** Full-turn action
@@ -20,18 +20,17 @@
 	Any melee weapon in main hand.
 **Explanation:** 
 	Ignores weapon precision.
-	You gain a (3 + C/2) bonus to your movement speed, and you charge your target using your movement speed. Then, you perform a basic weapon attack.
-	You receive a -2 penalty to all resistances for 1 round.
-	This penalty increases by -1 if you move more than your base movement speed.
+	You gain a (3 + C/4) bonus to your movement speed, and you charge your target using your movement speed. Then, you perform a basic weapon attack.
+	After charging, you become fatigued for 1 round.
 
 # Dual Strike
 **Execution time:** Full-turn action
 **Requirements:** 
 	A one handed weapon in main hand, and a light weapon in off-hand.
 **Explanation:** 
-	You attack with both your main hand weapon and off-hand weapon. 
-	Your off-hand weapon receives a -2 penalty to its precision roll and deals half weapon damage.
-	The strike with your main hand weapon is considered a basic weapon attack.
+	You perform basic weapon attacks with both your main hand weapon and off-hand weapon. 
+	Your off-hand weapon attack gets a -2 penalty to its precision roll and doesn't receive potency bonus to its damage.
+	This ability itself is not a basic weapon attack. 
 
 # Opportunistic Strike
 **Execution time:** Prepared action
@@ -40,7 +39,7 @@
 **Explanation:** 
 	Ignores weapon precision.
 	Attack the next foe who moves into, within or out of this weapon's range.
-	This attack deals half weapon damage.
+	This attack deals half damage after armor.
 
 # First Aid
 **Execution time:** Action
@@ -51,16 +50,6 @@
 	If you succeed, this creature is stabilized and it is considered successful on its death save rolls. 
 	This creature is returned back to 1 health.
 
-# Improved Aiming
-**Execution time:** Special
-**Requirements:**
-	Any ranged weapon.
-	No foes in melee range.
-	You haven't moved this round.
-**Explanation:**
-	Your walking speed drops to zero for this round.
-	As a part any weapon attack affected by Unsteady Aiming, you can activate this ability. That attack does not receive the penalty from Unsteady Aiming.
-
 # Sever
 **Execution Time:** Action
 **Range:** Weapon range
@@ -69,8 +58,7 @@
 **Effect**
 	This attack's precision roll is made against Constitution.
 	Ignores weapon precision.
-	This attack deals half weapon damage, and doesn't get the normal potency bonus to its damage. Instead, it applies 2 hits of bleeding.
-	This action is considered a weapon attack.
+	This attack deals half damage after armor, but it also applies bleeding for 2 hits.
 
 # Swap Weapons
 **Execution time:** Rapid action
@@ -100,7 +88,7 @@
 **Explanation:**
 	Ignores weapon precision.
 	You retrieve the weapon stuck in the target.
-	This attack deals half weapon damage as armor-ignoring damage.
+	This attack deals half damage as armor-ignoring damage.
 	This action is considered a basic weapon attack.
 
 # Use Item

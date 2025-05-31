@@ -6,43 +6,58 @@ Many professions require extensive training with weapons and armor: soldiers of 
 | :---: | ----------------- |
 |   1   | Critical Training |
 |   2   |                   |
-|   3   | Keen Rejuvenation |
+|   3   | Weapon Expertise  |
 |   4   |                   |
-|   5   | Strong Grip       |
+|   5   | Keen Rejuvenation |
 |   6   |                   |
-|   7   | Armored Combatant |
+|   7   | Armor Expertise   |
 |   8   |                   |
 |   9   |                   |
-|  10   | Perfect Wielding  |
+|  10   | Veteran Combatant |
 ## High Base Health
 Your base health is 80.
 
 ## Critical Training
-If you roll a 10 on a precision roll's d10 with a damaging ability, it gains a (5 + P/2) bonus to its damage. You can spend 2 energy to apply this bonus damage on a roll of 8 or higher. This can happen multiple times per turn.
+If you roll an unmodified 10 on a precision roll of a damaging ability, you gain a (5 + P/2) bonus to that ability's damage. This can happen multiple times per turn.
+
+Additionally, you can choose to activate this ability as a part of a basic weapon attack by spending 3 energy.
+
+## Weapon Expertise
+You can swap weapons without a rapid action by spending 1 energy.
 
 ## Keen Rejuvenation
-Your *critical training* ability regenerates 1 energy if you successfully hit with your ability. 
+Your *critical training* triggers on an unmodified roll of 9 or above, and grants you 1 energy if you successfully hit with your ability.
 
-## Strong Grip
-Your *critical training* improves. When you spend energy on it, you can apply the bonus damage on a roll of 7 or higher instead. Additionally, you have a +2 bonus to all resistances against abilities which disarm you.
+Instead of gaining bonus damage, you can choose to gain regeneration for 2 hits.
 
-## Armored Combatant
-When you gain temporary armor of one type, you also gain an equal amount of the other type for the same duration. You are immune to any type of armor piercing while you have temporary armor.
+## Armor Expertise
+When you gain temporary armor of one type, you also gain an equal amount of the other type for the same duration.
 
-## Perfect Wielding
-Your *critical training* is perfected, allowing you to apply the bonus damage on a precision roll of 6 or higher instead of 7 or higher when spending energy on it. 
+## Veteran Combatant
+Your *critical training* is perfected and it triggers on an unmodified roll of 8 or above.
+
+Instead of gaining bonus damage, you can choose to apply exposed for 1 round.
 
 ---
 # Techniques
+
+## Brutal Attack
+**Category:** Modification
+**Execution Time:** Special
+**Cost:** 1 energy
+**Effect**
+	You can choose to activate this ability as a part of a weapon attack.
+	This attack gains a +5 bonus to its damage, but receives a -2 penalty to its precision rolls.
+
 ## Crushing Charge
 **Category:** Modification
 **Execution Time:** Special
 **Cost:** 3 energy
-**Duration:** 1 round
+**Duration:** (1 + C/4) rounds
 **Effect**
 	This attack's precision roll is made against Constitution.
-	You can choose to activate this technique when you take the Charge special action.
-	At the end of this charge, your attack additionally stuns the target for the duration.
+	You can choose to activate this technique when you take the *charge* special action.
+	At the end of this charge, this attack additionally applies stunned to the target for the duration.
 
 ## Defensive Strike
 **Category:** Modification
@@ -50,8 +65,8 @@ Your *critical training* is perfected, allowing you to apply the bonus damage on
 **Cost:** 1 energy
 **Duration:** 1 round
 **Effect**
-	As a part of a basic weapon attack with a melee weapon, you can choose to activate this ability, except for the Charge special action.
-	Choose a resistance. You gain a (1 + C/3) bonus to this resistance against attacks from this target for 1 round.
+	You can choose to activate this ability as a part of a basic weapon attack, except for with the *charge* special action.
+	Choose a resistance. You gain a +1 bonus to this resistance against attacks from this target for 1 round.
 
 ## Double Opportunity
 **Category:** Modification
@@ -59,52 +74,58 @@ Your *critical training* is perfected, allowing you to apply the bonus damage on
 **Cost:** 2 energy
 **Range:** 1 meter
 **Effect**
-	You can choose to activate this ability when you use a prepared action. This prepared action can trigger twice instead of once. You can instead spend 4 energy to have your prepared action trigger three times.
+	You can choose to activate this ability when you use a prepared action. 
+	This prepared action can trigger twice instead of once. You can instead spend 4 energy to have your prepared action trigger three times.
 
 ## Extend Preparation
 **Category:** Modification
 **Execution Time:** Special
 **Cost:** 1 energy
 **Effect**
-	You can choose to activate this ability when you use a prepared action. This prepared action lasts until your next turn.
+	You can choose to activate this ability when you use a prepared action. 
+	This prepared action lasts until your next turn.
 
 ## Graze
 **Category:** Modification
 **Execution Time:** Special
 **Cost:** 1 energy
-**Range:** Weapon range
 **Effect**
-	You can choose to activate this ability when you attempt a basic melee weapon attack. If this attack misses, you deal damage equal to your potency.
+	You can choose to activate this ability when you attempt a basic weapon attack.
+	 If this attack misses, you deal damage of your wewpon's type equal to your potency.
 
 ## Hamstring
-**Category:** Weapon attack
-**Execution Time:** Action
+**Category:** Modification
+**Execution Time:** Special
 **Cost:** 2 energy
-**Range:** Weapon range
 **Duration:** (1 + C/3) rounds
-**Requirements:**
-	Any melee weapon in main hand.
 **Effect**
 	This attack's precision roll is made against Constitution.
-	Deals half weapon damage.
-	Applies slowed for the duration.
+	You can choose to activate this ability when you attempt a basic weapon attack.
+	This attack also applies slowed for the duration.
 
 ## Reaching Attack
 **Category:** Modification
 **Execution Time:** Special 
 **Cost:** 1 energy
-**Range:** Double weapon range
+**Range:** Special
 **Effect**
-	As a part of a basic weapon attack with weapon, you can choose to activate this ability.
-	If this attack is a melee attack, its range is doubled.
-	If this attack is a ranged attack, its range is increased by (1 + C/2) meters.
+	You can choose to activate this ability as a part of a basic weapon attack.
+	If it is a melee attack, its range is doubled.
+	If it is a ranged attack, its range is increased by (2 + C/2) meters.
+
+## Stability
+**Category:** Defense
+**Execution Time:** Rapid action
+**Cost:** 2 energy
+**Duration:** (1 + C/2) rounds
+**Effect**
+	For the duration of this technique, you gain 5 temporary health and can't fall prone or be moved unwillingly.
 
 ## Tackle
 **Category:** Weapon attack
 **Execution Time:** Action
 **Cost:** 2 energy
-**Range:** 1 meter
 **Effect**
 	Ignores weapon precision.
-	Tackle your target, making them fall prone and dealing 10 damage.
+	Tackle an adjacent creature, making it fall prone and dealing 10 armor-ignoring damage.
 
