@@ -56,15 +56,14 @@ One handed weapons are divided into two: heavy weapons and light weapons. Light 
 	+ This attack's precision roll is made against Constitution.
 	+ Immobilizes the target for (1 + C/4) rounds.
 + (Prepared action) Magic Protection
-	+ Range: 5 meters
-	+ Choose an ally. Grant them (3 + P/2) temporary magical armor for 1 round.
+	+ Gain (3 + P/3) temporary magical armor for the duration of this weapon attack. 
 
 ## Shortsword (Light)
 + (Passive) Sidearm
 	+ This weapon's properties allows it to be used as a sidearm.
 	+ Skills rolls regarding the concealment of this weapon receive a +2 bonus.
 	+ During your turns, you can use the Swap Weapon action to swap to your shortsword freely without using a rapid action. 
-	+ Swapping weapons in this way drops the previous weapon onto the ground below you.
+	+ Swapping weapons in this way drops the previous weapon(s) onto the ground below you.
 + Slash
 	+ Deals 20 physical damage.
 +  Thrust
@@ -81,7 +80,7 @@ One handed weapons are divided into two: heavy weapons and light weapons. Light 
 	+ This weapon's properties allows it to be used as a sidearm.
 	+ Skills rolls regarding the concealment of this weapon receive a +3 bonus.
 	+ During your turns, you can use the Swap Weapon action to swap to your dagger freely without using a rapid action. 
-	+ Swapping weapons in this way drops the previous weapon onto the ground below you.
+	+ Swapping weapons in this way drops the previous weapon(s) onto the ground below you.
 + Stab
 	+ Deals 15 physical damage.
 + Double Slash
@@ -90,7 +89,7 @@ One handed weapons are divided into two: heavy weapons and light weapons. Light 
 	+ You attack the target twice.
 + (Prepared action) Backstab
 	+ Next time a flanked foe within your reach is attacked by an ally, you also attack them.
-	+ Deals 10 physical damage. Potency bonus to damage is doubled for this attack. 
+	+ Deals 10 physical damage.
 
 ## Unarmed (Light)
 + Punch
@@ -101,4 +100,4 @@ One handed weapons are divided into two: heavy weapons and light weapons. Light 
 + (Prepared action) Disorienting Blow
 	+ This attack's precision roll is made against Constitution.
 	+ Ignores weapon precision.
-	+ Attack the next foe who moves into, within or out of melee range, applying 1 round of disorientation.
+	+ Attack the next foe who moves into, within or out of melee range, applying 1 round of disoriented.

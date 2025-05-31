@@ -68,11 +68,11 @@ Two handed weapons have three weapon attacks.
 	+ These creatures are also pushed away for 1 meter.
 + (Prepared action) Fierce Slam 
 	+ Attack the next foe who falls prone within range. 
-	+ Deals 10 armor-ignoring damage. Potency bonus to damage is doubled for this attack.
+	+ Deals 10 armor-ignoring damage.
 
 ## Staff
 + (Passive) Unsteady Aiming
-	+ Unless you use Improved Aiming, your projectile attacks with staves have a -2 penalty on precision rolls. 
+	+ Your projectile attacks with staves have a -2 penalty on precision rolls. 
 + (Projectile) Bolt
 	+ Range: 10 meters
 	+ Deals 20 magical damage. 
@@ -86,7 +86,7 @@ Two handed weapons have three weapon attacks.
 
 ## Crossbow
 + (Passive) Unsteady Aiming
-	+ Unless you use Improved Aiming, your projectile attacks with crossbows have a -2 penalty on precision rolls. 
+	+ Your projectile attacks with crossbows have a -2 penalty on precision rolls. 
 + (Passive) Reloading
 	+ This weapon requires it to be reloaded before shooting, and it can be reloaded as a rapid action or by spending 1 energy.
 + (Projectile) Shoot
@@ -103,7 +103,7 @@ Two handed weapons have three weapon attacks.
 
 ## Longbow
 + (Passive) Unsteady Aiming
-	+ Unless you use Improved Aiming, your projectile attacks with longbows have a -2 penalty on precision rolls. 
+	+ Your projectile attacks with longbows have a -2 penalty on precision rolls. 
 + (Projectile) Shoot
 	+ Range: 15 meters.
 	+ Deals 20 physical damage.
@@ -119,7 +119,7 @@ Two handed weapons have three weapon attacks.
 
 ## Shortbow
 + (Passive) Unsteady Aiming
-	+ Unless you use Improved Aiming, your projectile attacks with shortbows have a -1 penalty on precision rolls. 
+	+ Your projectile attacks with shortbows have a -1 penalty on precision rolls. 
 + (Passive) Sidearm
 	+ This weapon's properties allows it to be used as a sidearm.
 	+ Skills rolls regarding the concealment of this weapon receive a +1 bonus if you are carrying at most 2 arrows.

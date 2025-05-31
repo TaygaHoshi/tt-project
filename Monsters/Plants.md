@@ -50,9 +50,4 @@ Applies bleeding (6 damage) for 1 hit to all creatures within radius.
 This tree gains 10 temporary physical armor for 1 round, and it is immobilized as long as this armor persists.
 </td>
 </tr>
-<tr>
-<td colspan="4"><i>Opportunistic Slash</i> - Prepared action, weapon attack
-Attacks the next foe who moves into, within or out of a 2 meter range, dealing 10 physical damage.
-</td>
-</tr>
 </table>

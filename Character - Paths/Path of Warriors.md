@@ -66,7 +66,7 @@ Instead of gaining bonus damage, you can choose to apply exposed for 1 round.
 **Duration:** 1 round
 **Effect**
 	You can choose to activate this ability as a part of a basic weapon attack, except for with the *charge* special action.
-	Choose a resistance. You gain a (1 + C/3) bonus to this resistance against attacks from this target for 1 round.
+	Choose a resistance. You gain a +1 bonus to this resistance against attacks from this target for 1 round.
 
 ## Double Opportunity
 **Category:** Modification
@@ -91,7 +91,7 @@ Instead of gaining bonus damage, you can choose to apply exposed for 1 round.
 **Cost:** 1 energy
 **Effect**
 	You can choose to activate this ability when you attempt a basic weapon attack.
-	 If this attack misses, you deal damage equal to your potency.
+	 If this attack misses, you deal damage of your wewpon's type equal to your potency.
 
 ## Hamstring
 **Category:** Modification
@@ -119,7 +119,7 @@ Instead of gaining bonus damage, you can choose to apply exposed for 1 round.
 **Cost:** 2 energy
 **Duration:** (1 + C/2) rounds
 **Effect**
-	For the duration of this technique, you can't fall prone or be moved unwillingly.  
+	For the duration of this technique, you gain 5 temporary health and can't fall prone or be moved unwillingly.
 
 ## Tackle
 **Category:** Weapon attack
@@ -127,5 +127,5 @@ Instead of gaining bonus damage, you can choose to apply exposed for 1 round.
 **Cost:** 2 energy
 **Effect**
 	Ignores weapon precision.
-	Tackle an adjacent creature, making it fall prone and dealing 10 physical damage.
+	Tackle an adjacent creature, making it fall prone and dealing 10 armor-ignoring damage.
 

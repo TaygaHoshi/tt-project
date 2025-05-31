@@ -21,7 +21,7 @@
 **Explanation:** 
 	Ignores weapon precision.
 	You gain a (3 + C/4) bonus to your movement speed, and you charge your target using your movement speed. Then, you perform a basic weapon attack.
-	You become fatigued until the end of your next turn.
+	After charging, you become fatigued for 1 round.
 
 # Dual Strike
 **Execution time:** Full-turn action
@@ -49,16 +49,6 @@
 	Make a Healing skill roll against target creature against (3 + their current death save threshold).
 	If you succeed, this creature is stabilized and it is considered successful on its death save rolls. 
 	This creature is returned back to 1 health.
-
-# Improved Aiming
-**Execution time:** Special
-**Requirements:**
-	Any ranged weapon.
-	No foes in melee range.
-	You haven't moved this round.
-**Explanation:**
-	As a part any weapon attack affected by *unsteady aiming*, you can activate this ability to remove penalties from it. 
-	Your walking speed drops to zero for this round.
 
 # Sever
 **Execution Time:** Action

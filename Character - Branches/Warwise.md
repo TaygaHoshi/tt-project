@@ -51,9 +51,8 @@ You can use this ability as a part of a damaging weapon attack by spending 1 ene
 **Execution Time:** Special
 **Cost:** 2 energy
 **Effect**
-	You can choose to activate this technique when you take any full-turn action.
+	You can choose to activate this technique when you take any full-turn action or after spending your movement against *unsteady aiming*.
 	You can move up to (2 + C/4) meters before taking that action.
-	This ability can be used alongside *improved aiming*.  
 
 ## Insight
 **Category:** Utility

@@ -7,7 +7,7 @@
 <tr>  
 <td><b>Health:</b> 80</td>  
 <td colspan="2"><b>Movement:</b> 4 meters</td>  
-<td><b>Initiative:</b> -1</td>  
+<td><b>Initiative:</b> -2</td>  
 </tr>
 <tr style="border-bottom: dashed 2px">
 <td><b>Potency:</b> 1</td> 
@@ -38,13 +38,8 @@ Deals 5 physical damage.
 <tr>
 <td colspan="4"><i>Charge</i> - Full-turn action, basic weapon attack
 -1 penalty on precision roll.
-This fighter gains a +3 bonus to its movement speed, and charges at its target using its movement speed. Then, it attacks with Slash.
-After charging, it receives a -2 penalty to its resistances for 1 round.
-</td>
-</tr>
-<tr>
-<td colspan="4"><i>Opportunistic Strike</i> - Prepared action, weapon attack
-Attacks the next foe who moves into, within or out of melee range, dealing 10 physical damage.
+This fighter gains a +3 bonus to its movement speed, and charges at its target using its movement speed. Then, it attacks with slash.
+After charging, this fighter becomes fatigued for 1 round.
 </td>
 </tr>
 </table>
@@ -59,7 +54,7 @@ Attacks the next foe who moves into, within or out of melee range, dealing 10 ph
 <tr>  
 <td><b>Health:</b> 70</td>  
 <td colspan="2"><b>Movement:</b> 6 meters</td>  
-<td><b>Initiative:</b> 0</td>  
+<td><b>Initiative:</b> 1</td>  
 </tr>
 <tr style="border-bottom: dashed 2px">
 <td><b>Potency:</b> 1</td> 
@@ -89,9 +84,9 @@ Deals 20 physical damage.
 </td>
 </tr>
 <tr>
-<td colspan="4"><i>Rapid shot</i> - Rapid action, weapon attack
-If this archer hits with its basic weapon attack, it can shoot once more.
-Deals 15 physical damage.
+<td colspan="4"><i>Curved Shot</i> - Action, weapon attack
+Range: 5 meters.
+Deals 15 physical damage, ignoring non-magical covers. 
 </td>
 </tr>
 <tr>

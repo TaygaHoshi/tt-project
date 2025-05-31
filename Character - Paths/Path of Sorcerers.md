@@ -61,8 +61,8 @@ When you are below 15 health and use an ability that costs health, you can inste
 **Radius:** (2 + P/3) meters
 **Duration:** (2 + C/3) rounds
 **Effect**
-	Create an area of darkness around you. This area is considered quarter cover and is a light rough terrain. 
-	Summon a spiritling of chaos next to each creature within the radius up to a maximum of (2 + P/3) spiritlings for the duration, excluding yourself. Spiritlings of chaos summoned by this technique share your level. These spiritlings act independent from you and attack the creature closest to them.
+	Create an area of darkness around you. This area is considered quarter cover and is light rough terrain. 
+	Summon a spiritling of chaos next to each creature hostile to you within the radius up to a maximum of (2 + P/3) spiritlings for the duration, excluding yourself. Spiritlings of chaos summoned by this technique share your level, and attack the creature closest to them. 
 
 ## Mark of Sacrifice
 **Category:** Offense
@@ -71,7 +71,7 @@ When you are below 15 health and use an ability that costs health, you can inste
 **Range:** 5 meters
 **Duration:** 3 rounds
 **Effect**
-	Mark (1 + C/3) creatures for the duration. If one of these creatures die while marked, adjacent creatures take 10 magical damage without requiring precision rolls. Potency bonus to this technique's damage is halved.
+	Mark (1 + C/2) creatures for the duration. If one of these creatures die while marked, adjacent creatures take 10 magical damage without requiring precision rolls. Potency bonus to this technique's damage is halved.
 
 ## Purge Blessings
 **Category:** Offense
@@ -113,9 +113,8 @@ When you are below 15 health and use an ability that costs health, you can inste
 </tr>
 <tr style="border-bottom: solid 2px"><td colspan="4">To do: add lore</td></tr>
 <tr>  
-<td><b>Health:</b> 10</td>  
-<td colspan="2"><b>Movement:</b> 4 meters</td>  
-<td><b>Initiative:</b> -2</td>  
+<td colspan="2"><b>Health:</b> 10</td> 
+<td colspan="2"><b>Movement:</b> 4 meters</td>
 </tr>
 <tr style="border-bottom: dashed 2px">
 <td><b>Potency:</b> 0</td> 
@@ -140,7 +139,7 @@ Immune to diseased.
 </tr>
 <tr>
 <td colspan="4"><i>Strike</i> - Action, basic weapon attack
-This attack's precision rolls are made against Constitution. 
+This attack's precision roll is made against Constitution. 
 Applies 1 hit of diseased.
 </td>
 </tr>
