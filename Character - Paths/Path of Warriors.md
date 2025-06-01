@@ -91,7 +91,7 @@ Instead of gaining bonus damage, you can choose to apply exposed for 1 round.
 **Cost:** 1 energy
 **Effect**
 	You can choose to activate this ability when you attempt a basic weapon attack.
-	 If this attack misses, you deal damage of your wewpon's type equal to your potency.
+	 If this attack misses, you deal damage of your weapon's type equal to your potency.
 
 ## Hamstring
 **Category:** Modification
