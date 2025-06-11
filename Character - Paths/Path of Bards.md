@@ -15,7 +15,7 @@
 Your base health is 70.
 
 ## Echo
-Choose a creature within 3 meters at the start of your turns. This creature can take one action this turn instead of you. 
+Choose a creature within 3 meters at the start of your turn. This creature can take one action this turn instead of you. 
 
 You are still able to use your rapid action or prepared action normally.
 
@@ -23,6 +23,8 @@ You are still able to use your rapid action or prepared action normally.
 You can upkeep your magical songs and poems to affect their allies or foes. Poems can be started with a rapid action, but you can keep them up freely as long as you have enough energy. 
 
 You can only have one poem active at any time. If your target gets out of range or you become unable to sing in any way, your poem immediately ends. You can also end a poem freely at any time.
+
+Some poems apply status effects. These status effects last as long as you are upkeeping the poem. If these status effects are removed in any way, you reapply them at the start of your turns. 
 
 ## In Rhythm
 By spending 2 energy during your turn, you can use both a rapid action and a prepared action. 
@@ -33,12 +35,8 @@ When you start a new poem, you can choose to apply regeneration for 2 rounds.
 ## Duet
 When you are singing a poem for an ally, this ally can pay half of the energy cost at the start of your turns. 
 
-
 ## Fade Out
 If you are upkeeping a poem, you can swap it with another poem without using a rapid action.
-
-
-
 
 ---
 # Techniques
@@ -90,3 +88,11 @@ If you are upkeeping a poem, you can swap it with another poem without using a r
 **Range:** (2 + C/2) meters
 **Effect**
 	Choose a creature. Your poem makes this creature become more proficient in its abilities, increasing its control by 2. 
+
+## Poem of Messenger
+**Category:** Offense
+**Execution Time:** Rapid action
+**Cost:** 2 energy per round
+**Range:** (2 + C/2) meters
+**Effect**
+	Choose a creature. This creature becomes quickened. 
