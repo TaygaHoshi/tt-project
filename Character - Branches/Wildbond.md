@@ -50,6 +50,7 @@ Pets can take a variety of forms, but they fall into the main categories below:
 **Range:** 5 meters
 **Duration:** (1 + C/3) rounds
 **Effect**
+	This technique's precision roll is made against Parry.
 	Your pet tries to distract the target. A distracted creature is considered flanked for the duration.
 	Your pet does not attack this round.
 
@@ -57,7 +58,7 @@ Pets can take a variety of forms, but they fall into the main categories below:
 **Category:** Utility
 **Execution Time:** Action
 **Cost:** Special
-**Duration:** (20 + 10 x C) minutes
+**Duration:** (30 - 2 x C) minutes
 **Effect**
 	Your pet helps you or another creature search or find an item of a certain description by using its sense of smell, sight, hearing or touch. Your pet assists the search for the duration. For each point of energy spent on this technique, the next relevant skill roll gains a +1 bonus.
 
@@ -69,7 +70,7 @@ Pets can take a variety of forms, but they fall into the main categories below:
 **Duration:** (1 + C/4) rounds
 **Effect**
 	This attack's precision roll is made against Constitution.
-	Direct your pet to attack your target's eyes. Your pet's next basic weapon attack done until the end of next round applies blinded for the duration of this technique.
+	Direct your pet to attack your target's eyes. Your pet's basic weapon attack done within this round applies blinded for the duration of this technique.
 
 ## Grab and Drag
 **Category:** Offense
@@ -78,7 +79,7 @@ Pets can take a variety of forms, but they fall into the main categories below:
 **Range:** 1 meter
 **Effect**
 	This attack's precision roll is made against Parry.
-	Target a prone creature. Your pet grabs this creature and drags it towards you up to (2 + P/3) meters, dealing 5 armor ignoring damage per square dragged.
+	Target a prone creature. Your pet grabs this creature and drags it towards you up to (2 + P/3) meters, dealing 5 armor-ignoring damage per meter dragged.
 	Your pet does not attack this round.
 
 ## Lick Wounds
@@ -86,5 +87,28 @@ Pets can take a variety of forms, but they fall into the main categories below:
 **Execution Time:** Rapid action
 **Cost:** Special
 **Effect**
-	Your pet tries to heal itself. For every point of energy spent for this ability, your pet heals for (d4 + 4) health. You can spend points of energy up to your potency.
+	Your pet tries to heal itself. For every point of energy spent for this ability, your pet heals for (4 + d4) health. You can spend points of energy up to your potency.
 	Your pet does not attack this round.
+
+## Pounce
+**Category:** Offense
+**Execution Time:** Rapid action
+**Cost:** 4 energy
+**Range:** 2 meters
+**Effect**
+	Your pet pounces on the target, making them fall prone.
+	Your pet does not attack this round.
+
+## Rush
+**Category:** Offense
+**Execution Time:** Rapid action
+**Cost:** 2 energy
+**Effect**
+	Your pet takes the charge special action. If your pet is a sharpshooter pet, it is instead quickened for 1 round.
+
+## Sweeping Attack
+**Category:** Offense
+**Execution Time:** Rapid action
+**Cost:** 2 energy
+**Effect**
+	For this round, your pet's movement speed drops to zero but it attacks two foes adjacent to it, dealing half damage after armor to each.
