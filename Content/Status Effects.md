@@ -81,11 +81,11 @@
 ---
 # Supportive Effects
 ## Inspired
-- Once, allows the creature to use the result of a dice in one of the following ways:
-	- 1d2 for a precision roll bonus
-	- 1d4 for a skill roll bonus
-	- 2d4 for a bonus to a basic weapon attack's damage
-- Does not stack. If target is already inspired, only the one with higher duration applies.
+- Once, the creature can choose to spend this status effect to gain one of the following bonuses:
+	- A 1d2 bonus to one precision roll
+	- A 1d4 bonus to one skill roll
+	- A 2d4 bonus to the damage of one basic weapon attack
+- Does not stack. If the target is already inspired, only the effect with the longer duration applies.
 
 ## Protected
 + Once, halves incoming damage after armor.
@@ -93,12 +93,16 @@
 + Does not stack unless all stacks of protected come from the same ability.
 
 ## Predictive Foresight
-+ (1 + P/4) bonus to the next precision roll.
++ +1 bonus to the next precision roll.
 + Does not stack. If target is already effected by a predictive foresight, only the one with higher potency applies.
 
 ## Protective Foresight
-+ (1 + P/4) bonus to all resistances for the next precision roll against this target.
++ +1 bonus to all resistances for the next precision roll against this creature.
 + Does not stack. If target is already effected by a protective foresight, only the one with higher potency applies.
+
+## Quickened
+- Movement speed is increased by (2 + P/3) meters.
+- Does not stack. If target is already quickened, only the one with higher potency applies.
 
 ## Regeneration
 - Heals for (2 + P/3) per hit.
