@@ -153,7 +153,7 @@ Grants an ally protective foresight (+1) for 1 round.
 ---
 <table style="width: 100%; max-width: 720px; border-style: inset;">
 <tr>
-<th>Veteran Flame Witch</th>
+<th>Flame Witch</th>
 <td colspan="3">Level 4 - Boss</td>
 </tr>
 <tr style="border-bottom: solid 2px"><td colspan="4">To do: add lore</td></tr>
@@ -242,6 +242,67 @@ Deals 10 magical damage and applies disoriented (-1) for 2 rounds.
 <td colspan="4"><i>Poem of Humility</i> - Rapid action, technique
 Range: 3 meters.
 For 1 round, the Ashik's target receives a -1 penalty to precision rolls and takes 5 magical damage whenever it fails one.
+</td>
+</tr>
+</table>
+
+---
+<table style="width: 100%; max-width: 720px; border-style: inset;">
+<tr>
+<th>Expert Fighter</th>
+<td colspan="3">Level 7 - Minion</td>
+</tr>
+<tr style="border-bottom: solid 2px"><td colspan="4">These well-trained fighters are heavily armored, powerful combatants. They are usually professional soldiers who serve as lieutenants or commanders within armies. However, some of them can be found as independent mercenaries or bodyguards.</td></tr>
+<tr>
+<td><b>Health:</b> 80</td>  
+<td colspan="2"><b>Movement:</b> 4 meters</td>  
+<td><b>Initiative:</b> -2</td>  
+</tr>
+<tr style="border-bottom: dashed 2px">
+<td><b>Potency:</b> 7</td> 
+<td><b>Control:</b> 0</td> 
+<td colspan="2"><b>Precision Roll:</b> d10 + 4</td> 
+</tr>
+<tr>
+<td><b>Parry:</b> 11</td> 
+<td><b>Warding:</b> 8</td>  
+<td><b>Constitution:</b> 9</td>  
+<td><b>Evasion:</b> 8</td>  
+</tr>
+<tr style="border-bottom: solid 2px">  
+<td colspan="1"><b>Physical Armor:</b> 15</td>
+<td colspan="1"><b>Magical Armor:</b> 0</td>
+<td colspan="2"><b>Weapon:</b> Sword and shield</td>
+</tr>
+<tr>
+<td colspan="4"><i>Slash</i> - Action, basic weapon attack
+Deals 25 physical damage.
+If this attack misses, deals 5 physical damage instead.
+</td>
+</tr>
+<tr>
+<td colspan="4"><i>Expose Weakness</i> - Action, technique
+Range: 5 meters.
+This technique's precision roll is made against Parry.
+Applies exposed (5 damage) and cracked armor for 1 round.
+</td>
+</tr>
+<tr>
+<td colspan="4"><i>Shield Bash</i> - Rapid action, weapon attack
+Deals 5 physical damage.
+</td>
+</tr>
+<tr>
+<td colspan="4"><i>Hamstring</i> - Rapid action, weapon attack
+This attack's precision roll is made against Constitution.
+Applies slowed (-2) for 1 round.
+</td>
+</tr>
+<tr>
+<td colspan="4"><i>Charge</i> - Full-turn action, basic weapon attack
+-1 penalty on precision roll.
+This fighter gains a +3 bonus to its movement speed, and charges at its target using its movement speed. Then, it attacks with slash.
+After charging, this fighter becomes fatigued for 1 round.
 </td>
 </tr>
 </table>
