@@ -40,7 +40,6 @@ Instead of gaining bonus damage, you can choose to apply exposed for 1 round.
 
 ---
 # Techniques
-
 ## Brutal Attack
 **Category:** Modification
 **Execution Time:** Special

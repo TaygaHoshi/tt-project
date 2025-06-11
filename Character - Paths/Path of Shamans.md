@@ -34,10 +34,6 @@ When you use a technique that affects only one creature, you can spend 1 energy 
 This ability's precision roll is done against Constitution.
 You can use your *passage* on a creature you can touch by spending 4 energy instead. 
 
-
-
-
-
 ---
 # Techniques
 ## Astral Travel
