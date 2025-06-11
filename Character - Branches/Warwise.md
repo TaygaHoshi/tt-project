@@ -44,6 +44,7 @@ You can use this ability as a part of a damaging weapon attack by spending 1 ene
 **Range:** 5 meters
 **Duration:** (2 + C/4) rounds
 **Effect**
+	This technique's precision roll is made against Parry.
 	Study your target, applying exposed and cracked armor for the duration of this technique. 
 
 ## Improved Maneuvering

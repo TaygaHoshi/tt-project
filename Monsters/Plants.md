@@ -28,7 +28,7 @@
 <tr>
 <td colspan="4"><i>Tree Affinity</i> - Passive
 This tree is planted to the ground. It can only move by dragging itself using its branches, and it can't fall or go prone. It also can't be pushed or pulled.
-In addition, it takes double damage from burning.
+In addition, its base armor is ineffective against burning.
 </td>
 </tr>
 <tr>
@@ -51,3 +51,5 @@ This tree gains 10 temporary physical armor for 1 round, and it is immobilized a
 </td>
 </tr>
 </table>
+
+---

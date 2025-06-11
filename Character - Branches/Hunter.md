@@ -12,7 +12,7 @@ You can only have one prey at a time, and changing your designation to another c
 **Duration:** (1 + C/4) rounds
 **Effect**
 	This technique's precision roll is made against Parry.
-	Damage your prey's armor with your weapon, removing temporary armor of any kind. Then, apply cracked armor for the duration.
+	Damage your prey's armor with your weapon, removing temporary armor of any kind and applying cracked armor for the duration.
 
 ## Execute
 **Category:** Weapon attack

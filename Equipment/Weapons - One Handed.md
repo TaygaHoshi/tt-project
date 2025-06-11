@@ -26,8 +26,9 @@ One handed weapons are divided into two: heavy weapons and light weapons. Light 
 + Slash
 	+ Deals 20 physical damage.
 + Feint
-	+ Deals 10 physical damage. 
-	+ You have a (1 + P/4) bonus to precision roll of this attack.
+	+ This attack's precision roll is made against Evasion. 
+	+ Deals 10 physical damage.
+	+ You have a +1 bonus to precision roll of this attack.
 
 ## Throwing Spear (Heavy)
 + Aptitude: Strength

@@ -56,7 +56,7 @@ Each location corresponds to exactly one element, and an effect gained from this
 **Cost:** 2 energy
 **Duration:** (1 + C/2) rounds
 **Effect**
-	This technique's precision roll is made against Evasion.
+	This technique's precision roll is made against Parry.
 	Skin of a creature you can touch becomes enhanced with the metal element, granting it (5 + P/2) temporary physical armor. Alternatively, you can spend 4 energy and grant double the temporary armor. 
 	This creature is unable to move while this technique is active. 
 	When this temporary armor breaks, it rusts away and the technique ends. It can be dismissed by you freely.

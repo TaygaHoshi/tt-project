@@ -48,7 +48,7 @@ Each turn takes approximately 10 seconds in game.
 - A full-turn action takes up your whole turn, meaning you can't move or use any other type of action.
 
 ### Special Actions
-+ These actions can be taken by any player character as long as they fulfill the requirements. See [[Special Actions|the list of special actions]].
++ These actions can be taken by any player character as long as they fulfil the requirements. See [[Special Actions|the list of special actions]].
 
 ## Turn Order
 At the start phase of every round, turn order will be calculated for this round. There are several rules:
