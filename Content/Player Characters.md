@@ -38,16 +38,16 @@ Energy is used for performing techniques and other abilities. As your character 
 
 | Level  | Base Energy |
 | :----: | :---------: |
-| **1**  |      8      |
-| **2**  |     10      |
+| **1**  |     10      |
+| **2**  |     12      |
 | **3**  |     12      |
 | **4**  |     14      |
-| **5**  |     16      |
-| **6**  |     18      |
-| **7**  |     20      |
-| **8**  |     22      |
-| **9**  |     24      |
-| **10** |     24      |
+| **5**  |     14      |
+| **6**  |     16      |
+| **7**  |     16      |
+| **8**  |     18      |
+| **9**  |     18      |
+| **10** |     20      |
 
 ### Resistances
 Resistances lower the accuracy of incoming hits. They act as the success thresholds of precision rolls. List of resistances is given below:
