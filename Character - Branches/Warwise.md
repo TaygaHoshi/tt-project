@@ -13,39 +13,50 @@ You can use this ability as a part of a damaging weapon attack by spending 1 ene
 ## Adapt to Elevation
 **Category:** Modification
 **Execution Time:** Special
-**Cost:** 3 energy
+**Cost:** Special
 **Duration:** (1 + C/2) rounds
 **Effect**
-	You can choose to activate this ability as a part of the *speak* special action.
+	You can choose to activate this ability as a part of the *speak* special action. This technique costs 2 energy per affected creature. 
 	For the duration of this technique, allies who can hear you ignore the penalties of attacking from low ground and their attacks from high ground gain (3 + P/2) bonus damage. 
 
 ## Adapt to Terrain
 **Category:** Modification
 **Execution Time:** Special
-**Cost:** 3 energy
+**Cost:** Special
 **Duration:** (1 + C/2) rounds
 **Effect**
-	You can choose to activate this ability as a part of the *speak* special action. 
+	You can choose to activate this ability as a part of the *speak* special action. This technique costs 1 energy per affected creature. 
 	Allies who can hear you ignore movement penalties from rough terrain for the duration of this technique. 
 
-## Disarm
-**Category:** Weapon attack
+## Be Careful
+**Category:** Defense
 **Execution Time:** Action
+**Cost:** Special
+**Duration:** (1 + C/4) rounds
+**Effect**
+	This technique costs 2 energy per affected creature. 
+	Allies who can hear you do not trigger damaging prepared actions for the duration. 
+
+## Disarm
+**Category:** Modification
+**Execution Time:** Special
 **Cost:** 2 energy
 **Range:** Weapon range
 **Effect**
-	You attack your target for half damage after armor with your main hand weapon, trying to make it drop one of its weapons. This weapon falls below the target.
+	You can choose to activate this ability when you attempt a basic weapon attack.
+	This attack deals half damage after armor, but your target drops one of its weapons. This weapon falls below the target.
 	This technique can't disarm natural weapons.
 
 ## Expose Weakness
-**Category:** Utility
+**Category:** Offense
+**Against:** Parry
 **Execution Time:** Action
 **Cost:** 3 energy
 **Range:** 5 meters
 **Duration:** (2 + C/4) rounds
 **Effect**
 	This technique's precision roll is made against Parry.
-	Study your target, applying exposed and cracked armor for the duration of this technique. 
+	Study your target, applying exposed and cracked armor for the duration of this technique.  
 
 ## Improved Maneuvering
 **Category:** Modification
