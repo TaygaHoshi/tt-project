@@ -82,7 +82,7 @@ When this vampire falls below 10 health, this ability is automatically triggered
 <tr>
 <td colspan="4"><i>Severing Strike</i> - Action, basic weapon attack
 This attack's precision roll is made against Constitution.
-Deals 10 physical damage and applies bleeding (7 damage) for 1 hit.
+Deals 15 physical damage and applies bleeding (7 damage) for 2 hits.
 </td>
 </tr>
 <tr>

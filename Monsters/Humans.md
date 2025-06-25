@@ -78,13 +78,13 @@ This archer's longbow is affected by unsteady aiming.
 </td>
 </tr>
 <tr>
-<td colspan="4"><i>Shoot</i> - Action, basic weapon attack
+<td colspan="4"><i>Shoot</i> - Action, basic weapon attack, projectile
 Range: 15 meters.
 Deals 20 physical damage.
 </td>
 </tr>
 <tr>
-<td colspan="4"><i>Curved Shot</i> - Action, weapon attack
+<td colspan="4"><i>Curved Shot</i> - Action, weapon attack, projectile
 Range: 5 meters.
 Deals 15 physical damage, ignoring non-magical covers. 
 </td>
@@ -148,6 +148,107 @@ Range: 5 meters.
 Grants an ally protective foresight (+1) for 1 round.
 </td>
 </tr>
+</table>
+
+---
+<table style="width: 100%; max-width: 720px; border-style: inset;">
+<tr>
+<th>Cultist</th>
+<td colspan="3">Level 2 - Minion</td>
+</tr>
+<tr style="border-bottom: solid 2px"><td colspan="4">To do: add lore</td></tr>
+<tr>  
+<td><b>Health:</b> 60</td>  
+<td colspan="2"><b>Movement:</b> 6 meters</td>  
+<td><b>Initiative:</b> 1</td>  
+</tr>
+<tr style="border-bottom: dashed 2px">
+<td><b>Potency:</b> 0</td> 
+<td><b>Control:</b> 2</td> 
+<td colspan="2"><b>Precision Roll:</b> d10 + 2</td> 
+</tr>
+<tr>
+<td><b>Parry:</b> 5</td>  
+<td><b>Warding:</b> 6</td>  
+<td><b>Constitution:</b> 6</td>  
+<td><b>Evasion:</b> 6</td>  
+</tr>
+<tr style="border-bottom: solid 2px">  
+<td colspan="1"><b>Physical Armor:</b> 0</td>
+<td colspan="1"><b>Magical Armor:</b> 5</td>
+<td colspan="2"><b>Weapon:</b> Dagger</td>
+</tr>
+<tr>
+<td colspan="4"><i>Slash</i> - Action, basic weapon attack
+Deals 15 physical damage. 
+</td>
+</tr>
+<tr>
+<td colspan="4"><i>Purge Blessings</i> - Action, technique
+This technique's precision roll is made against Constitution.
+Range: 5 meters. 
+Removes a supportive status effect from the target creature, and deals 10 magical damage if an effect was removed. 
+</td>
+</tr>
+<tr>
+<td colspan="4"><i>Opportunistic Strike</i> - Prepared action, weapon attack
+Attacks the next foe who moves into, within or out of melee range.
+Deals 10 physical damage.
+</td>
+</tr>
+</table>
+
+---
+<table style="width: 100%; max-width: 720px; border-style: inset;">
+<tr>
+<th>Cultist Assassin</th>
+<td colspan="3">Level 3 - Minion</td>
+</tr>
+<tr style="border-bottom: solid 2px"><td colspan="4">To do: add lore</td></tr>
+<tr>  
+<td><b>Health:</b> 60</td>  
+<td colspan="2"><b>Movement:</b> 6 meters</td>  
+<td><b>Initiative:</b> 1</td>  
+</tr>
+<tr style="border-bottom: dashed 2px">
+<td><b>Potency:</b> 3</td> 
+<td><b>Control:</b> 0</td> 
+<td colspan="2"><b>Precision Roll:</b> d10 + 2</td> 
+</tr>
+<tr>
+<td><b>Parry:</b> 7</td>  
+<td><b>Warding:</b> 7</td>  
+<td><b>Constitution:</b> 6</td>  
+<td><b>Evasion:</b> 7</td>  
+</tr>
+<tr style="border-bottom: solid 2px">  
+<td colspan="1"><b>Physical Armor:</b> 0</td>
+<td colspan="1"><b>Magical Armor:</b> 5</td>
+<td colspan="2"><b>Weapon:</b> Daggers</td>
+</tr>
+<tr>
+<td colspan="4"><i>Slash</i> - Action, basic weapon attack
+Deals 20 physical damage.
+</td>
+</tr>
+<tr>
+<td colspan="4"><i>Poison of Binding</i> - Rapid action, technique
+This technique's precision roll is made against Constitution.
+This cultist's slash this turn applies 1 round of slowed (-1) if it hits. If the target is already slowed, it applies immobilized for 1 round instead. 
+</td>
+</tr>
+<tr>
+<td colspan="4"><i>Poison of Wounds</i> - Rapid action, technique
+This technique's precision roll is made against Constitution.
+This cultist's slash this turn applies 2 hits of bleeding (5 damage) if it hits. 
+</td>
+</tr>
+<tr>
+<td colspan="4"><i>Opportunistic Strike</i> - Prepared action, weapon attack
+Attacks the next foe who moves into, within or out of melee range.
+Deals 15 physical damage.
+</td>
+</tr> 
 </table>
 
 ---
@@ -250,7 +351,7 @@ For 1 round, the Ashik's target receives a -1 penalty to precision rolls and tak
 <table style="width: 100%; max-width: 720px; border-style: inset;">
 <tr>
 <th>Expert Fighter</th>
-<td colspan="3">Level 7 - Minion</td>
+<td colspan="3">Level 7 - Boss, minion</td>
 </tr>
 <tr style="border-bottom: solid 2px"><td colspan="4">These well-trained fighters are heavily armored, powerful combatants. They are usually professional soldiers who serve as lieutenants or commanders within armies. However, some of them can be found as independent mercenaries or bodyguards.</td></tr>
 <tr>
@@ -284,7 +385,7 @@ If this attack misses, deals 5 physical damage instead.
 <td colspan="4"><i>Expose Weakness</i> - Action, technique
 Range: 5 meters.
 This technique's precision roll is made against Parry.
-Applies exposed (5 damage) and cracked armor for 1 round.
+Applies exposed (5 damage) and cracked armor for 2 rounds.
 </td>
 </tr>
 <tr>
@@ -295,7 +396,7 @@ Deals 5 physical damage.
 <tr>
 <td colspan="4"><i>Hamstring</i> - Rapid action, weapon attack
 This attack's precision roll is made against Constitution.
-Applies slowed (-2) for 1 round.
+Applies slowed (-2) for 2 rounds.
 </td>
 </tr>
 <tr>

@@ -1,3 +1,6 @@
+Spirits are guardians of the earth. 
+
+---
 <table style="width: 100%; max-width: 720px; border-style: inset;">
 <tr>
 <th>Lesser Fire Spirit</th>
@@ -140,10 +143,10 @@ Deals 25 physical damage.
 </td>
 </tr>
 <tr>
-<td colspan="4"><i>Shoot Shards</i> - Action, weapon attack
+<td colspan="4"><i>Shoot Shards</i> - Action, weapon attack, projectile
 This attack's precision rolls are made against Evasion.
 Range: 5 meters.
-This spirit creates various shapes from metal and shoots them at its target, dealing 15 physical damage.
+This spirit creates various shapes from metal and shoots them at its target, dealing 10 physical damage.
 </td>
 </tr>
 <tr>
@@ -271,3 +274,66 @@ This spirit attacks the next foe who moves into, out of or within melee range, d
 </td>
 </tr>
 </table>
+
+---
+<table style="width: 100%; max-width: 720px; border-style: inset;">
+<tr>
+<th>Common Metal Spirit</th>
+<td colspan="3">Level 4 - Minion</td>
+</tr>
+<tr style="border-bottom: solid 2px"><td colspan="4">To do: add lore</td></tr>
+<tr>  
+<td><b>Health:</b> 80</td>  
+<td colspan="2"><b>Movement:</b> 3 meters</td>  
+<td><b>Initiative:</b> -2</td>  
+</tr>
+<tr style="border-bottom: dashed 2px">
+<td><b>Potency:</b> 4</td> 
+<td><b>Control:</b> 0</td> 
+<td colspan="2"><b>Precision Roll:</b> d10 + 3</td> 
+</tr>
+<tr>
+<td><b>Parry:</b> 9</td>  
+<td><b>Warding:</b> 6</td>  
+<td><b>Constitution:</b> 6</td>  
+<td><b>Evasion:</b> 6</td>  
+</tr>
+<tr style="border-bottom: solid 2px">  
+<td colspan="1"><b>Physical Armor:</b> 10</td>
+<td colspan="1"><b>Magical Armor:</b> 0</td>
+<td colspan="2"><b>Weapon:</b> Metal body</td>
+</tr>
+<tr>
+<td colspan="4"><i>Metal Affinity</i> - Passive
+Damage from burning ignores the armor of this creature.
+</td>
+</tr>
+<tr>
+<td colspan="4"><i>Slash</i> - Action, basic weapon attack
+Deals 25 physical damage. If the target is prone, deals 30 physical damage instead. 
+</td>
+</tr>
+<tr>
+<td colspan="4"><i>Shoot Shards</i> - Action, weapon attack, projectile
+This attack's precision rolls are made against Evasion.
+Range: 5 meters.
+This spirit creates various shapes from metal and shoots them at its target, dealing 10 physical damage.
+</td>
+</tr>
+<tr>
+<td colspan="4"><i>Earthshake</i> - Full-turn action, technique
+This technique's precision rolls are made against Evasion. 
+This spirit creates a shockwave centered around itself, making every non-flying creature within 5 meters fall prone, excluding itself. 
+</td>
+</tr>  
+<tr>
+<td colspan="4"><i>Metalskin</i> - Rapid action, technique
+This spirit gains 10 temporary physical armor for 1 round, but becomes immobilized until this temporary armor breaks.
+</td>
+</tr>
+<tr>
+<td colspan="4"><i>Stability</i> - Rapid action, technique
+This spirit can't fall prone or be moved unwillingly for 1 round. 
+</td>
+</tr>  
+</table> 
