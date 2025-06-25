@@ -172,6 +172,7 @@ A significant difference in elevation affects projectile attacks' precision roll
 	+ Half Cover: +2 bonus to all resistances versus projectiles.
 	+ Full Cover: +4 bonus to all resistances versus projectiles.
 + Having other creatures in the way while determining cover counts as half cover. This doesn't increase with the amount of creatures in the way.
++ Cover does not stack, only the highest applicable one is used.
 + If a creature is completely blocked from another's point of view, they are out of line of sight and can't be interacted with targeted attacks and techniques.
 + Abilities, techniques and attacks which affect an area may require hearing or sight:
 	+ Sounds can't pass rocks, deep water and similar materials.
