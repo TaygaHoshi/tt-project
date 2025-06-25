@@ -45,12 +45,12 @@ Pets can take a variety of forms, but they fall into the main categories below:
 # Techniques
 ## Distraction
 **Category:** Offense
+**Against:** Parry
 **Execution Time:** Rapid action
 **Cost:** 2 energy
 **Range:** 5 meters
 **Duration:** (1 + C/3) rounds
 **Effect**
-	This technique's precision roll is made against Parry.
 	Your pet tries to distract the target. A distracted creature is considered flanked for the duration.
 	Your pet does not attack this round.
 
@@ -64,21 +64,21 @@ Pets can take a variety of forms, but they fall into the main categories below:
 
 ## Go For Eyes
 **Category:** Modification
+**Against:** Constitution
 **Execution Time:** Rapid action
 **Cost:** 2 energy
 **Range:** Pet's range
 **Duration:** (1 + C/4) rounds
 **Effect**
-	This attack's precision roll is made against Constitution.
 	Direct your pet to attack your target's eyes. Your pet's basic weapon attack done within this round applies blinded for the duration of this technique.
 
 ## Grab and Drag
 **Category:** Offense
+**Against:** Parry
 **Execution Time:** Action
 **Cost:** 1 energy
 **Range:** 1 meter
 **Effect**
-	This attack's precision roll is made against Parry.
 	Target a prone creature. Your pet grabs this creature and drags it towards you up to (2 + P/3) meters, dealing 5 armor-ignoring damage per meter dragged.
 	Your pet does not attack this round.
 
@@ -92,6 +92,7 @@ Pets can take a variety of forms, but they fall into the main categories below:
 
 ## Pounce
 **Category:** Offense
+**Against:** Parry
 **Execution Time:** Rapid action
 **Cost:** 4 energy
 **Range:** 2 meters
@@ -108,6 +109,7 @@ Pets can take a variety of forms, but they fall into the main categories below:
 
 ## Sweeping Attack
 **Category:** Offense
+**Against:** Evasion
 **Execution Time:** Rapid action
 **Cost:** 2 energy
 **Effect**

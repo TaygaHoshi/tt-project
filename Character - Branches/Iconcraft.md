@@ -27,23 +27,23 @@ Rituals of icon magic are techniques with two special properties:
 
 ## Banishing Ritual
 **Category:** Defense
+**Against:** Evasion
 **Execution Time:** Full-turn action
 **Cost:** 6 energy
 **Radius:** (2 + C/4) meters
 **Duration:** 1 hour
 **Effect**
-	This ritual's precision rolls are made against Evasion.
 	Create an area of banishment. Make a precision roll against any creature who end their turn within this area. If this roll succeeds, that creature is pushed (1 + P/4) meters away from the center of this area.
 	Creature already in this area's center is unaffected.
 
 ## Destructing Ritual
 **Category:** Offense
+**Against:** Evasion
 **Execution Time:** Full-turn action
 **Cost:** 6 energy
 **Radius:** (2 + C/4) meters
 **Duration:** 1 hour
 **Effect**
-	This ritual's precision rolls are made against Evasion.
 	Manifest your icon's destructive power, creating an area of harm. Make a precision roll against any creature who moves into, out of or within this area. On success, those creatures take a combined 3 magical damage per meter they willingly moved within this area, at the end of this turn. Potency bonus to this ability's damage is halved.
 
 ## Dulling Ritual

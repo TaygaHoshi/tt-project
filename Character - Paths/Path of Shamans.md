@@ -25,24 +25,25 @@ As an action, you can temporarily enter the realm of souls for 1 round by spendi
 2. unable to use any abilities or communicate with anyone, and
 3. unable enter areas protected against souls.
 
-When you return, you are slowed and disoriented for 1 round.
+When you return, you are disoriented for 1 round.
 
 ## Grant Boon
-When you use a technique that affects only one creature, you can spend 1 energy to heal them for 5.
+When you use a technique that affects only one creature, you can spend 1 energy to heal them for 5. 
 
 ## Induce
 This ability's precision roll is done against Constitution.
-You can use your *passage* on a creature you can touch by spending 4 energy instead. 
+You can use your *passage* on a creature you can touch. When this creature returns, it is slowed and disoriented for 1 round. 
+
 
 ---
 # Techniques
 ## Astral Travel
 **Category:** Utility
 **Execution Time:** 15 minutes
-**Cost:** 4 energy per hour
-**Duration:** (1 + C/3) hours
+**Cost:** 6 energy per hour
+**Duration:** Up to (1 + C/4) hours
 **Effect**
-	While you are meditating, your soul leaves your body behind and can move separately. In this form, you gain 20 meters of flying speed, become immune to status effects and you are invisible to all creatures except those who follow the path of shamans. However, you are unable enter areas magically protected against souls. You can willingly return to body at any time.
+	While you are meditating, your soul leaves your physical body behind and can move separately. In this form, you gain 20 meters of flying speed, become immune to status effects and you are invisible to all creatures except those who follow the path of shamans. However, you are unable enter areas magically protected against souls. You can willingly return to body at any time.
 	If your body takes any type of damage, you are immediately return to your body and become stunned for 1 round. 
 
 ## Clairvoyance
@@ -67,25 +68,16 @@ You can use your *passage* on a creature you can touch by spending 4 energy inst
 **Execution Time:** Rapid action
 **Cost:** 2 energy
 **Range:** 5 meters
-**Duration:** 1 minutes
+**Duration:** 1 minute
 **Effect**
 	You grant an ally either protective foresight or predictive foresight for the duration.
-
-## Fate Reversal
-**Category:** Utility
-**Execution Time:** Action 
-**Cost:** 3 energy
-**Range:** 5 meters
-**Effect**
-	Choose two targets. 
-	All status effects on the first target have their durations reduced by 1. Then, these status effects are applied to the second target.
 
 ## Guest Soul
 **Category:** Utility
 **Execution Time:** Action
 **Cost:** 2 energy
 **Range:** 5 meters
-**Duration:** 10 minutes
+**Duration:** 5 minutes
 **Effect**
 	If the soul of the target living or dead creature is still in the realm of souls, you can temporarily talk with them.
 	This technique allows communication even if you don't share a language with your target.
@@ -113,6 +105,15 @@ You can use your *passage* on a creature you can touch by spending 4 energy inst
 **Duration:** (2 + C/4) rounds
 **Effect**
 	Choose a creature. Apply protected and regeneration for the duration.
+
+## Quell Effects
+**Category:** Utility
+**Against:** Warding
+**Execution Time:** Action 
+**Cost:** 3 energy
+**Range:** 5 meters
+**Effect**
+	Target a creature. Reduce durations of all status effects on this target by 1.
 
 ## Transfer Energy
 **Category:** Utility

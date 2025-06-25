@@ -51,6 +51,7 @@ If you are upkeeping a poem, you can swap it with another poem without using a r
 
 ## Poem of Brutishness
 **Category:** Defense
+**Against:** Warding
 **Execution Time:** Rapid action
 **Cost:** 3 energy per round
 **Range:** (2 + C/2) meters
@@ -59,6 +60,7 @@ If you are upkeeping a poem, you can swap it with another poem without using a r
 
 ## Poem of Humility
 **Category:** Defense
+**Against:** Warding
 **Execution Time:** Rapid action
 **Cost:** 2 energy per round
 **Range:** (2 + C/2) meters

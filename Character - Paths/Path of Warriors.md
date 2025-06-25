@@ -45,16 +45,16 @@ Instead of gaining bonus damage, you can choose to apply exposed for 1 round.
 **Execution Time:** Special
 **Cost:** 1 energy
 **Effect**
-	You can choose to activate this ability as a part of a weapon attack.
+	You can choose to activate this ability as a part of a basic weapon attack.
 	This attack gains a +5 bonus to its damage, but receives a -2 penalty to its precision rolls.
 
 ## Crushing Charge
 **Category:** Modification
+**Against:** Constitution
 **Execution Time:** Special
 **Cost:** 3 energy
-**Duration:** (1 + C/4) rounds
+**Duration:** 1 round
 **Effect**
-	This attack's precision roll is made against Constitution.
 	You can choose to activate this technique when you take the *charge* special action.
 	At the end of this charge, this attack additionally applies stunned to the target for the duration.
 
@@ -90,15 +90,15 @@ Instead of gaining bonus damage, you can choose to apply exposed for 1 round.
 **Cost:** 1 energy
 **Effect**
 	You can choose to activate this ability when you attempt a basic weapon attack.
-	 If this attack misses, you deal damage of your weapon's type equal to your potency.
+	If this attack misses, you deal damage of your weapon's type equal to your potency.
 
 ## Hamstring
 **Category:** Modification
+**Against:** Constitution
 **Execution Time:** Special
 **Cost:** 2 energy
 **Duration:** (1 + C/3) rounds
 **Effect**
-	This attack's precision roll is made against Constitution.
 	You can choose to activate this ability when you attempt a basic weapon attack.
 	This attack also applies slowed for the duration.
 
@@ -122,6 +122,7 @@ Instead of gaining bonus damage, you can choose to apply exposed for 1 round.
 
 ## Tackle
 **Category:** Weapon attack
+**Against:** Parry
 **Execution Time:** Action
 **Cost:** 2 energy
 **Effect**

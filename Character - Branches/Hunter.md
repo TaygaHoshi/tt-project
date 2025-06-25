@@ -6,24 +6,23 @@ You can only have one prey at a time, and changing your designation to another c
 # Techniques
 ## Break Armor
 **Category:** Weapon attack
-**Execution Time:** Action
-**Cost:** 1 energy
-**Range:** Weapon range
-**Duration:** (1 + C/4) rounds
-**Effect**
-	This technique's precision roll is made against Parry.
-	Damage your prey's armor with your weapon, removing temporary armor of any kind and applying cracked armor for the duration.
-
-## Execute
-**Category:** Weapon attack
+**Against:** Parry
 **Execution Time:** Action
 **Cost:** 2 energy
 **Range:** Weapon range
+**Duration:** (1 + C/3) rounds
 **Effect**
-	This technique's precision roll is made against Constitution.
-	If your prey is at or below half health, deal 10 armor-ignoring damage.
+	Damage your prey's armor with your weapon, removing temporary armor of any kind and applying cracked armor for the duration.
+
+## Execute
+**Category:** Offense
+**Against:** Constitution
+**Execution Time:** Action
+**Cost:** 3 energy
+**Range:** Weapon range
+**Effect**
+	If your prey is at or below half health, gain inspired for 2 rounds and deal 10 armor-ignoring damage.
 	If you fail the precision roll, deal half that instead. 
-	Potency bonus to this technique's damage is halved. 
 
 ## Readiness
 **Category:** Utility

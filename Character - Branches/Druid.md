@@ -18,7 +18,7 @@ Each location corresponds to exactly one element, and an effect gained from this
 **Cost:** 4 energy
 **Radius:** (20 + P) meters
 **Effect**
-	 This ability does not require any precision roll, even against unwilling creatures.
+	 This ability does not require any precision roll. 
 	 Create a small earthquake centered around you, making every non-flying and unsuspecting creature within radius fall prone. Small structures and similar constructs within radius, depending on their strength, become destroyed or damaged.
 
 ## Growth
@@ -41,6 +41,7 @@ Each location corresponds to exactly one element, and an effect gained from this
 
 ## Lightning
 **Category:** Offense
+**Against:** Warding
 **Execution Time:** Action
 **Cost:** 2 energy
 **Range:** 5 meters
@@ -52,11 +53,11 @@ Each location corresponds to exactly one element, and an effect gained from this
 
 ## Metalskin
 **Category:** Defense
+**Against:** Parry
 **Execution Time:** Rapid action
 **Cost:** 2 energy
 **Duration:** (1 + C/2) rounds
 **Effect**
-	This technique's precision roll is made against Parry.
 	Skin of a creature you can touch becomes enhanced with the metal element, granting it (5 + P/2) temporary physical armor. Alternatively, you can spend 4 energy and grant double the temporary armor. 
 	This creature is unable to move while this technique is active. 
 	When this temporary armor breaks, it rusts away and the technique ends. It can be dismissed by you freely.
@@ -74,14 +75,13 @@ Each location corresponds to exactly one element, and an effect gained from this
 
 ## Burning Ground
 **Category:** Offense
+**Against:** Evasion
 **Execution Time:** Full-turn action
 **Cost:** 6 energy
 **Range:** 5 meters
 **Radius:** (1 + C/3) meters
 **Duration:** (1 + C/2) hits
 **Effect**
-	(Projectile)
-	This technique's precision rolls are made against Evasion.
 	The ground turns into blazing embers within this technique's radius for 10 minutes. Make a precision roll against creatures ending their turns within this area. On success, a creature starts burning for the duration of this technique.
 
 ## Sprout
@@ -92,10 +92,9 @@ Each location corresponds to exactly one element, and an effect gained from this
 **Radius:** (2 + C/2) meters
 **Duration:** 5 minutes
 **Effect**
-	Grow a stationary and autonomous plant, which shoots needles to your foes within radius, right after your turn. It can shoot one needle per round, applying bleeding for 2 hits.
-	This plant inherits your aptitudes. It has 10 health, and its resistances are equal to your base resistances. 
-	A sprout created by this technique is immune to debilitating status effects.
-	Sprouts you create do not count towards your summon limit, and you can have up to (1 + P/2) sprouts at any time.
+	Grow a stationary and autonomous plant, which shoots needles to your foes within radius, right after your turn.
+	A sprout summoned by this technique share your level, and attack the creature closest to them.
+	Sprouts you create do not count towards your summon limit, and you can have up to (1 + P/3) sprouts at any time.
 
 ## Thorns
 **Category:**  Offense
@@ -107,12 +106,54 @@ Each location corresponds to exactly one element, and an effect gained from this
 
 ## Unsteady Ground
 **Category:**  Utility
+**Against:** Evasion
 **Execution Time:** Action
 **Cost:** 4 energy
 **Range:** 5 meters
 **Radius:** 1 meter
 **Duration:** (2 + C/2) rounds
 **Effect**
-	This technique's precision rolls are made against Evasion.
 	Create an area of shifting, moving, waving and spiraling ground. Make a precision roll against any creature walking into or ending their turn within this area. On success, the creature falls prone.
 	This area is light rough terrain.
+
+---
+# Summons
+<table style="width: 100%; max-width: 720px; border-style: inset;">
+<tr>
+<th>Sprout</th>
+<td colspan="3">Level x - Minion</td>
+</tr>
+<tr style="border-bottom: solid 2px"><td colspan="4">To do: add lore</td></tr>
+<tr>  
+<td colspan="2"><b>Health:</b> 10</td> 
+<td colspan="2"><b>Movement:</b> immobile</td>
+</tr>
+<tr style="border-bottom: dashed 2px">
+<td><b>Potency:</b> equal to level</td> 
+<td><b>Control:</b> 0</td> 
+<td colspan="2"><b>Precision Roll:</b> d10 + level/2</td> 
+</tr>
+<tr>
+<td><b>Parry:</b> 5 + level/2</td>  
+<td><b>Warding:</b> 6 + level/2</td>  
+<td><b>Constitution:</b> 6 + level/2</td> 
+<td><b>Evasion:</b> 4 + level/2</td>  
+</tr>
+<tr style="border-bottom: solid 2px">  
+<td colspan="1"><b>Physical Armor:</b> 0</td>
+<td colspan="1"><b>Magical Armor:</b> 0</td>
+<td colspan="2"><b>Weapon:</b> Needles</td>
+</tr>
+<tr>
+<td colspan="4"><i>Plant Affinity</i> - Passive
+Immune to debilitating status effects. 
+</td>
+</tr>
+<tr>
+<td colspan="4"><i>Shoot</i> - Action, basic weapon attack, projectile
+This attack's precision roll is made against Constitution. 
+Applies 2 hits of bleeding. 
+</td>
+</tr>
+</table>
+ 

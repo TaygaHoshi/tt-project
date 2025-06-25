@@ -28,12 +28,13 @@ As a rapid action, you can sacrifice 5 health to increase your aptitudes in one 
 2. Increase both by 1 each.
 
 ## Death's Edge
-When you are below 15 health and use an ability that costs health, you can instead spend 1 energy per 5 health cost to use that ability.
+When you are at or below 15 health and use an ability that costs health, you can instead spend 1 energy per 5 health cost to use that ability.
 
 ---
 # Techniques
 ## Absorption
 **Category:** Defense
+**Against:** Warding
 **Execution Time:** Full-turn action
 **Cost:** 5 health
 **Range:** 5 meters
@@ -62,19 +63,40 @@ When you are below 15 health and use an ability that costs health, you can inste
 **Duration:** (2 + C/3) rounds
 **Effect**
 	Create an area of darkness around you. This area is considered quarter cover and is light rough terrain. 
-	Summon a spiritling of chaos next to each creature hostile to you within the radius up to a maximum of (2 + P/3) spiritlings for the duration, excluding yourself. Spiritlings of chaos summoned by this technique share your level, and attack the creature closest to them. 
+	Summon a spiritling of chaos next to each creature hostile to you within the radius up to a maximum of (2 + P/3) spiritlings for the duration. 
+	Spiritlings summoned by this technique share your level, do not count towards your summon limit, and attack the creature closest to them. 
+
+## Curse Transfer
+**Category:** Offense
+**Against:** Constitution
+**Execution Time:** Rapid action 
+**Cost:** 2 energy
+**Effect**
+	Touch a creature, and transfer a debilitating or harmful status effect from yourself to this creature. 
 
 ## Mark of Sacrifice
 **Category:** Offense
+**Against:** Warding
 **Execution Time:** Action
-**Cost:** 2 energy
+**Cost:** Special
 **Range:** 5 meters
 **Duration:** 3 rounds
 **Effect**
-	Mark (1 + C/2) creatures for the duration. If one of these creatures die while marked, adjacent creatures take 10 magical damage without requiring precision rolls. Potency bonus to this technique's damage is halved.
+	Mark up to (1 + P/2) creatures for the duration, spending 1 energy per creature marked. If a marked creature dies while affected, adjacent creatures take 10 magical damage without requiring precision rolls.
+
+## Pain Illusion
+**Category:** Offense
+**Against:** Constitution
+**Execution Time:** Full-turn action
+**Cost:** 10 health
+**Range:** 5 meters
+**Effect**
+	Deal 25 armor-ignoring damage to target creature. Potency bonus to this technique's damage is halved. 
+	At the start of your next round, unless the creature has died, this damage is reversed and the creature regains health equal to the damage it received. 
 
 ## Purge Blessings
 **Category:** Offense
+**Against:** Warding
 **Execution Time:** Action
 **Cost:** 5 health
 **Range:** 5 meters
@@ -83,23 +105,23 @@ When you are below 15 health and use an ability that costs health, you can inste
 
 ## Spread Curses
 **Category:** Offense
+**Against:** Constitution
 **Execution Time:** Action
 **Cost:** 10 health
 **Range:** 5 meters
 **Radius:** (1 + C/2) meters
 **Duration:** Special
 **Effect**
-	This technique's precision rolls are made against Constitution. 
 	Debilitating and harmful status effects that the target creature is affected by spreads to the creatures within the radius around it with their remaining durations. You can choose to reduce the radius of this ability when you use it, to a minimum of 1 meter.
 
 ## Weaken Body
 **Category:** Offense
+**Against:** Constitution
 **Execution Time:** Action
 **Cost:** 2 energy 
 **Range:** 5 meters
 **Duration:** (2 + C/3) rounds
 **Effect**
-	This technique's precision roll is made against Constitution. 
 	Apply either sickened or weakened defenses to the target creature for the duration of this technique. Alternatively, you can apply fatigue by spending 4 energy instead.
 
 
@@ -134,7 +156,7 @@ When you are below 15 health and use an ability that costs health, you can inste
 </tr>
 <tr>
 <td colspan="4"><i>Chaos Affinity</i> - Passive
-Immune to diseased.
+Diseased status effect does not spread to this spiritling.
 </td>
 </tr>
 <tr>
