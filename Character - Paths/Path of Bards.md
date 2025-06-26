@@ -91,7 +91,7 @@ If you are upkeeping a poem, you can swap it with another poem without using a r
 **Effect**
 	Choose a creature. Your poem makes this creature become more proficient in its abilities, increasing its control by 2. 
 
-## Poem of Messenger
+## Poem of Travellers
 **Category:** Offense
 **Execution Time:** Rapid action
 **Cost:** 2 energy per round
