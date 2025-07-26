@@ -149,7 +149,7 @@ Attacks the next foe who moves into, within or out of melee range, dealing 10 ph
 <th>Vampire Owl</th>
 <td colspan="3">Level 3 - Transformation</td>
 </tr>
-<tr style="border-bottom: solid 2px"><td colspan="4">These owls are true forms of vampires. They are distinct from regular owls as they are significantly more intelligent.</td></tr>
+<tr style="border-bottom: solid 2px"><td colspan="4">A vampire's true form is an owl. They are distinct from regular owls as they are significantly more intelligent, but otherwise look the same.</td></tr>
 <tr>  
 <td><b>Health:</b> 10</td>  
 <td colspan="2"><b>Movement:</b> 8 meters (flying)</td>  
@@ -244,7 +244,7 @@ Attacks the next foe who moves into, within or out of melee range, dealing 10 ph
 ---
 <table style="width: 100%; max-width: 720px; border-style: inset;">
 <tr>
-<th>Chaos Wyrm</th>
+<th>Wyrm</th>
 <td colspan="3">Level 6 - Minion</td>
 </tr>
 <tr style="border-bottom: solid 2px"><td colspan="4">To do: add lore</td></tr>
@@ -289,8 +289,8 @@ Deals 25 physical damage to the target and 15 physical damage to a creature adja
 <td colspan="4"><i>Breath</i> - Rapid action, technique
 This attack's precision rolls are made against Evasion.
 The wyrm breathes out a blast to 15 squares in a conic shape in front of it.
-Deals 20 magical damage and applies 2 hits of diseased (5 dpr).
-This technique can only be used after the wrym catches its breath.
+Deals 20 magical damage and applies 2 hits of burning (15 dpr).
+This technique can only be used after the wyrm catches its breath.
 </td>
 </tr>
 <tr>
@@ -371,7 +371,7 @@ The worm enhances itself, gaining 10 temporary physical armor for 1 round.
 ---
 <table style="width: 100%; max-width: 720px; border-style: inset;">
 <tr>
-<th>Chaos Dragon</th>
+<th>Dragon</th>
 <td colspan="3">Level 12 - Boss</td>
 </tr>
 <tr style="border-bottom: solid 2px"><td colspan="4">To do: add lore</td></tr>
@@ -427,7 +427,7 @@ If this dragon is flanked, deals 20 physical damage to all adjacent creatures.
 <td colspan="4"><i>Breath</i> - Rapid action, technique
 This attack's precision rolls are made against Evasion.
 The dragon breathes out a blast to 24 squares in a conic shape in front of it.
-Deals 20 magical damage and applies 3 hits of diseased (10 damage).
+Deals 20 magical damage and applies 3 hits of burning (15 dpr).
 This technique can only be used after the dragon catches its breath.
 </td>
 </tr>
@@ -437,3 +437,5 @@ The dragon recharges its breath ability.
 </td>
 </tr>
 </table>
+
+---

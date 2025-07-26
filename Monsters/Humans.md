@@ -232,15 +232,14 @@ Deals 20 physical damage.
 </td>
 </tr>
 <tr>
-<td colspan="4"><i>Poison of Binding</i> - Rapid action, technique
-This technique's precision roll is made against Constitution.
-This cultist's slash this turn applies 1 round of slowed (-1) if it hits. If the target is already slowed, it applies immobilized for 1 round instead. 
+<td colspan="4"><i>Consume</i> - Action, technique
+This cultist can attack with slash twice for 3 rounds, but any precision roll targeting its Parry or Evasion succeeds automatically while this effect is active. 
 </td>
 </tr>
 <tr>
 <td colspan="4"><i>Poison of Wounds</i> - Rapid action, technique
 This technique's precision roll is made against Constitution.
-This cultist's slash this turn applies 2 hits of bleeding (5 damage) if it hits. 
+This cultist's next slash within this round applies 2 hits of bleeding (5 damage) if it hits. 
 </td>
 </tr>
 <tr>
