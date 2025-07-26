@@ -1,7 +1,7 @@
 ## Choose Prey
 As a rapid action, you can designate a visible creature within 25 meters as your prey. You always know the health of this creature, and as long as this creature is alive and within range, it stays as your prey. 
 
-You can only have one prey at a time, and changing your designation to another creature costs 2 energy.
+You can only have one prey at a time. Changing your designation to another creature while you already have a prey costs 2 energy.
 
 # Techniques
 ## Break Armor
@@ -21,7 +21,7 @@ You can only have one prey at a time, and changing your designation to another c
 **Cost:** 3 energy
 **Range:** Weapon range
 **Effect**
-	If your prey is at or below half health, gain inspired for 2 rounds and deal 10 armor-ignoring damage.
+	If your prey is at or below half health, deal 10 armor-ignoring damage. This damage is increased by 2 per harmful or debilitating status effect on your target.
 	If you fail the precision roll, deal half that instead. 
 
 ## Readiness

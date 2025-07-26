@@ -2,7 +2,7 @@
 Instead of focusing on their personal growth, some choose to share their time, training and effort with their pets. While these people are sometimes called "masters", most of those specialized in this common branch of combat are, in actuality, "tamers" or even "summoners" depending on the nature of their pet.
 
 ## Call Pet
-Choose a pet category when you take this branch from the list below. Your pet inherits your initiative order, level, potency and control. It takes its turn right after you, and uses its basic weapon attack unless you tell it to do something else. When your pet falls below 1 health, it will run away and hide if possible. In this case, it will not be available for combat for (d4 + 4) hours. Otherwise, normal [[sigil-of-uchma/Content/Combat#Summoning|summoning rules]] apply.  
+Choose a pet category when you take this branch from the list below. Your pet does not count toward your summon limit. It inherits your initiative order, level and aptitudes. It takes its turn right after you, and uses its basic weapon attack unless you tell it to do something else. When your pet falls below 1 health, it will run away and hide if possible. In this case, it will not be available for combat for (d4 + 4) hours. Otherwise, normal [[sigil-of-uchma/Content/Combat#Summoning|summoning rules]] apply.  
 Pets can take a variety of forms, but they fall into the main categories below:
 
 **Striker Pets**
@@ -111,6 +111,6 @@ Pets can take a variety of forms, but they fall into the main categories below:
 **Category:** Offense
 **Against:** Evasion
 **Execution Time:** Rapid action
-**Cost:** 2 energy
+**Cost:** 3 energy
 **Effect**
-	For this round, your pet's movement speed drops to zero but it attacks two foes adjacent to it, dealing half damage after armor to each.
+	For this round, your pet's movement speed drops to zero but it attacks two foes adjacent to it.
