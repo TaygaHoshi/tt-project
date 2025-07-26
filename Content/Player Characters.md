@@ -119,7 +119,9 @@ Skills are miscellaneous abilities of a character.
 #TODO 
 
 ## Resting and Sleeping
-Usually, a character requires 6 to 8 hours of sleep per day. Not getting proper sleep for a night gives a character one stack of fatigue. Skipping sleep while having 5 stacks of fatigue is lethal and the character dies. While it is usually the best to sleep at night, it is not rare to see parties resting during the day. When the players decide the party should rest or sleep, they must declare this to the GM. In the case of just resting, the players should also explain what their characters will be doing while resting. In this case, the GM can determine whether or not these activities are allowed as a part of resting.
+Usually, a character requires 6 to 8 hours of sleep per day. Not getting proper sleep for a night gives a character one stack of fatigue. Stacks of fatigue received in this way can only be removed by sleeping. Skipping sleep while having 5 stacks of fatigue is lethal and the character dies.
+
+While it is usually the best to sleep at night, it is not rare to see parties resting during the day. When the players decide the party should rest or sleep, they must declare this to the GM. In the case of just resting, the players should also explain what their characters will be doing while resting. In this case, the GM can determine whether or not these activities are allowed as a part of resting.
 
 There are a few basic requirements to resting and sleeping. For a character to be able to rest, they should:
 1. Be able to sit or lie down. 
@@ -136,7 +138,7 @@ Sleeping and resting, normally, have the following benefits:
 
 However, not all damage and status effects can be healed this way. What makes sense and what does not is left primarily to the GM.
 
-## Traveling
+## Travelling
 When moving between points of interest with large distances between them, a player character can usually walk 25 kilometers in a day, from early morning to sunset. This is called "travel speed". If all members of a party is traveling on horseback or with a carriage, travel speed is doubled. There are various conditions that may affect the distance:
 1. Particularly good routes such as paved roads and good weather increase travel speed by 10 kilometers.
 2. Difficult routes and especially bad weather reduce travel speed by 10 kilometers each, depending on the conditions.

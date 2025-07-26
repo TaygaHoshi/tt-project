@@ -204,7 +204,7 @@ When the party ambushes or gets ambushed by one or more foes, the ambushed side 
 + Summoners have a simple telepathic bond to their minions. A summoner will know where a minion is and how much damage it suffered at all times. 
 + The minions follow the regular initiative order. On a turn a minion is summoned, if they have higher initiative than their summoner, they take their turn immediately after the summoner.
 + Minions gain potency bonus to their damage normally, according to their relevant potency stat.
-+ Minions don't use energy and energy for their skills, unless specified otherwise.
++ Minions don't use energy for their skills, unless specified otherwise.
 
 ## Transforming
 When a creature transforms into another, several rules should be followed:
@@ -219,7 +219,7 @@ When a creature transforms into another, several rules should be followed:
 
 
 ## Player versus Player
-Conflicts between player characters should be resolved with words. However, sometimes arguments might escalate into fights, duels or even ambushes. In this case, rather than getting into a combat, the GM may opt to use the simple method of PvP instead:
+Conflicts between player characters should be resolved with words. However, sometimes arguments might escalate into fights, duels or even ambushes. In this case, rather than getting into combat, the GM may opt to use the simple method of PvP instead:
 1. Players split into teams or stay neutral.
 2. Each team rolls a d10 per player. The team that rolls the highest in total wins.
 3. A team may get up to a +2 bonus to its total roll if it has advantage over other teams.
