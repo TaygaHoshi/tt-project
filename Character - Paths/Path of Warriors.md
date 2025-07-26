@@ -5,14 +5,9 @@ Many professions require extensive training with weapons and armor: soldiers of 
 | Level | Ability           |
 | :---: | ----------------- |
 |   1   | Critical Training |
-|   2   |                   |
 |   3   | Weapon Expertise  |
-|   4   |                   |
 |   5   | Keen Rejuvenation |
-|   6   |                   |
 |   7   | Armor Expertise   |
-|   8   |                   |
-|   9   |                   |
 |  10   | Veteran Combatant |
 ## High Base Health
 Your base health is 80.

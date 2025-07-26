@@ -2,14 +2,9 @@
 | Level | Ability              |
 | :---: | -------------------- |
 |   1   | Echo, Magical Poetry |
-|   2   |                      |
 |   3   | In Rhythm            |
-|   4   |                      |
 |   5   | Resonance            |
-|   6   |                      |
 |   7   | Duet                 |
-|   8   |                      |
-|   9   |                      |
 |  10   | Fade Out             |
 ## Medium Base Health
 Your base health is 70.
@@ -47,7 +42,7 @@ If you are upkeeping a poem, you can swap it with another poem without using a r
 **Range:** (2 + C/2) meters
 **Duration:** Special
 **Effect**
-	Choose a creature. This creature's appearance is improved, gaining a +1 bonus to its next social skill roll or meeting roll. 
+	Target creature's appearance is improved, gaining a +1 bonus to its next social skill roll or meeting roll. 
 
 ## Poem of Brutishness
 **Category:** Defense
@@ -56,7 +51,7 @@ If you are upkeeping a poem, you can swap it with another poem without using a r
 **Cost:** 3 energy per round
 **Range:** (2 + C/2) meters
 **Effect**
-	Choose a creature. This creature can only use weapon attacks with their actions.
+	Target creature can only use weapon attacks with their actions.
 
 ## Poem of Humility
 **Category:** Defense
@@ -65,7 +60,7 @@ If you are upkeeping a poem, you can swap it with another poem without using a r
 **Cost:** 2 energy per round
 **Range:** (2 + C/2) meters
 **Effect**
-	Choose a creature. It becomes agitated by your words and motions of slander, and becomes disoriented. Whenever this creature fails a precision roll, it takes 5 magical damage. Potency bonus to this technique's damage is halved. 
+	Target creature becomes agitated by your words and motions of slander, and becomes disoriented. Whenever this creature fails a precision roll, it takes 5 magical damage. Potency bonus to this technique's damage is halved. 
 
 ## Poem of Fury
 **Category:** Offense
@@ -73,28 +68,28 @@ If you are upkeeping a poem, you can swap it with another poem without using a r
 **Cost:** 2 energy per round
 **Range:** (2 + C/2) meters
 **Effect**
-	Choose a creature. Your magical poetry induces fury, might and courage within it; increasing its potency by 2. 
+	Your magical poetry induces fury, might and courage within target creature; increasing its potency by 2. 
 
 ## Poem of Freedom
-**Category:** Utility
+**Category:** Defense
 **Execution Time:** Rapid action
 **Cost:** 2 energy per round
 **Range:** (2 + C/2) meters
 **Effect**
-	Choose a creature. This creature is unaffected by immobilized, slowed and stunned status effects.
+	Target creature is unaffected by immobilized, slowed and stunned status effects.
 
-## Poem of Mastery
+## Poem of Praise
 **Category:** Offense
 **Execution Time:** Rapid action
 **Cost:** 2 energy per round
 **Range:** (2 + C/2) meters
 **Effect**
-	Choose a creature. Your poem makes this creature become more proficient in its abilities, increasing its control by 2. 
+	Whenever target creature succeeds a precision roll, they gain inspiration.
 
-## Poem of Travellers
+## Poem of Travelling
 **Category:** Offense
 **Execution Time:** Rapid action
 **Cost:** 2 energy per round
 **Range:** (2 + C/2) meters
 **Effect**
-	Choose a creature. This creature becomes quickened. 
+	Target creature becomes quickened. 

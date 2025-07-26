@@ -1,21 +1,16 @@
 # Abilities
-| Level | Ability             |
-| :---: | ------------------- |
-|   1   | Boon of Underworld  |
-|   2   |                     |
-|   3   | Equivalent Exchange |
-|   4   |                     |
-|   5   | Blood is Power      |
-|   6   |                     |
-|   7   | Death's Edge        |
-|   8   |                     |
-|   9   |                     |
-|  10   |                     |
+| Level | Ability                |
+| :---: | ---------------------- |
+|   1   | Boon of Underworld     |
+|   3   | Equivalent Exchange    |
+|   5   | Blood is Power         |
+|   7   | Death's Edge           |
+|  10   | Hand of the Underworld |
 ## Low Base Health
 Your base health is 60.
 
 ## Boon of Underworld
-Whenever you fail a precision roll, you can sacrifice 5 health to increase that roll by one. You can do this multiple times per failed roll.
+Whenever you fail a precision roll, you can sacrifice 5 health to increase the result of that roll by one. You can do this multiple times per failed roll.
 
 In addition, whenever you spend any amount of energy, you are healed for that amount.
 
@@ -30,12 +25,17 @@ As a rapid action, you can sacrifice 5 health to increase your aptitudes in one 
 ## Death's Edge
 When you are at or below 15 health and use an ability that costs health, you can instead spend 1 energy per 5 health cost to use that ability.
 
+## Hand of the Underworld
+Target a creature as a full-turn action and make a precision roll against their Constitution. This will alert the creature to your location. 
+If you succeed, sacrifice up to 30 health. This creature takes armor-ignoring damage equal to the amount of health you sacrificed. 
+This ability does not get any bonuses to its damage.
+
 ---
 # Techniques
 ## Absorption
 **Category:** Defense
 **Against:** Warding
-**Execution Time:** Full-turn action
+**Execution Time:** Action
 **Cost:** 5 health
 **Range:** 5 meters
 **Effect**
@@ -54,6 +54,16 @@ When you are at or below 15 health and use an ability that costs health, you can
 	3. Enlarge up to double size or 25 cubic centimeters, whichever is smaller.
 	4. Cut or open holes.
 	This object returns to its original shape and properties after the duration. This ability can't be used on magical items.
+
+## Bane
+**Category:** Offense
+**Execution Time:** Full-turn action
+**Cost:** 2 energy
+**Duration:** (3 + C/2) rounds
+**Effect**
+	Enchant a weapon you can touch with the aura of the underworld for the duration.
+	If the weapon kills a creature, a spiritling of chaos is summoned for 2 rounds. The summoned spiritling shares your level, counts toward your summon limit, and takes its turn right after the weapon’s wielder. The wielder can command the spiritling to attack a creature as a rapid action.
+	This technique can also be used on a weapon wielded by a creature within melee range.
 
 ## Call Chaos
 **Category:** Offense
@@ -91,8 +101,8 @@ When you are at or below 15 health and use an ability that costs health, you can
 **Cost:** 10 health
 **Range:** 5 meters
 **Effect**
-	Deal 25 armor-ignoring damage to target creature. Potency bonus to this technique's damage is halved. 
-	At the start of your next round, unless the creature has died, this damage is reversed and the creature regains health equal to the damage it received. 
+	Deal 20 magical damage to the target creature.
+	At the start of your next round, unless the creature has died, this damage is reversed and the creature regains health equal to the damage it received to its health. 
 
 ## Purge Blessings
 **Category:** Offense

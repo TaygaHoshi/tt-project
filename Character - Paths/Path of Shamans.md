@@ -4,18 +4,13 @@ While souls of the living are eventually dragged to the Underworld, not all soul
 Shamans practice their connection with the realm of souls to take care of their communities or tribes. Some shamans, however, start travelling the world in search of a greater purpose.
 
 # Abilities
-| Level | Ability    |
-| :---: | ---------- |
-|   1   | Passage    |
-|   2   |            |
-|   3   | Grant Boon |
-|   4   |            |
-|   5   | Induce     |
-|   6   |            |
-|   7   |            |
-|   8   |            |
-|   9   |            |
-|  10   |            |
+| Level | Ability        |
+| :---: | -------------- |
+|   1   | Passage        |
+|   3   | Simple Healing |
+|   5   | Banish         |
+|   7   | Pray           |
+|  10   | Soul-bound     |
 ## Low Base Health
 Your base health is 60.
 
@@ -27,13 +22,18 @@ As an action, you can temporarily enter the realm of souls for 1 round by spendi
 
 When you return, you are disoriented for 1 round.
 
-## Grant Boon
-When you use a technique that affects only one creature, you can spend 1 energy to heal them for 5. 
+## Simple Healing
+When you use a technique that affects only one creature, you can spend 1 energy to grant them regeneration for 2 hits. 
 
-## Induce
+## Banish
 This ability's precision roll is done against Constitution.
-You can use your *passage* on a creature you can touch. When this creature returns, it is slowed and disoriented for 1 round. 
+You can use your *passage* on a creature you can touch as an action. When this creature returns, it is slowed and disoriented for 1 round. 
 
+## Pray
+You can choose to stop regenerating energy while resting. If you do, your party's health regeneration per hour during rest is doubled.
+
+## Soul-bound
+Your *passage* and *banish* abilities last 2 rounds instead. You can dismiss them freely during your turns. 
 
 ---
 # Techniques
@@ -74,7 +74,7 @@ You can use your *passage* on a creature you can touch. When this creature retur
 
 ## Guest Soul
 **Category:** Utility
-**Execution Time:** Action
+**Execution Time:** Full-turn action
 **Cost:** 2 energy
 **Range:** 5 meters
 **Duration:** 5 minutes
