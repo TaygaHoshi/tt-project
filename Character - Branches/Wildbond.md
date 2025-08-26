@@ -43,7 +43,15 @@ Pets can take a variety of forms, but they fall into the main categories below:
 
 ---
 # Techniques
-## Distraction
+## Commune
+**Category:** Utility
+**Execution Time:** Full-turn action
+**Cost:** 2 energy
+**Duration:** (10 + C) minutes
+**Effect**
+	You can talk to a calm animal as if you share a language.
+
+## Distract
 **Category:** Offense
 **Against:** Parry
 **Execution Time:** Rapid action
@@ -87,7 +95,7 @@ Pets can take a variety of forms, but they fall into the main categories below:
 **Execution Time:** Rapid action
 **Cost:** Special
 **Effect**
-	Your pet tries to heal itself. For every point of energy spent for this ability, your pet heals for (4 + d4) health. You can spend points of energy up to your potency.
+	Your pet tries to heal itself. For every point of energy spent for this technique, your pet heals for (4 + d4) health. You can spend points of energy up to your potency.
 	Your pet does not attack this round.
 
 ## Pounce
@@ -106,6 +114,14 @@ Pets can take a variety of forms, but they fall into the main categories below:
 **Cost:** 2 energy
 **Effect**
 	Your pet takes the charge special action. If your pet is a sharpshooter pet, it is instead quickened for 1 round.
+
+## Savagery
+**Category:** Offense
+**Execution Time:** Action
+**Cost:** 4 energy
+**Duration:** (1 + P/2) rounds
+**Effect**
+	Your pet becomes exposed, but it gains a (5 + P/2) bonus to its damage for the duration. 
 
 ## Sweeping Attack
 **Category:** Offense
