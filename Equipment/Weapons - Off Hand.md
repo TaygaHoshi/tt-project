@@ -17,7 +17,7 @@ Weapon attacks tagged (Passive) are passive abilities which work only when the w
 	+ You have quarter cover against physical projectile attacks until the start of your next turn.
 + (Rapid action) Shield Bash
 	+ Ignores weapon precision.
-	+ Deals 5 physical damage to target foe. 
+	+ Deals 5 physical damage. 
 
 ## Focus
 + (Rapid action) Projectile Defense
