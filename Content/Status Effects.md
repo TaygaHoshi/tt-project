@@ -36,6 +36,7 @@
 ## Slowed
 + Halves walking, swimming, climbing and flying speeds.
 + (1 + P/3) penalty on Evasion and initiative.
++ If a slowed creature is also quickened, this status effect is considered after quickened. 
 + Does not stack. If target is already slowed, only the one with higher potency applies.
 
 ## Soaked
@@ -102,6 +103,7 @@
 
 ## Quickened
 - Movement speed is increased by (2 + P/3) meters.
+- If a quickened creature is also slowed, this status effect is half as effective. 
 - Does not stack. If target is already quickened, only the one with higher potency applies.
 
 ## Regeneration
