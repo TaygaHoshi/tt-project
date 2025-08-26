@@ -164,7 +164,7 @@ This spirit can't fall prone or be moved unwillingly for 1 round.
 ---
 <table style="width: 100%; max-width: 720px; border-style: inset;">
 <tr>
-<th>Common Fire Spirit</th>
+<th>Fire Spirit</th>
 <td colspan="3">Level 4 - Minion</td>
 </tr>
 <tr style="border-bottom: solid 2px"><td colspan="4">To do: add lore</td></tr>
@@ -224,7 +224,7 @@ Attacks the next foe who moves into, within or out of melee range, dealing 10 ph
 ---
 <table style="width: 100%; max-width: 720px; border-style: inset;">
 <tr>
-<th>Common Water Spirit</th>
+<th>Water Spirit</th>
 <td colspan="3">Level 4 - Minion</td>
 </tr>
 <tr style="border-bottom: solid 2px"><td colspan="4">To do: add lore</td></tr>
@@ -278,7 +278,7 @@ This spirit attacks the next foe who moves into, out of or within melee range, d
 ---
 <table style="width: 100%; max-width: 720px; border-style: inset;">
 <tr>
-<th>Common Metal Spirit</th>
+<th>Metal Spirit</th>
 <td colspan="3">Level 4 - Minion</td>
 </tr>
 <tr style="border-bottom: solid 2px"><td colspan="4">To do: add lore</td></tr>
@@ -341,7 +341,7 @@ This spirit can't fall prone or be moved unwillingly for 1 round.
 ---
 <table style="width: 100%; max-width: 720px; border-style: inset;">
 <tr>
-<th>Major Fire Spirit</th>
+<th>Minor Fire Deity</th>
 <td colspan="3">Level 8 - Minion</td>
 </tr>
 <tr style="border-bottom: solid 2px"><td colspan="4">To do: add lore</td></tr>
@@ -407,7 +407,7 @@ Attacks the next foe who moves into, within or out of melee range, dealing 15 ph
 ---
 <table style="width: 100%; max-width: 720px; border-style: inset;">
 <tr>
-<th>Major Water Spirit</th>
+<th>Minor Water Deity</th>
 <td colspan="3">Level 8 - Minion</td>
 </tr>
 <tr style="border-bottom: solid 2px"><td colspan="4">To do: add lore</td></tr>
