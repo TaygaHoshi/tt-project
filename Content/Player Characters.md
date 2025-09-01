@@ -139,12 +139,11 @@ Sleeping and resting, normally, have the following benefits:
 However, not all damage and status effects can be healed this way. What makes sense and what does not is left primarily to the GM.
 
 ## Travelling
-When moving between points of interest with large distances between them, a player character can usually walk 25 kilometers in a day, from early morning to sunset. This is called "travel speed". If all members of a party is traveling on horseback or with a carriage, travel speed is doubled. There are various conditions that may affect the distance:
-1. Particularly good routes such as paved roads and good weather increase travel speed by 10 kilometers.
+When moving between points of interest with large distances between them, a player character can usually walk 25 kilometers in a day, from early morning to sunset. This is called "travel speed". If all members of a party is travelling on horseback or with a carriage, travel speed is doubled. There are various conditions that may affect this speed, which are considered after the bonus from mounts:
+1. Particularly good routes such as paved roads and good weather increase travel speed by up to 10 kilometers.
 2. Difficult routes and especially bad weather reduce travel speed by 10 kilometers each, depending on the conditions.
 3. [[Player Characters#Encumbrance|Encumbrance]] also affects travel speed, explained in the next section. 
 4. Minimum travel speed is 5 kilometers on foot and 15 kilometers on horseback or with a carriage. Below this, travel using that route is considered impassable.
-
 
 ## Inventory Management
 A player character can keep some items on their person. 
@@ -157,7 +156,7 @@ In some cases, properties of an object might be as important as its size and wei
 There are many items that can act as a container: backpacks, pouches, boxes, belts, leather straps and more. 
 
 ### Quick Access Slots
-Not every object can be accessed with the same speed. A bedroll deep in a backpack might take several minutes to take out, while a small flask of potion hanging from the backpack can be used almost immediately. This means only items in quick access slots can be used with [[Special Actions#Use Item|use item]] special action. 
+Not every object can be accessed with the same speed. A bedroll deep in a backpack might take a minute or two to take out, while a small flask of potion hanging from the backpack can be used almost immediately. This means only items in quick access slots can be used with [[Special Actions#Use Item|use item]] special action. 
 
 Each player character has two quick access slots by default, and can place suitable items in them. Some containers might grant more slots, but a character can have 5 quick access slots at most. 
 

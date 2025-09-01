@@ -21,10 +21,10 @@
 ## Fatigued
 + Reduces movement speed by 2 per stack.
 + Applies a -2 penalty on precision rolls and all resistances per stack.
-+ Stacks up to 5. 
++ Stacks up to 5. When fatigued is reapplied, the stack count increases and all stacks share the longest remaining duration.
 
 ## Immobilized
-+ Lowers walking, swimming, climbing and flying speeds to 0.
++ Reduces movement speed to 0.
 + Applies a -1 penalty to Evasion.
 + Does not stack. If target is already immobilized, only the longer one applies.
 
@@ -34,18 +34,19 @@
 + Does not stack. If target is already sickened, only the one with higher potency applies.
 
 ## Slowed
-+ Halves walking, swimming, climbing and flying speeds.
++ Halves movement speed.
 + (1 + P/3) penalty on Evasion and initiative.
 + If a slowed creature is also quickened, this status effect is considered after quickened. 
 + Does not stack. If target is already slowed, only the one with higher potency applies.
 
 ## Soaked
-+ If a creature is soaked and frostbitten or electrified at the start of its turn, it is no longer soaked and that damaging effect deals double damage this turn. If this creature is both frostbitten and electrified, soaked affects the status effect with the lowest damage. 
++ If a creature is soaked and frostbitten or electrified at the start of its turn, it is no longer soaked and that damaging effect deals double damage this turn. 
++ If this creature is both frostbitten and electrified, soaked affects the status effect with the lowest damage. 
 + If target is burning, it is cured and soaked doesn't get applied.
 + Does not stack. If target is already soaked, only the longer one applies.
 
 ## Stunned
-+ Lowers walking, swimming, climbing and flying speeds to 0.
++ Reduces movement speed to 0.
 + Target is unable to take any action.
 + Applies a -3 penalty to Parry and Evasion.
 + Does not stack. If target is already stunned, only the longer one applies.
@@ -95,15 +96,15 @@
 
 ## Predictive Foresight
 + +1 bonus to the next precision roll.
-+ Does not stack. If target is already effected by a predictive foresight, only the one with higher potency applies.
++ Does not stack. If target is already effected by a predictive foresight, only the one with higher duration applies.
 
 ## Protective Foresight
 + +1 bonus to all resistances for the next precision roll against this creature.
-+ Does not stack. If target is already effected by a protective foresight, only the one with higher potency applies.
++ Does not stack. If target is already effected by a protective foresight, only the one with higher duration applies.
 
 ## Quickened
 - Movement speed is increased by (2 + P/3) meters.
-- If a quickened creature is also slowed, this status effect is half as effective. 
+- If a quickened creature is also slowed, this status effect is considered before slowed. 
 - Does not stack. If target is already quickened, only the one with higher potency applies.
 
 ## Regeneration
@@ -113,6 +114,7 @@
 ## Temporary Health
 + Increases health until the duration ends.
 + Affected by damage after armor.
++ An unconscious creature cannot regain consciousness from temporary health. 
 + Does not stack. If target already has temporary health, only larger the one applies.
 
 ## Temporary Magical Armor

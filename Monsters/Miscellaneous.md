@@ -7,7 +7,7 @@
 <tr>  
 <td><b>Health:</b> 40</td>  
 <td colspan="2"><b>Movement:</b> 3 meters</td>  
-<td><b>Initiative:</b> -1</td>  
+<td><b>Initiative:</b> -2</td>  
 </tr>
 <tr style="border-bottom: dashed 2px">
 <td><b>Potency:</b> 1</td> 

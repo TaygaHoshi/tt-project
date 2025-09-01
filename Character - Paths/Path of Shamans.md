@@ -53,7 +53,7 @@ Your *passage* and *banish* abilities last 2 rounds instead. You can dismiss the
 **Radius:** (5 + P/2) kilometers
 **Effect**
 	Think of an object that you know the current appearance of. If this object is within radius, you will know its direction and distance from you.
-	Alternatively, you can mark an object using this technique. This way, you will always know its direction and distance for 24 hours.
+	Alternatively, you can mark an object using this technique. When an object is marked this way, you will always know its direction and distance for 24 hours.
 
 ## Cleanse
 **Category:** Defense

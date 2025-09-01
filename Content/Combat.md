@@ -85,8 +85,8 @@ Movement speed of a creature is equal to:
 ### Flying
 + If a creature can fly, their flight speed is equal to their walking speed unless specified otherwise. 
 + Flight speed can be used vertically or horizontally. However, ascending takes up 3 flight speed per meter ascended.
-+ A flying creature can't use its walking speed unless they land.
-+ If a creature is flying, they are unaffected by any effects on the ground, unless the effect is tall enough to reach it.
++ A flying creature can't use its walking speed unless it lands.
++ Flying creatures are unaffected by effects on the ground unless the effect reaches their altitude.
 
 ### Rough Terrain
 + There are two kinds of rough terrain: light and heavy.
@@ -140,21 +140,21 @@ Some abilities, magic items or creatures may have health stealing effects. This 
 When a creature tries to steal health, the amount it gains is equal to the health loss of target. Unless specified otherwise, health stealing abilities use normal damage calculation. For example, if an ability steals 20 health and the target has 5 magical armor, the user of the ability would be healed for 15. 
 
 ## Death
-+ When a player character falls below 0 health, they are considered "unconscious".
++ When a player character falls below 1 health, they are considered "unconscious".
 + An unconscious character is considered prone.
 + If a player character takes damage equal to or more than double their base maximum health in total, they die immediately.
 + At the end phase of each round, unconscious characters make a death save roll against increased thresholds:
-	+ Death save rolls are calculated with this formula: (1d10 + level/2)
+	+ Death save rolls are calculated as (1d10 + level/2)
 	+ 1st round: 3
 	+ 2nd round: 5
 	+ 3rd round: 7
 	+ 4th round: 9
 + A character dies if they fail any of their death saves or when they reach their 5th consecutive round in unconscious state. 
-+ If a character is healed to at least 1 health during unconscious state, they become conscious again and they are considered prone.
++ If a character is healed to at least 1 health during unconscious state, they become conscious again and they are considered prone. Temporary health does not count as healing for this purpose.
 
 ## Adjacency
 + A creature is adjacent to another if there aren't any battle map squares between them. 
-+ Significant height difference between two creatures due to environmental factors may break adjacency. 
++ Significant height differences caused by the environment may break adjacency.
 
 ## Flanking
 + During battle, whenever a creature has two or more adjacent foes wielding melee weapons, it is considered flanked.
@@ -175,11 +175,11 @@ A significant difference in elevation affects projectile attacks' precision roll
 + Cover does not stack, only the highest applicable one is used.
 + If a creature is completely blocked from another's point of view, they are out of line of sight and can't be interacted with targeted attacks and techniques.
 + Abilities, techniques and attacks which affect an area may require hearing or sight:
-	+ Sounds can't pass rocks, deep water and similar materials.
-	+ Sounds can pass 1 meter of wood, metal, shallow water and other similar materials.
+	+ Sounds cannot pass through rocks, deep water, or similar materials.
+	+ Sounds can pass through up to 1 meter of wood, metal, shallow water, or similar materials.
 	+ Cover of any kind doesn't break line of sight.
-	+ Magical remote eyes and ears count as sight and hearing for the purposes of these kind of effects.
-	+ There may be magical effects which can break line of sight or block sounds.
+	+ Magical remote eyes and ears count as sight and hearing for these effects.
+	+ Some magical effects may break line of sight or block sounds.
 
 ## Falling Prone
 + A creature can go into prone voluntarily if they give up half of their base movement speed as a part of their movement during their turn.
@@ -187,6 +187,7 @@ A significant difference in elevation affects projectile attacks' precision roll
 + A prone creature has half cover against projectiles.
 + A prone creature has -2 to all resistances against abilities used within melee range, including projectiles.
 + A prone creature can only do their basic weapon attack, dealing half damage and ignoring weapon precision.
++ When a flying creature is stunned, immobilized, or falls prone, it loses up to 3 meters of altitude and takes 5 armor-ignoring damage if it collides with the ground or an object.
 
 ## Fall Damage
 + A character takes fall damage when they fall more than 5 meters.
@@ -195,9 +196,9 @@ A significant difference in elevation affects projectile attacks' precision roll
 
 ## Ambushes
 When the party ambushes or gets ambushed by one or more foes, the ambushed side is considered disadvantageous and they receive the following effects for the next round of combat:
-+ -2 penalty on initiative
-+ -1 penalty on all precision rolls
-+ -1 penalty on all resistances
++ -2 penalty to initiative
++ -1 penalty to all precision rolls
++ -1 penalty to all resistances
 
 ## Summoning
 + Summoner can control their minions during combat. A minion disappears immediately when its summoner dies.
@@ -210,8 +211,8 @@ When the party ambushes or gets ambushed by one or more foes, the ambushed side 
 When a creature transforms into another, several rules should be followed:
 + A creature can only use the abilities of what it transformed into, and its stats are set to the stats of the new form. Status effects or abilities with durations are unaffected by transforming. 
 + When returning to the original form, a creature's health is set to what it was before the transformation. Going below 0 health does not break the transformation. See: [[Combat#Death|death]].
-+ If a creature is unwillingly transformed during its own turn, the turn immediately ends.
-+ If the new form is too large or small for the environment, the creature takes 5 armor-ignoring damage and the transformation fails.
++ If a creature is unwillingly transformed during its own turn, this turn immediately ends.
++ If the new form cannot physically fit within the environment, the creature takes 5 armor-ignoring damage and the transformation fails.
 
 
 ## Mounted Combat
@@ -222,4 +223,4 @@ When a creature transforms into another, several rules should be followed:
 Conflicts between player characters should be resolved with words. However, sometimes arguments might escalate into fights, duels or even ambushes. In this case, rather than getting into combat, the GM may opt to use the simple method of PvP instead:
 1. Players split into teams or stay neutral.
 2. Each team rolls a d10 per player. The team that rolls the highest in total wins.
-3. A team may get up to a +2 bonus to its total roll if it has advantage over other teams.
+3. The GM may grant up to a +2 bonus to a team’s total if it has a clear situational advantage.

@@ -46,7 +46,7 @@
 **Requirements:** 
 	An unconscious creature within 1 meter.
 **Explanation:** 
-	Make a Healing skill roll against target creature against (3 + their current death save threshold).
+	Make a Healing skill roll for the target creature against (3 + their current death save threshold).
 	If you succeed, this creature is stabilized and it is considered successful on its death save rolls. 
 	This creature is returned back to 1 health.
 
@@ -63,7 +63,7 @@
 # Swap Weapons
 **Execution time:** Rapid action
 **Explanation:**
-	You swap your wielded weapon with a weapon in your inventory or on the ground below you. Only one weapon can be swapped this way every round. This action can be used for swapping items you can hold in a similar manner. If dual-wielding two light weapons, you can swap the weapons with each other.
+	You swap one of your wielded weapons with a weapon in your inventory or on the ground below you. Only one weapon can be swapped this way every round. This action can be used for swapping items you can hold in a similar manner. If dual-wielding two light weapons, you can swap the weapons with each other.
 
 # Drop Weapon
 **Execution time:** Special

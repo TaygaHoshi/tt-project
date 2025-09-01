@@ -12,6 +12,17 @@ A druid is always in harmony with the elements in their environment. When a drui
 Each location corresponds to exactly one element, and an effect gained from this ability lasts until the environment changes significantly.
 
 # Techniques
+## Burning Ground
+**Category:** Offense
+**Against:** Evasion
+**Execution Time:** Full-turn action
+**Cost:** 6 energy
+**Range:** 5 meters
+**Radius:** (1 + C/3) meters
+**Duration:** (1 + C/2) hits
+**Effect**
+	The ground turns into blazing embers within this technique's radius for 10 minutes. Make a precision roll against creatures ending their turns within this area. On success, a creature starts burning for the duration of this technique.
+
 ## Earthquake
 **Category:** Offense
 **Execution Time:** 5 minutes
@@ -72,17 +83,6 @@ Each location corresponds to exactly one element, and an effect gained from this
 	You generate a large and stationary rain cloud above you, and it starts to rain immediately. Any creature who starts or ends their turn in the area below this cloud is soaked for one round unless it has cover from rain.
 	Alternatively, you can choose to perform a wider and longer version of this technique. This requires 1 hour of uninterrupted casting. In this case, this rain cloud lasts for (2 + C/2) hours and affects a 50 meter radius area, which is considered a water environment for your element-enveloped ability.
 	This technique can only be used outside or interiors with sufficient space.
-
-## Burning Ground
-**Category:** Offense
-**Against:** Evasion
-**Execution Time:** Full-turn action
-**Cost:** 6 energy
-**Range:** 5 meters
-**Radius:** (1 + C/3) meters
-**Duration:** (1 + C/2) hits
-**Effect**
-	The ground turns into blazing embers within this technique's radius for 10 minutes. Make a precision roll against creatures ending their turns within this area. On success, a creature starts burning for the duration of this technique.
 
 ## Sprout
 **Category:** Offense

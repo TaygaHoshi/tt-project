@@ -34,17 +34,17 @@ Rituals of icon magic are techniques with two special properties:
 **Execution Time:** Rapid action
 **Cost:** 2 energy
 **Effect**
-	You can use this technique if you are currently performing a ritual. This ritual's radius is doubled, but lasts only (1 + C/2) rounds.
+	You can use this technique if you are currently performing a ritual. This ritual's radius is doubled, but lasts only for (1 + C/2) rounds.
 
 ## Manifest
 **Category:** Offense
 **Execution Time:** Full-turn action
 **Cost:** 6 energy
 **Radius:** (3 + C/3) meters
-**Duration:** (1 + C/4) rounds
+**Duration:** (1 + C/6) rounds
 **Effect**
 	This technique does not require precision rolls.
-	Summon a shadow of your icon on your current location for the duration. Creatures starting their turns within the radius take 10 magical damage and receive immobilized and fatigued for 1 round. 
+	Summon a shadow of your icon on your current location for the duration. Creatures starting their turns within the radius take 10 magical damage, fall prone and receive immobilized for 1 round. 
 	Creatures carrying totems of your icon are unaffected by this technique, but rituals around these totems immediately end. 
 
 ## Ritual of Empowering
@@ -59,13 +59,13 @@ Rituals of icon magic are techniques with two special properties:
 
 ## Ritual of Repulsion
 **Category:** Defense
-**Against:** Evasion
+**Against:** Constitution
 **Execution Time:** Full-turn action
 **Cost:** 6 energy
 **Radius:** (2 + C/4) meters
 **Duration:** 1 hour
 **Effect**
-	Your icon manifests an area of banishment. Make a precision roll against Constitution of any creature who end their turn within this area. If this roll succeeds, that creature is pushed (1 + P/4) meters away from the center of this area. 
+	Your icon manifests an area of banishment. Make a precision roll against any creature who end their turn within this area. If this roll succeeds, that creature is pushed (1 + P/4) meters away from the center of this area. 
 
 ## Ritual of Shrouding
 **Category:** Defense
@@ -92,12 +92,13 @@ Rituals of icon magic are techniques with two special properties:
 
 ## Ritual of Stagnation
 **Category:** Utility
+**Against:** Constitution
 **Execution Time:** Full-turn action
 **Cost:** 6 energy
 **Radius:** (2 + C/4) meters
 **Duration:** 1 hour
 **Effect**
-	A semi-transparent fog falls upon the area around your totem, weighing down creatures within radius. Make a precision roll against Constitution of any creature starting or ending their turn within this area. If this roll succeeds, the creature receives slowed and weakened defenses for 1 round. 
+	A semi-transparent fog falls upon the area around your totem, weighing down creatures within radius. Make a precision roll against any creature starting or ending their turn within this area. If this roll succeeds, the creature receives slowed and weakened defenses for 1 round. 
 
 ## Ritual of Unbreaking
 **Category:** Defense
@@ -107,5 +108,5 @@ Rituals of icon magic are techniques with two special properties:
 **Duration:** 1 hour
 **Effect**
 	This ritual does not require precision rolls.
-	Objects within the radius are enhanced with your icon's magic. Creatures starting their turns within the area gain 5 temporary physical armor for 1 round, while other objects become twice as resistant to damage and breaking.
+	Objects within the radius are enhanced with your icon's magic. Creatures starting their turns within the area gain 5 temporary physical armor for 1 round, while non-living objects become twice as resistant to damage and breaking.
 

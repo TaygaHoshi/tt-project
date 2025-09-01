@@ -33,7 +33,7 @@ Weapon attacks tagged (Passive) are passive abilities which work only when the w
 
 ## Warhorn
 + (Passive) Playing Horn
-	+ Allies who are unable to hear are not affected by your warhorn. 
+	+ Allies who can't hear you are not affected by your warhorn. 
 	+ Being stunned, falling or going prone, diving underwater or becoming unavailable to use techniques in any way stops the bonuses granted by this weapon. 
 + (Action) "Alacrity"
 	+ Allies within 5 meters gain a bonus (1 + P/4) to their initiative for (1 + C/4) rounds.
