@@ -57,9 +57,9 @@ This ability does not get any bonuses to its damage.
 
 ## Bane
 **Category:** Offense
-**Execution Time:** Full-turn action
-**Cost:** 2 energy
-**Duration:** (3 + C/2) rounds
+**Execution Time:** Action
+**Cost:** 3 energy
+**Duration:** (2 + C/2) rounds
 **Effect**
 	Enchant a weapon you can touch with the aura of the underworld for the duration.
 	If the weapon kills a creature, a spiritling of chaos is summoned for 2 rounds. The summoned spiritling shares your level, counts toward your summon limit, and takes its turn right after the weapon’s wielder. The wielder can command the spiritling to attack a creature as a rapid action.
@@ -72,7 +72,7 @@ This ability does not get any bonuses to its damage.
 **Radius:** (2 + P/3) meters
 **Duration:** (2 + C/3) rounds
 **Effect**
-	Create an area of darkness around you. This area is considered quarter cover and is light rough terrain. 
+	Create an area of darkness around you. This area is considered quarter cover and light rough terrain. 
 	Summon a spiritling of chaos next to each creature hostile to you within the radius up to a maximum of (2 + P/3) spiritlings for the duration. 
 	Spiritlings summoned by this technique share your level, do not count towards your summon limit, and attack the creature closest to them. 
 
