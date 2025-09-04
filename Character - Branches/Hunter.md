@@ -38,7 +38,7 @@ You can only have one prey at a time. Changing your designation to another creat
 **Range:** Weapon range
 **Effect**
 	You can choose to activate this ability as a part of a weapon attack against your prey. 
-	If the target is ambushed, flanked, or has a debilitating status effect, this attack has a +1 bonus to its precision rolls and ignores temporary armor. 
+	If the target is ambushed, flanked, prone or has a debilitating status effect, this attack has a +1 bonus to its precision rolls and ignores temporary armor. 
 
 ## Weak Point
 **Category:** Modification

@@ -1,45 +1,143 @@
 # One's Best Friend
-Instead of focusing on their personal growth, some choose to share their time, training and effort with their pets. While these people are sometimes called "masters", most of those specialized in this common branch of combat are, in actuality, "tamers" or even "summoners" depending on the nature of their pet.
+Instead of focusing on their personal growth, some choose to share their time, training and effort with their pets. While these people are sometimes called "masters", most of those specialized in this branch of combat are, in actuality, "tamers" or even "summoners" depending on the nature of their pet.
 
 ## Call Pet
 Choose a pet category when you take this branch from the list below. Your pet does not count toward your summon limit. It inherits your initiative order, level and aptitudes. It takes its turn right after you, and uses its basic weapon attack unless you tell it to do something else. When your pet falls below 1 health, it will run away and hide if possible. In this case, it will not be available for combat for (d4 + 4) hours. Otherwise, normal [[sigil-of-uchma/Content/Combat#Summoning|summoning rules]] apply.  
 Pets can take a variety of forms, but they fall into the main categories below:
 
-**Striker Pets**
-1. Base health: 30
-2. Walking speed: 6 meters
-3. Precision roll: d10 + level/2
-4. Resistances: Start with 5 and increase by 1 every odd level
-5. Basic weapon attack: 
-	Deals 15 physical/magical damage.
+<table style="width: 100%; max-width: 720px; border-style: inset;">
+<tr>
+<th>Striker Pet</th>
+<td colspan="3">Level x - Minion</td>
+</tr>
+<tr>  
+<td><b>Health:</b> 30</td>  
+<td colspan="3"><b>Movement:</b> 6 meters</td>
+</tr>
+<tr style="border-bottom: dashed 2px">
+<td><b>Potency:</b> inherited</td> 
+<td><b>Control:</b> inherited</td> 
+<td colspan="2"><b>Precision Roll:</b> d10 + level/2</td> 
+</tr>
+<tr>
+<td><b>Parry:</b> 5 + level/2</td>  
+<td><b>Warding:</b> 5 + level/2</td>  
+<td><b>Constitution:</b> 5 + level/2</td>  
+<td><b>Evasion:</b> 5 + level/2</td>  
+</tr>
+<tr style="border-bottom: solid 2px">  
+<td colspan="1"><b>Physical Armor:</b> 0</td>
+<td colspan="1"><b>Magical Armor:</b> 0</td>
+<td colspan="2"><b>Weapon:</b> Natural</td>
+</tr>
+<tr>
+<td colspan="4"><i>Strike</i> - Action, basic weapon attack
+Deals 15 physical or magical damage.
+</td>
+</tr>
+</table>
 
-**Tough Pets**
-1. Base health: 30
-2. Base armor: 5 physical and 5 magical
-3. Walking speed: 6 meters
-4. Precision roll: d10 + level/2
-5. Resistances: Start with 5 and increase by 1 every odd level
-6. Basic weapon attack: 
-	Deals 10 physical/magical damage.
+<table style="width: 100%; max-width: 720px; border-style: inset;">
+<tr>
+<th>Tough Pet</th>
+<td colspan="3">Level x - Minion</td>
+</tr>
+<tr>  
+<td><b>Health:</b> 30</td>  
+<td colspan="3"><b>Movement:</b> 6 meters</td>
+</tr>
+<tr style="border-bottom: dashed 2px">
+<td><b>Potency:</b> inherited</td> 
+<td><b>Control:</b> inherited</td> 
+<td colspan="2"><b>Precision Roll:</b> d10 + level/2</td> 
+</tr>
+<tr>
+<td><b>Parry:</b> 5 + level/2</td>  
+<td><b>Warding:</b> 5 + level/2</td>  
+<td><b>Constitution:</b> 5 + level/2</td>  
+<td><b>Evasion:</b> 5 + level/2</td>  
+</tr>
+<tr style="border-bottom: solid 2px">  
+<td colspan="1"><b>Physical Armor:</b> 5</td>
+<td colspan="1"><b>Magical Armor:</b> 5</td>
+<td colspan="2"><b>Weapon:</b> Natural</td>
+</tr>
+<tr>
+<td colspan="4"><i>Strike</i> - Action, basic weapon attack
+Deals 10 physical or magical damage.
+</td>
+</tr>
+</table>
 
-**Sharpshooter Pets**
-1. Base health: 20
-2. Walking speed: 6 meters
-3. Precision roll: d10 + level/2
-4. Resistances: Start with 5 and increase by 1 every odd level
-5. Basic weapon attack:
-	Range: 5 meters. 
-	Deals 15 physical/magical damage.
+<table style="width: 100%; max-width: 720px; border-style: inset;">
+<tr>
+<th>Sharpshooter Pet</th>
+<td colspan="3">Level x - Minion</td>
+</tr>
+<tr>  
+<td><b>Health:</b> 20</td>  
+<td colspan="3"><b>Movement:</b> 6 meters</td>
+</tr>
+<tr style="border-bottom: dashed 2px">
+<td><b>Potency:</b> inherited</td> 
+<td><b>Control:</b> inherited</td> 
+<td colspan="2"><b>Precision Roll:</b> d10 + level/2</td> 
+</tr>
+<tr>
+<td><b>Parry:</b> 5 + level/2</td>  
+<td><b>Warding:</b> 5 + level/2</td>  
+<td><b>Constitution:</b> 5 + level/2</td>  
+<td><b>Evasion:</b> 5 + level/2</td>  
+</tr>
+<tr style="border-bottom: solid 2px">  
+<td colspan="1"><b>Physical Armor:</b> 0</td>
+<td colspan="1"><b>Magical Armor:</b> 0</td>
+<td colspan="2"><b>Weapon:</b> Natural</td>
+</tr>
+<tr>
+<td colspan="4"><i>Strike</i> - Action, basic weapon attack, projectile
+Range: 5 meters.
+Deals 15 physical or magical damage.
+</td>
+</tr>
+</table>
 
-**Scout Pets**
-1. Base health: 20
-2. Walking speed: 8 meters
-	1. Alternatively, flying and walking speeds: 6 meters
-3. Precision roll: d10 + level/2
-4. Resistances: Start with 4 and increase by 1 every odd level, Evasion starts at 6 instead
-5. Wildbond techniques of utility or modification categories have a +1 to their precision rolls when performed by scout pets.
-6. Basic weapon attack:
-	Deals 5 armor-ignoring damage.
+<table style="width: 100%; max-width: 720px; border-style: inset;">
+<tr>
+<th>Scout Pet</th>
+<td colspan="3">Level x - Minion</td>
+</tr>
+<tr>  
+<td><b>Health:</b> 20</td>  
+<td colspan="3"><b>Movement:</b> Either 8 meters or 6 meters (flying)</td>
+</tr>
+<tr style="border-bottom: dashed 2px">
+<td><b>Potency:</b> inherited</td> 
+<td><b>Control:</b> inherited</td> 
+<td colspan="2"><b>Precision Roll:</b> d10 + level/2</td> 
+</tr>
+<tr>
+<td><b>Parry:</b> 4 + level/2</td>  
+<td><b>Warding:</b> 4 + level/2</td>  
+<td><b>Constitution:</b> 4 + level/2</td>  
+<td><b>Evasion:</b> 6 + level/2</td>  
+</tr>
+<tr style="border-bottom: solid 2px">  
+<td colspan="1"><b>Physical Armor:</b> 0</td>
+<td colspan="1"><b>Magical Armor:</b> 0</td>
+<td colspan="2"><b>Weapon:</b> Natural</td>
+</tr>
+<tr>
+<td colspan="4"><i>Scout Affinity</i> - Passive
+Wildbond techniques of utility or modification categories have a +1 to their precision rolls when performed by scout pets.
+</td>
+</tr>
+<tr>
+<td colspan="4"><i>Strike</i> - Action, basic weapon attack
+Deals 5 armor-ignoring damage.
+</td>
+</tr>
+</table>
 
 ---
 # Techniques
