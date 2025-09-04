@@ -145,7 +145,7 @@ Heals an ally for 5 health and applies protected for 1 round.
 <tr>
 <td colspan="4"><i>Divination</i> - Rapid action, technique
 Range: 5 meters.
-Grants an ally protective foresight (+1) for 1 round.
+Grants an ally protective foresight for 1 round.
 </td>
 </tr>
 </table>

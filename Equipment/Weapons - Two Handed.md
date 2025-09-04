@@ -27,7 +27,7 @@ Two handed weapons have three weapon attacks.
 	+ This attack's precision rolls are made against Evasion.
 	+ Ignores weapon precision.
 	+ Deals 15 physical damage.
-	+ Choose a direction: clockwise or counter-clockwise. Attack a target, then continue attacking the next creature in the direction you chose. You continue this until you complete a full rotation, or if there is an adjacent obstaclex such as a creature, blocking your spin.
+	+ Choose a direction: clockwise or counter-clockwise. Attack a target, then continue attacking the next creature in the direction you chose. You continue this until you complete a full rotation, or if there is an adjacent obstacle such as a creature, blocking your spin.
 + (Prepared action) Hilt Block
 	+ Range: 2 meters.
 	+ Next time a foe attempts to move into or within range, try to block them. If you succeed, the area within your weapon range is considered light rough terrain for that creature. 
