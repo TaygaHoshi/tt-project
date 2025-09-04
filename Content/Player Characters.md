@@ -111,7 +111,7 @@ Each player character can choose a starting equipment:
 + #TODO 
 
 ## Skills
-See: [[sigil-of-uchma/Content/Skills|Skills]]
+See: [[Skills|Skills]]
 Skills are miscellaneous abilities of a character.
 
 ---
