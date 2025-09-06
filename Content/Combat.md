@@ -83,8 +83,8 @@ Movement speed of a creature is equal to:
 + A running creature can't take actions, rapid actions, prepared actions or full-turn actions.
 
 ### Flying
-+ If a creature can fly, their flight speed is equal to their walking speed unless specified otherwise. 
-+ Flight speed can be used vertically or horizontally. However, ascending takes up 3 flight speed per meter ascended.
++ If a creature can fly, their walking speed is equal to half of their flying speed unless specified otherwise. 
++ Flying speed can be used vertically or horizontally. However, ascending for 1 meter requires 3 meters of flying speed per meter ascended.
 + A flying creature can't use its walking speed unless it lands.
 + Flying creatures are unaffected by effects on the ground unless the effect reaches their altitude.
 

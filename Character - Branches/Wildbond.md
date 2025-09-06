@@ -109,7 +109,7 @@ Deals 15 physical or magical damage.
 </tr>
 <tr>  
 <td><b>Health:</b> 20</td>  
-<td colspan="3"><b>Movement:</b> Either 8 meters or 6 meters (flying)</td>
+<td colspan="3"><b>Movement:</b> Either 8 meters (walking) or 6 meters (flying)</td>
 </tr>
 <tr style="border-bottom: dashed 2px">
 <td><b>Potency:</b> inherited</td> 

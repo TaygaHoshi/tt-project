@@ -63,7 +63,7 @@ This ability does not get any bonuses to its damage.
 **Effect**
 	Enchant a weapon you can touch with the aura of the underworld for the duration.
 	If the weapon kills a creature, a spiritling of chaos is summoned for 2 rounds. The summoned spiritling shares your level, counts toward your summon limit, and takes its turn right after the weapon’s wielder. The wielder can command the spiritling to attack a creature as a rapid action.
-	This technique can also be used on a weapon wielded by a creature within melee range.
+	This technique can also be used on a weapon wielded by an adjacent creature.
 
 ## Call Chaos
 **Category:** Offense

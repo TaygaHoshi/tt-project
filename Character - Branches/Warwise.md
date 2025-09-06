@@ -40,7 +40,7 @@ You can use this ability as a part of a damaging weapon attack by spending 1 ene
 ## Focused Defense
 **Category:** Defense
 **Execution Time:** Action
-**Cost:** 3 energy
+**Cost:** 4 energy
 **Duration:** 1 round
 **Effect**
 	Gain protective foresight, and 1 stack of protected per adjacent hostile creature for the duration. 
