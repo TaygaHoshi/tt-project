@@ -46,9 +46,8 @@
 + Does not stack. If target is already soaked, only the longer one applies.
 
 ## Stunned
-+ Reduces movement speed to 0.
-+ Target is unable to take any action.
-+ Applies a -3 penalty to Parry and Evasion.
++ A stunned creature is unable to take any action or run.
++ Applies a -2 penalty to Parry and Evasion.
 + Does not stack. If target is already stunned, only the longer one applies.
 
 ## Weakened Defenses
