@@ -31,7 +31,7 @@ When you start a new poem, you can choose to apply regeneration for 2 rounds.
 When you are singing a poem for an ally, this ally can pay half of the energy cost at the start of your turns. 
 
 ## Fade Out
-If you are upkeeping a poem, you can swap it with another poem without using a rapid action.
+If you are upkeeping a poem, you can swap it with another poem without using a rapid action at the start of your turns.
 
 ---
 # Techniques
@@ -60,7 +60,7 @@ If you are upkeeping a poem, you can swap it with another poem without using a r
 **Cost:** 2 energy per round
 **Range:** (2 + C/2) meters
 **Effect**
-	Target creature becomes agitated by your words and motions of slander, and becomes disoriented. Whenever this creature fails a precision roll, it takes 5 magical damage. Potency bonus to this technique's damage is halved. 
+	Target creature becomes agitated by your words and motions of slander, and becomes disoriented. Whenever this creature fails a precision roll, it takes 10 magical damage. Potency bonus to this technique's damage is halved. 
 
 ## Poem of Fury
 **Category:** Offense
@@ -84,7 +84,7 @@ If you are upkeeping a poem, you can swap it with another poem without using a r
 **Cost:** 2 energy per round
 **Range:** (2 + C/2) meters
 **Effect**
-	Whenever target creature succeeds a precision roll, they gain inspiration.
+	Once every round, target creature gains inspired on a successful precision roll. 
 
 ## Poem of Travelling
 **Category:** Offense

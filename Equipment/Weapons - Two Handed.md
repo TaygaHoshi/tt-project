@@ -3,17 +3,17 @@
 # Two Handed weapons
 Two handed weapons have three weapon attacks.
 
-| Weapon           | Damage | Weapon Precision | Range | Initiative Bonus |
-| ---------------- | :----: | :--------------: | :---: | :--------------: |
-| Glaive           |   30   |        0         |  2m   |                  |
-| Spear            |   25   |        1         |  2m   |                  |
-| Two-handed sword |   25   |        1         |  1m   |                  |
-| War hammer       |   20   |        0         |  1m   |                  |
-| Staff            |   20   |        1         |  10m  |                  |
-| Crossbow         |   25   |        1         |  10m  |                  |
-| Longbow          |   20   |        0         |  15m  |                  |
-| Shortbow         |   15   |        1         |  10m  |        +1        |
-| War drums        |   0    |        0         |  15m  |                  |
+| Weapon           | Damage | Weapon Precision | Range | Initiative |
+| ---------------- | :----: | :--------------: | :---: | :--------: |
+| Glaive           |   30   |        0         |  2m   |     0      |
+| Spear            |   25   |        1         |  2m   |     0      |
+| Two-handed sword |   25   |        1         |  1m   |     0      |
+| War hammer       |   20   |        0         |  1m   |     0      |
+| Staff            |   20   |        1         |  10m  |     0      |
+| Crossbow         |   25   |        1         |  10m  |     0      |
+| Longbow          |   20   |        0         |  15m  |     0      |
+| Shortbow         |   15   |        1         |  10m  |     +1     |
+| War drums        |   0    |        0         |  15m  |     0      |
 
 ---
 ## Glaive
@@ -63,7 +63,7 @@ Two handed weapons have three weapon attacks.
 	+ Deals 20 physical damage, ignoring physical armor up to 15.
 + Momentum Swing
 	+ This attack's precision rolls are made against Evasion.
-	+ Deals 5 armor-ignoring damage.
+	+ Deals 5 armor-ignoring damage. Potency bonus to this attack's damage is halved.
 	+ Hits all adjacent creatures, stunning the creatures you hit for 1 round.
 	+ These creatures are also pushed away for 1 meter.
 + (Prepared action) Fierce Slam 
@@ -94,8 +94,8 @@ Two handed weapons have three weapon attacks.
 	+ Deals 25 physical damage.
 + (Projectile) Piercing Shot
 	+ Range: 5 meters.
-	+ Hits a creature directly behind your target. 
-	+ Deals 10 armor-ignoring damage. 
+	+ Additionally its the next creature directly behind your target within range. 
+	+ Both attacks deal 10 armor-ignoring damage.
 + (Prepared action) Bash
 	+ Ignores weapon precision.
 	+ Attack the next foe who moves into, within or out of melee range.
@@ -131,8 +131,8 @@ Two handed weapons have three weapon attacks.
 + (Projectile) Multishot
 	+ Range: 10 meters.
 	+ Ignores weapon precision.
-	+ Deals 10 physical damage.
-	+ You attack the target twice.
+	+ Make two attacks, each dealing 10 physical damage.
+	+ You can target different creatures with each attack.
 + (Prepared action) Bash
 	+ Ignores weapon precision.
 	+ Attack the next foe who moves into, within or out of melee range.

@@ -29,7 +29,7 @@ Each location corresponds to exactly one element, and an effect gained from this
 **Cost:** 4 energy
 **Radius:** (20 + P) meters
 **Effect**
-	 This ability does not require any precision roll. 
+	 This ability does not require any precision rolls. 
 	 Create a small earthquake centered around you, making every non-flying and unsuspecting creature within radius fall prone. Small structures and similar constructs within radius, depending on their strength, become destroyed or damaged.
 
 ## Growth
@@ -113,8 +113,8 @@ Each location corresponds to exactly one element, and an effect gained from this
 **Radius:** 1 meter
 **Duration:** (2 + C/2) rounds
 **Effect**
-	Create an area of shifting, moving, waving and spiraling ground. Make a precision roll against any creature walking into or ending their turn within this area. On success, the creature falls prone.
-	This area is light rough terrain.
+	Create an area of shifting, moving, waving and spiraling ground. This area becomes light rough terrain. 
+	Make a precision roll against any creature walking into or ending their turn within this area. On success, the creature falls prone.
 
 ---
 # Summons

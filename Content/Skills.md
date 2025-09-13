@@ -4,9 +4,7 @@ Skills are miscellaneous abilities of a character, such as being able to hunt mo
 At any point, the GM might ask for a skill roll against a success threshold from a player. When making a skill roll, the following formula is used: 
 + 1d10 + skill value + bonuses
 
-Players gain a set amount of skill points on each level up, and they gain an additional point for every two aptitude points spent on *control*. A character can earn 20 SP from gaining levels and up to 5 SP from their *control* aptitude. This means a character can have up to 25 SP in total. 
-
-These points can be spent on a skill to increase its value by one. A skill can be increased only once per level. 
+Characters gain a set amount of skill points on each level up, and they gain an additional point for every two aptitude points spent on *control*. A character can earn 20 SP from gaining levels and up to 5 SP from their *control* aptitude. This means a character can have up to 25 SP in total. These points can be spent on a skill to increase its value by one. A skill can be increased only once per level. 
 
 Points gained per level are given in this table:
 

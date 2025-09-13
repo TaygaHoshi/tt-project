@@ -3,16 +3,16 @@
 # One Handed Weapons
 One handed weapons are divided into two: heavy weapons and light weapons. Light weapons can be wielded as an off-hand weapon. When you wield a light weapon with your off-hand, you can only use its prepared action. Conversely, prepared actions of light weapons can't be used while they are wielded with the main hand.
 
-| Weapon         | Damage | Weapon Precision | Range | Initiative Bonus |
-| -------------- | :----: | :--------------: | :---: | :--------------: |
-| Hatchet        |   25   |        0         |  1m   |                  |
-| Curved Sword   |   20   |        1         |  1m   |                  |
-| Throwing Spear |   20   |        0         |  1m   |                  |
-| Scepter        |   20   |        0         |  5m   |                  |
-| Wand           |   20   |        0         |  5m   |                  |
-| Shortsword     |   20   |        1         |  1m   |                  |
-| Dagger         |   15   |        1         |  1m   |        +1        |
-| Unarmed        |   10   |        1         |  1m   |        +1        |
+| Weapon         | Damage | Weapon Precision | Range | Initiative |
+| -------------- | :----: | :--------------: | :---: | :--------: |
+| Hatchet        |   25   |        0         |  1m   |     0      |
+| Curved Sword   |   20   |        1         |  1m   |     0      |
+| Throwing Spear |   20   |        0         |  1m   |     0      |
+| Scepter        |   20   |        0         |  5m   |     0      |
+| Wand           |   20   |        0         |  5m   |     0      |
+| Shortsword     |   20   |        1         |  1m   |     0      |
+| Dagger         |   15   |        1         |  1m   |     +1     |
+| Unarmed        |   10   |        1         |  1m   |     +1     |
 
 ---
 ## Hatchet (Heavy)

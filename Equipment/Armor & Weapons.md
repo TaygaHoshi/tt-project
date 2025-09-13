@@ -4,11 +4,11 @@ This equipment protects its wearer from physical and magical damage, depending o
 ## Armor Types and Armor Rating
 | Armor Type | Physical Armor | Magical Armor | Initiative | Walking Speed | Stealth |
 | ---------- | :------------: | :-----------: | :--------: | :-----------: | :-----: |
-| Unarmored  |                |               |     +2     |               |   +2    |
-| Robes      |                |       5       |     +1     |               |   +1    |
-| Light      |       5        |               |            |               |         |
-| Adventurer |       5        |       5       |            |      -1       |   -1    |
-| Heavy      |       10       |               |     -1     |      -2       |   -2    |
+| Unarmored  |       0        |       0       |     +2     |       0       |   +2    |
+| Robes      |       0        |       5       |     +1     |       0       |   +1    |
+| Light      |       5        |       0       |     0      |       0       |    0    |
+| Adventurer |       5        |       5       |     0      |      -1       |   -1    |
+| Heavy      |       10       |       0       |     -1     |      -2       |   -2    |
 
 ## Temporary Armor
 Additional armor can be gained through spells and abilities which grant temporary armor. Rules of temporary armor can be found in the [[Status Effects]] page.

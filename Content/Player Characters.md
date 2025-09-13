@@ -23,7 +23,7 @@ Branches determine a characters' branch abilities and half of their techniques. 
 ### Aptitudes
 A player character gains one aptitude point each level starting from level 1. Aptitude points can be spent on either Potency (P) or Control (C):
 + Potency (P) usually increases the strength of abilities, meanwhile
-+ Control (C) usually increases the duration and size of abilities.
++ Control (C) usually increases the duration, range and radius of abilities.
 
 ### Health
 Your path determines your base health. There are three tiers of maximum health:

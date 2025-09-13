@@ -40,19 +40,19 @@ You can use this ability as a part of a damaging weapon attack by spending 1 ene
 ## Focused Defense
 **Category:** Defense
 **Execution Time:** Action
-**Cost:** 4 energy
+**Cost:** 2 energy
 **Duration:** 1 round
 **Effect**
 	Gain protective foresight, and 1 stack of protected per adjacent hostile creature for the duration. 
 
 ## Disarm
-**Category:** Modification
+**Category:** Weapon attack
+**Against:** Parry
 **Execution Time:** Special
 **Cost:** 2 energy
-**Range:** Weapon range
+**Range:** 1 meter
 **Effect**
-	You can choose to activate this ability when you attempt a basic weapon attack.
-	This attack deals half damage after armor, but your target drops one of its weapons. This weapon falls below the target.
+	This attack deals 5 armor-ignoring damage, and your target drops one of its weapons. This weapon falls below the target.
 	This technique can't disarm natural weapons.
 
 ## Expose Weakness
