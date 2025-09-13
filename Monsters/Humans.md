@@ -101,7 +101,7 @@ Deals 10 physical damage.
 <table style="width: 100%; max-width: 720px; border-style: inset;">
 <tr>
 <th>Novice Shaman</th>
-<td colspan="3">Level 2 - Boss</td>
+<td colspan="3">Level 2 - Boss, minion</td>
 </tr>
 <tr style="border-bottom: solid 2px"><td colspan="4">To do: add lore</td></tr>
 <tr>  
@@ -375,9 +375,13 @@ For 1 round, the Ashik's target receives a -1 penalty to precision rolls and tak
 <td colspan="2"><b>Weapon:</b> Sword and shield</td>
 </tr>
 <tr>
+<td colspan="4"><i>Critical Training</i> - Passive
+If this fighter rolls an unmodified 9 or above with a precision roll for a damaging weapon attack, that attack gains a +5 bonus to its damage.
+</td>
+</tr>
+<tr>
 <td colspan="4"><i>Slash</i> - Action, basic weapon attack
 Deals 25 physical damage.
-If this attack misses, deals 5 physical damage instead.
 </td>
 </tr>
 <tr>
@@ -399,8 +403,7 @@ Applies slowed (-2) for 2 rounds.
 </td>
 </tr>
 <tr>
-<td colspan="4"><i>Charge</i> - Full-turn action, basic weapon attack
--1 penalty on precision roll.
+<td colspan="4"><i>Charge</i> - Full-turn action, weapon attack
 This fighter gains a +3 bonus to its movement speed, and charges at its target using its movement speed. Then, it attacks with slash.
 After charging, this fighter becomes fatigued for 1 round.
 </td>

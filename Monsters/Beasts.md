@@ -341,15 +341,15 @@ Touching the outer skin of this worm in any way applies 1 round of sickened (-3)
 <tr>
 <td colspan="4"><i>Bite</i> - Action, basic weapon attack
 Range: 2 meters.
-Deals 30 physical damage.
+Deals 35 physical damage.
 Does not trigger the passive ability Poisonous.
 </td>
 </tr>
 <tr>
 <td colspan="4"><i>Dig</i> - Full-turn action, technique
 This attack's precision rolls are made against Evasion.
-The worm dives into earth, moves through the ground for up to 5 meters, and rises from below.
-Any creature standing within the area where the worm rises take 10 physical damage and are thrown 5 meters in the air.
+The worm dives into earth, moves through the ground for up to 6 meters, and rises from below.
+Any creature standing within the area where the worm rises take 10 physical damage and are thrown 7 meters in the air.
 Triggers the passive ability Poisonous.
 </td>
 </tr>
