@@ -23,9 +23,44 @@
 Combat has rules for resolving various situations that players and the GM might come across.
 
 ## Battle Map
-A battle map is a grid of squares overlaid on top of a map, a sketch or a similar image depicting the location that the combat takes place in. Each square in a battle map is considered to be a 1 square meter area. Creatures such as [[Player Characters]] and [[Introduction to Monsters|Monsters]] can be represented with tokens or similar objects on this battle map.
+A battle map is a grid of squares overlaid on top of a map, a sketch or a similar image depicting the location that the combat takes place in. Each square in a battle map is a 1 square meter area. Creatures such as [[Player Characters]] and [[Introduction to Monsters|Monsters]] can be represented with tokens or similar objects on this battle map. Battle maps can be virtual or physical, depending on the medium of play.
 
-Battle maps can be virtual or physical, depending on the medium of play.
+### Distances on a Map
+Sigil of Uchma has two rule variations for calculating distances on a battle map:
+1) Game distance
+2) Simulation distance
+
+**Game distance**
+With this rule, one square of diagonal distance is treated the same as one square of orthogonal distance. As a result, movement and ability ranges form a cube-like area of effect. Unless specified otherwise, game distance is the default rule.
+
+**Simulation distance**
+This rule produces more realistic measurements and can be used if the additional tracking is acceptable. Here, diagonal movement alternates between 1 meter and 2 meters, causing movement and ability ranges to be more circular. This creates the same effect as counting two diagonal squares as equal to three orthogonal squares.
+
+## Movement
+During combat, a creature can move within the battle map grid for a distance up to its speed. There are various types of speeds used for different types of movement, which are explained below.
+
+Movement speed of a creature is equal to:
+	(base movement speed + other bonuses) squares/round 
+	**Base movement speed:** Most creatures have a base movement speed of 6 by default.
+
+### Walking
+* Walking is the simplest way of movement. a creature's walking speed is equal to its movement speed.
+
+### Running
++ Instead of taking an action, a creature might "walk" twice. This is called "running" and unless specified otherwise, it is equal to double the walking speed.
++ A running creature can't take actions, rapid actions, prepared actions or full-turn actions.
+
+### Flying
++ If a creature can fly, their walking speed is equal to half of their flying speed unless specified otherwise. 
++ Flying speed can be used vertically or horizontally. However, ascending for 1 meter requires 3 meters of flying speed per meter ascended.
++ A flying creature can't use its walking speed unless it lands.
++ Flying creatures are unaffected by effects on the ground unless the effect reaches their altitude.
+
+### Rough Terrain
++ There are two kinds of rough terrain: light and heavy.
+	+ Walking or running through light rough terrain such as soft sand or shallow water takes up 2 walking speed per meter walked.
+	+ Walking through heavy rough terrain such as quicksand takes up 3 walking speed per meter walked.
+	+ Swimming, climbing and crawling are considered heavy rough terrain.
 
 ## Action Types and Timing
 Each turn takes approximately 10 seconds in game.
@@ -49,51 +84,6 @@ Each turn takes approximately 10 seconds in game.
 
 ### Special Actions
 + These actions can be taken by any player character as long as they fulfil the requirements. See [[Special Actions|the list of special actions]].
-
-## Turn Order
-At the start phase of every round, turn order will be calculated for this round. There are several rules:
-+ Every creature in combat is ordered in terms of their initiative value from highest to lowest.
-+ Allies with same initiative value must determine who goes first beforehand. This can only be changed in the end phase during combat.
-+ If there are creatures with equal initiative in at least any two sides in the combat, the following rules are applied:
-	+ The conflicting sides roll 2d10 each.
-	+ For conflicting turn order spots, higher rolling teams' members will go earlier than the lower rolling teams' members with the same initiative.
-	+ If there is a draw, another set of 2d10s must be rolled between the drawing sides.
-
-A creature can only have one turn within one round, even if it is next in initiative order.
-
-## Ability Durations
-+ Effects of abilities with a duration of one or more "hits" trigger and end during the recipient's turns: 
-	+ If a creature is bleeding for one hit, they will take bleeding damage at the start of their next turn and the bleeding ends. 
-	+ If the bleeding has a duration of two or more hits, then one hit will be spent when the bleeding damage happens.
-+ Effects of abilities with a duration of one or more "rounds" end at the start of the turns of their owners.
-
-## Movement
-See: [[#Battle Map|Battle Maps]]
-During combat, a creature can move within the battle map grid. There are various types of moving, which are explained below.
-
-Movement speed of a creature is equal to:
-	(base movement speed + other bonuses) squares/round 
-	**Base movement speed:** Most creatures have a base movement speed of 6 by default.
-
-### Walking
-* Walking is the simplest way of movement. a creature's walking speed is equal to its movement speed, normally.
-
-### Running
-+ Instead of taking an action, a creature might "walk" twice. This is called "running" and unless specified otherwise, it is equal to double the walking speed.
-+ A running creature can't take actions, rapid actions, prepared actions or full-turn actions.
-
-### Flying
-+ If a creature can fly, their walking speed is equal to half of their flying speed unless specified otherwise. 
-+ Flying speed can be used vertically or horizontally. However, ascending for 1 meter requires 3 meters of flying speed per meter ascended.
-+ A flying creature can't use its walking speed unless it lands.
-+ Flying creatures are unaffected by effects on the ground unless the effect reaches their altitude.
-
-### Rough Terrain
-+ There are two kinds of rough terrain: light and heavy.
-	+ Walking or running through light rough terrain such as soft sand or shallow water takes up 2 walking speed per meter walked.
-	+ Walking through heavy rough terrain such as quicksand takes up 3 walking speed per meter walked.
-	+ Swimming, climbing and crawling are considered heavy rough terrain.
-
 
 ## Precision Rolls
 Precision rolls determine whether a weapon attack, a technique or any other ability succeeds against an unwilling target. A precision roll is done against a resistance, such as Parry or Evasion. If the result of this roll exceeds or is equal to the resistance it is rolled against, the roll succeeds and the technique or attack connects. 
@@ -138,6 +128,23 @@ On the other hand, bonus damage is just added into the delivering attack's damag
 Some abilities, magic items or creatures may have health stealing effects. This is always considered magical damage. 
 
 When a creature tries to steal health, the amount it gains is equal to the health loss of target. Unless specified otherwise, health stealing abilities use normal damage calculation. For example, if an ability steals 20 health and the target has 5 magical armor, the user of the ability would be healed for 15. 
+
+## Turn Order
+At the start phase of every round, turn order will be calculated for this round. There are several rules:
++ Every creature in combat is ordered in terms of their initiative value from highest to lowest.
++ Allies with same initiative value must determine who goes first beforehand. This can only be changed in the end phase during combat.
++ If there are creatures with equal initiative in at least any two sides in the combat, the following rules are applied:
+	+ The conflicting sides roll 2d10 each.
+	+ For conflicting turn order spots, higher rolling teams' members will go earlier than the lower rolling teams' members with the same initiative.
+	+ If there is a draw, another set of 2d10s must be rolled between the drawing sides.
+
+A creature can only have one turn within one round, even if it is next in initiative order.
+
+## Ability Durations
++ Effects of abilities with a duration of one or more "hits" trigger and end during the recipient's turns: 
+	+ If a creature is bleeding for one hit, they will take bleeding damage at the start of their next turn and the bleeding ends. 
+	+ If the bleeding has a duration of two or more hits, then one hit will be spent when the bleeding damage happens.
++ Effects of abilities with a duration of one or more "rounds" end at the start of the turns of their owners.
 
 ## Death
 + When a player character falls below 1 health, they are considered "unconscious".
