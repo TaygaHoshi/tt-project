@@ -37,59 +37,65 @@ If you are upkeeping a poem, you can swap it with another poem without using a r
 # Techniques
 ## Poem of Beauty
 **Category:** Utility
+**Against:** Warding
 **Execution Time:** Rapid action
 **Cost:** 1 energy per hour
-**Range:** (2 + C/2) meters
+**Range:** (2 + C/3) meters
 **Duration:** Special
 **Effect**
-	Target creature's appearance is improved, gaining a +1 bonus to its next social skill roll or meeting roll. 
+	Target creature's appearance is improved, gaining a +1 bonus to its social skill rolls and meeting rolls. 
 
-## Poem of Brutishness
+## Poem of Brutes
 **Category:** Defense
 **Against:** Warding
 **Execution Time:** Rapid action
 **Cost:** 3 energy per round
-**Range:** (2 + C/2) meters
+**Range:** (2 + C/3) meters
 **Effect**
-	Target creature can only use weapon attacks with their actions.
+	Target creature gains a +5 bonus to its damage from weapon attacks but cannot use any techniques.
 
 ## Poem of Humility
 **Category:** Defense
 **Against:** Warding
 **Execution Time:** Rapid action
 **Cost:** 2 energy per round
-**Range:** (2 + C/2) meters
+**Range:** (2 + C/3) meters
 **Effect**
-	Target creature becomes agitated by your words and motions of slander, and becomes disoriented. Whenever this creature fails a precision roll, it takes 10 magical damage. Potency bonus to this technique's damage is halved. 
+	Target creature becomes agitated by your words and motions of slander, and receives disoriented. Whenever this creature fails a precision roll, it takes 10 magical damage.
 
 ## Poem of Fury
 **Category:** Offense
+**Against:** Warding
 **Execution Time:** Rapid action
 **Cost:** 2 energy per round
 **Range:** (2 + C/2) meters
 **Effect**
-	Your magical poetry induces fury, might and courage within target creature; increasing its potency by 2. 
+	Your magical poetry induces fury, might and courage within the target creature; increasing its potency by 2. 
 
 ## Poem of Freedom
 **Category:** Defense
+**Against:** Warding
 **Execution Time:** Rapid action
-**Cost:** 2 energy per round
-**Range:** (2 + C/2) meters
+**Cost:** 3 energy per round
+**Range:** (2 + C/3) meters
 **Effect**
 	Target creature is unaffected by immobilized, slowed and stunned status effects.
 
 ## Poem of Praise
 **Category:** Offense
+**Against:** Warding
 **Execution Time:** Rapid action
-**Cost:** 2 energy per round
-**Range:** (2 + C/2) meters
+**Cost:** 3 energy per round
+**Range:** (2 + C/3) meters
 **Effect**
-	Once every round, target creature gains inspired on a successful precision roll. 
+	Once every round, target creature gains inspired and quickened on a successful precision roll. 
 
-## Poem of Travelling
-**Category:** Offense
+## Refrain
+**Category:** Utility
+**Against:** Warding
 **Execution Time:** Rapid action
-**Cost:** 2 energy per round
-**Range:** (2 + C/2) meters
+**Cost:** 2 energy
+**Range:** 5 meters
+**Duration:** 1 round
 **Effect**
-	Target creature becomes quickened. 
+	Target creature is unable to use a rapid action or a prepared action for the duration.

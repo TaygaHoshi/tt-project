@@ -14,14 +14,14 @@ Weapon attacks tagged (Passive) are passive abilities which work only when the w
 ---
 ## Shield
 + (Rapid action) Projectile Defense
-	+ You have quarter cover against physical projectile attacks until the start of your next turn.
+	+ You have quarter cover against physical projectile attacks for 1 round.
 + (Rapid action) Shield Bash
 	+ Ignores weapon precision.
 	+ Deals 5 physical damage. 
 
 ## Focus
 + (Rapid action) Projectile Defense
-	+ You have quarter cover against magical projectile attacks until the start of your next turn.
+	+ You have quarter cover against magical projectile attacks for 1 round.
 + (Projectile) (Rapid action) Focus Ray
 	+ Range: (2 + C/2) meters. 
 	+ Ignores weapon precision. 
@@ -33,9 +33,10 @@ Weapon attacks tagged (Passive) are passive abilities which work only when the w
 
 ## Warhorn
 + (Passive) Playing Horn
+	+ This weapon's abilities affect all allies who can hear you.
 	+ Allies who can't hear you are not affected by your warhorn. 
 	+ Being stunned, falling or going prone, diving underwater or becoming unavailable to use techniques in any way stops the bonuses granted by this weapon. 
 + (Action) "Alacrity"
-	+ Allies within 5 meters gain a bonus (1 + P/4) to their initiative for (1 + C/4) rounds.
+	+ Allies gain a +1 bonus to their initiative for (1 + C/3) rounds.
 + (Action) "Persistence"
-	+ Allies within 5 meters can ignore a debilitating status effect of their choosing for 1 round.
+	+ Choose a debilitating status effect. Allies are cured of this debilitating status effect.

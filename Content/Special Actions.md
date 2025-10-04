@@ -58,7 +58,7 @@
 **Effect**
 	This attack's precision roll is made against Constitution.
 	Ignores weapon precision.
-	This attack deals half damage after armor, but it also applies bleeding for 2 hits.
+	This attack deals half damage after armor, and applies bleeding for 2 hits.
 
 # Swap Weapons
 **Execution time:** Rapid action
@@ -87,8 +87,7 @@
 	A free main hand.
 **Explanation:**
 	Ignores weapon precision.
-	You retrieve the weapon stuck in the target.
-	This attack deals half damage as armor-ignoring damage.
+	You retrieve the weapon stuck in the target, dealing half damage as armor-ignoring damage.
 	This action is considered a basic weapon attack.
 
 # Use Item

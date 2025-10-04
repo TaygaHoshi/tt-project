@@ -3,17 +3,17 @@
 # Two Handed weapons
 Two handed weapons have three weapon attacks.
 
-| Weapon           | Damage | Weapon Precision | Range | Initiative |
-| ---------------- | :----: | :--------------: | :---: | :--------: |
-| Glaive           |   30   |        0         |  2m   |     0      |
-| Spear            |   25   |        1         |  2m   |     0      |
-| Two-handed sword |   25   |        1         |  1m   |     0      |
-| War hammer       |   20   |        0         |  1m   |     0      |
-| Staff            |   20   |        1         |  10m  |     0      |
-| Crossbow         |   25   |        1         |  10m  |     0      |
-| Longbow          |   20   |        0         |  15m  |     0      |
-| Shortbow         |   15   |        1         |  10m  |     +1     |
-| War drums        |   0    |        0         |  15m  |     0      |
+| Weapon           | Damage | Weapon Precision |     Range     | Initiative |
+| ---------------- | :----: | :--------------: | :-----------: | :--------: |
+| Glaive           |   30   |        0         |      2m       |     0      |
+| Spear            |   25   |        1         |      2m       |     0      |
+| Two-handed sword |   25   |        1         |      1m       |     0      |
+| War hammer       |   20   |        0         |      1m       |     0      |
+| Staff            |   20   |        1         |      10m      |     0      |
+| Crossbow         |   25   |        1         |      10m      |     0      |
+| Longbow          |   20   |        0         |      15m      |     0      |
+| Shortbow         |   15   |        1         |      10m      |     +1     |
+| War drums        |   0    |        0         | Hearing range |     0      |
 
 ---
 ## Glaive
@@ -140,11 +140,10 @@ Two handed weapons have three weapon attacks.
 
 ## War Drums
 + (Passive) Playing Drums
+	+ This weapon's abilities affect all allies who can hear you. 
 	+ Allies who are unable to hear are not affected by war drums. 
 	+ Being stunned, falling or going prone, diving underwater or becoming unavailable to use techniques in any way stops the bonuses granted by this weapon. 
-+ (Rapid action) "Empowering"
-	+ Radius: 10 meters. 
-	+ All other allies within radius gain a (5 + P/2) bonus to their damage with single target damaging abilities for 1 round. 
++ (Rapid action) "Empowering" 
+	+ Allies gain a (5 + P/2) bonus to their damage with single target damaging abilities for 1 round. 
 + (Rapid action) "Invigorating"
-	+ Radius: 10 meters. 
-	+ All other allies within radius gain (5 + C/2) temporary health for 1 round.
+	+ Allies gain (5 + C/2) temporary health for 1 round.

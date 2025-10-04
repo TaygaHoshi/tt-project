@@ -2,14 +2,28 @@
 Druids are not just "tree magicians" or "wild magicians", a powerful druid has control over each of the five elements the material world offers: earth, metal, fire, water and, of course, nature. This connection to the environment isn’t passive either: druids must constantly journey across the world, uncovering the countless ways these elements manifest. Earth can be fertile or barren; metal is hard but malleable to many shapes; fire scares animals but some worship it; water sustains life but has the power to flood entire cities; and nature is both nurturing and merciless.
 
 ## Element-enveloped
-A druid is always in harmony with the elements in their environment. When a druid spends more than an hour in an environment, they receive one of the following effects depending on where they are:
-1. *Earth:* Mountains, caves or underground. +1 bonus to Warding and Constitution.
-2. *Metal:* Settlements or large battlefields. (1 + P/2) bonus damage to physical attacks, once per turn.
-3. *Fire:* Deserts or volcanoes. (1 + P/2) bonus damage to magical attacks, once per turn.
-4. *Water:* Sea, rivers, rainy or snowy places. +1 bonus to Parry and Evasion.
-5. *Nature:* Woods, plains or forests. +1 bonus to precision rolls for druid techniques. 
+A druid is always in harmony with the elements in their environments. When a druid spends more than an hour in an environment, some of their techniques gain additional effects depending on where they are. Each location corresponds to exactly one element, and the harmony with an element lasts until the environment changes significantly.
 
-Each location corresponds to exactly one element, and an effect gained from this ability lasts until the environment changes significantly.
+**Earth**
++ Encompasses environments such as mountains, caves or underground.
++ Affects the techniques: earthquake, landshape and unsteady ground.
+
+**Metal**
++ Encompasses environments such as settlements or large battlefields.
++ Affects the techniques: lightning and metalskin.
+
+**Fire**
++ Encompasses environments such as deserts or volcanoes.
++ Affects the technique: burning ground.
+
+**Water**
++ Encompasses environments such as seas, rivers, beaches, rainy or snowy places.
++ Affects the technique: rain.
+
+**Nature**
++ Encompasses environments such as woods, plains or forests.
++ Affects the techniques: growth, sprout and thorns.
+
 
 # Techniques
 ## Burning Ground
@@ -21,7 +35,8 @@ Each location corresponds to exactly one element, and an effect gained from this
 **Radius:** (1 + C/3) meters
 **Duration:** (1 + C/2) hits
 **Effect**
-	The ground turns into blazing embers within this technique's radius for 10 minutes. Make a precision roll against creatures ending their turns within this area. On success, a creature starts burning for the duration of this technique.
+	The ground turns into blazing embers within radius for 10 minutes. Make a precision roll against creatures ending their turns within this area. On success, a creature starts burning for the duration.
+	While enveloped with the fire element, this area additionally deals 5 magical damage to creatures every meter they willingly move within it without requiring precision rolls.
 
 ## Earthquake
 **Category:** Offense
@@ -31,6 +46,7 @@ Each location corresponds to exactly one element, and an effect gained from this
 **Effect**
 	 This ability does not require any precision rolls. 
 	 Create a small earthquake centered around you, making every non-flying and unsuspecting creature within radius fall prone. Small structures and similar constructs within radius, depending on their strength, become destroyed or damaged.
+	 While enveloped with the earth element, this technique also deals 5 armor-ignoring damage to affected creatures.
 
 ## Growth
 **Category:** Utility
@@ -40,6 +56,7 @@ Each location corresponds to exactly one element, and an effect gained from this
 **Duration:** (7 + C) days
 **Effect**
 	You spread your powers wide; improving, curing and growing nearby plants slightly. Plant creatures within radius gain regeneration for the duration. 
+	While enveloped with the nature element, this technique grants 5 stacks of protected to plants and plant creatures for the duration.
 
 ## Landshape
 **Category:** Utility
@@ -49,6 +66,7 @@ Each location corresponds to exactly one element, and an effect gained from this
 **Duration:** (2 + C/2) hours
 **Effect**
 	You can vaguely guide the natural features of the geography around you to change shape. After half of this technique's duration has passed, the geography starts slowly returning to its original shape. While performing this technique, you can choose to spend double the energy cost instead. In this case, the technique requires 1 hour of uninterrupted casting but its effects stay permanent.  
+	While enveloped with the earth element, this technique's radius is increased by 1 and it lasts for (4 + C/2) hours instead.
 
 ## Lightning
 **Category:** Offense
@@ -59,8 +77,9 @@ Each location corresponds to exactly one element, and an effect gained from this
 **Duration:** (1 + C/2) hits
 **Effect**
 	(Projectile)
-	A powerful arc of lightning leaves your hand and strikes your target, dealing 5 magical damage and applying electrified for the duration. 
+	An arc of lightning leaves your hand and strikes your target, dealing 5 magical damage and applying electrified for the duration. 
 	If you fail the precision roll, the lightning hits the conductive object or soaked creature nearest you within your range and line of sight including yourself. In this case, it only applies 1 hit of electrified and deals no damage. 
+	While enveloped with the metal element, you shoot an additional arc of lightning which always fails its precision roll.
 
 ## Metalskin
 **Category:** Defense
@@ -70,8 +89,8 @@ Each location corresponds to exactly one element, and an effect gained from this
 **Duration:** (1 + C/2) rounds
 **Effect**
 	Skin of a creature you can touch becomes enhanced with the metal element, granting it (5 + P/2) temporary physical armor. Alternatively, you can spend 4 energy and grant double the temporary armor. 
-	This creature is unable to move while this technique is active. 
-	When this temporary armor breaks, it rusts away and the technique ends. It can be dismissed by you freely.
+	This creature is unable to move while this technique is active. When this temporary armor breaks, it rusts away and the technique ends. It can be dismissed by you freely.
+	While enveloped with the metal element, you can still move when you perform this technique on yourself.
 
 ## Rain
 **Category:** Utility
@@ -81,8 +100,9 @@ Each location corresponds to exactly one element, and an effect gained from this
 **Duration:** (2 + C/2) rounds
 **Effect**
 	You generate a large and stationary rain cloud above you, and it starts to rain immediately. Any creature who starts or ends their turn in the area below this cloud is soaked for one round unless it has cover from rain.
-	Alternatively, you can choose to perform a wider and longer version of this technique. This requires 1 hour of uninterrupted casting. In this case, this rain cloud lasts for (2 + C/2) hours and affects a 50 meter radius area, which is considered a water environment for your element-enveloped ability.
+	Alternatively, you can choose to perform a wider and longer version of this technique. This requires 1 hour of uninterrupted casting. In this case, this rain cloud lasts for (2 + C/2) hours and affects a 50 meter radius area, which is considered a water environment for your *element-enveloped* ability.
 	This technique can only be used outside or interiors with sufficient space.
+	While enveloped by the water element, this technique instead summons a storm. Once every 30 seconds, make a precision roll against evasion of any conductive object or soaked creature in the highest position without cover from rain. If you succeed, this creature is struck by lightning and receives 1 hit of electrified.
 
 ## Sprout
 **Category:** Offense
@@ -95,6 +115,7 @@ Each location corresponds to exactly one element, and an effect gained from this
 	Grow a stationary and autonomous plant, which shoots needles to your foes within radius, right after your turn.
 	A sprout summoned by this technique share your level, and attack the creature closest to them.
 	Sprouts you create do not count towards your summon limit, and you can have up to (1 + P/3) sprouts at any time.
+	While enveloped by the nature element, the sprout is summoned two levels higher.
 
 ## Thorns
 **Category:**  Offense
@@ -103,6 +124,7 @@ Each location corresponds to exactly one element, and an effect gained from this
 **Duration:** (1 + C/2) rounds
 **Effect**
 	Grow magical thorns on yourself for the duration. Whenever you are hit with a melee attack while these thorns are active, deal 5 magical damage to the attacker. 
+	While enveloped by the nature element, deal an additional 5 physical damage alongside the magical damage.
 
 ## Unsteady Ground
 **Category:**  Utility
@@ -115,6 +137,8 @@ Each location corresponds to exactly one element, and an effect gained from this
 **Effect**
 	Create an area of shifting, moving, waving and spiraling ground. This area becomes light rough terrain. 
 	Make a precision roll against any creature walking into or ending their turn within this area. On success, the creature falls prone.
+	While enveloped by the earth element, this area is heavy rough terrain instead.
+
 
 ---
 # Summons

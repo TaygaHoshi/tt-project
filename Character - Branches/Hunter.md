@@ -21,7 +21,7 @@ You can only have one prey at a time. Changing your designation to another creat
 **Cost:** 3 energy
 **Range:** Weapon range
 **Effect**
-	If your prey is at or below half health, deal 10 armor-ignoring damage. This damage is increased by 2 per harmful or debilitating status effect on your target.
+	If your prey is at or below half health, deal 10 armor-ignoring damage. This damage is increased by 2 per unique harmful or debilitating status effect on your target.
 	If you fail the precision roll, deal half that instead. 
 
 ## Readiness

@@ -96,9 +96,9 @@ Terms in this formula are explained below:
 	**Weapon precision bonus:** This bonus is determined by the type of the weapon held in main hand.
 	**Other bonuses:** These are bonuses or penalties which come from various sources like status effects, environment and the like.
 
-In some cases, a specific spell, an ability or an attack might include a precision bonus or penalty itself.
+In some cases, a specific spell, an ability or an attack might include a precision bonus or penalty itself. Moreover, some abilities may affect multiple targets. In this case, multiple precision rolls are required to determine which targets get affected by this ability.
 
-Some abilities may affect multiple targets. In this case, multiple precision rolls are required to determine which targets get affected by this ability.
+Unless specified otherwise, all of the resistances of non-living objects are zero.
 
 ## Damage
 When a creature takes damage, this damage value reduces their health. Damage done to a target is calculated according to this formula:

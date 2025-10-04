@@ -28,9 +28,6 @@ This skill lets characters recognize herbs, brew potions or poisons, and prepare
 ### Athletics
 This skill covers swimming, climbing, leaping, physical endurance or pain tolerance.
 
-### Deception
-This skill covers lying, persuasion, and adopting disguises to appear as someone else.
-
 ### Healing
 A character skilled in healing can treat simple illnesses, apply first aid and stabilize those near death.
 
@@ -48,9 +45,12 @@ This skill grants knowledge of historical events, ancient cultures, and religiou
 
 ### Magic Sense
 This skill lets characters detect traces of magic and understand the properties of magical places or objects.
- 
+
+### Persuasion
+This skill covers convincing, lying, deception, and adopting disguises to appear as someone else. 
+
 ### Reflexes 
-Characters skilled in reflexes can balance, move nimbly, and avoid traps or other sudden dangers.
+Characters skilled in reflexes can balance well and move nimbly. 
 
 ### Riding
 This skill covers guiding and controlling mounts, chariots, or other ridable creatures and vehicles.

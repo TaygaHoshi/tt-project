@@ -20,6 +20,7 @@ If you are in the vicinity of your icon, your totem stops functioning. Instead, 
 Rituals of icon magic are techniques with two special properties:
 1. You can have at most one ritual active at any time, and you can stop your rituals freely.
 2. Your rituals do not affect you, and creatures carrying totems of your icon, unless specified otherwise.
+3. Areas of effect of rituals are clearly visible, and followers of the same icon can tell which ritual is currently active from the appareance of this effect. 
 
 # Techniques
 ## Affect Self
@@ -39,7 +40,7 @@ Rituals of icon magic are techniques with two special properties:
 ## Manifest
 **Category:** Offense
 **Execution Time:** Full-turn action
-**Cost:** 6 energy
+**Cost:** 4 energy
 **Radius:** (3 + C/3) meters
 **Duration:** (1 + C/6) rounds
 **Effect**

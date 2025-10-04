@@ -34,7 +34,7 @@ This ability does not get any bonuses to its damage.
 # Techniques
 ## Absorption
 **Category:** Defense
-**Against:** Warding
+**Against:** Constitution
 **Execution Time:** Action
 **Cost:** 5 health
 **Range:** 5 meters
@@ -72,7 +72,7 @@ This ability does not get any bonuses to its damage.
 **Radius:** (2 + P/3) meters
 **Duration:** (2 + C/3) rounds
 **Effect**
-	Create an area of darkness around you. This area is considered quarter cover and light rough terrain. 
+	Create an area of darkness around you for the duration. This area is considered quarter cover and light rough terrain. 
 	Summon a spiritling of chaos next to each creature hostile to you within the radius up to a maximum of (2 + P/3) spiritlings for the duration. 
 	Spiritlings summoned by this technique share your level, do not count towards your summon limit, and attack the creature closest to them. 
 
@@ -90,7 +90,7 @@ This ability does not get any bonuses to its damage.
 **Execution Time:** Action
 **Cost:** Special
 **Range:** 5 meters
-**Duration:** 3 rounds
+**Duration:** (2 + C/3) rounds
 **Effect**
 	Mark up to (1 + P/2) creatures for the duration, spending 1 energy per creature marked. If a marked creature dies while affected, adjacent creatures take 10 magical damage without requiring precision rolls.
 
@@ -172,7 +172,7 @@ Diseased status effect does not spread to this spiritling.
 <tr>
 <td colspan="4"><i>Strike</i> - Action, basic weapon attack
 This attack's precision roll is made against Constitution. 
-Applies 1 hit of diseased.
+Applies 1 hit of diseased (5 damage).
 </td>
 </tr>
 </table>

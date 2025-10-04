@@ -81,7 +81,7 @@ When this vampire falls below 10 health, this ability is automatically triggered
 </tr>
 <tr>
 <td colspan="4"><i>Severing Strike</i> - Action, basic weapon attack
-This attack's precision roll is made against Constitution.
+This attack's precision roll is made against Parry.
 Deals 15 physical damage and applies bleeding (7 damage) for 2 hits.
 </td>
 </tr>
@@ -281,3 +281,54 @@ After charging, this yooha becomes fatigued for 1 round.
 </table>
 
 ---
+<table style="width: 100%; max-width: 720px; border-style: inset;">
+<tr>
+<th>Ghost</th>
+<td colspan="3">Level 5 - Minion</td>
+</tr>
+<tr style="border-bottom: solid 2px"><td colspan="4">To do: add lore</td></tr>
+<tr>  
+<td><b>Health:</b> 50</td>  
+<td colspan="2"><b>Movement:</b> 5 meters</td>  
+<td><b>Initiative:</b> -1</td>  
+</tr>
+<tr style="border-bottom: dashed 2px">
+<td><b>Potency:</b> 5</td> 
+<td><b>Control:</b> 0</td> 
+<td colspan="2"><b>Precision Roll:</b> d10 + 2</td> 
+</tr>
+<tr>
+<td><b>Parry:</b> 6</td>  
+<td><b>Warding:</b> 6</td>  
+<td><b>Constitution:</b> 9</td>  
+<td><b>Evasion:</b> 9</td>  
+</tr>
+<tr style="border-bottom: solid 2px">  
+<td colspan="1"><b>Physical Armor:</b> 20</td>
+<td colspan="1"><b>Magical Armor:</b> 0</td>
+<td colspan="2"><b>Weapon:</b> Unarmed</td>
+</tr>
+<tr>
+<td colspan="4"><i>Half Incorporeal</i> - Passive
+This monster's physical armor is ineffective when it is immobilized, stunned or prone.
+</td>
+</tr>
+<tr>
+<td colspan="4"><i>Strike</i> - Action, basic weapon attack
+Deals 15 physical damage and 15 magical damage. 
+</td>
+</tr>
+<tr>
+<td colspan="4"><i>Drain Energy</i> - Action, technique
+This technique's precision roll is made against Constitution.
+Reduces target's energy by 1. 
+</td>
+</tr>
+<tr>
+<td colspan="4"><i>Charge</i> - Full-turn action, basic weapon attack
+This technique's precision roll is made against Constitution.
+This ghost gains a +3 bonus to its movement speed, and charges at its target using its movement speed. Then, it attacks with strike.
+After charging, this ghost becomes fatigued for 1 round.
+</td>
+</tr>
+</table>

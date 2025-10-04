@@ -224,7 +224,7 @@ Deals 10 physical damage.
 <tr style="border-bottom: solid 2px">  
 <td colspan="1"><b>Physical Armor:</b> 0</td>
 <td colspan="1"><b>Magical Armor:</b> 5</td>
-<td colspan="2"><b>Weapon:</b> Daggers</td>
+<td colspan="2"><b>Weapon:</b> Dagger</td>
 </tr>
 <tr>
 <td colspan="4"><i>Slash</i> - Action, basic weapon attack
@@ -393,7 +393,7 @@ Applies exposed (5 damage) and cracked armor for 2 rounds.
 </tr>
 <tr>
 <td colspan="4"><i>Shield Bash</i> - Rapid action, weapon attack
-Deals 5 physical damage.
+Deals 10 physical damage.
 </td>
 </tr>
 <tr>

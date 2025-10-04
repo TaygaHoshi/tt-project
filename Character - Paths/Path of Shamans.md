@@ -57,6 +57,7 @@ Your *passage* and *banish* abilities last 2 rounds instead. You can dismiss the
 
 ## Cleanse
 **Category:** Defense
+**Against:** Warding
 **Execution Time:** Rapid action
 **Cost:** 2 energy
 **Range:** 3 meters
@@ -65,6 +66,7 @@ Your *passage* and *banish* abilities last 2 rounds instead. You can dismiss the
 
 ## Divination
 **Category:** Utility
+**Against:** Warding
 **Execution Time:** Rapid action
 **Cost:** 2 energy
 **Range:** 5 meters
@@ -84,6 +86,7 @@ Your *passage* and *banish* abilities last 2 rounds instead. You can dismiss the
 
 ## Heal Creatures
 **Category:** Defense
+**Against:** Evasion
 **Execution Time:** Full-turn action
 **Cost:** 2 energy
 **Range:** 3 meters
@@ -99,6 +102,7 @@ Your *passage* and *banish* abilities last 2 rounds instead. You can dismiss the
 
 ## Protect Creature
 **Category:** Defense
+**Against:** Warding
 **Execution Time:** Action
 **Cost:** 2 energy
 **Range:** 5 meters
