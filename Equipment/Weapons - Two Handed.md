@@ -51,12 +51,12 @@ Two handed weapons have three weapon attacks.
 ## Two-handed Sword
 + Slash
 	+ Deals 25 physical damage.
-+ Half Swording
++ Half-swording
 	+ This attack's precision roll is done against Evasion.
 	+ Ignores weapon precision.
 	+ Deals 20 physical damage, ignoring physical armor up to 10.
 + (Prepared action) Defensive Stance
-	+ You have a (1 + P/3) bonus to Parry against the next physical attack.
+	+ You have a +1 bonus to Parry against the next physical damaging ability used against you.
 
 ## War Hammer
 + Smash
@@ -81,8 +81,8 @@ Two handed weapons have three weapon attacks.
 	+ Choose a 2 meters by 2 meters area. You create a spherical magical shield there.
 	+ This shield acts like half cover against projectiles passing through it and lasts for 1 round.
 	+ Projectiles shot from creatures inside this shield are unaffected by it. 
-+ (Prepared action) Magic Guard
-	+ You have a (1 + P/3) bonus to Warding against the next magical ability used against you.
++ (Prepared action) Deflection
+	+ You have a +1 bonus to Warding against the next magical damaging ability used against you.
 
 ## Crossbow
 + (Passive) Unsteady Aiming
@@ -94,7 +94,8 @@ Two handed weapons have three weapon attacks.
 	+ Deals 25 physical damage.
 + (Projectile) Piercing Shot
 	+ Range: 5 meters.
-	+ Additionally its the next creature directly behind your target within range. 
+	+ This attack's precision rolls are made against Evasion.
+	+ Additionally attack the next creature directly behind your target within range. 
 	+ Both attacks deal 10 armor-ignoring damage.
 + (Prepared action) Bash
 	+ Ignores weapon precision.

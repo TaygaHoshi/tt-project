@@ -88,8 +88,8 @@ One handed weapons are divided into two: heavy weapons and light weapons. Light 
 	+ Deals 10 physical damage.
 	+ You attack the target twice.
 + (Prepared action) Backstab
-	+ Next time a flanked foe within your reach is attacked by an ally, you also attack them.
-	+ Deals 10 physical damage.
+	+ Next time a foe you are flanking is attacked, you also attack them.
+	+ Deals 15 physical damage. 
 
 ## Unarmed (Light)
 + Punch
