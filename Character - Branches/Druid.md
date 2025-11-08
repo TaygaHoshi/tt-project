@@ -31,11 +31,11 @@ A druid is always in harmony with the elements in their environments. Each locat
 
 ## Cycle of Suppression
 By spending 1 energy when using an ability that uses the element you are enveloped in, you may invert your harmony, treating yourself as enveloped in the element it suppresses instead.
-- Earth -> Water
-- Metal -> Nature
-- Fire -> Metal
-- Water -> Fire
-- Nature -> Earth 
+- *Earth* -> Water
+- *Metal* -> Nature
+- *Fire* -> Metal
+- *Water* -> Fire
+- *Nature* -> Earth 
 
 # Techniques
 ## Cycle of Cultivation
@@ -45,11 +45,11 @@ By spending 1 energy when using an ability that uses the element you are envelop
 **Effect**
 	You can choose to activate this technique as a part of your *cycle of suppression* ability.
 	Instead of inverting your harmony with the primary element in the environment, you can promote it with another element:
-	Earth -> Metal
-	Metal -> Water
-	Fire -> Earth
-	Water -> Nature
-	Nature -> Fire 
+	*Earth* -> Metal
+	*Metal* -> Water
+	*Fire* -> Earth
+	*Water* -> Nature
+	*Nature* -> Fire 
 
 ## Elemental Armor
 **Category:** Defense
@@ -70,11 +70,11 @@ By spending 1 energy when using an ability that uses the element you are envelop
 **Duration:** (2 + C/2) rounds
 **Effect**
 	Infuse an area with the element you are enveloped in, creating an effect depending on the element:
-	Earth: The ground starts shifting, waving and spiralling. Make a precision roll against creatures walking into or ending their turn within this area. On success, the creature falls prone.
-	Metal: The ground grows spikes. Make a precision roll against creatures walking into this area. On success, the creature takes a combined 5 physical damage per meter they moved within this area at the end of its turn.
-	Fire: The ground turns into blazing embers. Make a precision roll against creatures walking into or ending their turn within this area. On success, the creature starts burning for 2 hits.
-	Water: The ground turns into mud. This area is heavy rough terrain.
-	Nature: The ground grows vines, branches, and tall blades of grass. Make a precision roll against creatures walking into or ending their turn within this area. On success, the creature is immobilized for 1 round.
+	*Earth:* The ground starts shifting, waving and spiralling. Make a precision roll against creatures walking into or ending their turn within this area. On success, the creature falls prone.
+	*Metal:* The ground grows spikes. Make a precision roll against creatures walking into this area. On success, the creature takes a combined 5 physical damage per meter they moved within this area at the end of its turn.
+	*Fire:* The ground turns into blazing embers. Make a precision roll against creatures walking into or ending their turn within this area. On success, the creature starts burning for 2 hits.
+	*Water:* The ground turns into mud. This area is heavy rough terrain.
+	*Nature:* The ground grows vines, branches, and tall blades of grass. Make a precision roll against creatures walking into or ending their turn within this area. On success, the creature is immobilized for 1 round.
 
 ## Elemental Storm
 **Category:** Utility
@@ -84,11 +84,11 @@ By spending 1 energy when using an ability that uses the element you are envelop
 **Duration:** (2 + C/2) rounds
 **Effect**
 	You create a large and stationary weather event around you. Any creature who starts or ends their turn within this area are affected by the event without requiring precision rolls unless they have cover from weather. This technique can only be used outside or interiors with sufficient space.
-	Earth: Sandstorm. Creatures within this area are considered to have quarter cover.
-	Metal: Thunderstorm. Affected creatures are electrified for 1 hit.
-	Fire: Meteor storm. Affected creatures are burning for 1 hit.
-	Water: Rain. Affected creatures are soaked for 1 round.
-	Nature: Pollen storm. Affected creatures are diseased for 1 hit.
+	*Earth:* Sandstorm. Creatures within this area are considered to have quarter cover.
+	*Metal:* Thunderstorm. Affected creatures are electrified for 1 hit.
+	*Fire:* Meteor storm. Affected creatures are burning for 1 hit.
+	*Water:* Rain. Affected creatures are soaked for 1 round.
+	*Nature:* Pollen storm. Affected creatures are diseased for 1 hit.
 	Alternatively, you can choose to perform a wider and longer version of this technique. This costs double energy and requires 1 hour of uninterrupted casting. In this case, this weather event lasts for (2 + C/2) hours and affects a 50 meter radius area.
 
 ## Elemental Weapon
