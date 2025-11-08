@@ -109,17 +109,19 @@ By spending 1 energy when using an ability that uses the element you are envelop
 **Duration:** (1 + C/3) rounds
 **Effect**
 	You can move up to your movement speed. As you move, you leave a trail of fire behind the squares you pass through. This trail stays alight for the duration, and it deals 10 magical damage whenever a creature steps into a burning square. Potency bonus to this technique's damage is halved.
+	If you are enveloped in fire element, this technique additionally affects squares adjacent to you when you finish your movement.
 
 ## Ice Shards
 **Category:** Offense 
 **Against:** Warding
 **Execution Time:** Action
 **Cost:** 2 energy
-**Duration:** (1 + C/2) hits
+**Duration:** (1 + C/3) hits
 **Effect**
 	(Projectile)
 	Shoot two shards of ice at the target creature. Each shard deals 5 magical damage. Potency bonus to this technique's damage is halved.
 	if both shards hit, target is frostbitten for the duration.
+	If you are enveloped in water element, you shoot three shards instead of two. Apply frostbitten if at least two shards hit.
 
 ## Landshape
 **Category:** Utility
@@ -129,14 +131,16 @@ By spending 1 energy when using an ability that uses the element you are envelop
 **Duration:** (2 + C/2) hours
 **Effect**
 	You can vaguely guide the natural features of the geography around you to change shape. After half of this technique's duration has passed, the geography starts slowly returning to its original shape. While performing this technique, you can choose to spend double the energy cost instead. In this case, the technique requires 8 hours of uninterrupted casting but its effects stay permanent.
+	If you are enveloped in earth element, its radius increases by 1 meters and it costs only 2 hours of uninterrupted casting for permanency.
 
 ## Metalskin
 **Category:**  Offense
 **Execution Time:** Action
 **Cost:** 2 energy
-**Duration:** (1 + C/2) rounds
+**Duration:** (2 + C/2) rounds
 **Effect**
-	Your skin becomes spiky and thorny for the duration. Whenever you are hit with a melee attack while these thorns are active, deal 5 physical damage to the attacker. 
+	Your skin becomes spiky and thorny for the duration. Whenever you are hit with a melee attack while these thorns are active, deal 5 physical damage to the attacker without requiring precision rolls. 
+	If you are enveloped in metal element, this ability deals armor-ignoring damage instead.
 
 ## Sprout
 **Category:** Offense
@@ -149,6 +153,7 @@ By spending 1 energy when using an ability that uses the element you are envelop
 	Grow a stationary and autonomous plant, which shoots needles to your foes within radius, right after your turn.
 	A sprout summoned by this technique shares your level, and attack the creature closest to them.
 	Sprouts you create do not count towards your summon limit, and you can have up to (1 + P/3) sprouts at any time.
+	If you are enveloped in nature element, your sprout is summoned two levels higher and has 20 health instead of 10.
 
 
 ---
