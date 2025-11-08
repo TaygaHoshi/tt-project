@@ -116,6 +116,7 @@ By spending 1 energy when using an ability that uses the element you are envelop
 **Against:** Warding
 **Execution Time:** Action
 **Cost:** 2 energy
+**Range:** 5 meters
 **Duration:** (1 + C/3) hits
 **Effect**
 	(Projectile)
@@ -131,7 +132,7 @@ By spending 1 energy when using an ability that uses the element you are envelop
 **Duration:** (2 + C/2) hours
 **Effect**
 	You can vaguely guide the natural features of the geography around you to change shape. After half of this technique's duration has passed, the geography starts slowly returning to its original shape. While performing this technique, you can choose to spend double the energy cost instead. In this case, the technique requires 8 hours of uninterrupted casting but its effects stay permanent.
-	If you are enveloped in earth element, its radius increases by 1 meters and it costs only 2 hours of uninterrupted casting for permanency.
+	If you are enveloped in earth element, this technique's radius increases by 1 meters and it costs only 2 hours of uninterrupted casting for permanency.
 
 ## Metalskin
 **Category:**  Offense
@@ -150,7 +151,7 @@ By spending 1 energy when using an ability that uses the element you are envelop
 **Radius:** (2 + C/2) meters
 **Duration:** 5 minutes
 **Effect**
-	Grow a stationary and autonomous plant, which shoots needles to your foes within radius, right after your turn.
+	Grow a stationary and autonomous plant, which shoots needles to your foes within radius.
 	A sprout summoned by this technique shares your level, and attack the creature closest to them.
 	Sprouts you create do not count towards your summon limit, and you can have up to (1 + P/3) sprouts at any time.
 	If you are enveloped in nature element, your sprout is summoned two levels higher and has 20 health instead of 10.
@@ -165,8 +166,9 @@ By spending 1 energy when using an ability that uses the element you are envelop
 </tr>
 <tr style="border-bottom: solid 2px"><td colspan="4">To do: add lore</td></tr>
 <tr>  
-<td colspan="2"><b>Health:</b> 10</td> 
+<td colspan="1"><b>Health:</b> 10</td> 
 <td colspan="2"><b>Movement:</b> immobile</td>
+<td colspan="1"><b>Initiative:</b> 0</td>
 </tr>
 <tr style="border-bottom: dashed 2px">
 <td><b>Potency:</b> equal to level</td> 
@@ -196,4 +198,3 @@ Applies 2 hits of bleeding.
 </td>
 </tr>
 </table>
- 

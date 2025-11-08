@@ -63,7 +63,7 @@ Movement speed of a creature is equal to:
 	+ Swimming, climbing and crawling are considered heavy rough terrain.
 
 ## Action Types and Timing
-Each turn takes approximately 10 seconds in game.
+Each round takes approximately 10 seconds in game.
 
 ### Action
 + These are regular actions. Mostly, only one action can be taken during a turn.
