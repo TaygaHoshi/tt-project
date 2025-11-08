@@ -37,6 +37,6 @@ Weapon attacks tagged (Passive) are passive abilities which work only when the w
 	+ Allies who can't hear you are not affected by your warhorn. 
 	+ Being stunned, falling or going prone, diving underwater or becoming unavailable to use techniques in any way stops the bonuses granted by this weapon. 
 + (Action) "Alacrity"
-	+ Allies gain a +1 bonus to their initiative for (1 + C/3) rounds.
+	+ Allies within range gain quickened and a +1 bonus to their initiative for (1 + C/4) rounds.
 + (Action) "Persistence"
 	+ Choose a debilitating status effect. Allies are cured of this debilitating status effect.

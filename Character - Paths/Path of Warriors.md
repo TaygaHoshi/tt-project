@@ -40,7 +40,7 @@ Instead of gaining bonus damage, you can choose to apply exposed for 1 round.
 **Execution Time:** Special
 **Cost:** 1 energy
 **Effect**
-	You can choose to activate this ability as a part of a basic weapon attack.
+	You can choose to activate this technique as a part of a basic weapon attack.
 	This attack gains a +5 bonus to its damage, but receives a -2 penalty to its precision rolls.
 
 ## Crushing Charge
@@ -113,7 +113,7 @@ Instead of gaining bonus damage, you can choose to apply exposed for 1 round.
 **Cost:** 2 energy
 **Duration:** (1 + C/2) rounds
 **Effect**
-	For the duration of this technique, you gain 5 temporary health and can't fall prone or be moved unwillingly.
+	For the duration of this technique, you gain 5 temporary health and surefooted.
 
 ## Tackle
 **Category:** Weapon attack

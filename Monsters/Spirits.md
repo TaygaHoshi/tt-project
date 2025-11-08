@@ -1,6 +1,4 @@
-Spirits are guardians of the earth. 
 
----
 <table style="width: 100%; max-width: 720px; border-style: inset;">
 <tr>
 <th>Lesser Fire Spirit</th>

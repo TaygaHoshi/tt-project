@@ -1,4 +1,5 @@
 # Debilitating Effects
+Debilitating status effects have durations in terms of rounds or longer. 
 
 ## Blinded
 + Reduces line of sight to 1 meter. 
@@ -56,6 +57,7 @@
 
 ---
 # Harming Effects
+Harming status effects have durations in terms of hits or longer. 
 ## Bleeding
 + Applies 5 armor-ignoring damage per hit.
 + Does not stack. If target is already bleeding, only the one with higher damage applies.
@@ -81,6 +83,8 @@
 
 ---
 # Supportive Effects
+Supportive status effects have durations in terms of rounds or longer. 
+
 ## Inspired
 - Once, the creature can choose to spend this status effect to gain one of the following bonuses:
 	- A 1d2 bonus to one precision roll
@@ -107,8 +111,12 @@
 - Does not stack. If target is already quickened, only the one with higher potency applies.
 
 ## Regeneration
-- Heals for (2 + P/3) per hit.
+- Heals for (2 + P/2) per hit.
 - Does not stack. If target is already regenerating, only the one with higher potency applies.
+
+## Surefooted
+- Can't fall prone or be moved unwillingly.
+- Does not stack. If target is already surefooted, only the one with higher duration applies.
 
 ## Temporary Health
 + Increases health until the duration ends.

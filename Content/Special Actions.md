@@ -57,7 +57,6 @@
 	Any melee weapon in main hand.
 **Effect**
 	This attack's precision roll is made against Constitution.
-	Ignores weapon precision.
 	This attack deals half damage after armor, and applies bleeding for 2 hits.
 
 # Swap Weapons
