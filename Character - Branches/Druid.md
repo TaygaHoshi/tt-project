@@ -44,7 +44,7 @@ By spending 1 energy when using an ability that uses the element you are envelop
 **Cost:** 1 energy
 **Effect**
 	You can choose to activate this technique as a part of your *cycle of suppression* ability.
-	Instead of inverting your harmony with the primary element in the environment, you can promote it with another element:
+	Instead of inverting your harmony with the primary element in the environment, you can promote it with another element, treating yourself as enveloped in that element instead:
 	*Earth* -> Metal
 	*Metal* -> Water
 	*Fire* -> Earth
@@ -58,7 +58,7 @@ By spending 1 energy when using an ability that uses the element you are envelop
 **Cost:** 2 energy
 **Duration:** (1 + C/2) rounds or hits
 **Effect**
-	Exterior of a creature you can touch becomes enhanced with the element you are enveloped in, granting it the matching benevolent status effect and applying immobilized for the duration.
+	Exterior of a creature you can touch becomes enhanced with the element you are enveloped in, granting it the matching benevolent status effect for the duration and applying immobilized for 1 round.
 
 ## Elemental Ground
 **Category:**  Utility

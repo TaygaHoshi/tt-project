@@ -43,7 +43,8 @@ Your *passage* and *banish* abilities last 2 rounds instead. You can dismiss the
 **Cost:** 6 energy per hour
 **Duration:** Up to (1 + C/4) hours
 **Effect**
-	While you are meditating, your soul leaves your physical body behind and can move separately. In this form, you gain 20 meters of flying speed, become immune to status effects and you are invisible to all creatures except those who follow the path of shamans. However, you are unable enter areas magically protected against souls. You can willingly return to body at any time.
+	While you are meditating, your soul leaves your physical body behind and can move separately. In this form, you have 20 meters of flying speed, become immune to status effects and are invisible to all creatures except those who can see souls. You can willingly return to body at any time.
+	In this form you are unable enter areas magically protected against souls. 
 	If your body takes any type of damage, you are immediately return to your body and become stunned for 1 round. 
 
 ## Clairvoyance

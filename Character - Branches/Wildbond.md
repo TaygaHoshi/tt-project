@@ -2,7 +2,8 @@
 Instead of focusing on their personal growth, some choose to share their time, training and effort with their pets. While these people are sometimes called "masters", most of those specialized in this branch of combat are, in actuality, "tamers" or even "summoners" depending on the nature of their pet.
 
 ## Call Pet
-Choose a pet category when you take this branch from the list below. Your pet does not count toward your summon limit. It inherits your initiative order, level and aptitudes. It takes its turn right after you, and uses its basic weapon attack unless you tell it to do something else. When your pet falls below 1 health, it will run away and hide if possible. In this case, it will not be available for combat for (d4 + 4) hours. Otherwise, normal [[sigil-of-uchma/Content/Combat#Summoning|summoning rules]] apply.  
+Choose a pet category and a damage type (physical or magical) when you take this branch from the list below. Your pet does not count toward your summon limit. It inherits your initiative order, level and aptitudes. It takes its turn right after you, and uses its basic weapon attack unless you tell it to do something else. When your pet falls below 1 health, it will run away and hide if possible. In this case, it will not be available for combat for (d4 + 4) hours. Otherwise, normal [[sigil-of-uchma/Content/Combat#Summoning|summoning rules]] apply.  
+
 Pets can take a variety of forms, but they fall into the main categories below:
 
 <table style="width: 100%; max-width: 720px; border-style: inset;">
@@ -196,7 +197,7 @@ Deals 5 armor-ignoring damage.
 	Your pet tries to heal itself. For every point of energy spent for this technique, your pet heals for (4 + d4) health. You can spend points of energy up to your potency.
 	Your pet does not attack this round.
 
-## Pounce
+## ## Pounce
 **Category:** Offense
 **Against:** Parry
 **Execution Time:** Rapid action
@@ -205,7 +206,7 @@ Deals 5 armor-ignoring damage.
 **Effect**
 	Your pet pounces on the target, making them fall prone.
 	Your pet does not attack this round.
-
+	
 ## Rush
 **Category:** Offense
 **Execution Time:** Rapid action

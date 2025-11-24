@@ -16,7 +16,7 @@ You can use this ability as a part of a damaging weapon attack by spending 1 ene
 **Cost:** 2 energy
 **Duration:** (1 + C/3) rounds
 **Effect**
-	You can choose to activate this ability as a part of the *speak* special action. This technique costs an additional 1 energy per affected creature excluding yourself. 
+	You can choose to activate this ability as a part of the *speak* special action. This technique costs an additional 1 energy per affected creature. This energy cost excludes yourself.
 	For the duration of this technique, allies who can hear you ignore the penalties of attacking from low ground and their attacks from high ground gain (3 + P/2) bonus damage. 
 
 ## Adapt to Formation
@@ -25,7 +25,7 @@ You can use this ability as a part of a damaging weapon attack by spending 1 ene
 **Cost:** 2 energy
 **Duration:** (1 + C/4) rounds
 **Effect**
-	You can choose to activate this ability as a part of the *speak* special action. This technique costs an additional 2 energy per affected creature excluding yourself.
+	You can choose to activate this ability as a part of the *speak* special action. This technique costs an additional 2 energy per affected creature. This energy cost excludes yourself.
 	Allies who can hear you do not trigger prepared actions with their movement for the duration. 
 
 ## Adapt to Terrain
@@ -34,7 +34,7 @@ You can use this ability as a part of a damaging weapon attack by spending 1 ene
 **Cost:** 2 energy
 **Duration:** (1 + C/3) rounds
 **Effect**
-	You can choose to activate this ability as a part of the *speak* special action. This technique costs an additional 1 energy per affected creature excluding yourself. 
+	You can choose to activate this ability as a part of the *speak* special action. This technique costs an additional 1 energy per affected creature. This energy cost excludes yourself.
 	Allies who can hear you ignore movement penalties from rough terrain for the duration of this technique. 
 
 ## Focused Defense

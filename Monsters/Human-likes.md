@@ -327,8 +327,7 @@ Reduces target's energy by 1.
 <tr>
 <td colspan="4"><i>Charge</i> - Full-turn action, basic weapon attack
 This technique's precision roll is made against Constitution.
-This ghost gains a +3 bonus to its movement speed, and charges at its target using its movement speed. Then, it attacks with strike.
-After charging, this ghost becomes fatigued for 1 round.
+This ghost gains a +3 bonus to its movement speed, and charges at its target using its movement speed. Then, it attacks with Strike.
 </td>
 </tr>
 </table>
