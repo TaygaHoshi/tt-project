@@ -6,8 +6,7 @@
 <tr style="border-bottom: solid 2px"><td colspan="4">While domesticated dogs are great companions, wild dogs are not. These dogs will do everything to ensure their survival. They are usually found in small packs.</td></tr>
 <tr>  
 <td><b>Health:</b> 60</td>  
-<td colspan="2"><b>Movement:</b> 6 meters</td>  
-<td><b>Initiative:</b> 1</td>  
+<td colspan="3"><b>Movement:</b> 6 meters</td>  
 </tr>
 <tr style="border-bottom: dashed 2px">
 <td><b>Potency:</b> 1</td> 
@@ -57,8 +56,7 @@ Attacks the next foe who moves into, within or out of melee range, dealing 10 ph
 <tr style="border-bottom: solid 2px"><td colspan="4">Weak vampire kins are flightless beasts. They are almost exclusively found as summons from vampires.</td></tr>
 <tr>  
 <td><b>Health:</b> 30</td>  
-<td colspan="2"><b>Movement:</b> 6 meters</td>  
-<td><b>Initiative:</b> 1</td>  
+<td colspan="3"><b>Movement:</b> 6 meters</td>  
 </tr>
 <tr style="border-bottom: dashed 2px">
 <td><b>Potency:</b> 1</td> 
@@ -98,8 +96,7 @@ Can charge for up to 12 meters and attack with Slash, receiving a -2 penalty to 
 <tr style="border-bottom: solid 2px"><td colspan="4">Wolves are pack animals found almost everywhere, although rarely. They are ferocious beasts and regularly ambush travelers, raid small settlements and steal farm animals. Their strength and resilience also makes them common objects of admiration among people.</td></tr>
 <tr>  
 <td><b>Health:</b> 70</td>  
-<td colspan="2"><b>Movement:</b> 6 meters</td>  
-<td><b>Initiative:</b> 0</td>  
+<td colspan="3"><b>Movement:</b> 6 meters</td>  
 </tr>
 <tr style="border-bottom: dashed 2px">
 <td><b>Potency:</b> 1</td> 
@@ -152,8 +149,7 @@ Attacks the next foe who moves into, within or out of melee range, dealing 10 ph
 <tr style="border-bottom: solid 2px"><td colspan="4">A vampire's true form is an owl. They are distinct from regular owls as they are significantly more intelligent, but otherwise look the same.</td></tr>
 <tr>  
 <td><b>Health:</b> 10</td>  
-<td colspan="2"><b>Movement:</b> 8 meters (flying)</td>  
-<td><b>Initiative:</b> 2</td>  
+<td colspan="3"><b>Movement:</b> 8 meters (flying) and 4 meters (walking)</td>  
 </tr>
 <tr style="border-bottom: dashed 2px">
 <td><b>Potency:</b> 0</td> 
@@ -193,8 +189,7 @@ Deals 10 physical damage.
 <tr style="border-bottom: solid 2px"><td colspan="4">A large, white deer. They are thought to be normal deer infused with the magic from a magical point of interest found naturally.</td></tr>
 <tr>  
 <td><b>Health:</b> 80</td>  
-<td colspan="2"><b>Movement:</b> 6 meters</td>  
-<td><b>Initiative:</b> 0</td>  
+<td colspan="3"><b>Movement:</b> 6 meters</td>  
 </tr>
 <tr style="border-bottom: dashed 2px">
 <td><b>Potency:</b> 4</td> 
@@ -250,8 +245,7 @@ Attacks the next foe who moves into, within or out of melee range, dealing 10 ph
 <tr style="border-bottom: solid 2px"><td colspan="4">To do: add lore</td></tr>
 <tr>  
 <td><b>Health:</b> 80</td>  
-<td colspan="2"><b>Movement:</b> 8 meters (flying)</td>  
-<td><b>Initiative:</b> 1</td>  
+<td colspan="3"><b>Movement:</b> 8 meters (flying) and 4 meters (walking)</td>  
 </tr>
 <tr style="border-bottom: dashed 2px">
 <td><b>Potency:</b> 6</td> 
@@ -309,8 +303,7 @@ The wyrm recharges its breath ability.
 <tr style="border-bottom: solid 2px"><td colspan="4">To do: add lore</td></tr>
 <tr>  
 <td><b>Health:</b> 120</td>  
-<td colspan="2"><b>Movement:</b> 3 meters</td>  
-<td><b>Initiative:</b> -3</td>  
+<td colspan="3"><b>Movement:</b> 3 meters</td>  
 </tr>
 <tr style="border-bottom: dashed 2px">
 <td><b>Potency:</b> 8</td> 

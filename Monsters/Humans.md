@@ -6,13 +6,12 @@
 <tr style="border-bottom: solid 2px"><td colspan="4">Low level fighters are heavily armored, powerful combatants. They are usually guardians, soldiers, duelists or even raiders and bandits.</td></tr>
 <tr>  
 <td><b>Health:</b> 80</td>  
-<td colspan="2"><b>Movement:</b> 4 meters</td>  
-<td><b>Initiative:</b> -2</td>  
+<td colspan="3"><b>Movement:</b> 4 meters</td>  
 </tr>
 <tr style="border-bottom: dashed 2px">
 <td><b>Potency:</b> 1</td> 
 <td><b>Control:</b> 0</td> 
-<td colspan="2"><b>Precision Roll:</b> d10 + 1</td> 
+<td colspan="2"><b>Precision Roll:</b> d10</td> 
 </tr>
 <tr>
 <td><b>Parry:</b> 8</td> 
@@ -53,8 +52,7 @@ After charging, this fighter becomes fatigued for 1 round.
 <tr style="border-bottom: solid 2px"><td colspan="4">Novice archers wear light armor, and they can shoot targets from long distances. They are mostly found as hunters, wall defenders or outlaws.</td></tr>
 <tr>  
 <td><b>Health:</b> 70</td>  
-<td colspan="2"><b>Movement:</b> 6 meters</td>  
-<td><b>Initiative:</b> 1</td>  
+<td colspan="3"><b>Movement:</b> 6 meters</td>  
 </tr>
 <tr style="border-bottom: dashed 2px">
 <td><b>Potency:</b> 1</td> 
@@ -106,8 +104,7 @@ Deals 10 physical damage.
 <tr style="border-bottom: solid 2px"><td colspan="4">To do: add lore</td></tr>
 <tr>  
 <td><b>Health:</b> 60</td>  
-<td colspan="2"><b>Movement:</b> 6 meters</td>  
-<td><b>Initiative:</b> 1</td>  
+<td colspan="3"><b>Movement:</b> 6 meters</td>  
 </tr>
 <tr style="border-bottom: dashed 2px">
 <td><b>Potency:</b> 1</td> 
@@ -159,8 +156,7 @@ Grants an ally protective foresight for 1 round.
 <tr style="border-bottom: solid 2px"><td colspan="4">To do: add lore</td></tr>
 <tr>  
 <td><b>Health:</b> 60</td>  
-<td colspan="2"><b>Movement:</b> 6 meters</td>  
-<td><b>Initiative:</b> 1</td>  
+<td colspan="3"><b>Movement:</b> 6 meters</td>  
 </tr>
 <tr style="border-bottom: dashed 2px">
 <td><b>Potency:</b> 0</td> 
@@ -207,8 +203,7 @@ Deals 10 physical damage.
 <tr style="border-bottom: solid 2px"><td colspan="4">To do: add lore</td></tr>
 <tr>  
 <td><b>Health:</b> 60</td>  
-<td colspan="2"><b>Movement:</b> 6 meters</td>  
-<td><b>Initiative:</b> 1</td>  
+<td colspan="3"><b>Movement:</b> 6 meters</td>  
 </tr>
 <tr style="border-bottom: dashed 2px">
 <td><b>Potency:</b> 3</td> 
@@ -259,8 +254,7 @@ Deals 15 physical damage.
 <tr style="border-bottom: solid 2px"><td colspan="4">To do: add lore</td></tr>
 <tr>  
 <td><b>Health:</b> 60</td>  
-<td colspan="2"><b>Movement:</b> 6 meters</td>  
-<td><b>Initiative:</b> 1</td>  
+<td colspan="3"><b>Movement:</b> 6 meters</td>  
 </tr>
 <tr style="border-bottom: dashed 2px">
 <td><b>Potency:</b> 2</td> 
@@ -308,8 +302,7 @@ If the target is already burning, applies bleeding (7 damage) for 1 hit instead.
 <tr style="border-bottom: solid 2px"><td colspan="4">The Ashik are a pseudo-group of religious bards that travel and sing for whichever divinity they believe in. They are as peaceful as the God they take faith in, and the worst ones are often cunning enough to hide which God that is.</td></tr>
 <tr>  
 <td><b>Health:</b> 60</td>  
-<td colspan="2"><b>Movement:</b> 6 meters</td>  
-<td><b>Initiative:</b> 1</td>  
+<td colspan="3"><b>Movement:</b> 6 meters</td>  
 </tr>
 <tr style="border-bottom: dashed 2px">
 <td><b>Potency:</b> 0</td> 
@@ -355,8 +348,7 @@ For 1 round, the Ashik's target receives a -1 penalty to precision rolls and tak
 <tr style="border-bottom: solid 2px"><td colspan="4">These well-trained fighters are heavily armored, powerful combatants. They are usually professional soldiers who serve as lieutenants or commanders within armies. However, some of them can be found as independent mercenaries or bodyguards.</td></tr>
 <tr>
 <td><b>Health:</b> 80</td>  
-<td colspan="2"><b>Movement:</b> 4 meters</td>  
-<td><b>Initiative:</b> -2</td>  
+<td colspan="3"><b>Movement:</b> 4 meters</td>  
 </tr>
 <tr style="border-bottom: dashed 2px">
 <td><b>Potency:</b> 7</td> 

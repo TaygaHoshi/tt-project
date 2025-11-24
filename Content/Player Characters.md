@@ -98,16 +98,12 @@ Techniques are special abilities which usually cost energy to activate. A player
 | **10** |        5        |         5         |
 
 ## Walking Speed
-See: [[sigil-of-uchma/Content/Combat#Movement|Movement]].
-
-## Initiative
-See: [[sigil-of-uchma/Content/Combat#Turn Order|Turn Order]].
-Each player character has a base initiative of 0. Initiative is affected by some abilities and equipment such as armor or weapons.
+See: [[sigil-of-uchma/Content/Combat#Movement|Movement]] and [[sigil-of-uchma/Content/Combat#Turn Order|Turn Order]].
 
 ## Starter Equipment
 Each player character can choose a starting equipment:
 + Any [[Armor & Weapons#Armor Types and Armor Rating|armor type]] of their choosing
-+ Two of any [[Armor & Weapons#Weapon Sets|weapon sets]]
++ Two of any [[Armor & Weapons#Weapon Sets|weapon sets]], from basic weapon items.
 + #TODO 
 
 ## Skills
@@ -164,5 +160,8 @@ Each player character has two quick access slots by default, and can place suita
 A player character can wear one set of [[Armor & Weapons#Armor Types and Armor Rating|armor]] and equip two [[Armor & Weapons#Weapon Sets|weapon sets]]. 
 
 ### Encumbrance
-#TODO 
+If you are carrying more than what would be comfortable or tolerable, you can choose to either drop some items or push yourself to keep carrying the heavy load. 
+
+You gain 1 stack of fatigue per hour of being encumbered. This fatigue is reduced by 1 stack per 30 minutes after you stop being encumbered. 
+
 

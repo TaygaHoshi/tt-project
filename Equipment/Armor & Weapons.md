@@ -2,14 +2,14 @@
 This equipment protects its wearer from physical and magical damage, depending on its type.
 
 ## Armor Types and Armor Rating
-| Armor Type | Physical Armor | Magical Armor | Initiative | Walking Speed | Stealth |
-| ---------- | :------------: | :-----------: | :--------: | :-----------: | :-----: |
-| Unarmored  |       0        |       0       |     +1     |      +1       |   +2    |
-| Robes      |       0        |       5       |     0      |       0       |   +1    |
-| Light      |       5        |       0       |     0      |       0       |    0    |
-| Adventurer |       5        |       5       |     0      |      -1       |   -1    |
-| Heavy      |       10       |       0       |     -1     |      -2       |   -2    |
-| Warded     |       0        |      10       |     -1     |      -2       |   -2    |
+| Armor Type | Physical Armor | Magical Armor | Movement Speed | Stealth |
+| ---------- | :------------: | :-----------: | :------------: | :-----: |
+| Clothing   |       0        |       0       |       8        |    0    |
+| Robes      |       0        |       5       |       6        |    0    |
+| Light      |       5        |       0       |       6        |    0    |
+| Adventurer |       5        |       5       |       5        |   -1    |
+| Heavy      |       10       |       0       |       4        |   -2    |
+| Warded     |       0        |      10       |       4        |   -2    |
 
 ## Temporary Armor
 Additional armor can be gained through spells and abilities which grant temporary armor. Rules of temporary armor can be found in the [[Status Effects]] page.
@@ -26,7 +26,7 @@ Weapon sets are helpful guides used primarily during character creation. If you 
 2. A one handed weapon and a light one handed weapon.
 3. A two handed weapon. 
 
-Bonuses or penalties from weapons, such as initiative, resistance or armor, only apply when you are currently wielding them.
+Bonuses or penalties from weapons, such as to resistance or armor only apply when you are currently wielding them.
 
 ## Basic Weapon Attacks
 Some abilities may include a phrase similar to "doing a basic weapon attack". This means using the regular attack of a weapon, which is almost always the first active ability. 

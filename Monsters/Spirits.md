@@ -7,8 +7,7 @@
 <tr style="border-bottom: solid 2px"><td colspan="4">To do: add lore</td></tr>
 <tr>  
 <td><b>Health:</b> 60</td>  
-<td colspan="2"><b>Movement:</b> 6 meters</td>  
-<td><b>Initiative:</b> 0</td>  
+<td colspan="3"><b>Movement:</b> 6 meters</td>  
 </tr>
 <tr style="border-bottom: dashed 2px">
 <td><b>Potency:</b> 1</td> 
@@ -63,8 +62,7 @@ Burns an empty 1 square meter area, which stays alight for 1 round. This area de
 <tr style="border-bottom: solid 2px"><td colspan="4">To do: add lore</td></tr>
 <tr>  
 <td><b>Health:</b> 60</td>  
-<td colspan="2"><b>Movement:</b> 4 meters (doubles in water)</td>  
-<td><b>Initiative:</b> 0</td>  
+<td colspan="3"><b>Movement:</b> 4 meters (doubles in water)</td>  
 </tr>
 <tr style="border-bottom: dashed 2px">
 <td><b>Potency:</b> 1</td> 
@@ -111,8 +109,7 @@ This spirit creates a whip of water, and pushes or pulls the target for up to tw
 <tr style="border-bottom: solid 2px"><td colspan="4">To do: add lore</td></tr>
 <tr>  
 <td><b>Health:</b> 80</td>  
-<td colspan="2"><b>Movement:</b> 4 meters</td>  
-<td><b>Initiative:</b> -2</td>  
+<td colspan="3"><b>Movement:</b> 4 meters</td>  
 </tr>
 <tr style="border-bottom: dashed 2px">
 <td><b>Potency:</b> 2</td> 
@@ -168,8 +165,7 @@ This spirit can't fall prone or be moved unwillingly for 1 round.
 <tr style="border-bottom: solid 2px"><td colspan="4">To do: add lore</td></tr>
 <tr>  
 <td><b>Health:</b> 60</td>  
-<td colspan="2"><b>Movement:</b> 6 meters</td>  
-<td><b>Initiative:</b> 0</td>  
+<td colspan="3"><b>Movement:</b> 6 meters</td>  
 </tr>
 <tr style="border-bottom: dashed 2px">
 <td><b>Potency:</b> 2</td> 
@@ -228,8 +224,7 @@ Attacks the next foe who moves into, within or out of melee range, dealing 10 ph
 <tr style="border-bottom: solid 2px"><td colspan="4">To do: add lore</td></tr>
 <tr>  
 <td><b>Health:</b> 60</td>  
-<td colspan="2"><b>Movement:</b> 4 meters (doubles in water)</td>  
-<td><b>Initiative:</b> 0</td>  
+<td colspan="3"><b>Movement:</b> 4 meters (doubles in water)</td>  
 </tr>
 <tr style="border-bottom: dashed 2px">
 <td><b>Potency:</b> 2</td> 
@@ -282,8 +277,7 @@ This spirit attacks the next foe who moves into, out of or within melee range, d
 <tr style="border-bottom: solid 2px"><td colspan="4">To do: add lore</td></tr>
 <tr>  
 <td><b>Health:</b> 80</td>  
-<td colspan="2"><b>Movement:</b> 3 meters</td>  
-<td><b>Initiative:</b> -2</td>  
+<td colspan="3"><b>Movement:</b> 4 meters</td>  
 </tr>
 <tr style="border-bottom: dashed 2px">
 <td><b>Potency:</b> 4</td> 
@@ -339,14 +333,13 @@ This spirit can't fall prone or be moved unwillingly for 1 round.
 ---
 <table style="width: 100%; max-width: 720px; border-style: inset;">
 <tr>
-<th>Minor Fire Deity</th>
+<th>Local Fire Deity</th>
 <td colspan="3">Level 8 - Minion</td>
 </tr>
 <tr style="border-bottom: solid 2px"><td colspan="4">To do: add lore</td></tr>
 <tr>  
 <td><b>Health:</b> 60</td>  
-<td colspan="2"><b>Movement:</b> 6 meters</td>  
-<td><b>Initiative:</b> 0</td>  
+<td colspan="3"><b>Movement:</b> 6 meters</td>   
 </tr>
 <tr style="border-bottom: dashed 2px">
 <td><b>Potency:</b> 4</td> 
@@ -405,14 +398,13 @@ Attacks the next foe who moves into, within or out of melee range, dealing 15 ph
 ---
 <table style="width: 100%; max-width: 720px; border-style: inset;">
 <tr>
-<th>Minor Water Deity</th>
+<th>Local Water Deity</th>
 <td colspan="3">Level 8 - Minion</td>
 </tr>
 <tr style="border-bottom: solid 2px"><td colspan="4">To do: add lore</td></tr>
 <tr>  
 <td><b>Health:</b> 60</td>  
-<td colspan="2"><b>Movement:</b> 4 meters (doubles in water)</td>  
-<td><b>Initiative:</b> 0</td>  
+<td colspan="3"><b>Movement:</b> 4 meters (doubles in water)</td>  
 </tr>
 <tr style="border-bottom: dashed 2px">
 <td><b>Potency:</b> 4</td> 

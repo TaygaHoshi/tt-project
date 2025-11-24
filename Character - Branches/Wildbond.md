@@ -2,7 +2,7 @@
 Instead of focusing on their personal growth, some choose to share their time, training and effort with their pets. While these people are sometimes called "masters", most of those specialized in this branch of combat are, in actuality, "tamers" or even "summoners" depending on the nature of their pet.
 
 ## Call Pet
-Choose a pet category and a damage type (physical or magical) when you take this branch from the list below. Your pet does not count toward your summon limit. It inherits your initiative order, level and aptitudes. It takes its turn right after you, and uses its basic weapon attack unless you tell it to do something else. When your pet falls below 1 health, it will run away and hide if possible. In this case, it will not be available for combat for (d4 + 4) hours. Otherwise, normal [[sigil-of-uchma/Content/Combat#Summoning|summoning rules]] apply.  
+Choose a pet category and a damage type (physical or magical) when you take this branch from the list below. Your pet does not count toward your summon limit. It inherits your level and aptitudes. By default, it uses its basic weapon attack during its turns unless you tell it to do something else. When your pet falls below 1 health, it will run away and hide if possible. In this case, it will not be available for combat for (d4 + 4) hours. Otherwise, normal [[sigil-of-uchma/Content/Combat#Summoning|summoning rules]] apply.  
 
 Pets can take a variety of forms, but they fall into the main categories below:
 
@@ -45,7 +45,7 @@ Deals 15 physical or magical damage.
 </tr>
 <tr>  
 <td><b>Health:</b> 30</td>  
-<td colspan="3"><b>Movement:</b> 6 meters</td>
+<td colspan="3"><b>Movement:</b> 5 meters</td>
 </tr>
 <tr style="border-bottom: dashed 2px">
 <td><b>Potency:</b> inherited</td> 
@@ -121,7 +121,7 @@ Deals 15 physical or magical damage.
 <td><b>Parry:</b> 4 + level/2</td>  
 <td><b>Warding:</b> 4 + level/2</td>  
 <td><b>Constitution:</b> 4 + level/2</td>  
-<td><b>Evasion:</b> 6 + level/2</td>  
+<td><b>Evasion:</b> 7 + level/2</td>  
 </tr>
 <tr style="border-bottom: solid 2px">  
 <td colspan="1"><b>Physical Armor:</b> 0</td>
@@ -146,9 +146,9 @@ Deals 5 armor-ignoring damage.
 **Category:** Utility
 **Execution Time:** Full-turn action
 **Cost:** 2 energy
-**Duration:** (10 + C) minutes
+**Duration:** (15 + 5 x C) minutes
 **Effect**
-	You can talk to a calm animal as if you share a language.
+	For the duration, you can talk to a calm animal as if you share a language.
 
 ## Distract
 **Category:** Offense
@@ -197,7 +197,7 @@ Deals 5 armor-ignoring damage.
 	Your pet tries to heal itself. For every point of energy spent for this technique, your pet heals for (4 + d4) health. You can spend points of energy up to your potency.
 	Your pet does not attack this round.
 
-## ## Pounce
+## Pounce
 **Category:** Offense
 **Against:** Parry
 **Execution Time:** Rapid action
@@ -206,7 +206,7 @@ Deals 5 armor-ignoring damage.
 **Effect**
 	Your pet pounces on the target, making them fall prone.
 	Your pet does not attack this round.
-	
+
 ## Rush
 **Category:** Offense
 **Execution Time:** Rapid action

@@ -1,11 +1,10 @@
 (See: [[sigil-of-uchma/Content/Combat|Combat]])
 
 # Speak
-**Execution time:** Action or rapid action
+**Execution time:** Action or minor action
 **Explanation:**
-	During your turn, you can shout a few sentences. Your voice is heard within a reasonable radius.
-	Alternatively, you can whisper to a creature or an object within melee range. In this case, your voice is only heard by that creature or object.
-	This ability can be used freely in the end phase of a combat round.
+	During your turn, you can shout a few sentences. Your voice is heard within a reasonable radius. Alternatively, you can whisper to a creature or an object within melee range. In this case, your voice is only heard by that creature or object.	
+	This ability can be used freely in the end phase of a combat round. If you choose to use this ability as a prepared action, you can set an event as the trigger. You can shout or whisper if you see this event happen.
 
 # Self Cure
 **Execution time:** Full-turn action

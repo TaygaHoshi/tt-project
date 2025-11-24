@@ -6,8 +6,7 @@
 <tr style="border-bottom: solid 2px"><td colspan="4">The Shurali are humanoid sheep with one horn. They are pranksters known for tickling people to death.</td></tr>
 <tr>  
 <td><b>Health:</b> 50</td>  
-<td colspan="2"><b>Movement:</b> 6 meters</td>  
-<td><b>Initiative:</b> 0</td>  
+<td colspan="3"><b>Movement:</b> 6 meters</td>  
 </tr>
 <tr style="border-bottom: dashed 2px">
 <td><b>Potency:</b> 0</td> 
@@ -49,8 +48,7 @@ This monster is unable to move or use any other ability while tickling someone.
 <tr style="border-bottom: solid 2px"><td colspan="4">Vampires are the reason why forests at night are dangerous. Lesser vampires are almost always found working or studying under a higher vampire. However, there are sightings of rogue vampires. Some even lead bandits or beasts.</td></tr>
 <tr>  
 <td><b>Health:</b> 80</td>  
-<td colspan="2"><b>Movement:</b> 6 meters</td>  
-<td><b>Initiative:</b> 1</td>  
+<td colspan="3"><b>Movement:</b> 6 meters</td>  
 </tr>
 <tr style="border-bottom: dashed 2px">
 <td><b>Potency:</b> 2</td> 
@@ -108,8 +106,7 @@ This vampire grows its wings and spreads them around itself, gaining a +1 bonus 
 <tr style="border-bottom: solid 2px"><td colspan="4">Vampires are the reason why forests at night are dangerous. Lesser vampires, especially magic users, are almost always found working or studying under a higher vampire. However, there are sightings of rogue vampires who lead bandits or beasts.</td></tr>
 <tr>  
 <td><b>Health:</b> 60</td>  
-<td colspan="2"><b>Movement:</b> 6 meters</td>  
-<td><b>Initiative:</b> 1</td>  
+<td colspan="3"><b>Movement:</b> 6 meters</td>  
 </tr>
 <tr style="border-bottom: dashed 2px">
 <td><b>Potency:</b> 0</td> 
@@ -170,8 +167,7 @@ Can be used once per day.
 <tr style="border-bottom: solid 2px"><td colspan="4">Yoohas are a type of dragons. They have human-like bodies with a snake head, and they are able to transform into a fully human shape. They use their shape changing abilities to lure travelers into their camps or villages and ambush them.</td></tr>
 <tr>  
 <td><b>Health:</b> 60</td>  
-<td colspan="2"><b>Movement:</b> 5 meters</td>  
-<td><b>Initiative:</b> -1</td>  
+<td colspan="3"><b>Movement:</b> 5 meters</td>  
 </tr>
 <tr style="border-bottom: dashed 2px">
 <td><b>Potency:</b> 0</td> 
@@ -229,8 +225,7 @@ After charging, this yooha becomes fatigued for 1 round.
 <tr style="border-bottom: solid 2px"><td colspan="4">Yoohas are a type of dragons. They have human-like bodies with a snake head, and they are able to transform into a fully human shape. They use their shape changing abilities to lure travelers into their camps or villages and ambush them.</td></tr>
 <tr>  
 <td><b>Health:</b> 70</td>  
-<td colspan="2"><b>Movement:</b> 5 meters</td>  
-<td><b>Initiative:</b> -1</td>  
+<td colspan="3"><b>Movement:</b> 5 meters</td>  
 </tr>
 <tr style="border-bottom: dashed 2px">
 <td><b>Potency:</b> 0</td> 
@@ -289,8 +284,7 @@ After charging, this yooha becomes fatigued for 1 round.
 <tr style="border-bottom: solid 2px"><td colspan="4">To do: add lore</td></tr>
 <tr>  
 <td><b>Health:</b> 50</td>  
-<td colspan="2"><b>Movement:</b> 5 meters</td>  
-<td><b>Initiative:</b> -1</td>  
+<td colspan="3"><b>Movement:</b> 5 meters</td>  
 </tr>
 <tr style="border-bottom: dashed 2px">
 <td><b>Potency:</b> 5</td> 

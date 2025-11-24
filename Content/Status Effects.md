@@ -36,7 +36,7 @@ Debilitating status effects have durations in terms of rounds or longer.
 
 ## Slowed
 + Halves movement speed.
-+ (1 + P/3) penalty on Evasion and initiative.
++ (1 + P/3) penalty on Evasion.
 + If a slowed creature is also quickened, this status effect is considered after quickened. 
 + Does not stack. If target is already slowed, only the one with higher potency applies.
 
@@ -84,7 +84,6 @@ Harming status effects have durations in terms of hits or longer.
 ---
 # Supportive Effects
 Supportive status effects have durations in terms of rounds or longer. 
-
 ## Inspired
 - Once, the creature can choose to spend this status effect to gain one of the following bonuses:
 	- A 1d2 bonus to one precision roll

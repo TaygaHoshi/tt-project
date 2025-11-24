@@ -167,8 +167,7 @@ By spending 1 energy when using an ability that uses the element you are envelop
 <tr style="border-bottom: solid 2px"><td colspan="4">To do: add lore</td></tr>
 <tr>  
 <td colspan="1"><b>Health:</b> 10</td> 
-<td colspan="2"><b>Movement:</b> immobile</td>
-<td colspan="1"><b>Initiative:</b> 0</td>
+<td colspan="3"><b>Movement:</b> immobile (0 meters)</td>
 </tr>
 <tr style="border-bottom: dashed 2px">
 <td><b>Potency:</b> equal to level</td> 
