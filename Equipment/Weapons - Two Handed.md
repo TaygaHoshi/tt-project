@@ -3,17 +3,17 @@
 # Two Handed weapons
 Two handed weapons have three weapon attacks.
 
-| Weapon           | Damage | Weapon Precision |     Range     |
-| ---------------- | :----: | :--------------: | :-----------: |
-| Glaive           |   30   |        0         |   2 meters    |
-| Spear            |   25   |        1         |   2 meters    |
-| Two-handed sword |   25   |        1         |    1 meter    |
-| War hammer       |   20   |        0         |    1 meter    |
-| Staff            |   20   |        1         |   10 meters   |
-| Crossbow         |   25   |        1         |   10 meters   |
-| Longbow          |   20   |        0         |   15 meters   |
-| Shortbow         |   15   |        1         |   10 meters   |
-| War drums        |   0    |        0         | Hearing range |
+| Weapon           | Damage | Weapon Precision | Stealth |     Range     |
+| ---------------- | :----: | :--------------: | :-----: | :-----------: |
+| Glaive           |   30   |        0         |   -1    |   2 meters    |
+| Spear            |   25   |        +1        |   -1    |   2 meters    |
+| Two-handed sword |   25   |        +1        |    0    |    1 meter    |
+| War hammer       |   20   |        0         |    0    |    1 meter    |
+| Staff            |   20   |        +1        |    0    |   10 meters   |
+| Crossbow         |   25   |        +1        |    0    |   10 meters   |
+| Longbow          |   20   |        0         |   -1    |   15 meters   |
+| Shortbow         |   15   |        +1        |    0    |   10 meters   |
+| War drums        |   0    |        0         |   -2    | Hearing range |
 
 ---
 ## Glaive
