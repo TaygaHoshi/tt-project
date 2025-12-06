@@ -9,7 +9,7 @@ There is a website which guides you through creating a character: <https://sigil
 Paths determine a characters' abilities gained through leveling up and half of their techniques. Current list of paths are:
 - [[Path of Warriors]]
 - [[Path of Sorcerers]]
-- [[Path of Shamans]]
+- [[Path of Guides]]
 - [[Path of Bards]]
 
 ### Branches
@@ -17,7 +17,6 @@ Branches determine a characters' branch abilities and half of their techniques. 
 - [[Wildbond]]
 - [[Warwise]] 
 - [[Iconcraft]]
-- [[Hunter]]
 - [[Druid]]
 
 ### Aptitudes

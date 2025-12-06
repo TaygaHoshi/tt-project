@@ -1,3 +1,8 @@
+# A Dark Source for Power
+Not all shamans are as benevolent as the guides. As shamans of the Underworld, sorcerers are primarily concerned with powers from the lowest layer of existence, where only chaos and death can be found.
+
+
+
 # Abilities
 | Level | Ability                |
 | :---: | ---------------------- |

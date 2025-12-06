@@ -114,7 +114,7 @@ Supportive status effects have durations in terms of rounds or longer.
 - Does not stack. If target is already regenerating, only the one with higher potency applies.
 
 ## Surefooted
-- Can't fall prone or be moved unwillingly.
+- This creature can't fall prone or be moved unwillingly.
 - Does not stack. If target is already surefooted, only the one with higher duration applies.
 
 ## Temporary Health

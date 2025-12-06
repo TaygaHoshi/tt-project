@@ -1,7 +1,5 @@
 # Bridge Between Realms
-While souls of the living are eventually dragged to the Underworld, not all souls are former living beings. Some are born from evil energy left in the wake of battle. Others are false gods, manifestations of belief and worship; and some just spontaneously come into existence without a cause or origin. These souls reside in where the souls of the living temporarily stay in: the realm of souls. These souls take various forms, but most show themselves as animals or humans.
-
-Shamans practice their connection with the realm of souls to take care of their communities or tribes. Some shamans, however, start travelling the world in search of a greater purpose.
+Guides are shamans who practice their connection with the realm of souls and the Overworld to take care of their communities or tribes by acting as advisors and religious leaders. Some guides, however, start travelling the world in search of a greater purpose.
 
 # Abilities
 | Level | Ability        |

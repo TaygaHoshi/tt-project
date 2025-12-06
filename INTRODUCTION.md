@@ -18,7 +18,7 @@ You can start from [[Player Characters]], or you can use [the character creation
 
 # Features
 **Fun and engaging turn-based combat:**
-Each character consists of many unique but balanced choices: weapons provide both active and passive abilities, techniques carry an impact while not being overpowered, and armors are strong. There are rarely any limitations: a Shaman can wear any type of armor and wield all weapons without penalties.
+Each character consists of many unique but balanced choices: weapons provide both active and passive abilities, techniques carry an impact while not being overpowered, and armors are strong. There are rarely any limitations: a Guide or a Sorcerer can wear any type of armor and wield all weapons without penalties.
 
 Furthermore, Sigil is a relatively simplified take on the more well-known tabletop games. There are not many calculations to slow turns down during combat. Most numbers like damage of a weapon can be calculated beforehand. With proper notes, turns can get fast.
 
