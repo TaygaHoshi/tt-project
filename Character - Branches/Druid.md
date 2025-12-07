@@ -2,7 +2,9 @@
 Druids are not just "tree magicians" or "wild magicians", a powerful druid has control over each of the five elements that composes the material world: earth, metal, fire, water and, of course, nature. This connection to the environment isn’t passive either: druids must constantly journey across the world, uncovering the countless ways these elements manifest. Earth can be fertile or barren; metal is hard but malleable to many shapes; fire burns things to ashes but some worship it; water sustains life but has the power to flood entire cities; and nature is both nurturing and merciless.
 
 ## Element-enveloped
-A druid is always in harmony with the elements in their environments. Each location corresponds to exactly one element, and upon entering a different environment you become enveloped with the primary element in that area. Your harmony with an element lasts until the environment changes significantly.
+A druid is always in harmony with the elements in their environments. Upon entering a different environment you become enveloped with the primary element in that area. Your harmony with an element lasts until the environment changes significantly.
+
+Each location corresponds to exactly one element.
 
 **Earth**
 + Encompasses environments such as mountains, caves or underground.
