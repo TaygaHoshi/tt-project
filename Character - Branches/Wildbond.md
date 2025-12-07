@@ -2,9 +2,13 @@
 Instead of focusing on their personal growth, some choose to share their time, training and effort with their pets. While these people are sometimes called "masters", most of those specialized in this branch of combat are, in actuality, "tamers" or even "summoners" depending on the nature of their pet.
 
 ## Call Pet
-Choose a pet category and a damage type (physical or magical) when you take this branch from the list below. Your pet does not count toward your summon limit. It inherits your level and aptitudes. By default, it uses its basic weapon attack during its turns unless you tell it to do something else. When your pet falls below 1 health, it will run away and hide if possible. In this case, it will not be available for combat for (d4 + 4) hours. Otherwise, normal [[sigil-of-uchma/Content/Combat#Summoning|summoning rules]] apply.  
+Choose a pet category and a damage type (physical or magical) when you take this branch from the list below. Your pet does not count toward your summon limit. It inherits your level and aptitudes. During its turns, it has one action and it uses its basic weapon attack by default unless you tell it to do something else. 
 
-Pets can take a variety of forms, but they fall into the main categories below:
+When your pet falls below 1 health, it will run away and hide if possible. In this case, it will not be available for combat for (d4 + 4) hours. Otherwise, normal [[sigil-of-uchma/Content/Combat#Summoning|summoning rules]] apply.  
+
+Techniques in the command category are used during your own turns. However, they affect your pet's next turn within up to 1 minute.
+
+Pets can take a variety of forms, but they fall into the four main categories below:
 
 <table style="width: 100%; max-width: 720px; border-style: inset;">
 <tr>
@@ -21,9 +25,9 @@ Pets can take a variety of forms, but they fall into the main categories below:
 <td colspan="2"><b>Precision Roll:</b> d10 + level/2</td> 
 </tr>
 <tr>
-<td><b>Parry:</b> 5 + level/2</td>  
-<td><b>Warding:</b> 5 + level/2</td>  
-<td><b>Constitution:</b> 5 + level/2</td>  
+<td><b>Parry:</b> 4 + level/2</td>  
+<td><b>Warding:</b> 4 + level/2</td>  
+<td><b>Constitution:</b> 4 + level/2</td>  
 <td><b>Evasion:</b> 5 + level/2</td>  
 </tr>
 <tr style="border-bottom: solid 2px">  
@@ -53,10 +57,10 @@ Deals 15 physical or magical damage.
 <td colspan="2"><b>Precision Roll:</b> d10 + level/2</td> 
 </tr>
 <tr>
-<td><b>Parry:</b> 5 + level/2</td>  
-<td><b>Warding:</b> 5 + level/2</td>  
+<td><b>Parry:</b> 4 + level/2</td>  
+<td><b>Warding:</b> 4 + level/2</td>  
 <td><b>Constitution:</b> 5 + level/2</td>  
-<td><b>Evasion:</b> 5 + level/2</td>  
+<td><b>Evasion:</b> 4 + level/2</td>  
 </tr>
 <tr style="border-bottom: solid 2px">  
 <td colspan="1"><b>Physical Armor:</b> 5</td>
@@ -66,6 +70,11 @@ Deals 15 physical or magical damage.
 <tr>
 <td colspan="4"><i>Strike</i> - Action, basic weapon attack
 Deals 10 physical or magical damage.
+</td>
+</tr>
+<tr>
+<td colspan="4"><i>Protect Self</i> - Action
+Instead of attacking, your pet can gain 1 stack of protected for 1 round.
 </td>
 </tr>
 </table>
@@ -85,10 +94,10 @@ Deals 10 physical or magical damage.
 <td colspan="2"><b>Precision Roll:</b> d10 + level/2</td> 
 </tr>
 <tr>
-<td><b>Parry:</b> 5 + level/2</td>  
-<td><b>Warding:</b> 5 + level/2</td>  
-<td><b>Constitution:</b> 5 + level/2</td>  
-<td><b>Evasion:</b> 5 + level/2</td>  
+<td><b>Parry:</b> 4 + level/2</td>  
+<td><b>Warding:</b> 4 + level/2</td>  
+<td><b>Constitution:</b> 4 + level/2</td>  
+<td><b>Evasion:</b> 4 + level/2</td>  
 </tr>
 <tr style="border-bottom: solid 2px">  
 <td colspan="1"><b>Physical Armor:</b> 0</td>
@@ -121,7 +130,7 @@ Deals 15 physical or magical damage.
 <td><b>Parry:</b> 4 + level/2</td>  
 <td><b>Warding:</b> 4 + level/2</td>  
 <td><b>Constitution:</b> 4 + level/2</td>  
-<td><b>Evasion:</b> 7 + level/2</td>  
+<td><b>Evasion:</b> 6 + level/2</td>  
 </tr>
 <tr style="border-bottom: solid 2px">  
 <td colspan="1"><b>Physical Armor:</b> 0</td>
@@ -140,26 +149,26 @@ Deals 5 armor-ignoring damage.
 </tr>
 </table>
 
+
 ---
 # Techniques
 ## Commune
 **Category:** Utility
 **Execution Time:** Full-turn action
 **Cost:** 2 energy
-**Duration:** (15 + 5 x C) minutes
+**Duration:** 15 minutes
 **Effect**
 	For the duration, you can talk to a calm animal as if you share a language.
 
 ## Distract
-**Category:** Offense
-**Against:** Parry
+**Category:** Command
+**Against:** Evasion
 **Execution Time:** Rapid action
 **Cost:** 2 energy
 **Range:** 5 meters
 **Duration:** (1 + C/3) rounds
 **Effect**
-	Your pet tries to distract the target. A distracted creature is considered flanked for the duration.
-	Your pet does not attack this round.
+	Your pet does not attack. Instead, it tries to distract the target. A distracted creature is considered flanked for the duration.
 
 ## Find
 **Category:** Utility
@@ -167,48 +176,45 @@ Deals 5 armor-ignoring damage.
 **Cost:** Special
 **Duration:** (30 - 2 x C) minutes
 **Effect**
-	Your pet helps you or another creature search or find an item of a certain description by using its sense of smell, sight, hearing or touch. Your pet assists the search for the duration. For each point of energy spent on this technique, the next relevant skill roll gains a +1 bonus.
+	Your pet helps you or another creature search or find an item of a certain description by using its sense of smell, sight, hearing or touch. Your pet assists the search for the duration. For every two points of energy spent on this technique, the relevant skill roll gains a +1 bonus.
 
 ## Go For Eyes
-**Category:** Modification
+**Category:** Command
 **Against:** Constitution
 **Execution Time:** Rapid action
 **Cost:** 2 energy
 **Range:** Pet's range
 **Duration:** (1 + C/4) rounds
 **Effect**
-	Direct your pet to attack your target's eyes. Your pet's basic weapon attack done within this round applies blinded for the duration of this technique.
+	Direct your pet to attack your target's eyes. Your pet's basic weapon attack applies blinded for the duration of this technique.
 
 ## Grab and Drag
-**Category:** Offense
+**Category:** Command
 **Against:** Parry
 **Execution Time:** Action
 **Cost:** 1 energy
 **Range:** 1 meter
 **Effect**
-	Target a prone creature. Your pet grabs this creature and drags it towards you up to (2 + P/3) meters, dealing 5 armor-ignoring damage per meter dragged.
-	Your pet does not attack this round.
+	Your pet does not attack. Instead, it targets a prone creature of your choosing. Your pet grabs this creature and drags it towards you up to (2 + P/3) meters, dealing 5 armor-ignoring damage per meter dragged.
 
 ## Lick Wounds
-**Category:** Defense
+**Category:** Command
 **Execution Time:** Rapid action
 **Cost:** Special
 **Effect**
-	Your pet tries to heal itself. For every point of energy spent for this technique, your pet heals for (4 + d4) health. You can spend points of energy up to your potency.
-	Your pet does not attack this round.
+	Your pet does not attack and tries to heal itself. For every point of energy spent for this technique, your pet heals for (4 + 1d4) health. You can spend up to (1 + P) energy.
 
 ## Pounce
-**Category:** Offense
+**Category:** Command
 **Against:** Parry
 **Execution Time:** Rapid action
-**Cost:** 4 energy
+**Cost:** 3 energy
 **Range:** 2 meters
 **Effect**
-	Your pet pounces on the target, making them fall prone.
-	Your pet does not attack this round.
+	Instead of attacking, your pet pounces on the target of your choosing, making them fall prone.
 
 ## Rush
-**Category:** Offense
+**Category:** Utility
 **Execution Time:** Rapid action
 **Cost:** 2 energy
 **Effect**
@@ -218,12 +224,12 @@ Deals 5 armor-ignoring damage.
 **Category:** Offense
 **Execution Time:** Action
 **Cost:** 4 energy
-**Duration:** (1 + P/2) rounds
+**Duration:** (1 + P/3) rounds
 **Effect**
 	Your pet becomes exposed, but it gains a (5 + P/2) bonus to its damage for the duration. 
 
 ## Sweeping Attack
-**Category:** Offense
+**Category:** Command
 **Against:** Evasion
 **Execution Time:** Rapid action
 **Cost:** 3 energy
