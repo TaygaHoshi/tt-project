@@ -309,11 +309,11 @@ This monster's physical armor is ineffective when it is immobilized, stunned or 
 </tr>
 <tr>
 <td colspan="4"><i>Strike</i> - Action, basic weapon attack
-Deals 15 physical damage and 15 magical damage. 
+Deals 15 physical damage and an extra 15 magical damage. 
 </td>
 </tr>
 <tr>
-<td colspan="4"><i>Drain Energy</i> - Action, technique
+<td colspan="4"><i>Drain Energy</i> - Rapid action, technique
 This technique's precision roll is made against Constitution.
 Reduces target's energy by 1. 
 </td>
