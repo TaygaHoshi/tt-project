@@ -9,7 +9,7 @@ Debilitating status effects have durations in terms of rounds or longer.
 ## Cracked Armor
 - This creature's armor is ineffective.
 - Does not affect temporary armor.
-- Does not stack. If target already has cracked armor, only the one with higher duration applies.
+- Does not stack. If target already has cracked armor, only the one with longer duration applies.
 
 ## Disoriented
 + (1 + P/3) penalty on precision rolls.
@@ -98,11 +98,11 @@ Supportive status effects have durations in terms of rounds or longer.
 
 ## Predictive Foresight
 + +1 bonus to the next precision roll.
-+ Does not stack. If target is already effected by a predictive foresight, only the one with higher duration applies.
++ Does not stack. If target is already effected by a predictive foresight, only the one with longer duration applies.
 
 ## Protective Foresight
 + +1 bonus to all resistances for the next precision roll against this creature.
-+ Does not stack. If target is already effected by a protective foresight, only the one with higher duration applies.
++ Does not stack. If target is already effected by a protective foresight, only the one with longer duration applies.
 
 ## Quickened
 - Movement speed is increased by (2 + P/3) meters.
@@ -115,22 +115,22 @@ Supportive status effects have durations in terms of rounds or longer.
 
 ## Surefooted
 - This creature can't fall prone or be moved unwillingly.
-- Does not stack. If target is already surefooted, only the one with higher duration applies.
+- Does not stack. If target is already surefooted, only the one with longer duration applies.
 
 ## Temporary Health
 + Increases health until the duration ends.
 + Affected by damage after armor.
 + An unconscious creature cannot regain consciousness from temporary health. 
-+ Does not stack. If target already has temporary health, only larger the one applies.
++ Does not stack. If target already has temporary health, only the larger one applies.
 
 ## Temporary Magical Armor
 + Protects target against magical damage until it breaks or the duration ends.
 + One point of temporary magical armor breaks for every point of magical damage reduced by it.
 + Affected by damage before armor.
-+ Does not stack. If target already has temporary armor, only larger the one applies.
++ Does not stack. If target already has temporary armor, only the larger one applies.
 
 ## Temporary Physical Armor
 + Protects target against physical damage until it breaks or the duration ends.
 + One point of temporary physical armor breaks for every point of physical damage reduced by it.
 + Affected by damage before armor.
-+ Does not stack. If target already has temporary armor, only larger the one applies.
++ Does not stack. If target already has temporary armor, only the larger one applies.
