@@ -1,5 +1,78 @@
 <table style="width: 100%; max-width: 720px; border-style: inset;">
 <tr>
+<th>Nomad Warrior</th>
+<td colspan="3">Level 0 - Minion</td>
+</tr>
+<tr style="border-bottom: solid 2px"><td colspan="4">To do: add lore</td></tr>
+<tr>  
+<td><b>Health:</b> 50</td>  
+<td colspan="3"><b>Movement:</b> 5 meters</td>  
+</tr>
+<tr style="border-bottom: dashed 2px">
+<td><b>Potency:</b> 0</td> 
+<td><b>Control:</b> 0</td> 
+<td colspan="2"><b>Precision Roll:</b> d10</td> 
+</tr>
+<tr>
+<td><b>Parry:</b> 4</td>  
+<td><b>Warding:</b> 4</td>  
+<td><b>Constitution:</b> 4</td>  
+<td><b>Evasion:</b> 4</td>  
+</tr>
+<tr style="border-bottom: solid 2px">  
+<td colspan="1"><b>Physical Armor:</b> 0</td>
+<td colspan="1"><b>Magical Armor:</b> 0</td>
+<td colspan="2"><b>Weapon:</b> Improvised weapons</td>
+</tr>
+<tr>
+<td colspan="4"><i>Strike</i> - Action, basic weapon attack 
+Deals 10 physical damage. 
+</td>
+</tr>
+</table>
+
+---
+<table style="width: 100%; max-width: 720px; border-style: inset;">
+<tr>
+<th>Nomad Bard</th>
+<td colspan="3">Level 0 - Minion</td>
+</tr>
+<tr style="border-bottom: solid 2px"><td colspan="4">To do: add lore</td></tr>
+<tr>  
+<td><b>Health:</b> 40</td>  
+<td colspan="3"><b>Movement:</b> 5 meters</td>  
+</tr>
+<tr style="border-bottom: dashed 2px">
+<td><b>Potency:</b> 0</td> 
+<td><b>Control:</b> 0</td> 
+<td colspan="2"><b>Precision Roll:</b> d10</td> 
+</tr>
+<tr>
+<td><b>Parry:</b> 4</td>  
+<td><b>Warding:</b> 4</td>  
+<td><b>Constitution:</b> 4</td>  
+<td><b>Evasion:</b> 4</td>  
+</tr>
+<tr style="border-bottom: solid 2px">  
+<td colspan="1"><b>Physical Armor:</b> 0</td>
+<td colspan="1"><b>Magical Armor:</b> 0</td>
+<td colspan="2"><b>Weapon:</b> Improvised weapons</td>
+</tr>
+<tr>
+<td colspan="4"><i>Strike</i> - Action, basic weapon attack 
+Deals 5 physical damage. 
+</td>
+</tr>
+<tr>
+<td colspan="4"><i>Poem of Fury</i> - Rapid action, technique
+Target gains a +2 bonus to their damage with basic weapon attacks. 
+</td>
+</tr>
+</table>
+
+---
+<table style="width: 100%; max-width: 720px; border-style: inset;">
+<tr>
 <th>Novice Fighter</th>
 <td colspan="3">Level 1 - Minion</td>
 </tr>
