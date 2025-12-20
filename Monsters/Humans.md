@@ -357,12 +357,16 @@ Deals 25 magical damage.
 </td>
 </tr>
 <tr>
-<td colspan="4"><i>Scarring Flames</i> - Action, technique
+<td colspan="4"><i>Scarring Flames</i> - Rapid action, technique
 This technique's precision roll is made against Constitution.
 Range: 5 meters.
-Applies burning (12 damage) for 2 hits.
-If the target is already burning, applies bleeding (7 damage) for 1 hit instead.
+Applies bleeding (7 damage) for 1 hit. If the target is burning, the duration is increased to 2 hits.
 </td>
+</tr>
+<tr>
+<td colspan="4"><i>Blazing Opportunity</i> - Prepared action, technique
+This attack's precision roll is made against Evasion.
+This witch attacks the next foe who moves into, within or out of a 2 meter radius around it, applying burning (12 damage) for 1 hit.
 </tr>
 </table>
 

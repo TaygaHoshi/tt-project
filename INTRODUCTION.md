@@ -3,9 +3,9 @@ Sigil of Uchma is a work-in-progress fantasy tabletop role playing game based on
 
 The game is played with one game master (GM) and one or more players:
 - The GM builds and runs a campaign, enforces the rules of the game, applies or creates resolution mechanics as necessary and controls the non-player characters (NPCs). 
-- Each player controls a single player character (PC). Through their PCs, players can explore the world, battle enemies, interact with NPCs, pursue and complete quests, find treasures and go on adventures.
+- Each player controls a single player character (PC). Through their characters, players can explore the world, battle enemies, interact with NPCs, pursue and complete quests, find treasures and go on adventures.
 
-Sigil is not ready for running campaigns yet. You are seeing the version: *v1-a10*. 
+Sigil is not ready for running campaigns yet. You are seeing the version: *v1-a10*
 
 # Where to Start
 You can start from [[Player Characters]], or you can use [the character creation website](https://sigil-create.tyghsh.cc).
@@ -14,7 +14,6 @@ You can start from [[Player Characters]], or you can use [the character creation
 + [YouTube channel](https://www.youtube.com/@SigilofUchma)
 + [Feedback form](https://forms.gle/7NwTYqGUWpBfBWNg8)
 + [GitHub repository](https://github.com/TaygaHoshi/tt-project)
-+ [[RESOURCES|Resources used as inspiration]]
 
 # Features
 **Fun and engaging turn-based combat:**
@@ -26,7 +25,7 @@ Furthermore, Sigil is a relatively simplified take on the more well-known tablet
 This game has owl vampires, charming snake-humans, Central Asia themed spells and rituals, interesting abilities and more.
 
 **Soft mechanics and rules for role playing:**
-Sigil of Uchma is a simplified take on modern TTRPGs. Exploration, inventory management, economy, traveling, interactions with NPCs and similar activities mostly have only general rules and suggestions. Many cases of moment-to-moment decision making outside combat is left to common sense and imagination.
+Sigil of Uchma is a simplified take on modern TTRPGs. Exploration, inventory management, economy, travelling, interactions with NPCs and similar activities mostly have only general rules and suggestions. Many cases of moment-to-moment decision making outside combat is left to common sense and imagination.
 
 # Release Cycle
 Sigil of Uchma is versioned using a simple release cycle consisting of the following stages:
