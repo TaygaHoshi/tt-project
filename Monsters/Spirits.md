@@ -325,7 +325,7 @@ This spirit gains 10 temporary physical armor for 1 round, but becomes immobiliz
 </tr>
 <tr>
 <td colspan="4"><i>Stability</i> - Rapid action, technique
-This spirit can't fall prone or be moved unwillingly for 1 round. 
+This spirit gains surefooted for 1 round. 
 </td>
 </tr>  
 </table> 
