@@ -42,7 +42,7 @@ Two handed weapons have three weapon attacks.
 + Keep At Bay
 	+ Range: 1 meter.
 	+ Deals 15 physical damage.
-	+ Target is pushed (2 + P/4) meters away from you.
+	+ Target is pushed (1 + P/4) meters away from you.
 + (Prepared action) Spear Brace
 	+ Range: 2 meters.
 	+ Ignores weapon precision.
