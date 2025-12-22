@@ -137,7 +137,7 @@ This ability does not get any bonuses to its damage.
 **Range:** 5 meters
 **Duration:** (2 + C/3) rounds
 **Effect**
-	Apply either sickened or weakened defenses to the target creature for the duration of this technique. Alternatively, you can apply fatigue by spending 4 energy instead.
+	Apply sickened and exposed to the target creature for the duration. Alternatively, you can apply fatigue by spending 4 energy instead.
 
 
 ---

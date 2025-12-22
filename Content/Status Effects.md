@@ -30,13 +30,13 @@ Debilitating status effects have durations in terms of rounds or longer.
 + Does not stack. If target is already immobilized, only the longer one applies.
 
 ## Sickened
-+ (1 + P/3) penalty on Constitution.
++ (1 + P/4) penalty on Constitution.
 + Whenever a creature with sickened receives a harmful status effect, one hit is spent immediately.
 + Does not stack. If target is already sickened, only the one with higher potency applies.
 
 ## Slowed
 + Halves movement speed.
-+ (1 + P/3) penalty on Evasion.
++ (1 + P/4) penalty on Evasion.
 + If a slowed creature is also quickened, this status effect is considered after quickened. 
 + Does not stack. If target is already slowed, only the one with higher potency applies.
 
@@ -52,7 +52,7 @@ Debilitating status effects have durations in terms of rounds or longer.
 + Does not stack. If target is already stunned, only the longer one applies.
 
 ## Weakened Defenses
-+ (1 + P/3) penalty on Parry.
++ (1 + P/4) penalty on Parry.
 + Does not stack. If target's defenses are already weakened, only the one with higher potency applies.
 
 ---
