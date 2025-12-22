@@ -79,12 +79,14 @@ Instead of gaining bonus damage, you can choose to apply exposed for 1 round.
 	This prepared action lasts until your next turn.
 
 ## Graze
-**Category:** Modification
-**Execution Time:** Special
+**Category:** Weapon attack
+**Execution Time:** Action
 **Cost:** 2 energy
+**Duration:** (1 + C/2) rounds
 **Effect**
-	You can choose to activate this ability when you attempt a damaging basic weapon attack.
-	If this attack misses, you deal 5 damage of your weapon's type.
+	You perform basic weapon attack with your main hand weapon.
+	This attack additionally applies bleeding for the duration, even if it misses.
+	This technique itself is not a basic weapon attack. 
 
 ## Hamstring
 **Category:** Modification
