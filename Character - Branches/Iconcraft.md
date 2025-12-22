@@ -3,10 +3,12 @@ Icons are objects or places of immense magical power; be it an eternal fireplace
 
 Practitioners of this type of magic are worshippers of their icon and they use symbolic manifestations of it to perform techniques called "rituals". 
 
+When you choose iconcraft as your branch, the first technique you take needs to be a ritual.
+
 ## Totem
 Choose an icon when you take this branch. You receive a small object representing it in return, called a totem. You can recall your totem to yourself as an action. A totem can be partially or fully destroyed, making it lose its powers. A destroyed totem magically restores itself within at most 12 hours depending on the degree of damage it suffered. Your totem can be used in a variety of ways:
 1. Your rituals originate from your totem.
-2. If you hold your totem like a weapon in either hand, you can perform a lesser variant of a ritual of your choice in a one meter radius around you by spending 2 energy per round. This ability ends if you stop holding your totem.
+2. If you hold your totem like a weapon in either hand, you can perform a lesser variant of a ritual of your choice in a one meter radius around you by spending 1 energy per round. This ability ends if you stop holding your totem.
 3. You can tap into your icon's power through your totem as a full-turn action, halving the cost of the next ritual you perform, down to a minimum of 1 energy.
 
 ## Source of Power
