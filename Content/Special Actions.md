@@ -55,8 +55,9 @@
 **Requirements:**
 	Any melee weapon in main hand.
 **Effect**
-	This attack's precision roll is made against Constitution.
-	This attack deals half damage after armor, and applies bleeding for 2 hits.
+	This ability's precision roll is made against Constitution.
+	Perform a basic weapon attack with your main hand weapon. This attack deals half damage after armor, and applies bleeding for (2 + C/4) hits.
+	This action is not a basic weapon attack.
 
 # Swap Weapons
 **Execution time:** Rapid action
