@@ -147,15 +147,14 @@ By spending 1 energy when using an ability that uses the element you are envelop
 
 ## Sprout
 **Category:** Offense
-**Execution Time:** Action 
+**Execution Time:** Full-turn action 
 **Cost:** 2 energy
 **Range:** 1 meter 
-**Radius:** (2 + C/2) meters
-**Duration:** 5 minutes
+**Duration:** 1 hour
 **Effect**
 	Grow a stationary and autonomous plant, which shoots needles to your foes within radius.
-	A sprout summoned by this technique shares your level, and attack the creature closest to them.
-	Sprouts you create do not count towards your summon limit, and you can have up to (1 + P/3) sprouts at any time.
+	A sprout summoned by this technique shares your level, and attack the creature hostile to you closest to them.
+	Sprouts you create do not count towards your summon limit, and you can have up to (1 + P/4) sprouts at any time.
 	If you are enveloped in nature element, your sprout is summoned two levels higher and has 20 health instead of 10.
 
 
@@ -166,20 +165,19 @@ By spending 1 energy when using an ability that uses the element you are envelop
 <th>Sprout</th>
 <td colspan="3">Level x - Minion</td>
 </tr>
-<tr style="border-bottom: solid 2px"><td colspan="4">To do: add lore</td></tr>
 <tr>  
 <td colspan="1"><b>Health:</b> 10</td> 
 <td colspan="3"><b>Movement:</b> immobile (0 meters)</td>
 </tr>
 <tr style="border-bottom: dashed 2px">
-<td><b>Potency:</b> equal to level</td> 
-<td><b>Control:</b> 0</td> 
+<td><b>Potency:</b> level/2</td> 
+<td><b>Control:</b> level/2</td> 
 <td colspan="2"><b>Precision Roll:</b> d10 + level/2</td> 
 </tr>
 <tr>
 <td><b>Parry:</b> 5 + level/2</td>  
-<td><b>Warding:</b> 6 + level/2</td>  
-<td><b>Constitution:</b> 6 + level/2</td> 
+<td><b>Warding:</b> 5 + level/2</td>  
+<td><b>Constitution:</b> 5 + level/2</td> 
 <td><b>Evasion:</b> 4 + level/2</td>  
 </tr>
 <tr style="border-bottom: solid 2px">  
@@ -194,8 +192,9 @@ Immune to debilitating status effects.
 </tr>
 <tr>
 <td colspan="4"><i>Shoot</i> - Action, basic weapon attack, projectile
+Range: 5 meters.
 This attack's precision roll is made against Constitution. 
-Applies 2 hits of bleeding. 
+Applies (2 + C/2) hits of bleeding. 
 </td>
 </tr>
 </table>
