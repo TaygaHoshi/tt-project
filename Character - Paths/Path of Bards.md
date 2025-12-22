@@ -55,7 +55,7 @@ If you are upkeeping a poem, you can swap it with another poem without using a r
 	Target creature gains a +5 bonus to its damage from weapon attacks but cannot use any techniques.
 
 ## Poem of Humility
-**Category:** Defense
+**Category:** Utility
 **Against:** Warding
 **Execution Time:** Rapid action
 **Cost:** 2 energy per round

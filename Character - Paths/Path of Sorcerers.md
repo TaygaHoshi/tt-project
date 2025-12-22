@@ -20,7 +20,7 @@ Whenever you fail a precision roll, you can sacrifice 5 health to increase the r
 In addition, whenever you spend any amount of energy, you are healed for that amount.
 
 ## Equivalent Exchange
-At the start of a round, you can sacrifice 5 health to gain 10 temporary health for that round. This effect is clearly visible to other creatures.
+As a rapid action, you can sacrifice 5 health to gain 10 temporary health for that round. This effect is clearly visible to other creatures.
 
 ## Blood is Power
 As a rapid action, you can sacrifice 5 health to increase your aptitudes in one of the following ways, until the end of this round:
@@ -28,7 +28,7 @@ As a rapid action, you can sacrifice 5 health to increase your aptitudes in one 
 2. Increase both by 1 each.
 
 ## Death's Edge
-When you are at or below 15 health and use an ability that costs health, you can instead spend 1 energy per 5 health cost to use that ability.
+When you are at or below 15 health and use an ability that costs or sacrifices health, you can instead spend 1 energy per 5 health cost to use that ability.
 
 ## Hand of the Underworld
 Target a creature as a full-turn action and make a precision roll against their Constitution. This will alert the creature to your location. 
@@ -148,7 +148,6 @@ This ability does not get any bonuses to its damage.
 <th>Spiritling of Chaos</th>
 <td colspan="3">Level x - Minion</td>
 </tr>
-<tr style="border-bottom: solid 2px"><td colspan="4">To do: add lore</td></tr>
 <tr>  
 <td colspan="2"><b>Health:</b> 10</td> 
 <td colspan="2"><b>Movement:</b> 4 meters</td>

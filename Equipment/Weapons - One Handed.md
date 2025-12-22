@@ -19,7 +19,7 @@ One handed weapons are divided into two: heavy weapons and light weapons. Light 
 + Chop
 	+ Deals 25 physical damage.
 + Hook
-	+ Applies cracked armor until the end of this round.
+	+ Applies cracked armor for 1 round. 
 
 ## Curved Sword (Heavy)
 + Slash

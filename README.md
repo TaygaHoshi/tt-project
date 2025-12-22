@@ -27,9 +27,9 @@ git commit -m "useful commit mesage"
 git push
 ```
 
-Lastly, you can send a pull request to my repository through GitHub.
-
 Alternatively, you can go to your fork repository and press "." (dot). This opens your repository in a text editor, and you can commit directly from there. 
+
+Lastly, you can send a pull request to my repository through GitHub.
 
 # Project Structure
 ```
@@ -43,8 +43,7 @@ Alternatively, you can go to your fork repository and press "." (dot). This open
 ├── Monsters
 ├── INTRODUCTION.md -> Starting point
 ├── LICENCE.md
-├── README.md -> You are here
-└── RESOURCES.md
+└── README.md -> You are here
 ```
 
 # Licence
