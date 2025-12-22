@@ -60,13 +60,12 @@ Instead of gaining bonus damage, you can choose to apply exposed for 1 round.
 **Duration:** 1 round
 **Effect**
 	You can choose to activate this ability as a part of a basic weapon attack, except for with the *charge* special action.
-	Choose a resistance. You gain a +1 bonus to this resistance against attacks from this target for 1 round.
+	Choose a resistance. You gain a +1 bonus to this resistance against attacks from this target for the duration.
 
 ## Double Opportunity
 **Category:** Modification
 **Execution Time:** Special
 **Cost:** 2 energy
-**Range:** 1 meter
 **Effect**
 	You can choose to activate this ability when you use a prepared action. 
 	This prepared action can trigger twice instead of once. You can instead spend 4 energy to have your prepared action trigger three times.
@@ -82,10 +81,10 @@ Instead of gaining bonus damage, you can choose to apply exposed for 1 round.
 ## Graze
 **Category:** Modification
 **Execution Time:** Special
-**Cost:** 1 energy
+**Cost:** 2 energy
 **Effect**
-	You can choose to activate this ability when you attempt a basic weapon attack.
-	If this attack misses, you deal damage of your weapon's type equal to your potency.
+	You can choose to activate this ability when you attempt a damaging basic weapon attack.
+	If this attack misses, you deal 5 damage of your weapon's type.
 
 ## Hamstring
 **Category:** Modification
@@ -101,10 +100,9 @@ Instead of gaining bonus damage, you can choose to apply exposed for 1 round.
 **Category:** Modification
 **Execution Time:** Special 
 **Cost:** 1 energy
-**Range:** Special
 **Effect**
 	You can choose to activate this ability as a part of a basic weapon attack.
-	If it is a melee attack, its range is doubled.
+	If it is a melee attack, its range is increased by 1 meter.
 	If it is a ranged attack, its range is increased by (2 + C/2) meters.
 
 ## Stability
@@ -115,12 +113,13 @@ Instead of gaining bonus damage, you can choose to apply exposed for 1 round.
 **Effect**
 	For the duration of this technique, you gain 5 temporary health and surefooted.
 
-## Tackle
-**Category:** Weapon attack
+## Tackling Charge
+**Category:** Modification
 **Against:** Parry
-**Execution Time:** Action
-**Cost:** 2 energy
+**Execution Time:** Special
+**Cost:** 3 energy
 **Effect**
-	Ignores weapon precision.
-	Tackle an adjacent creature, making it fall prone and dealing 10 armor-ignoring damage.
-
+	You can choose to activate this technique when you take the *charge* special action.
+	At the end of this charge, you tackle your target instead of making a weapon attack. 
+	You can keep pushing your target for up to (2 + P/4) meters without changing directions. 
+	When you stop pushing, both of you fall prone, and the creature takes 15 physical damage.
