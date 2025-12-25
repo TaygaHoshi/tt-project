@@ -37,7 +37,7 @@ Projectile attacks of some ranged weapons suffer a penalty to their precision ro
 As long as there no adjacent foes, the attacker can negate these penalties by spending their movement to steady their aim.
 
 ## Improvised Weapons
-Some objects can be used as de facto weapons, at the GM's discretion. These objects can be used to perform a basic weapon attack and when making a precision roll with an improvised weapon, it breaks if the roll of the d10 is 3 or below, but the damage is still applied if the attack hits. There are two general sizes of improvised weapons:
+Some objects can be used as de facto weapons, at the GM's discretion. These objects can be used to perform a basic weapon attacks. When making a precision roll with an improvised weapon, it breaks if the roll of the d10 is 3 or below, but the damage is still applied if the attack hits. There are two general sizes of improvised weapons:
 
 | Size  | Damage   | Throwable | Weapon Precision |
 | ----- | -------- | --------- | ---------------- |

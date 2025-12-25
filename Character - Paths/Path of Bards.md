@@ -61,7 +61,7 @@ If you are upkeeping a poem, you can swap it with another poem without using a r
 **Cost:** 2 energy per round
 **Range:** (2 + C/3) meters
 **Effect**
-	Target creature becomes agitated by your words and motions of slander, and receives disoriented. Whenever this creature fails a precision roll, it takes 10 magical damage.
+	Target creature becomes agitated by your words and motions of slander. Apply disoriented to this creature. Whenever this creature fails a precision roll, it takes 10 magical damage.
 
 ## Poem of Fury
 **Category:** Offense

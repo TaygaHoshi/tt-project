@@ -18,7 +18,7 @@ If you roll an unmodified 10 on a precision roll of a damaging ability, you gain
 Additionally, you can choose to activate this ability as a part of a basic weapon attack by spending 3 energy.
 
 ## Weapon Expertise
-You can swap weapons without a rapid action by spending 1 energy.
+During your turns, you can swap weapons without a rapid action by spending 1 energy.
 
 ## Keen Rejuvenation
 Your *critical training* triggers on an unmodified roll of 9 or above, and grants you 1 energy if you successfully hit with your ability.
@@ -85,7 +85,7 @@ Instead of gaining bonus damage, you can choose to apply exposed for 1 round.
 **Cost:** 2 energy
 **Effect**
 	You can choose to activate this technique when you take the *sever* special action.
-	The bleeding is applied at half duration even if this attack misses.
+	The bleeding is applied with a duration of 1 hit if this attack misses.
 
 ## Hamstring
 **Category:** Modification

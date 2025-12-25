@@ -1,8 +1,6 @@
 # A Dark Source for Power
 Not all shamans are as benevolent as the guides. As shamans of the Underworld, sorcerers are primarily concerned with powers from the lowest layer of existence, where only chaos and death can be found.
 
-
-
 # Abilities
 | Level | Ability                |
 | :---: | ---------------------- |
@@ -50,7 +48,6 @@ This ability does not get any bonuses to its damage.
 **Category:** Utility
 **Execution Time:** Action
 **Cost:** 2 energy
-**Range:** 1 meter
 **Duration:** (1 + C/4) hours
 **Effect**
 	You can precisely manipulate a lifeless object smaller than (15 + C) cubic centimeters. You can apply one of the following:
@@ -62,12 +59,13 @@ This ability does not get any bonuses to its damage.
 
 ## Bane
 **Category:** Offense
-**Execution Time:** Action
+**Execution Time:** Full-turn action
 **Cost:** 3 energy
-**Duration:** (2 + C/2) rounds
+**Duration:** (1 + C/2) rounds
 **Effect**
-	Enchant a weapon you can touch with the aura of the underworld for the duration.
-	If the weapon kills a creature, a spiritling of chaos is summoned for 2 rounds. The summoned spiritling shares your level, counts toward your summon limit, and takes its turn right after the weapon’s wielder. The wielder can command the spiritling to attack a creature as a rapid action.
+	Enchant a weapon you can touch with the aura of the Underworld for the next hour.
+	Once, if a creature is killed with a weapon attack performed with this weapon, a spiritling of chaos is summoned for the duration. 
+	The summoned spiritling shares your level and counts toward your summon limit. The wielder can command the spiritling to attack a creature as a rapid action, otherwise it will attack the foe closest to it.
 	This technique can also be used on a weapon wielded by an adjacent creature.
 
 ## Call Chaos
@@ -79,7 +77,7 @@ This ability does not get any bonuses to its damage.
 **Effect**
 	Create an area of darkness around you for the duration. This area is considered quarter cover and light rough terrain. 
 	Summon a spiritling of chaos next to each creature hostile to you within the radius up to a maximum of (2 + P/3) spiritlings for the duration. 
-	Spiritlings summoned by this technique share your level, do not count towards your summon limit, and attack the creature closest to them. 
+	Spiritlings summoned by this technique share your level, do not count towards your summon limit, and attack the foe closest to them. 
 
 ## Curse Transfer
 **Category:** Offense
@@ -97,7 +95,7 @@ This ability does not get any bonuses to its damage.
 **Range:** 5 meters
 **Duration:** (2 + C/3) rounds
 **Effect**
-	Mark up to (1 + P/2) creatures for the duration, spending 1 energy per creature marked. If a marked creature dies while affected, adjacent creatures take 10 magical damage without requiring precision rolls.
+	Mark up to (1 + P/2) creatures for the duration, spending 1 energy per creature marked. If a marked creature dies while affected, adjacent creatures take 15 magical damage without requiring precision rolls.
 
 ## Pain Illusion
 **Category:** Offense
@@ -124,7 +122,7 @@ This ability does not get any bonuses to its damage.
 **Execution Time:** Action
 **Cost:** 10 health
 **Range:** 5 meters
-**Radius:** (1 + C/2) meters
+**Radius:** (2 + C/4) meters
 **Duration:** Special
 **Effect**
 	Debilitating and harmful status effects that the target creature is affected by spreads to the creatures within the radius around it with their remaining durations. You can choose to reduce the radius of this ability when you use it, to a minimum of 1 meter.
@@ -135,9 +133,9 @@ This ability does not get any bonuses to its damage.
 **Execution Time:** Action
 **Cost:** 2 energy 
 **Range:** 5 meters
-**Duration:** (2 + C/3) rounds
+**Duration:** (2 + C/4) rounds
 **Effect**
-	Apply sickened and exposed to the target creature for the duration. Alternatively, you can apply fatigue by spending 4 energy instead.
+	Apply sickened and exposed to the target creature for the duration. Additionally, you can apply fatigue by spending 4 energy instead.
 
 
 ---

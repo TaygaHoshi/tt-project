@@ -41,19 +41,9 @@ You can use this ability as a part of a damaging weapon attack by spending 1 ene
 **Category:** Defense
 **Execution Time:** Action
 **Cost:** 2 energy
-**Duration:** 1 round
+**Duration:** (1 + C/4) rounds
 **Effect**
 	Gain protective foresight, and 1 stack of protected per adjacent hostile creature for the duration. 
-
-## Disarm
-**Category:** Weapon attack
-**Against:** Parry
-**Execution Time:** Special
-**Cost:** 2 energy
-**Range:** 1 meter
-**Effect**
-	This attack deals 5 armor-ignoring damage, and your target drops one of its weapons. This weapon falls below the target.
-	This technique can't disarm natural weapons.
 
 ## Expose Weakness
 **Category:** Offense

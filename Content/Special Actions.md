@@ -3,7 +3,7 @@
 # Speak
 **Execution time:** Action or minor action
 **Explanation:**
-	During your turn, you can shout a few sentences. Your voice is heard within a reasonable radius. Alternatively, you can whisper to a creature or an object within melee range. In this case, your voice is only heard by that creature or object.	
+	During your turn, you can shout a few sentences. Your voice is heard within a reasonable radius. Alternatively, you can whisper to an adjacent creature or object. In this case, your voice is only heard by that creature or object.	
 	This ability can be used freely in the end phase of a combat round. If you choose to use this ability as a prepared action, you can set an event as the trigger. You can shout or whisper if you see this event happen.
 
 # Self Cure
@@ -21,6 +21,16 @@
 	Ignores weapon precision.
 	You gain a (3 + C/4) bonus to your movement speed, and you charge your target using your movement speed. Then, you perform a basic weapon attack.
 	After charging, you become fatigued for 1 round.
+
+# Disarm
+**Execution Time:** Action
+**Range:** Weapon range
+**Requirements:**
+	Any melee weapon in main hand.
+**Effect**
+	Perform a basic weapon attack with your main hand weapon. 
+	This attack deals half damage after armor, and your target drops one of its wielded weapons. This weapon falls below the target. 
+	This action is not a basic weapon attack.
 
 # Dual Strike
 **Execution time:** Full-turn action
@@ -86,7 +96,7 @@
 	A free main hand.
 **Explanation:**
 	Ignores weapon precision.
-	You retrieve the weapon stuck in the target, dealing half damage as armor-ignoring damage.
+	You retrieve the weapon stuck in the target, dealing half damage after armor.
 	This action is considered a basic weapon attack.
 
 # Use Item
