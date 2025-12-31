@@ -13,7 +13,7 @@ Many professions require extensive training with weapons and armor: professional
 Your base health is 80.
 
 ## Critical Training
-If you roll an unmodified 10 on a precision roll of a damaging ability, you gain a (5 + P/2) bonus to that ability's damage. This can happen multiple times per turn.
+If you roll an unmodified 10 on a precision roll of a damaging ability, you deal (5 + P/2) bonus damage with that ability if it hits. This can happen multiple times per round.
 
 Additionally, you can choose to activate this ability as a part of a basic weapon attack by spending 3 energy.
 
@@ -21,17 +21,17 @@ Additionally, you can choose to activate this ability as a part of a basic weapo
 During your turns, you can swap weapons without a rapid action by spending 1 energy.
 
 ## Keen Rejuvenation
-Your *critical training* triggers on an unmodified roll of 9 or above, and grants you 1 energy if you successfully hit with your ability.
+Your *critical training* triggers on an unmodified roll of 9 or above, and you gain 1 energy if you successfully hit with your ability.
 
-Instead of gaining bonus damage, you can choose to gain regeneration for 2 hits.
+Instead of dealing bonus damage with *critical training*, you can choose to gain regeneration for 2 hits.
 
 ## Armor Expertise
 When you gain temporary armor of one type, you also gain an equal amount of the other type for the same duration.
 
 ## Veteran Combatant
-Your *critical training* is perfected and it triggers on an unmodified roll of 8 or above.
+When performing a single-target damaging ability, your *critical training* triggers on an unmodified roll of 8 or above.
 
-Instead of gaining bonus damage, you can choose to apply exposed for 1 round.
+Instead of dealing bonus damage with *critical training*, you can choose to apply exposed for 1 round.
 
 ---
 # Techniques
