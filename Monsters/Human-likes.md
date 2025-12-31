@@ -33,7 +33,7 @@ Deals 20 physical damage.
 <td colspan="4"><i>Tickling</i> - Action, technique
 This attack's precision roll is made against Constitution.
 This monster makes a precision roll now and at the end of its target's turns. Unless any of its rolls fail, this target is prone and can't get up.
-Deals 5 armor-ignoring damage per round, on the monster's turns.
+Deals 10 armor-ignoring damage per round, on the monster's turns.
 This monster is unable to move or use any other ability while tickling someone.
 </td>
 </tr>
