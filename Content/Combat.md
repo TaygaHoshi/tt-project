@@ -185,11 +185,11 @@ A significant difference in elevation affects projectile attacks' precision roll
 	+ Some magical effects may break line of sight or block sounds.
 
 ## Falling Prone
-+ A creature can go into prone voluntarily if they give up half of their base movement speed as a part of their movement during their turn.
-+ When a creature falls or goes prone, they have to be in movement phase of their turn and use half of their base movement speed to get up.
-+ A prone creature has half cover against projectiles.
-+ A prone creature has -2 to all resistances against abilities used within melee range, including projectiles.
-+ A prone creature can only do their basic weapon attack, dealing half damage and ignoring weapon precision.
++ A creature can go into prone voluntarily if they give up half of their walking speed as a part of their movement during their turn.
++ When a creature falls or goes prone, they need to use half of their walking speed to get up.
++ A prone creature has quarter cover.
++ Attacking a prone creature grants a +1 bonus to precision rolls when adjacent to that creature. This also includes projectile attacks. 
++ A prone creature can only do basic weapon attacks, dealing half damage after armor and ignoring weapon precision.
 + When a flying creature is stunned, immobilized, or falls prone, it loses up to 3 meters of altitude and takes 5 armor-ignoring damage if it collides with the ground or an object.
 
 ## Fall Damage
