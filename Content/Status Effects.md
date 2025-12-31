@@ -56,8 +56,8 @@ Debilitating status effects have durations in terms of rounds or longer.
 + Does not stack. If target's defenses are already weakened, only the one with higher potency applies.
 
 ---
-# Harming Effects
-Harming status effects have durations in terms of hits or longer. 
+# Harmful Effects
+Harmful status effects have durations in terms of hits or longer. 
 ## Bleeding
 + Applies 5 armor-ignoring damage per hit.
 + Does not stack. If target is already bleeding, only the one with higher damage applies.
