@@ -124,7 +124,7 @@ Two handed weapons have three weapon attacks.
 + (Passive) Sidearm
 	+ This weapon's properties allows it to be used as a sidearm.
 	+ Skills rolls regarding the concealment of this weapon receive a +1 bonus if you are carrying at most 2 arrows.
-	+ During your turns, you can use the Swap Weapon action to swap to your shortbow freely without using a rapid action. 
+	+ During your turns, you can use the *swap weapon* action to swap to your shortbow freely without using a rapid action. 
 	+ Swapping weapons in this way drops the previous weapon(s) onto the ground below you.
 + (Projectile) Shoot
 	+ Range: 10 meters.

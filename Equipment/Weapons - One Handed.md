@@ -62,7 +62,7 @@ One handed weapons are divided into two: heavy weapons and light weapons. Light 
 + (Passive) Sidearm
 	+ This weapon's properties allows it to be used as a sidearm.
 	+ Skills rolls regarding the concealment of this weapon receive a +2 bonus.
-	+ During your turns, you can use the Swap Weapon action to swap to your shortsword freely without using a rapid action. 
+	+ During your turns, you can use the *swap weapon* action to swap to your shortsword freely without using a rapid action. 
 	+ Swapping weapons in this way drops the previous weapon(s) onto the ground below you.
 + Slash
 	+ Deals 20 physical damage.
@@ -79,7 +79,7 @@ One handed weapons are divided into two: heavy weapons and light weapons. Light 
 + (Passive) Sidearm
 	+ This weapon's properties allows it to be used as a sidearm.
 	+ Skills rolls regarding the concealment of this weapon receive a +3 bonus.
-	+ During your turns, you can use the Swap Weapon action to swap to your dagger freely without using a rapid action. 
+	+ During your turns, you can use the *swap weapon* action to swap to your dagger freely without using a rapid action. 
 	+ Swapping weapons in this way drops the previous weapon(s) onto the ground below you.
 + Stab
 	+ Deals 15 physical damage.
@@ -96,8 +96,7 @@ One handed weapons are divided into two: heavy weapons and light weapons. Light 
 	+ Deals 10 physical damage.
 + Stunning Blow 
 	+ This attack's precision roll is made against Constitution.
-	+ Stuns the target for 1 round.
+	+ Applies stunned to the target for 1 round.
 + (Prepared action) Disorienting Blow
 	+ This attack's precision roll is made against Constitution.
-	+ Ignores weapon precision.
 	+ Attack the next foe who moves into, within or out of melee range, applying 1 round of disoriented.
