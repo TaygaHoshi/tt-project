@@ -138,7 +138,7 @@ When moving between points of interest with large distances between them, a play
 1. Particularly good routes such as paved roads and good weather increase travel speed by up to 10 kilometers.
 2. Difficult routes and especially bad weather reduce travel speed by 10 kilometers each, depending on the conditions.
 3. [[Player Characters#Encumbrance|Encumbrance]] also affects travel speed, explained in the next section. 
-4. Minimum travel speed is 5 kilometers on foot and 15 kilometers on horseback or with a carriage. Below this, travel using that route is considered impassable.
+4. Minimum travel speed is 5 kilometers on foot and 15 kilometers on horseback or with a carriage. Below this, travel using that route is considered impassable using the respective method.
 
 ## Inventory Management
 A player character can keep some items on their person. 
@@ -159,8 +159,8 @@ Each player character has two quick access slots by default, and can place suita
 A player character can wear one set of [[Armor & Weapons#Armor Types and Armor Rating|armor]] and equip two [[Armor & Weapons#Weapon Sets|weapon sets]]. 
 
 ### Encumbrance
-If you are carrying more than what would be comfortable or tolerable, you can choose to either drop some items or push yourself to keep carrying the heavy load. 
-
-You gain 1 stack of fatigue per hour of being encumbered. This fatigue is reduced by 1 stack per 30 minutes after you stop being encumbered. 
+If you are carrying more than what would be comfortable or tolerable, you can choose to either drop some items or push yourself to keep carrying the heavy load:
+1. You gain 1 stack of fatigue per hour of being encumbered, which is reduced by 1 stack per 30 minutes after you stop being encumbered. 
+2. Your travel speed is reduced by 10 kilometers.
 
 
