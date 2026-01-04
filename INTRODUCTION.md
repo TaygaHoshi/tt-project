@@ -5,7 +5,7 @@ The game is played with one game master (GM) and one or more players:
 - The GM builds and runs a campaign, enforces the rules of the game, applies or creates resolution mechanics as necessary and controls the non-player characters (NPCs). 
 - Each player controls a single player character (PC). Through their characters, players can explore the world, battle enemies, interact with NPCs, pursue and complete quests, find treasures and go on adventures.
 
-Sigil is not ready for running campaigns yet. You are seeing the version: *v1-a10*
+Sigil is not ready for running campaigns yet. You are seeing the version: *v1-a10* (alpha)
 
 # Where to Start
 You can start from [[Player Characters]], or you can use [the character creation website](https://sigil-create.tyghsh.cc).
@@ -29,10 +29,10 @@ Sigil of Uchma is a simplified take on modern TTRPGs. Exploration, inventory man
 
 # Release Cycle
 Sigil of Uchma is versioned using a simple release cycle consisting of the following stages:
-1. Alpha (v1-a) -> current
-2. Beta (v1-b)
-3. Feature freeze (v1-f)
-4. Full version release (v1)
+1. Alpha (current)
+2. Beta
+3. Feature freeze
+4. Full release
 
 # Contact
 You can contact me through GitHub or Discord (taygahoshi). 
