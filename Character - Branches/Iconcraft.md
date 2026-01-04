@@ -60,6 +60,16 @@ Rituals of icon magic are techniques with two special properties:
 	This ritual does not require precision rolls.
 	Your icon strengthens the creatures within the area, granting their weapon attacks (3 + P/2) bonus damage. 
 
+## Ritual of Catalysis
+**Category:** Offense
+**Execution Time:** Full-turn action
+**Cost:** 6 energy
+**Radius:** (2 + C/4) meters
+**Duration:** 1 hour
+**Effect**
+	This ritual does not require precision rolls.
+	Your icon acts as a catalyzer for curses. Whenever a creature within this area is applied a harmful status effect, its duration is increased by 1 hit.
+
 ## Ritual of Repulsion
 **Category:** Defense
 **Against:** Constitution
