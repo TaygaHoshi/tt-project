@@ -141,6 +141,7 @@ A creature can only take one turn per round, even if it would appear again later
 	+ If a creature is bleeding for one hit, they will take bleeding damage at the start of their next turn and the bleeding ends. 
 	+ If the bleeding has a duration of two or more hits, then one hit will be spent when the bleeding damage happens.
 + Effects of abilities with a duration of one or more "rounds" end at the start of the turns of their owners.
++ If multiple effects end at the same time, they end in the order of application.
 
 ## Death
 + When a player character falls below 1 health, they are considered "unconscious".
