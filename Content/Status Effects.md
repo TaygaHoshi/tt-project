@@ -86,7 +86,7 @@ Harmful status effects have durations in terms of hits or longer.
 Supportive status effects have durations in terms of rounds or longer. 
 ## Inspired
 - Once, the creature can choose to spend this status effect to gain one of the following bonuses:
-	- A 1d2 bonus to one precision roll
+	- A +1 bonus to one precision roll
 	- A 1d4 bonus to one skill roll
 	- A 2d4 bonus to the damage of one basic weapon attack
 - Does not stack. If the target is already inspired, only the effect with the longer duration applies.

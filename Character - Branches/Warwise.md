@@ -41,7 +41,7 @@ You can use this ability as a part of a damaging weapon attack by spending 1 ene
 **Category:** Defense
 **Execution Time:** Rapid action
 **Cost:** 4 energy
-**Duration:** (1 + C/6) rounds
+**Duration:** 1 round
 **Effect**
 	Gain protective foresight, and 1 stack of protected per adjacent hostile creature for the duration. 
 
