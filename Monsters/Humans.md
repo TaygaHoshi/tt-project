@@ -301,7 +301,8 @@ Deals 20 physical damage.
 </tr>
 <tr>
 <td colspan="4"><i>Consume</i> - Action, technique
-This cultist can attack with slash twice for 3 rounds, but any precision roll targeting its Parry or Evasion succeeds automatically while this effect is active. 
+Duration: 3 rounds
+This cultist can attack with slash twice and gains inspired at the start of its turns, but any precision roll targeting its Parry or Evasion succeeds automatically while this effect is active. 
 </td>
 </tr>
 <tr>
@@ -419,6 +420,56 @@ For 1 round, the Ashik's target receives a -1 penalty to precision rolls and tak
 ---
 <table style="width: 100%; max-width: 720px; border-style: inset;">
 <tr>
+<th>Veteran Fighter</th>
+<td colspan="3">Level 5 - Minion</td>
+</tr>
+<tr style="border-bottom: solid 2px"><td colspan="4">These trained fighters are heavily armored, powerful combatants. They are usually professional soldiers who serve as lieutenants or commanders within armies. However, some of them can be found as independent mercenaries or bodyguards.</td></tr>
+<tr>
+<td><b>Health:</b> 80</td>  
+<td colspan="3"><b>Movement:</b> 4 meters</td>  
+</tr>
+<tr style="border-bottom: dashed 2px">
+<td><b>Potency:</b> 5</td> 
+<td><b>Control:</b> 0</td> 
+<td colspan="2"><b>Precision Roll:</b> d10 + 2</td> 
+</tr>
+<tr>
+<td><b>Parry:</b> 10</td> 
+<td><b>Warding:</b> 7</td>  
+<td><b>Constitution:</b> 8</td>  
+<td><b>Evasion:</b> 7</td>  
+</tr>
+<tr style="border-bottom: solid 2px">  
+<td colspan="1"><b>Physical Armor:</b> 15</td>
+<td colspan="1"><b>Magical Armor:</b> 0</td>
+<td colspan="2"><b>Weapon:</b> Sword and shield</td>
+</tr>
+<tr>
+<td colspan="4"><i>Critical Training</i> - Passive
+If this fighter rolls an unmodified 10 with a precision roll for a damaging weapon attack, that attack gains a +5 bonus to its damage.
+</td>
+</tr>
+<tr>
+<td colspan="4"><i>Slash</i> - Action, basic weapon attack
+Deals 30 physical damage.
+</td>
+</tr>
+<tr>
+<td colspan="4"><i>Shield Bash</i> - Rapid action, weapon attack
+Deals 10 physical damage.
+</td>
+</tr>
+<tr>
+<td colspan="4"><i>Charge</i> - Full-turn action, weapon attack
+This fighter gains a +3 bonus to its movement speed, and charges at its target using its movement speed. Then, it attacks with slash.
+After charging, this fighter becomes fatigued for 1 round.
+</td>
+</tr>
+</table>
+
+---
+<table style="width: 100%; max-width: 720px; border-style: inset;">
+<tr>
 <th>Expert Fighter</th>
 <td colspan="3">Level 7 - Boss, minion</td>
 </tr>
@@ -430,7 +481,7 @@ For 1 round, the Ashik's target receives a -1 penalty to precision rolls and tak
 <tr style="border-bottom: dashed 2px">
 <td><b>Potency:</b> 7</td> 
 <td><b>Control:</b> 0</td> 
-<td colspan="2"><b>Precision Roll:</b> d10 + 4</td> 
+<td colspan="2"><b>Precision Roll:</b> d10 + 3</td> 
 </tr>
 <tr>
 <td><b>Parry:</b> 11</td> 
