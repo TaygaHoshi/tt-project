@@ -2,9 +2,9 @@
 Instead of focusing on their personal growth, some choose to share their time, training and effort with their pets. While these people are sometimes called "masters", most of those specialized in this branch of combat are, in actuality, "tamers" or even "summoners" depending on the nature of their pet.
 
 ## Call Pet
-Choose a pet category and a damage type (physical or magical) when you take this branch from the list below. Your pet does not count toward your summon limit. It inherits your level and aptitudes. During its turns, it has one action and it uses its basic weapon attack by default unless you tell it to do something else. 
+Choose a pet category and a damage type (physical or magical) when you take this branch from the list below. Your pet does not count toward your summon limit. It inherits your level and aptitudes. During its turns, it has one action and it uses its basic weapon attack normally unless you tell it to do something else. Otherwise, normal [[sigil-of-uchma/Content/Combat#Summoning|summoning rules]] apply. 
 
-When your pet falls below 1 health, it will run away and hide if possible. In this case, it will not be available for combat for (d4 + 4) hours. Otherwise, normal [[sigil-of-uchma/Content/Combat#Summoning|summoning rules]] apply.  
+When your pet falls below 1 health, it will use its movement speed to run away if possible. In this case, it will not be available for combat for 1d4 hours or until you use *lick wounds* to bring it back above 0 health. 
 
 Techniques in the command category are used during your own turns. However, they affect your pet's next turn within up to 1 minute.
 
@@ -149,6 +149,12 @@ Deals 5 armor-ignoring damage.
 </tr>
 </table>
 
+## Lick Wounds
+As a rapid action, you can spend up to (1 + P/2) energy on this ability, commanding your pet to heal itself.
+
+During its next turn, your pet does not attack and heals for (2 + 1d4) health for every point of energy spent for this ability. 
+
+
 
 ---
 # Techniques
@@ -197,13 +203,6 @@ Deals 5 armor-ignoring damage.
 **Effect**
 	Your pet does not attack. Instead, it targets a prone creature of your choosing. Your pet grabs this creature and drags it towards you up to (2 + P/3) meters, dealing 5 armor-ignoring damage per meter dragged.
 
-## Lick Wounds
-**Category:** Command
-**Execution Time:** Rapid action
-**Cost:** Special
-**Effect**
-	Your pet does not attack and tries to heal itself. For every point of energy spent for this technique, your pet heals for (4 + 1d4) health. You can spend up to (1 + P) energy.
-
 ## Pounce
 **Category:** Command
 **Against:** Parry
@@ -234,4 +233,4 @@ Deals 5 armor-ignoring damage.
 **Execution Time:** Rapid action
 **Cost:** 3 energy
 **Effect**
-	For this round, your pet's movement speed drops to zero but it attacks two foes adjacent to it.
+	For this round, your pet's movement speed drops to zero but it attacks two creatures adjacent to it.
