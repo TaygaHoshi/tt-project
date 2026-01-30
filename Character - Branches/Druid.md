@@ -52,6 +52,7 @@ By spending 1 energy when using an ability that uses the element you are envelop
 	*Fire* -> Earth
 	*Water* -> Nature
 	*Nature* -> Fire 
+	You can't choose this technique as your first one.
 
 ## Elemental Armor
 **Category:** Defense
@@ -88,7 +89,7 @@ By spending 1 energy when using an ability that uses the element you are envelop
 	You create a large and stationary weather event around you. Any creature who starts or ends their turn within this area are affected by the event without requiring precision rolls unless they have cover from weather. This technique can only be used outside or interiors with sufficient space.
 	*Earth:* Sandstorm. Creatures within this area are considered to have quarter cover.
 	*Metal:* Thunderstorm. Affected creatures are electrified for 1 hit.
-	*Fire:* Meteor storm. Affected creatures are burning for 1 hit.
+	*Fire:* Firestorm. Affected creatures are burning for 1 hit.
 	*Water:* Rain. Affected creatures are soaked for 1 round.
 	*Nature:* Pollen storm. Affected creatures are diseased for 1 hit.
 	Alternatively, you can choose to perform a wider and longer version of this technique. This costs double energy and requires 1 hour of uninterrupted casting. In this case, this weather event lasts for (2 + C/2) hours and affects a 50 meter radius area.
@@ -124,7 +125,7 @@ By spending 1 energy when using an ability that uses the element you are envelop
 	(Projectile)
 	Shoot two shards of ice at the target creature. Each shard deals 5 magical damage. Potency bonus to this technique's damage is halved.
 	if both shards hit, target is frostbitten for the duration.
-	If you are enveloped in water element, you shoot three shards instead of two. Apply frostbitten if at least two shards hit.
+	If you are enveloped in water element, you shoot three shards instead of two and apply frostbitten if at least two of them hit.
 
 ## Landshape
 **Category:** Utility

@@ -18,7 +18,7 @@ Whenever you fail a precision roll, you can sacrifice 5 health to increase the r
 In addition, whenever you spend any amount of energy, you are healed for that amount.
 
 ## Equivalent Exchange
-As a rapid action, you can sacrifice 5 health to gain 10 temporary health for that round. This effect is clearly visible to other creatures.
+As a rapid action, you can sacrifice 5 health to gain 10 temporary health for 1 round. This effect is clearly visible to other creatures.
 
 ## Blood is Power
 As a rapid action, you can sacrifice 5 health to increase your aptitudes in one of the following ways, until the end of this round:
