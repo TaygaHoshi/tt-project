@@ -1,37 +1,39 @@
 ## Sigil of Tahmu
-**Category:** Off-hand weapon
-**Price:** #TODO 
-**Size:** 
-	Small
-	Can be equipped as part of a weapon set
+**Category:** Weapon
+**Base Price:** 5 gold coins
+**Bulk:** Off-hand weapon 
 **Uses:** Two uses
-**Effect:**
+**Description:**
 	This item is a brown-colored glass amulet with a protective eye symbol on it. 
 	If this item is put on the ground of a medium-sized tent, that area becomes protected against souls and spirits. Such creatures take 10 physical damage every round. 
 	As an equipment, this sigil can be used to reroll a succeeded precision roll against the wielder. When this sigil is used two times in this way, it shatters.
-**Crafting:** Can't be crafted. 
+**Crafting:** 
+	Requires glassblowing equipment. 
+	Success threshold: 18 runecarving.
+	Duration: One day of uninterrupted work. 
+	Materials: 1 unit of circular perfected glass, 1 unit of brown dye and 1 unit of underworld essence.
 
 ## Sigil of Uchma
-**Category:** Off-hand weapon
-**Price:** #TODO 
-**Size:** 
-	Small
-	Can be equipped as part of a weapon set
+**Category:** Weapon
+**Base Price:** 5 gold coins
+**Bulk:** Off-hand weapon
 **Uses:** Two uses
-**Effect:** 
-	This item is a blue-colored glass amulet with a protective eye symbol on it. 
+**Description:** 
+	This item is a cyan-colored glass amulet with a protective eye symbol on it. 
 	If this item is hung near the ceiling of an area as large as a medium-sized tent, that area becomes protected against souls and spirits. Such creatures take 10 magical damage every round. 
 	As an equipment, this sigil can be used to reroll a failed precision roll or skill roll. When this sigil is used two times in this way, it shatters.
-**Crafting:** Can't be crafted. 
+**Crafting:** 
+	Requires glassblowing equipment. 
+	Success threshold: 18 runecarving.
+	Duration: One day of uninterrupted work. 
+	Materials: 1 unit of circular perfected glass, 1 unit of cyan dye and 1 unit of overworld essence.
 
 ## Vial of Weak Poison
 **Category:** Combat item
-**Price:** #TODO 
-**Size:** 
-	Very small.
-	Can be put in a quick item slot.
+**Base Price:** 25 iron coins
+**Bulk:** Lightweight, small size, quick access item
 **Uses:** Single use
-**Effect:** 
+**Description:** 
 	Cover your physical weapon or its ammo with this poison. Your next successful attack applies sickened for 1 round. 
 	Lasts for 15 minutes on a weapon. 
 **Crafting:** 
@@ -39,12 +41,10 @@
 
 ## Vial of Common Poison
 **Category:** Combat item
-**Price:** #TODO 
-**Size:** 
-	Very small.
-	Can be put in a quick item slot.
+**Base Price:** 50 iron coins
+**Bulk:** Lightweight, small size, quick access item 
 **Uses:** Single use
-**Effect:** 
+**Description:** 
 	Cover your physical weapon or its ammo with this poison. Your next successful attack applies sickened for 2 rounds. 
 	Lasts for 15 minutes on a weapon. 
 **Crafting:** 
@@ -52,25 +52,21 @@
 
 ## Vial of Weak Healing Potion
 **Category:** Combat item
-**Price:** #TODO 
-**Size:** 
-	Very small.
-	Can be put in a quick item slot.
+**Base price:** 30 iron coins
+**Bulk:** Lightweight, small size, quick access item
 **Uses:** Single use
-**Effect:** 
-	Heal yourself for (2d4) health. 
+**Description:** 
+	Heals for (2 + 2d4) health. 
 **Crafting:** 
 	#TODO 
 
 ## Vial of Common Healing Potion
 **Category:** Combat item
-**Price:** #TODO 
-**Size:** 
-	Very small.
-	Can be put in a quick item slot.
+**Base price:** 60 iron coins
+**Bulk:** Lightweight, small size, quick access item
 **Uses:** Single use
-**Effect:** 
-	Heal yourself for (5 + 2d4) health. 
+**Description:** 
+	Heals for (4 + 4d4) health. 
 **Crafting:** 
 	#TODO 
 
