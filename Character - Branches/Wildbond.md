@@ -4,7 +4,7 @@ Instead of focusing on their personal growth, some choose to share their time, t
 ## Call Pet
 Choose a pet category and a damage type (physical or magical) when you take this branch from the list below. Your pet does not count toward your summon limit. It inherits your level and aptitudes. During its turns, it has one action and it uses its basic weapon attack normally unless you tell it to do something else. Otherwise, normal [[sigil-of-uchma/Content/Combat#Summoning|summoning rules]] apply. 
 
-When your pet falls below 1 health, it will use its movement speed to run away if possible. In this case, it will not be available for combat for 1d4 hours or until you use *lick wounds* to bring it back above 0 health. 
+When your pet falls below 1 health, it will use its movement speed to run away if possible. In this case, it will be wounded and can't be used during combat for 1d4 hours or until you use *lick wounds* to bring it back above 0 health. 
 
 Techniques in the command category are used during your own turns. However, they affect your pet's next turn within up to 1 minute.
 
@@ -153,8 +153,6 @@ Deals 5 armor-ignoring damage.
 As a rapid action, you can spend up to (1 + P/2) energy on this ability, commanding your pet to heal itself.
 
 During its next turn, your pet does not attack and heals for (2 + 1d4) health for every point of energy spent for this ability. 
-
-
 
 ---
 # Techniques
