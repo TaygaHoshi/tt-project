@@ -53,11 +53,10 @@
 # First Aid
 **Execution time:** Action
 **Requirements:** 
-	An unconscious creature within 1 meter.
+	An adjacent unconscious creature.
 **Explanation:** 
 	Make a Healing skill roll for the target creature against (3 + their current death save threshold).
-	If you succeed, this creature is stabilized and it is considered successful on its death save rolls. 
-	This creature is returned back to 1 health.
+	If you succeed, this creature is returned back to 1 health and stabilized. 
 
 # Sever
 **Execution Time:** Action

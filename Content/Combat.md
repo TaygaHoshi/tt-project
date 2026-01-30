@@ -144,8 +144,8 @@ A creature can only take one turn per round, even if it would appear again later
 + If multiple effects end at the same time, they end in the order of application.
 
 ## Death
-+ When a player character falls below 1 health, they are considered "unconscious".
-+ An unconscious character is considered prone.
++ When a player character falls below 1 health, they fall unconscious.
++ An unconscious character is considered prone, immobilized and stunned.
 + If a player character takes damage equal to or more than double their base maximum health in total, they die immediately.
 + At the end phase of each round, unconscious characters make a death save roll against increased thresholds:
 	+ Death save rolls are calculated as (1d10 + level/2)

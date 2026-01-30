@@ -21,8 +21,8 @@ Branches determine a characters' branch abilities and half of their techniques. 
 
 ### Aptitudes
 A player character gains one aptitude point each level starting from level 1. Aptitude points can be spent on either Potency (P) or Control (C):
-+ Potency (P) usually increases the strength of abilities, meanwhile
-+ Control (C) usually increases the duration, range and radius of abilities.
++ Potency (P) usually increases the strength and damage of abilities.
++ Control (C) usually increases the duration, range and radius of abilities as well as skill rolls.
 
 ### Health
 Your path determines your base health. There are three tiers of maximum health:
@@ -51,16 +51,16 @@ Energy is used for performing techniques and other abilities. As your character 
 ### Resistances
 Resistances lower the accuracy of incoming hits. They act as the success thresholds of precision rolls. List of resistances is given below:
 
-|  Resistance  | Used Against           |
+|  Resistance  | Used Mostly Against    |
 | :----------: | :--------------------- |
 |    Parry     | Physical attacks       |
 |   Warding    | Magical attacks        |
 | Constitution | Status effects         |
 |   Evasion    | Area of effect attacks |
 
-If an ability doesn't specify what resistance it is used against, it will either use Parry or Warding depending whether or not it is a magical ability.
+If an ability doesn't specify what resistance it is used against, it will either be against Parry or Warding depending on its damage type.
 
-Resistances are determined by stats, equipment, and other various things. At level 1, you can choose to focus on certain resistances:
+Resistances are determined by your level, equipment, and other various things. At level 1, you can choose to focus on certain resistances:
 1. You can choose one resistance to be "major" and another one to be "minor".
 2. Alternatively, you can choose three resistances to be "minor".
 
