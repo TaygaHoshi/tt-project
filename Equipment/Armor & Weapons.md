@@ -21,7 +21,7 @@ Weapons are what creatures use to hit their foes. Most creatures with body parts
 3. [[Weapons - Two Handed|Two handed weapons]] 
 
 ## Weapon Sets
-Weapon sets are helpful guides used primarily during character creation. If you take a bow, you will also get a quiver and 30 basic arrows/bolts. If you choose the throwing spear, you can take up to five spears. Extra spears take up space and require a quiver. A weapon set is any of these:
+Weapon sets are helpful guides used primarily during character creation. If you take a bow, you will also get a quiver and 30 basic arrows/bolts. If you choose the javelin, you can take up to five javelins. Extra javelins take up space and require a quiver. A weapon set is any of these:
 1. A one handed weapon and an off-hand weapon.
 2. A one handed weapon and a light one handed weapon.
 3. A two handed weapon. 

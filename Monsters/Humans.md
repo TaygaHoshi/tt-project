@@ -141,11 +141,11 @@ After charging, this fighter becomes fatigued for 1 round.
 <tr style="border-bottom: solid 2px">  
 <td colspan="1"><b>Physical Armor:</b> 5</td>
 <td colspan="1"><b>Magical Armor:</b> 0</td>
-<td colspan="2"><b>Weapon:</b> Longbow</td>
+<td colspan="2"><b>Weapon:</b> Recurve Bow</td>
 </tr>
 <tr>
 <td colspan="4"><i>Unsteady Aiming (-2)</i> - Passive
-This archer's longbow is affected by unsteady aiming.
+This archer's recurve bow is affected by unsteady aiming.
 </td>
 </tr>
 <tr>

@@ -36,7 +36,7 @@ When large quantities of currency is required, gold coins are sometimes used for
 **Bulk:** Ammo container, large size
 **Description:** 
 	A long bag that can be worn sideways or to the back.
-	When worn, it can hold up to 30 arrows or 6 throwing spears.
+	When worn, it can hold up to 30 arrows or 6 javelins.
 
 # Household Items
 ## Mirror

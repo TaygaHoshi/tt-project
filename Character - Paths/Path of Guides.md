@@ -7,7 +7,7 @@ Guides are shamans who practice their connection with the realm of souls and the
 |   1   | Passage        |
 |   3   | Simple Healing |
 |   5   | Banish         |
-|   7   | Pray           |
+|   7   | Offering       |
 |  10   | Soul-bound     |
 ## Low Base Health
 Your base health is 60.
@@ -27,7 +27,7 @@ When you use a technique that affects only one creature, you can spend 1 energy 
 This ability's precision roll is done against Constitution.
 You can use your *passage* on a creature you can touch as an action. When this creature returns, it is slowed and disoriented for 1 round. 
 
-## Pray
+## Offering
 You can choose to stop regenerating energy while resting. If you do, your party's health regeneration per hour during rest is doubled.
 
 ## Soul-bound

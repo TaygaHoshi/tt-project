@@ -1,5 +1,5 @@
 ## Pactblade
-**Category:** Curved sword
+**Category:** Cavalry sword
 **Base Price:** 5 gold coins
 **Bulk:** One handed heavy weapon
 **Description:** 

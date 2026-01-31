@@ -81,7 +81,7 @@
 # Throw Weapon
 **Execution time:** Action
 **Requirements:** 
-	A throwing spear, a hatchet, a shortsword, a dagger or any other throwable item in main hand.
+	A javelin, a hatchet, a shortsword, a dagger or any other throwable item in main hand.
 **Explanation:** 
 	(Projectile)
 	Ignores weapon precision.
