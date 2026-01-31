@@ -34,7 +34,7 @@ Deals 10 physical damage.
 ---
 <table style="width: 100%; max-width: 720px; border-style: inset;">
 <tr>
-<th>Nomad Bard</th>
+<th>Nomad Poet</th>
 <td colspan="3">Level 0 - Minion</td>
 </tr>
 <tr style="border-bottom: solid 2px"><td colspan="4">To do: add lore</td></tr>
@@ -377,7 +377,7 @@ This witch attacks the next foe who moves into, within or out of a 2 meter radiu
 <th>Ashik</th>
 <td colspan="3">Level 4 - Support</td>
 </tr>
-<tr style="border-bottom: solid 2px"><td colspan="4">The Ashik are a pseudo-group of religious bards that travel and sing for whichever divinity they believe in. They are as peaceful as the God they take faith in, and the worst ones are often cunning enough to hide which God that is.</td></tr>
+<tr style="border-bottom: solid 2px"><td colspan="4">The Ashik are a pseudo-group of religious poets that travel and sing for whichever divinity they believe in. They are as peaceful as the God they take faith in, and the worst ones are often cunning enough to hide which God that is.</td></tr>
 <tr>  
 <td><b>Health:</b> 60</td>  
 <td colspan="3"><b>Movement:</b> 6 meters</td>  

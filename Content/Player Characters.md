@@ -10,7 +10,7 @@ Paths determine a characters' abilities gained through leveling up and half of t
 - [[Path of Warriors]]
 - [[Path of Sorcerers]]
 - [[Path of Guides]]
-- [[Path of Bards]]
+- [[Path of Poets]]
 
 ### Branches
 Branches determine a characters' branch abilities and half of their techniques. Current list of branches are:
