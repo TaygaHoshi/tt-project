@@ -123,7 +123,6 @@ When a creature tries to steal health, the amount it gains is equal to the healt
 
 ## Turn Order
 At the start of the combat, determine turn order as follows:
-
 1. Every opposing group rolls a flat $\text{2d10}$.  
 	• Each group must end with a different roll result; reroll as needed until all results are unique.  
 	• If a new opposing group enters the combat later, they also roll a flat $\text{2d10}$. If their result matches an existing group, only the new group rerolls until they have a unique result.
@@ -141,7 +140,7 @@ A creature can only take one turn per round, even if it would appear again later
 	+ If a creature is bleeding for one hit, they will take bleeding damage at the start of their next turn and the bleeding ends. 
 	+ If the bleeding has a duration of two or more hits, then one hit will be spent when the bleeding damage happens.
 + Effects of abilities with a duration of one or more "rounds" end at the start of the turns of their owners.
-+ If multiple effects end at the same time, they end in the order of application.
++ If multiple effects would end at the same time, they end in the order of application.
 
 ## Death
 + When a player character falls below 1 health, they fall unconscious.
@@ -172,9 +171,9 @@ A significant difference in elevation affects projectile attacks' precision roll
 ## Cover and Line of Sight
 + When a character is behind cover, they are semi-protected against projectile attacks or abilities.
 + There are 3 types of cover:
-	+ Quarter Cover: +1 bonus to all resistances versus projectiles.
-	+ Half Cover: +2 bonus to all resistances versus projectiles.
-	+ Full Cover: +4 bonus to all resistances versus projectiles.
+	+ Quarter Cover: -1 penalty to precision rolls with projectile abilities.
+	+ Half Cover: -2 penalty to precision rolls with projectile abilities.
+	+ Full Cover: -4 penalty to precision rolls with projectile abilities.
 + Having other creatures in the way while determining cover counts as half cover. This doesn't increase with the amount of creatures in the way.
 + Cover does not stack, only the highest applicable one is used.
 + If a creature is completely blocked from another's point of view, they are out of line of sight and can't be interacted with targeted attacks and techniques.
@@ -191,18 +190,17 @@ A significant difference in elevation affects projectile attacks' precision roll
 + A prone creature has quarter cover.
 + Attacking a prone creature grants a +1 bonus to precision rolls when adjacent to that creature. This also includes projectile attacks. 
 + A prone creature can only do basic weapon attacks, dealing half damage after armor and ignoring weapon precision.
-+ When a flying creature is stunned, immobilized, or falls prone, it loses up to 3 meters of altitude and takes 5 armor-ignoring damage if it collides with the ground or an object.
++ When a flying creature is immobilized, or falls prone, it loses up to 3 meters of altitude and takes 5 armor-ignoring damage if it collides with the ground or an object.
 
 ## Fall Damage
-+ A character takes fall damage when they fall more than 5 meters.
-+ This damage is armor-ignoring and it is calculated as such:
-	+ Fall damage = 10 x (fall distance in meters - 5)
+A character takes fall damage when they fall more than 5 meters. This damage is armor-ignoring and it is calculated as such:
+$10 \times (\text{fall distance in meters} - 5)$
 
 ## Ambushes
 When the party ambushes or gets ambushed by one or more foes, the ambushed side is considered disadvantageous and they receive the following effects for the next round of combat:
 + -2 penalty to movement speed, down to a minimum of 1 meter
-+ -1 penalty to all precision rolls
-+ -1 penalty to all resistances
++ -1 penalty to all precision rolls by this creature
++ +1 bonus to all precision rolls against this creature
 
 ## Summoning
 + Summoner can control their minions during combat. A minion disappears immediately when its summoner dies.
@@ -224,7 +222,7 @@ When a creature transforms into another, several rules should be followed:
 
 
 ## Player versus Player
-Conflicts between player characters should be resolved with words. However, sometimes arguments might escalate into fights, duels or even ambushes. In this case, rather than getting into combat, the GM may opt to use the simple method of PvP instead:
+Conflicts between player characters should be resolved with words. However, sometimes arguments might escalate into fights, duels or even ambushes. In this case, rather than starting a combat encounter, the GM may opt to use the simple method of PvP instead:
 1. Players split into teams or stay neutral.
-2. Each team rolls a d10 per player. The team that rolls the highest in total wins.
-3. The GM may grant up to a +2 bonus to a team’s total if it has a clear situational advantage.
+2. Each team rolls a $\text{1d10}$ per player. The team that rolls the highest in total wins.
+3. The GM may grant up to a +2 bonus to a team’s total if it has a clear situational advantage aside from numbers.

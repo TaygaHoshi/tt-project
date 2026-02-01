@@ -333,7 +333,7 @@ This spirit gains surefooted for 1 round.
 ---
 <table style="width: 100%; max-width: 720px; border-style: inset;">
 <tr>
-<th>Local Fire Deity</th>
+<th>Lower Fire Deity</th>
 <td colspan="3">Level 8 - Minion</td>
 </tr>
 <tr style="border-bottom: solid 2px"><td colspan="4">To do: add lore</td></tr>
@@ -398,7 +398,7 @@ Attacks the next foe who moves into, within or out of melee range, dealing 15 ph
 ---
 <table style="width: 100%; max-width: 720px; border-style: inset;">
 <tr>
-<th>Local Water Deity</th>
+<th>Lower Water Deity</th>
 <td colspan="3">Level 8 - Minion</td>
 </tr>
 <tr style="border-bottom: solid 2px"><td colspan="4">To do: add lore</td></tr>
