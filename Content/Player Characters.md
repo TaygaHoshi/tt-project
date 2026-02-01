@@ -3,7 +3,7 @@ Player characters are the other part, alongside the Game Master, of Sigil of Uch
 
 # Character Creation
 ### Paths
-Paths determine a characters' abilities gained through leveling up and half of their techniques. Current list of paths are:
+Paths determine a characters' abilities gained through levelling up and half of their techniques. Current list of paths are:
 - [[Path of Warriors]]
 - [[Path of Sorcerers]]
 - [[Path of Guides]]
@@ -22,13 +22,13 @@ A player character gains one aptitude point each level starting from level 1. Ap
 + Control (C) usually increases the duration, range and radius of abilities as well as skill rolls.
 
 ### Health
-Your path determines your base health. There are three tiers of maximum health:
+Your path determines your base health:
 
-| Tier   | Base Health |
-| ------ | :---------: |
-| High   |     80      |
-| Medium |     70      |
-| Low    |     60      |
+| Path               | Base Health |
+| ------------------ | :---------: |
+| Warrior            |     80      |
+| Poet               |     70      |
+| Guide and Sorcerer |     60      |
 ### Energy
 Energy is used for performing techniques and other abilities. As your character levels up, your base energy increases:
 
@@ -93,7 +93,7 @@ Techniques are special abilities which usually cost energy to activate. A player
 | **9**  |        5        |         5         |
 | **10** |        5        |         5         |
 
-## Walking Speed
+## Movement Speed
 See: [[Combat#Movement|Movement]] and [[Combat#Turn Order|Turn Order]].
 
 ## Starter Equipment
@@ -106,7 +106,7 @@ See: [[Skills|Skills]]
 Skills are miscellaneous abilities of a character.
 
 ---
-## Leveling Up
+## Levelling Up
 #TODO 
 
 ## Resting and Sleeping

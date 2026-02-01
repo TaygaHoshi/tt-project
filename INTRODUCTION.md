@@ -19,28 +19,8 @@ Furthermore, Sigil is a relatively simplified take on the more well-known tablet
 Sigil of Uchma includes various rules for exploration, inventory management, crafting, travelling, interactions with NPCs and other similar activities. Such activities have simple rules, and most of the moment-to-moment decision making outside combat is left to common sense and imagination.
 
 ---
-# Quickstart Guides
+# Quick Reference Guides
 While reading the full rules are recommended, this section can be used as a general overview and for quick reference during play.
-
-## Creating a Player Character
-Full rules: [[Player Characters]]
-
-A guide on creating a level 1 character:
-1. Find a character concept and create a fitting backstory.
-2. Choose a Path: [[Path of Warriors|Warrior]], [[Path of Sorcerers|Sorcerer]], [[Path of Poets|Poet]] and [[Path of Guides|Guide]].
-	1. Choose one technique among the available ones.
-3. Choose a Branch: [[Wildbond]], [[Warwise]], [[Iconcraft]], [[Druid]].
-	1. Choose one technique among the available ones.
-4. Choose an [[Armor & Weapons#Armor|armor]] and [[Armor & Weapons#Weapon Sets|two sets of weapons]].
-5. Choose the [[Player Characters#Resistances|resistances]] you want to focus on:
-	1. Either one major (+2 bonus) resistance and a minor (+1 bonus) resistance, or
-	2. three minor resistances (+1 bonus to each)
-6. Spend your one aptitude point in either Potency or Control.
-7. Choose two skills as your major skills.
-8. Give a name to your character.
-
-You can check out the [the character creation website](https://sigil-create.tyghsh.cc) after reading this section.
-
 ## Combat Rule Reference Guide 
 Full rules: [[Combat]]
 
@@ -63,6 +43,7 @@ During your turn, you can do one of the sequences below:
 When using an ability that targets one or more hostile/unwilling creatures, roll a precision roll against your target(s)' resistances. If that precision roll is equal to or above that resistance, your attack hits. If this is a damaging ability, you can then use the damage formula to calculate the damage you dealt.
 
 ### Status Effects
+Full rules: [[Status Effects]]
 
 | Status Effect            | Type         | Explanation                                                                                                                                                                |
 | ------------------------ | ------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
