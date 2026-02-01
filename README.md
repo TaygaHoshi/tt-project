@@ -10,7 +10,7 @@ You can send feedback from this form: https://forms.gle/7NwTYqGUWpBfBWNg8.
 This repository is for keeping track of changes to the game rules between versions. It may or may not be up to date. Playable books will be posted in the releases page after they are made publicly available.
 
 # Contributing
-Feel free to submit a pull request, but you must read [the introduction](https://taygahoshi.github.io/tt-project/sigil-of-uchma/introduction.html) and [VERSIONING.md](https://github.com/TaygaHoshi/tt-project/blob/main/VERSIONING.md?plain=1). You can contribute to most of the places labeled with "#TODO". I use [Obsidian](https://obsidian.md/) to edit of these notes, to this project uses [Obsidian Flavored Markdown](https://help.obsidian.md/Editing+and+formatting/Obsidian+Flavored+Markdown) except for this README.md file. It uses GitHub Flavored Markdown instead. 
+Feel free to submit a pull request, but you must read [the introduction](https://taygahoshi.github.io/tt-project/sigil-of-uchma/introduction.html) and [VERSIONING.md](https://github.com/TaygaHoshi/tt-project/blob/main/VERSIONING.md?plain=1). You can contribute to most of the places labeled with "#TODO". I use [Obsidian](https://obsidian.md/) to edit of these notes, so this project uses [Obsidian Flavored Markdown](https://help.obsidian.md/Editing+and+formatting/Obsidian+Flavored+Markdown) except for this README.md file.
 
 To contribute, you can simply fork this repository, then clone your fork into Obsidian or any equivalent software:
 ```bash
@@ -18,9 +18,9 @@ cd /path/to/obsidian/vault
 git clone your-fork
 ```
 
-Then you can create a branch, make your changes, and create a commit:
+Then you can create a git branch, make your changes, and create a commit:
 ```bash
-git checkout -b your-branch-name
+git checkout -b your-feature-name
 # make your changes here
 git add -A
 git commit -m "useful commit mesage"
@@ -33,13 +33,12 @@ Lastly, you can send a pull request to my repository through GitHub.
 
 # Project Structure
 ```
-├── Assets
 ├── Character - Branches
 ├── Character - Paths
 ├── Content
 ├── docs
 ├── Equipment
-├── Items & Consumables
+├── Items
 ├── Monsters
 ├── INTRODUCTION.md -> Starting point
 ├── LICENCE.md

@@ -81,7 +81,7 @@ Some prepared actions may mention "moving into, out of or within an area". In th
 Precision rolls determine whether a weapon attack, a technique or any other ability succeeds against an unwilling target. A precision roll is done against a resistance, such as Parry or Evasion. If the result of this roll exceeds or is equal to the resistance it is rolled against, the roll succeeds and the technique or attack connects. 
 
 A precision roll is calculated according to this formula:
-	1d10 + (level)/2 + weapon precision bonus + other bonuses
+$\text{1d10} + \frac{\text{level}}{2} + \text{weapon precision} + \text{other bonuses}$
 
 Terms in this formula are explained below:
 	**Level:** Your character's current level.
@@ -94,7 +94,7 @@ Unless specified otherwise, all of the resistances of non-living objects are zer
 
 ## Damage
 When a creature takes damage, this damage value reduces their health. Damage done to a target is calculated according to this formula:
-	Action damage + potency + other bonuses - target's armor
+$\text{Action damage} + \text{Potency} + \text{other bonuses} - \text{target's armor (when applicable)}$
 
 Terms in this formula are explained below:
 	**Action damage:** Action damage is the damage of the respective ability.
@@ -103,8 +103,8 @@ Terms in this formula are explained below:
 	**Target's armor:** Armor is explained in the [[#Armor]] section. 
 
 In some cases, a specific ability might include a potency bonus or penalty itself. As an example, let's take an ability which includes the phrase "potency bonus to damage is halved for this attack". This simply means "potency" is divided by two in the formula:
-	Action damage + (potency)/2 + other bonuses - target's armor
-	
+$\text{Action damage} + \frac{\text{Potency}}{2} + \text{other bonuses} - \text{target's armor (when applicable)}$
+
 ### Armor
 Each creature has two kinds of armor: physical armor and magical armor. Normally, damage from weapon attacks and similar abilities are affected by physical armor and damage from magical techniques are affected by magical armor. If something is an exception to this rule, this is noted in the description of that ability.
 
@@ -124,14 +124,14 @@ When a creature tries to steal health, the amount it gains is equal to the healt
 ## Turn Order
 At the start of the combat, determine turn order as follows:
 
-1. Every opposing group rolls a flat 2d10.  
+1. Every opposing group rolls a flat $\text{2d10}$.  
 	• Each group must end with a different roll result; reroll as needed until all results are unique.  
-	• If a new opposing group enters the combat later, they also roll a flat 2d10. If their result matches an existing group, only the new group rerolls until they have a unique result.
+	• If a new opposing group enters the combat later, they also roll a flat $\text{2d10}$. If their result matches an existing group, only the new group rerolls until they have a unique result.
 2. All creatures in combat are ordered from highest to lowest based on their current movement speed.  
 	• If a creature that has a flying speed is currently on the ground, use its walking speed instead of its flying speed.
 3. Resolve ties in movement speed as follows:  
 	• Allies with the same movement speed decide their acting order beforehand. This order may be changed during combat using the *speak* special action.  
-	• Enemies with the same movement speed use the flat 2d10 results from step 1 to determine who acts first.
+	• Enemies with the same movement speed use the flat $\text{2d10}$ results from step 1 to determine who acts first.
 
 A creature can only take one turn per round, even if it would appear again later in the order.
 
@@ -148,7 +148,7 @@ A creature can only take one turn per round, even if it would appear again later
 + An unconscious character is considered prone, immobilized and stunned.
 + If a player character takes damage equal to or more than double their base maximum health in total, they die immediately.
 + At the end phase of each round, unconscious characters make a death save roll against increased thresholds:
-	+ Death save rolls are calculated as (1d10 + level/2)
+	+ Death save rolls are calculated as $\text{1d10} + \frac{\text{level}}{2}$
 	+ 1st round: 3
 	+ 2nd round: 5
 	+ 3rd round: 7

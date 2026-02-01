@@ -2,9 +2,6 @@
 Player characters are the other part, alongside the Game Master, of Sigil of Uchma. This page will go over the basics of character creation.
 
 # Character Creation
-### Helper Website
-There is a website which guides you through creating a character: <https://sigil-create.tyghsh.cc>
-
 ### Paths
 Paths determine a characters' abilities gained through leveling up and half of their techniques. Current list of paths are:
 - [[Path of Warriors]]
@@ -97,13 +94,12 @@ Techniques are special abilities which usually cost energy to activate. A player
 | **10** |        5        |         5         |
 
 ## Walking Speed
-See: [[sigil-of-uchma/Content/Combat#Movement|Movement]] and [[sigil-of-uchma/Content/Combat#Turn Order|Turn Order]].
+See: [[Combat#Movement|Movement]] and [[Combat#Turn Order|Turn Order]].
 
 ## Starter Equipment
 Each player character can choose a starting equipment:
 + Any [[Armor & Weapons#Armor Types and Armor Rating|armor type]] of their choosing
 + Two of any [[Armor & Weapons#Weapon Sets|weapon sets]], from basic weapon items.
-+ #TODO 
 
 ## Skills
 See: [[Skills|Skills]]
