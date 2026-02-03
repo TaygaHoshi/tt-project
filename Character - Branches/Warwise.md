@@ -3,7 +3,7 @@ The Warwise concern themselves not with the foe in front of them, but the whole 
 
 ## Battle Overseer
 You can keep the whole battlefield in your mind as a mental image:
-1. You can't be ambushed by non-magical means. You can take the *speak* special action to alert your allies, ending their ambushed status. 
+1. You can't be ambushed by non-magical means. You can take the *speak* common action to alert your allies, ending their ambushed status. 
 2. As long as you clearly hear or see a creature once, you can track their location within a 25 meter radius for up to 1 hour from the last time you hear or see it. 
 
 ## Backup Plan
@@ -16,7 +16,7 @@ You can use this ability as a part of a damaging weapon attack by spending 1 ene
 **Cost:** 2 energy
 **Duration:** (1 + C/3) rounds
 **Effect**
-	You can choose to activate this ability as a part of the *speak* special action. This technique costs an additional 1 energy per affected creature. This energy cost excludes yourself.
+	You can choose to activate this ability as a part of the *speak* common action. This technique costs an additional 1 energy per affected creature. This energy cost excludes yourself.
 	For the duration of this technique, allies who can hear you ignore the penalties of attacking from low ground and their attacks from high ground gain (3 + P/2) bonus damage. 
 
 ## Adapt to Formation
@@ -25,7 +25,7 @@ You can use this ability as a part of a damaging weapon attack by spending 1 ene
 **Cost:** 2 energy
 **Duration:** (1 + C/4) rounds
 **Effect**
-	You can choose to activate this ability as a part of the *speak* special action. This technique costs an additional 2 energy per affected creature. This energy cost excludes yourself.
+	You can choose to activate this ability as a part of the *speak* common action. This technique costs an additional 2 energy per affected creature. This energy cost excludes yourself.
 	Allies who can hear you do not trigger prepared actions with their movement for the duration. 
 
 ## Adapt to Terrain
@@ -34,7 +34,7 @@ You can use this ability as a part of a damaging weapon attack by spending 1 ene
 **Cost:** 2 energy
 **Duration:** (1 + C/3) rounds
 **Effect**
-	You can choose to activate this ability as a part of the *speak* special action. This technique costs an additional 1 energy per affected creature. This energy cost excludes yourself.
+	You can choose to activate this ability as a part of the *speak* common action. This technique costs an additional 1 energy per affected creature. This energy cost excludes yourself.
 	Allies who can hear you ignore movement penalties from rough terrain for the duration of this technique. 
 
 ## Focused Defense

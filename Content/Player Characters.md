@@ -107,8 +107,8 @@ Sigil of Uchma uses what is commonly known as milestone levelling, which means t
 
 #TODO: Alternative rules for experience levelling
 
-## Special Actions
-These actions can be taken by any player character as long as they fulfil the requirements. See [[Special Actions|the list of special actions]].
+## Common Actions
+These actions can be taken by any player character as long as they fulfil the requirements. See [[Common Actions|the list of common actions]].
 
 ## Resting and Sleeping
 Usually, a character requires 6 to 8 hours of sleep per day. Not getting proper sleep for a night gives a character one stack of fatigue. Stacks of fatigue received in this way can only be removed by sleeping. Skipping sleep while having 5 stacks of fatigue is lethal and the character dies.
@@ -148,7 +148,7 @@ In some cases, properties of an object might be as important as its size and wei
 There are many items that can act as a container: backpacks, pouches, boxes, belts, leather straps and more. 
 
 ### Quick Access Slots
-Not every object can be accessed with the same speed. A bedroll deep in a backpack might take a minute or two to take out, while a small flask of potion hanging from the backpack can be used almost immediately. This means only items in quick access slots can be used with [[Special Actions#Use Item|use item]] special action. 
+Not every object can be accessed with the same speed. A bedroll deep in a backpack might take a minute or two to take out, while a small flask of potion hanging from the backpack can be used almost immediately. This means only items in quick access slots can be used with [[Common Actions#Use Item|use item]] common action. 
 
 Each player character has two quick access slots by default, and can place suitable items in them. Some containers might grant more slots, but a character can have 5 quick access slots at most. 
 

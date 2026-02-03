@@ -13,7 +13,7 @@
 			4. Full-turn Action
 	3. End phase
 		1. Determining of death, leaving combat and fleeing
-		2. During this phase the *speak* special action is free to use.
+		2. During this phase the *speak* common action is free to use.
 5. End of round
 	1. Return to round start if the combat is continuing.
 
@@ -127,7 +127,7 @@ At the start of the combat, determine turn order as follows:
 2. All creatures in combat are ordered from highest to lowest based on their current movement speed.  
 	• If a creature that has a flying speed is currently on the ground, use its walking speed instead of its flying speed.
 3. Resolve ties in movement speed as follows:  
-	• Allies with the same movement speed decide their acting order beforehand. This order may be changed during combat using the *speak* special action.  
+	• Allies with the same movement speed decide their acting order beforehand. This order may be changed during combat using the *speak* common action.  
 	• Enemies with the same movement speed use the flat $\text{2d10}$ results from step 1 to determine who acts first.
 
 A creature can only take one turn per round, even if it would appear again later in the order.

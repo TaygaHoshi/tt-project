@@ -26,7 +26,7 @@ From there, the natural follow-up is the set of pages that explain what a player
 
 Once you have a grasp on those, move on to the basic equipment for every player character: [[Armor & Weapons]].
 
-Next pages to read would be the shared abilities and effects used across the game, in the pages describing [[Special Actions]] and [[Status Effects]].
+Next pages to read would be the shared abilities and effects used across the game, in the pages describing [[Common Actions]] and [[Status Effects]].
 
 Finally, if you want to learn about the various items to obtain and monsters you could meet during a campaign, check out the pages under the _Items_ category as well as [[Introduction to Monsters|the monsters page]].
 

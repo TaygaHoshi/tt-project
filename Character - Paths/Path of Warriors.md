@@ -50,7 +50,7 @@ Instead of dealing bonus damage with *critical training*, you can choose to appl
 **Cost:** 3 energy
 **Duration:** 1 round
 **Effect**
-	You can choose to activate this technique when you take the *charge* special action.
+	You can choose to activate this technique when you take the *charge* common action.
 	At the end of this charge, this attack additionally applies stunned to the target for the duration.
 
 ## Defensive Strike
@@ -59,7 +59,7 @@ Instead of dealing bonus damage with *critical training*, you can choose to appl
 **Cost:** 1 energy
 **Duration:** 1 round
 **Effect**
-	You can choose to activate this technique as a part of a damaging basic weapon attack, except for with the *charge* special action.
+	You can choose to activate this technique as a part of a damaging basic weapon attack, except for with the *charge* common action.
 	Choose a resistance. You gain a +1 bonus to this resistance against attacks from this target for the duration.
 
 ## Double Opportunity
@@ -84,7 +84,7 @@ Instead of dealing bonus damage with *critical training*, you can choose to appl
 **Execution Time:** Special
 **Cost:** 2 energy
 **Effect**
-	You can choose to activate this technique when you take the *sever* special action.
+	You can choose to activate this technique when you take the *sever* common action.
 	The bleeding is applied with a duration of 1 hit if this attack misses.
 
 ## Hamstring
@@ -120,7 +120,7 @@ Instead of dealing bonus damage with *critical training*, you can choose to appl
 **Execution Time:** Special
 **Cost:** 3 energy
 **Effect**
-	You can choose to activate this technique when you take the *charge* special action.
+	You can choose to activate this technique when you take the *charge* common action.
 	At the end of this charge, you tackle your target instead of making a weapon attack. 
 	You can keep pushing your target for up to (2 + P/4) meters without changing directions. 
 	When you stop pushing, the creature falls prone and takes 15 physical damage.

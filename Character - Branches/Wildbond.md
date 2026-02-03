@@ -215,7 +215,7 @@ During its next turn, your pet does not attack and heals for (2 + 1d4) health fo
 **Execution Time:** Rapid action
 **Cost:** 2 energy
 **Effect**
-	Your pet takes the charge special action. If your pet is a sharpshooter pet, it is instead quickened for 1 round.
+	Your pet takes the charge common action. If your pet is a sharpshooter pet, it is instead quickened for 1 round.
 
 ## Savagery
 **Category:** Offense
