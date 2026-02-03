@@ -1,36 +1,28 @@
-# Player Characters
-Player characters are the other part, alongside the Game Master, of Sigil of Uchma. This page will go over the basics of character creation.
+# Creating a Character
+Player characters are the other part, alongside the Game Master, of Sigil of Uchma. This section will go over the basics of character creation.
+You can follow along this section with the [character creation website](https://sigil-create.tyghsh.cc/).
 
-# Character Creation
-### Paths
-Paths determine a characters' abilities gained through levelling up and half of their techniques. Current list of paths are:
+## Sample Characters
+#TODO 
+
+
+## Classes
+Each player character in Sigil has two classes that they need to choose, a path and a branch.
+
+Paths determine a character's base health, their abilities gained by levelling up, and 5 of their techniques. There are currently four paths:
 - [[Path of Warriors]]
 - [[Path of Sorcerers]]
 - [[Path of Guides]]
 - [[Path of Poets]]
 
-### Branches
-Branches determine a characters' branch abilities and half of their techniques. Current list of branches are:
+Meanwhile, the branch choice grants one or more branch abilities and the another 5 techniques. There are currently four branches:
 - [[Wildbond]]
 - [[Warwise]] 
 - [[Iconcraft]]
-- [[Druid]]
+- [[Attuner]]
 
-### Aptitudes
-A player character gains one aptitude point each level starting from level 1. Aptitude points can be spent on either Potency (P) or Control (C):
-+ Potency (P) usually increases the strength and damage of abilities.
-+ Control (C) usually increases the duration, range and radius of abilities as well as skill rolls.
-
-### Health
-Your path determines your base health:
-
-| Path               | Base Health |
-| ------------------ | :---------: |
-| Warrior            |     80      |
-| Poet               |     70      |
-| Guide and Sorcerer |     60      |
-### Energy
-Energy is used for performing techniques and other abilities. As your character levels up, your base energy increases:
+## Energy
+Energy is a resource used for performing techniques and other abilities. As your character levels up, your base energy increases:
 
 | Level  | Base Energy |
 | :----: | :---------: |
@@ -45,8 +37,36 @@ Energy is used for performing techniques and other abilities. As your character 
 | **9**  |     18      |
 | **10** |     20      |
 
-### Resistances
-Resistances lower the accuracy of incoming hits. They act as the success thresholds of precision rolls. List of resistances is given below:
+Energy is regained primarily via [[Player Characters#Resting and Sleeping|resting or sleeping]], which are described in the relevant section below. However, many of the classes allow you to manipulate energy in one way or another such as transferring energy between party members or using health instead of energy. 
+
+## Techniques
+Techniques are abilities of a character which usually cost energy to activate. A first level character will have access to two techniques, meanwhile another one who has reached maximum level will have 10 techniques available to them:
+
+| Level  | Path Techniques | Branch Techniques |
+| :----: | :-------------: | :---------------: |
+| **1**  |        1        |         1         |
+| **2**  |        2        |         1         |
+| **3**  |        2        |         2         |
+| **4**  |        3        |         2         |
+| **5**  |        3        |         3         |
+| **6**  |        4        |         3         |
+| **7**  |        4        |         4         |
+| **8**  |        5        |         4         |
+| **9**  |        5        |         5         |
+| **10** |        5        |         5         |
+
+## Starter Equipment
+Each player character can choose a starting equipment:
++ Any [[Armor & Weapons#Armor Types and Armor Rating|armor type]] of their choosing. This determines their physical and magical armor strength as well as their base [[Combat#Movement|movement speed]].
++ Two [[Armor & Weapons#Weapon Sets|weapon sets]] using the basic weapon items.
+
+## Aptitudes
+Starting from the first level and with each level up, a character gains one aptitude point that they can spend on one of the two aptitudes. The aptitudes affect the scaling of almost every ability in the game:
++ *Potency (P)* usually increases the strength and damage of abilities.
++ *Control (C)* usually increases the duration, range and radius of abilities as well as the character's skill rolls.
+
+## Resistances
+Resistances lower the accuracy of incoming hits. They act as the success thresholds to beat when doing a [[Combat#Precision Rolls|precision roll]]. List of resistances is given below:
 
 |  Resistance  | Used Mostly Against    |
 | :----------: | :--------------------- |
@@ -76,38 +96,19 @@ Resistance choices affect their scaling:
 | **9**  | 11    | 10    | 9       |
 | **10** | 11    | 10    | 9       |
 
----
-## Techniques
-Techniques are special abilities which usually cost energy to activate. A player character can choose a technique from their path every even level, and from their branch every odd level:
-
-| Level  | Path Techniques | Branch Techniques |
-| :----: | :-------------: | :---------------: |
-| **1**  |        1        |         1         |
-| **2**  |        2        |         1         |
-| **3**  |        2        |         2         |
-| **4**  |        3        |         2         |
-| **5**  |        3        |         3         |
-| **6**  |        4        |         3         |
-| **7**  |        4        |         4         |
-| **8**  |        5        |         4         |
-| **9**  |        5        |         5         |
-| **10** |        5        |         5         |
-
-## Movement Speed
-See: [[Combat#Movement|Movement]] and [[Combat#Turn Order|Turn Order]].
-
-## Starter Equipment
-Each player character can choose a starting equipment:
-+ Any [[Armor & Weapons#Armor Types and Armor Rating|armor type]] of their choosing
-+ Two of any [[Armor & Weapons#Weapon Sets|weapon sets]], from basic weapon items.
-
 ## Skills
-See: [[Skills|Skills]]
-Skills are miscellaneous abilities of a character.
+[[Skills|Skills]] are miscellaneous abilities of a character used for skill rolls, both of which are described in the relevant page. At first level, you can choose to focus on two skills as your character's major skills.
 
 ---
+# Playing a Character
+
 ## Levelling Up
-#TODO 
+Sigil of Uchma uses what is commonly known as milestone levelling, which means the player characters will gain one level when they reach specific points (called milestones) in the campaign at the GM's discretion.
+
+#TODO: Alternative rules for experience levelling
+
+## Special Actions
+These actions can be taken by any player character as long as they fulfil the requirements. See [[Special Actions|the list of special actions]].
 
 ## Resting and Sleeping
 Usually, a character requires 6 to 8 hours of sleep per day. Not getting proper sleep for a night gives a character one stack of fatigue. Stacks of fatigue received in this way can only be removed by sleeping. Skipping sleep while having 5 stacks of fatigue is lethal and the character dies.
@@ -123,9 +124,9 @@ Sleeping has stricter requirements. Alongside the resting requirements, a charac
 1. They have a place to sleep.
 2. They are wearing clothing, robes or light armor.
 
-Sleeping and resting, normally, have the following benefits:
-1. While sleeping, you regenerate 10 health per hour and 2 energy per hour until level 5. Starting from level 5, you regenerate 3 energy per hour instead. 
-2. While only resting, you regenerate 5 health and 1 energy per hour.
+Sleeping and resting have the following benefits:
+1. While sleeping, you regenerate 10 health per hour and 2 energy per hour until level 6. Starting from level 6, you regenerate 3 energy per hour instead. 
+2. While only resting, you regenerate 5 health and 1 energy per hour no matter your level.
 
 However, not all damage and status effects can be healed this way. What makes sense and what does not is left primarily to the GM.
 
@@ -159,4 +160,15 @@ If you are carrying more than what would be comfortable or tolerable, you can ch
 1. You gain 1 stack of fatigue per hour of being encumbered, which is reduced by 1 stack per 30 minutes after you stop being encumbered. 
 2. Your travel speed is reduced by 10 kilometers.
 
-
+## Death
++ When a player character falls below 1 health, they fall unconscious.
++ An unconscious character is considered prone, immobilized and stunned.
++ If a player character takes damage equal to or more than double their base maximum health in total, they die immediately.
++ At the end phase of each round, unconscious characters make a death save roll against increased thresholds:
+	+ Death save rolls are calculated as $\text{1d10} + \frac{\text{level}}{2}$
+	+ 1st round: 3
+	+ 2nd round: 5
+	+ 3rd round: 7
+	+ 4th round: 9
++ A character dies if they fail any of their death saves or when they reach their 5th consecutive round in unconscious state. 
++ If a character is healed to at least 1 health during unconscious state, they become conscious again and they are considered prone. Temporary health does not count as healing for this purpose.

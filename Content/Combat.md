@@ -13,11 +13,12 @@
 			4. Full-turn Action
 	3. End phase
 		1. Determining of death, leaving combat and fleeing
+		2. During this phase the *speak* special action is free to use.
 5. End of round
 	1. Return to round start if the combat is continuing.
 
 ---
-# Rules of Combat
+# Basic Rules of Combat
 Combat has rules for resolving various situations that players and the GM might come across.
 
 ## Battle Map
@@ -29,10 +30,10 @@ Sigil of Uchma has two rule variations for calculating distances on a battle map
 2) Simulation distance
 
 **Game distance**
-With this rule, one square of diagonal distance is treated the same as one square of orthogonal distance. As a result, movement and ability ranges form a cube-like area of effect. Unless specified otherwise, game distance is the default rule.
+With this rule, one square of diagonal distance is treated the same as one square of orthogonal distance. As a result, movement and ability ranges form a cube-like area of effect. This is the default rule.
 
 **Simulation distance**
-This variant rule produces more realistic measurements and can be used if the additional tracking is acceptable. Here, diagonal movement alternates between 1 meter and 2 meters, causing movement and ability ranges to be more circular. This creates the same effect as counting two diagonal squares as equal to three orthogonal squares.
+This variant rule produces more realistic measurements and can be used if the additional calculations and tracking is acceptable, especially when using virtual tabletops. With this rule, diagonal movement alternates between 1 meter and 2 meters, causing movement and ability ranges to be more circular. This creates the same effect as counting two diagonal squares as equal to three orthogonal squares.
 
 ## Movement
 During combat, a creature can move within the battle map grid for a distance up to its speed. There are various types of speeds used for different types of movement, which are explained below.
@@ -73,9 +74,6 @@ Some prepared actions may mention "moving into, out of or within an area". In th
 
 ### Full-turn Action
 - A full-turn action takes up your whole turn, meaning you can't move or use any other type of action.
-
-## Special Actions
-+ These actions can be taken by any player character as long as they fulfil the requirements. See [[Special Actions|the list of special actions]].
 
 ## Precision Rolls
 Precision rolls determine whether a weapon attack, a technique or any other ability succeeds against an unwilling target. A precision roll is done against a resistance, such as Parry or Evasion. If the result of this roll exceeds or is equal to the resistance it is rolled against, the roll succeeds and the technique or attack connects. 
@@ -142,19 +140,6 @@ A creature can only take one turn per round, even if it would appear again later
 + Effects of abilities with a duration of one or more "rounds" end at the start of the turns of their owners.
 + If multiple effects would end at the same time, they end in the order of application.
 
-## Death
-+ When a player character falls below 1 health, they fall unconscious.
-+ An unconscious character is considered prone, immobilized and stunned.
-+ If a player character takes damage equal to or more than double their base maximum health in total, they die immediately.
-+ At the end phase of each round, unconscious characters make a death save roll against increased thresholds:
-	+ Death save rolls are calculated as $\text{1d10} + \frac{\text{level}}{2}$
-	+ 1st round: 3
-	+ 2nd round: 5
-	+ 3rd round: 7
-	+ 4th round: 9
-+ A character dies if they fail any of their death saves or when they reach their 5th consecutive round in unconscious state. 
-+ If a character is healed to at least 1 health during unconscious state, they become conscious again and they are considered prone. Temporary health does not count as healing for this purpose.
-
 ## Adjacency
 + A creature is adjacent to another if there aren't any battle map squares between them. 
 + Significant height differences caused by the environment may break adjacency.
@@ -202,6 +187,8 @@ When the party ambushes or gets ambushed by one or more foes, the ambushed side 
 + -1 penalty to all precision rolls by this creature
 + +1 bonus to all precision rolls against this creature
 
+---
+# Advanced Rules of Combat
 ## Summoning
 + Summoner can control their minions during combat. A minion disappears immediately when its summoner dies.
 + Summoners have a simple telepathic bond to their minions. A summoner will know where a minion is and how much damage it suffered at all times. 
@@ -226,3 +213,18 @@ Conflicts between player characters should be resolved with words. However, some
 1. Players split into teams or stay neutral.
 2. Each team rolls a $\text{1d10}$ per player. The team that rolls the highest in total wins.
 3. The GM may grant up to a +2 bonus to a team’s total if it has a clear situational advantage aside from numbers.
+
+
+---
+# Formula Reference Guide
+
+| Explanation                                                                                                                                   | Formula                                                                                                  |
+| --------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
+| Turn order tiebreak formula, e.g. member of the team that rolled higher goes earlier than member of another team with the same movement speed | $\text{2d10}$                                                                                            |
+| Precision roll formula                                                                                                                        | $\text{1d10} + \frac{\text{level}}{2} + \text{weapon precision} + \text{other bonuses}$                  |
+| Dealing damage, including status effects                                                                                                      | $\text{Action damage} + \text{Potency} + \text{other bonuses} - \text{target's armor (when applicable)}$ |
+| Fall damage                                                                                                                                   | $10 \times (\text{fall distance in meters} - 5)$                                                         |
+| Death save rolls                                                                                                                              | $\text{1d10} + \frac{\text{level}}{2}$                                                                   |
+| Death save success thresholds per round                                                                                                       | 1st round: 3<br>2nd round: 5<br>3rd round: 7<br>4th round: 9                                             |
+| Skill roll (normal skill)                                                                                                                     | $\text{1d10} + \frac{\text{Control}}{2} + \text{other bonuses}$                                          |
+| Skill roll (major skill)                                                                                                                      | $\text{2d10} + \frac{\text{Control}}{2} + \text{other bonuses}$                                          |
