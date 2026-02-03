@@ -2,13 +2,14 @@
 This equipment protects its wearer from physical and magical damage, depending on its type.
 
 ## Armor Types and Armor Rating
-| Armor Type | Physical Armor | Magical Armor | Initiative | Walking Speed | Stealth |
-| ---------- | :------------: | :-----------: | :--------: | :-----------: | :-----: |
-| Unarmored  |                |               |     +2     |               |   +2    |
-| Robes      |                |       5       |     +1     |               |   +1    |
-| Light      |       5        |               |            |               |         |
-| Adventurer |       5        |       5       |            |      -1       |   -1    |
-| Heavy      |       10       |               |     -1     |      -2       |   -2    |
+| Armor Type | Physical Armor | Magical Armor | Movement Speed | Stealth |
+| ---------- | :------------: | :-----------: | :------------: | :-----: |
+| Clothing   |       0        |       0       |       8        |    0    |
+| Robes      |       0        |       5       |       6        |    0    |
+| Light      |       5        |       0       |       6        |    0    |
+| Adventurer |       5        |       5       |       5        |   -1    |
+| Heavy      |       10       |       0       |       4        |   -2    |
+| Warded     |       0        |      10       |       4        |   -2    |
 
 ## Temporary Armor
 Additional armor can be gained through spells and abilities which grant temporary armor. Rules of temporary armor can be found in the [[Status Effects]] page.
@@ -20,12 +21,12 @@ Weapons are what creatures use to hit their foes. Most creatures with body parts
 3. [[Weapons - Two Handed|Two handed weapons]] 
 
 ## Weapon Sets
-Weapon sets are helpful guides used primarily during character creation. If you take a bow, you will also get a quiver and 30 basic arrows/bolts. If you choose the throwing spear, you can take up to five spears. Extra spears take up space and require a quiver. A weapon set is any of these:
+Weapon sets are helpful guides used primarily during character creation. If you take a bow, you will also get a quiver and 30 basic arrows/bolts. If you choose the javelin, you can take up to five javelins. Extra javelins take up space and require a quiver. A weapon set is any of these:
 1. A one handed weapon and an off-hand weapon.
 2. A one handed weapon and a light one handed weapon.
 3. A two handed weapon. 
 
-Bonuses or penalties from weapons, such as initiative, resistance or armor, only apply when you are currently wielding them.
+Bonuses or penalties from weapons, such as to resistance or armor only apply when you are currently wielding them.
 
 ## Basic Weapon Attacks
 Some abilities may include a phrase similar to "doing a basic weapon attack". This means using the regular attack of a weapon, which is almost always the first active ability. 
@@ -36,7 +37,7 @@ Projectile attacks of some ranged weapons suffer a penalty to their precision ro
 As long as there no adjacent foes, the attacker can negate these penalties by spending their movement to steady their aim.
 
 ## Improvised Weapons
-Some objects can be used as de facto weapons, at the GM's discretion. These objects can be used to perform a basic weapon attack and when making a precision roll with an improvised weapon, it breaks if the roll of the d10 is 3 or below, but the damage is still applied if the attack hits. There are two general sizes of improvised weapons:
+Some objects can be used as de facto weapons, at the GM's discretion. These objects can be used to perform a basic weapon attacks. When making a precision roll with an improvised weapon, it breaks if the roll of the d10 is 3 or below, but the damage is still applied if the attack hits. There are two general sizes of improvised weapons:
 
 | Size  | Damage   | Throwable | Weapon Precision |
 | ----- | -------- | --------- | ---------------- |

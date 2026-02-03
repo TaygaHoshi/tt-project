@@ -1,67 +1,83 @@
-# Player Characters
-Player characters are the other part, alongside the Game Master, of Sigil of Uchma. This page will go over the basics of character creation.
+# Creating a Character
+Player characters are the other part, alongside the Game Master, of Sigil of Uchma. This section will go over the basics of character creation.
+You can follow along this section with the [character creation website](https://sigil-create.tyghsh.cc/).
 
-# Character Creation
-### Helper Website
-There is a website which guides you through creating a character: <https://sigil-create.tyghsh.cc>
+## Sample Characters
+#TODO 
 
-### Paths
-Paths determine a characters' abilities gained through leveling up and half of their techniques. Current list of paths are:
+
+## Classes
+Each player character in Sigil has two classes that they need to choose, a path and a branch.
+
+Paths determine a character's base health, their abilities gained by levelling up, and 5 of their techniques. There are currently four paths:
 - [[Path of Warriors]]
 - [[Path of Sorcerers]]
-- [[Path of Shamans]]
-- [[Path of Bards]]
+- [[Path of Guides]]
+- [[Path of Poets]]
 
-### Branches
-Branches determine a characters' branch abilities and half of their techniques. Current list of branches are:
+Meanwhile, the branch choice grants one or more branch abilities and the another 5 techniques. There are currently four branches:
 - [[Wildbond]]
 - [[Warwise]] 
 - [[Iconcraft]]
-- [[Hunter]]
-- [[Druid]]
+- [[Attuner]]
 
-### Aptitudes
-A player character gains one aptitude point each level starting from level 1. Aptitude points can be spent on either Potency (P) or Control (C):
-+ Potency (P) usually increases the strength of abilities, meanwhile
-+ Control (C) usually increases the duration and size of abilities.
-
-### Health
-Your path determines your base health. There are three tiers of maximum health:
-
-| Tier   | Base Health |
-| ------ | :---------: |
-| High   |     80      |
-| Medium |     70      |
-| Low    |     60      |
-### Energy
-Energy is used for performing techniques and other abilities. As your character levels up, your base energy increases:
+## Energy
+Energy is a resource used for performing techniques and other abilities. As your character levels up, your base energy increases:
 
 | Level  | Base Energy |
 | :----: | :---------: |
-| **1**  |      8      |
-| **2**  |     10      |
+| **1**  |     10      |
+| **2**  |     12      |
 | **3**  |     12      |
 | **4**  |     14      |
-| **5**  |     16      |
-| **6**  |     18      |
-| **7**  |     20      |
-| **8**  |     22      |
-| **9**  |     24      |
-| **10** |     24      |
+| **5**  |     14      |
+| **6**  |     16      |
+| **7**  |     16      |
+| **8**  |     18      |
+| **9**  |     18      |
+| **10** |     20      |
 
-### Resistances
-Resistances lower the accuracy of incoming hits. They act as the success thresholds of precision rolls. List of resistances is given below:
+Energy is regained primarily via [[Player Characters#Resting and Sleeping|resting or sleeping]], which are described in the relevant section below. However, many of the classes allow you to manipulate energy in one way or another such as transferring energy between party members or using health instead of energy. 
 
-|  Resistance  | Used Against           |
+## Techniques
+Techniques are abilities of a character which usually cost energy to activate. A first level character will have access to two techniques, meanwhile another one who has reached maximum level will have 10 techniques available to them:
+
+| Level  | Path Techniques | Branch Techniques |
+| :----: | :-------------: | :---------------: |
+| **1**  |        1        |         1         |
+| **2**  |        2        |         1         |
+| **3**  |        2        |         2         |
+| **4**  |        3        |         2         |
+| **5**  |        3        |         3         |
+| **6**  |        4        |         3         |
+| **7**  |        4        |         4         |
+| **8**  |        5        |         4         |
+| **9**  |        5        |         5         |
+| **10** |        5        |         5         |
+
+## Starter Equipment
+Each player character can choose a starting equipment:
++ Any [[Armor & Weapons#Armor Types and Armor Rating|armor type]] of their choosing. This determines their physical and magical armor strength as well as their base [[Combat#Movement|movement speed]].
++ Two [[Armor & Weapons#Weapon Sets|weapon sets]] using the basic weapon items.
+
+## Aptitudes
+Starting from the first level and with each level up, a character gains one aptitude point that they can spend on one of the two aptitudes. The aptitudes affect the scaling of almost every ability in the game:
++ *Potency (P)* usually increases the strength and damage of abilities.
++ *Control (C)* usually increases the duration, range and radius of abilities as well as the character's skill rolls.
+
+## Resistances
+Resistances lower the accuracy of incoming hits. They act as the success thresholds to beat when doing a [[Combat#Precision Rolls|precision roll]]. List of resistances is given below:
+
+|  Resistance  | Used Mostly Against    |
 | :----------: | :--------------------- |
 |    Parry     | Physical attacks       |
 |   Warding    | Magical attacks        |
 | Constitution | Status effects         |
 |   Evasion    | Area of effect attacks |
 
-If an ability doesn't specify what resistance it is used against, it will either use Parry or Warding depending whether or not it is a magical ability.
+If an ability doesn't specify what resistance it is used against, it will either be against Parry or Warding depending on its damage type.
 
-Resistances are determined by stats, equipment, and other various things. At level 1, you can choose to focus on certain resistances:
+Resistances are determined by your level, equipment, and other various things. At level 1, you can choose to focus on certain resistances:
 1. You can choose one resistance to be "major" and another one to be "minor".
 2. Alternatively, you can choose three resistances to be "minor".
 
@@ -80,46 +96,24 @@ Resistance choices affect their scaling:
 | **9**  | 11    | 10    | 9       |
 | **10** | 11    | 10    | 9       |
 
----
-## Techniques
-Techniques are special abilities which usually cost energy to activate. A player character can choose a technique from their path every even level, and from their branch every odd level:
-
-| Level  | Path Techniques | Branch Techniques |
-| :----: | :-------------: | :---------------: |
-| **1**  |        1        |         1         |
-| **2**  |        2        |         1         |
-| **3**  |        2        |         2         |
-| **4**  |        3        |         2         |
-| **5**  |        3        |         3         |
-| **6**  |        4        |         3         |
-| **7**  |        4        |         4         |
-| **8**  |        5        |         4         |
-| **9**  |        5        |         5         |
-| **10** |        5        |         5         |
-
-## Walking Speed
-See: [[sigil-of-uchma/Content/Combat#Movement|Movement]].
-
-## Initiative
-See: [[sigil-of-uchma/Content/Combat#Turn Order|Turn Order]].
-Each player character has a base initiative of 0. Initiative is affected by some abilities and equipment such as armor or weapons.
-
-## Starter Equipment
-Each player character can choose a starting equipment:
-+ Any [[Armor & Weapons#Armor Types and Armor Rating|armor type]] of their choosing
-+ Two of any [[Armor & Weapons#Weapon Sets|weapon sets]]
-+ #TODO 
-
 ## Skills
-See: [[sigil-of-uchma/Content/Skills|Skills]]
-Skills are miscellaneous abilities of a character.
+[[Skills|Skills]] are miscellaneous abilities of a character used for skill rolls, both of which are described in the relevant page. At first level, you can choose to focus on two skills as your character's major skills.
 
 ---
-## Leveling Up
-#TODO 
+# Playing a Character
+
+## Levelling Up
+Sigil of Uchma uses what is commonly known as milestone levelling, which means the player characters will gain one level when they reach specific points (called milestones) in the campaign at the GM's discretion.
+
+#TODO: Alternative rules for experience levelling
+
+## Common Actions
+These actions can be taken by any player character as long as they fulfil the requirements. See [[Common Actions|the list of common actions]].
 
 ## Resting and Sleeping
-Usually, a character requires 6 to 8 hours of sleep per day. Not getting proper sleep for a night gives a character one stack of fatigue. Skipping sleep while having 5 stacks of fatigue is lethal and the character dies. While it is usually the best to sleep at night, it is not rare to see parties resting during the day. When the players decide the party should rest or sleep, they must declare this to the GM. In the case of just resting, the players should also explain what their characters will be doing while resting. In this case, the GM can determine whether or not these activities are allowed as a part of resting.
+Usually, a character requires 6 to 8 hours of sleep per day. Not getting proper sleep for a night gives a character one stack of fatigue. Stacks of fatigue received in this way can only be removed by sleeping. Skipping sleep while having 5 stacks of fatigue is lethal and the character dies.
+
+While it is usually the best to sleep at night, it is not rare to see parties resting during the day. When the players decide the party should rest or sleep, they must declare this to the GM. In the case of just resting, the players should also explain what their characters will be doing while resting. In this case, the GM can determine whether or not these activities are allowed as a part of resting.
 
 There are a few basic requirements to resting and sleeping. For a character to be able to rest, they should:
 1. Be able to sit or lie down. 
@@ -130,19 +124,18 @@ Sleeping has stricter requirements. Alongside the resting requirements, a charac
 1. They have a place to sleep.
 2. They are wearing clothing, robes or light armor.
 
-Sleeping and resting, normally, have the following benefits:
-1. While sleeping, you regenerate 10 health per hour and 2 energy per hour until level 5. Starting from level 5, you regenerate 3 energy per hour instead. 
-2. While only resting, you regenerate 5 health and 1 energy per hour.
+Sleeping and resting have the following benefits:
+1. While sleeping, you regenerate 10 health per hour and 2 energy per hour until level 6. Starting from level 6, you regenerate 3 energy per hour instead. 
+2. While only resting, you regenerate 5 health and 1 energy per hour no matter your level.
 
 However, not all damage and status effects can be healed this way. What makes sense and what does not is left primarily to the GM.
 
-## Traveling
-When moving between points of interest with large distances between them, a player character can usually walk 25 kilometers in a day, from early morning to sunset. This is called "travel speed". If all members of a party is traveling on horseback or with a carriage, travel speed is doubled. There are various conditions that may affect the distance:
-1. Particularly good routes such as paved roads and good weather increase travel speed by 10 kilometers.
+## Travelling
+When moving between points of interest with large distances between them, a player character can usually walk 25 kilometers in a day, from early morning to sunset. This is called "travel speed". If all members of a party is travelling on horseback or with a carriage, travel speed is doubled. There are various conditions that may affect this speed, which are considered after the bonus from mounts:
+1. Particularly good routes such as paved roads and good weather increase travel speed by up to 10 kilometers.
 2. Difficult routes and especially bad weather reduce travel speed by 10 kilometers each, depending on the conditions.
 3. [[Player Characters#Encumbrance|Encumbrance]] also affects travel speed, explained in the next section. 
-4. Minimum travel speed is 5 kilometers on foot and 15 kilometers on horseback or with a carriage. Below this, travel using that route is considered impassable.
-
+4. Minimum travel speed is 5 kilometers on foot and 15 kilometers on horseback or with a carriage. Below this, travel using that route is considered impassable using the respective method.
 
 ## Inventory Management
 A player character can keep some items on their person. 
@@ -155,7 +148,7 @@ In some cases, properties of an object might be as important as its size and wei
 There are many items that can act as a container: backpacks, pouches, boxes, belts, leather straps and more. 
 
 ### Quick Access Slots
-Not every object can be accessed with the same speed. A bedroll deep in a backpack might take several minutes to take out, while a small flask of potion hanging from the backpack can be used almost immediately. This means only items in quick access slots can be used with [[Special Actions#Use Item|use item]] special action. 
+Not every object can be accessed with the same speed. A bedroll deep in a backpack might take a minute or two to take out, while a small flask of potion hanging from the backpack can be used almost immediately. This means only items in quick access slots can be used with [[Common Actions#Use Item|use item]] common action. 
 
 Each player character has two quick access slots by default, and can place suitable items in them. Some containers might grant more slots, but a character can have 5 quick access slots at most. 
 
@@ -163,5 +156,19 @@ Each player character has two quick access slots by default, and can place suita
 A player character can wear one set of [[Armor & Weapons#Armor Types and Armor Rating|armor]] and equip two [[Armor & Weapons#Weapon Sets|weapon sets]]. 
 
 ### Encumbrance
-#TODO 
+If you are carrying more than what would be comfortable or tolerable, you can choose to either drop some items or push yourself to keep carrying the heavy load:
+1. You gain 1 stack of fatigue per hour of being encumbered, which is reduced by 1 stack per 30 minutes after you stop being encumbered. 
+2. Your travel speed is reduced by 10 kilometers.
 
+## Death
++ When a player character falls below 1 health, they fall unconscious.
++ An unconscious character is considered prone, immobilized and stunned.
++ If a player character takes damage equal to or more than double their base maximum health in total, they die immediately.
++ At the end phase of each round, unconscious characters make a death save roll against increased thresholds:
+	+ Death save rolls are calculated as $\text{1d10} + \frac{\text{level}}{2}$
+	+ 1st round: 3
+	+ 2nd round: 5
+	+ 3rd round: 7
+	+ 4th round: 9
++ A character dies if they fail any of their death saves or when they reach their 5th consecutive round in unconscious state. 
++ If a character is healed to at least 1 health during unconscious state, they become conscious again and they are considered prone. Temporary health does not count as healing for this purpose.

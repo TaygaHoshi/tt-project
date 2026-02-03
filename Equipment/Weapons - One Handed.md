@@ -3,34 +3,33 @@
 # One Handed Weapons
 One handed weapons are divided into two: heavy weapons and light weapons. Light weapons can be wielded as an off-hand weapon. When you wield a light weapon with your off-hand, you can only use its prepared action. Conversely, prepared actions of light weapons can't be used while they are wielded with the main hand.
 
-| Weapon         | Damage | Weapon Precision | Range | Initiative Bonus |
-| -------------- | :----: | :--------------: | :---: | :--------------: |
-| Hatchet        |   25   |        0         |  1m   |                  |
-| Curved Sword   |   20   |        1         |  1m   |                  |
-| Throwing Spear |   20   |        0         |  1m   |                  |
-| Scepter        |   20   |        0         |  5m   |                  |
-| Wand           |   20   |        0         |  5m   |                  |
-| Shortsword     |   20   |        1         |  1m   |                  |
-| Dagger         |   15   |        1         |  1m   |        +1        |
-| Unarmed        |   10   |        1         |  1m   |        +1        |
+| Weapon        | Damage | Weapon Precision | Stealth |  Range   |
+| ------------- | :----: | :--------------: | :-----: | :------: |
+| Hatchet       |   25   |        0         |    0    | 1 meter  |
+| Cavalry Sword |   20   |        +1        |    0    | 1 meter  |
+| Javelin       |   20   |        0         |   -1    | 1 meter  |
+| Scepter       |   20   |        0         |    0    | 5 meters |
+| Wand          |   20   |        0         |    0    | 5 meters |
+| Shortsword    |   20   |        +1        |    0    | 1 meter  |
+| Dagger        |   15   |        +1        |    0    | 1 meter  |
+| Unarmed       |   10   |        +1        |    0    | 1 meter  |
 
 ---
 ## Hatchet (Heavy)
-+ Slash
-	+ Deals 25 physical damage.
-	+ Ignores temporary armor.
 + Chop
-	+ Deals 20 physical damage, ignoring physical armor up to 10.
+	+ Deals 25 physical damage.
++ Hook
+	+ Applies cracked armor for 1 round. 
 
-## Curved Sword (Heavy)
+## Cavalry Sword (Heavy)
 + Slash
 	+ Deals 20 physical damage.
 + Feint
-	+ Deals 10 physical damage. 
-	+ You have a (1 + P/4) bonus to precision roll of this attack.
+	+ This attack's precision roll is made against Evasion. 
+	+ Deals 10 physical damage.
+	+ You have a +1 bonus to precision roll of this attack.
 
-## Throwing Spear (Heavy)
-+ Aptitude: Strength
+## Javelin (Heavy)
 + Thrust
 	+ Deals 20 physical damage.
 + Sweep
@@ -62,14 +61,14 @@ One handed weapons are divided into two: heavy weapons and light weapons. Light 
 + (Passive) Sidearm
 	+ This weapon's properties allows it to be used as a sidearm.
 	+ Skills rolls regarding the concealment of this weapon receive a +2 bonus.
-	+ During your turns, you can use the Swap Weapon action to swap to your shortsword freely without using a rapid action. 
+	+ During your turns, you can use the *swap weapon* action to swap to this weapon freely without using a rapid action. 
 	+ Swapping weapons in this way drops the previous weapon(s) onto the ground below you.
 + Slash
 	+ Deals 20 physical damage.
 +  Thrust
 	+ This attack's precision roll is done against Evasion.
 	+ Ignores weapon precision.
-	+ Deals 15 physical damage, ignoring up to 10 physical armor.
+	+ Deals 15 physical damage, ignoring up to 5 physical armor.
 + (Prepared action) Countering
 	+ Next time a creature within range attacks you with a melee weapon, you also attack them.
 	+ Ignores weapon precision.
@@ -79,7 +78,7 @@ One handed weapons are divided into two: heavy weapons and light weapons. Light 
 + (Passive) Sidearm
 	+ This weapon's properties allows it to be used as a sidearm.
 	+ Skills rolls regarding the concealment of this weapon receive a +3 bonus.
-	+ During your turns, you can use the Swap Weapon action to swap to your dagger freely without using a rapid action. 
+	+ During your turns, you can use the *swap weapon* action to swap to this weapon freely without using a rapid action. 
 	+ Swapping weapons in this way drops the previous weapon(s) onto the ground below you.
 + Stab
 	+ Deals 15 physical damage.
@@ -88,16 +87,15 @@ One handed weapons are divided into two: heavy weapons and light weapons. Light 
 	+ Deals 10 physical damage.
 	+ You attack the target twice.
 + (Prepared action) Backstab
-	+ Next time a flanked foe within your reach is attacked by an ally, you also attack them.
-	+ Deals 10 physical damage.
+	+ Next time a foe you are flanking is attacked, you also attack them.
+	+ Deals 15 physical damage. 
 
 ## Unarmed (Light)
 + Punch
 	+ Deals 10 physical damage.
 + Stunning Blow 
 	+ This attack's precision roll is made against Constitution.
-	+ Stuns the target for 1 round.
+	+ Applies stunned to the target for 1 round.
 + (Prepared action) Disorienting Blow
 	+ This attack's precision roll is made against Constitution.
-	+ Ignores weapon precision.
 	+ Attack the next foe who moves into, within or out of melee range, applying 1 round of disoriented.

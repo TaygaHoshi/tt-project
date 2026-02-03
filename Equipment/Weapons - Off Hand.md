@@ -3,28 +3,26 @@
 # Off-hand Weapons
 Weapon attacks tagged (Passive) are passive abilities which work only when the weapon is actively wielded in your off-hand.
 
-| Weapon       | Parry | Warding | Physical Armor | Magical Armor | Weapon Precision | Initiative |
-| ------------ | :---: | :-----: | :------------: | :-----------: | :--------------: | :--------: |
-| Shield       |   1   |         |       5        |               |        0         |     -1     |
-| Focus        |       |    1    |                |       5       |        0         |     -1     |
-| Charm        |       |         |                |               |        1         |            |
-| Warhorn      |       |         |                |               |        0         |            |
-| Light Weapon |       |         |                |               |        0         |            |
+| Weapon       | Parry | Warding | Physical Armor | Magical Armor | Weapon Precision | Stealth |
+| ------------ | :---: | :-----: | :------------: | :-----------: | :--------------: | :-----: |
+| Shield       |  +1   |    0    |       +5       |       0       |        -1        |   -1    |
+| Focus        |   0   |   +1    |       0        |      +5       |        -1        |   -1    |
+| Charm        |   0   |    0    |       0        |       0       |        +1        |    0    |
+| Warhorn      |   0   |    0    |       0        |       0       |        0         |    0    |
+| Light Weapon |   0   |    0    |       0        |       0       |        0         |    0    |
 
 ---
 ## Shield
 + (Rapid action) Projectile Defense
-	+ You have quarter cover against physical projectile attacks until the start of your next turn.
+	+ You have quarter cover against physical projectile attacks for 1 round.
 + (Rapid action) Shield Bash
-	+ Ignores weapon precision.
-	+ Deals 5 physical damage to target foe. 
+	+ Deals 5 physical damage. 
 
 ## Focus
 + (Rapid action) Projectile Defense
-	+ You have quarter cover against magical projectile attacks until the start of your next turn.
+	+ You have quarter cover against magical projectile attacks for 1 round.
 + (Projectile) (Rapid action) Focus Ray
 	+ Range: (2 + C/2) meters. 
-	+ Ignores weapon precision. 
 	+ Shoot a ray that deals 3 magical damage. Potency bonus to this attack's damage is halved. 
 
 ## Charm
@@ -33,9 +31,10 @@ Weapon attacks tagged (Passive) are passive abilities which work only when the w
 
 ## Warhorn
 + (Passive) Playing Horn
-	+ Allies who are unable to hear are not affected by your warhorn. 
+	+ This weapon's abilities affect all allies who can hear you.
+	+ Allies who can't hear you are not affected by your warhorn. 
 	+ Being stunned, falling or going prone, diving underwater or becoming unavailable to use techniques in any way stops the bonuses granted by this weapon. 
 + (Action) "Alacrity"
-	+ Allies within 5 meters gain a bonus (1 + P/4) to their initiative for (1 + C/4) rounds.
+	+ Allies within range gain quickened for (1 + C/4) rounds.
 + (Action) "Persistence"
-	+ Allies within 5 meters can ignore a debilitating status effect of their choosing for 1 round.
+	+ Choose a debilitating status effect. Allies are cured of this debilitating status effect.

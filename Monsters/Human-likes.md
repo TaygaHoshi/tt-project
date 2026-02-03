@@ -6,8 +6,7 @@
 <tr style="border-bottom: solid 2px"><td colspan="4">The Shurali are humanoid sheep with one horn. They are pranksters known for tickling people to death.</td></tr>
 <tr>  
 <td><b>Health:</b> 50</td>  
-<td colspan="2"><b>Movement:</b> 6 meters</td>  
-<td><b>Initiative:</b> 0</td>  
+<td colspan="3"><b>Movement:</b> 6 meters</td>  
 </tr>
 <tr style="border-bottom: dashed 2px">
 <td><b>Potency:</b> 0</td> 
@@ -34,7 +33,7 @@ Deals 20 physical damage.
 <td colspan="4"><i>Tickling</i> - Action, technique
 This attack's precision roll is made against Constitution.
 This monster makes a precision roll now and at the end of its target's turns. Unless any of its rolls fail, this target is prone and can't get up.
-Deals 5 armor-ignoring damage per round, on the monster's turns.
+Deals 10 armor-ignoring damage per round, on the monster's turns.
 This monster is unable to move or use any other ability while tickling someone.
 </td>
 </tr>
@@ -49,8 +48,7 @@ This monster is unable to move or use any other ability while tickling someone.
 <tr style="border-bottom: solid 2px"><td colspan="4">Vampires are the reason why forests at night are dangerous. Lesser vampires are almost always found working or studying under a higher vampire. However, there are sightings of rogue vampires. Some even lead bandits or beasts.</td></tr>
 <tr>  
 <td><b>Health:</b> 80</td>  
-<td colspan="2"><b>Movement:</b> 6 meters</td>  
-<td><b>Initiative:</b> 1</td>  
+<td colspan="3"><b>Movement:</b> 6 meters</td>  
 </tr>
 <tr style="border-bottom: dashed 2px">
 <td><b>Potency:</b> 2</td> 
@@ -70,7 +68,7 @@ This monster is unable to move or use any other ability while tickling someone.
 </tr>
 <tr>
 <td colspan="4"><i>Vampiric Affinity</i> - Passive
-Receives double damage from burning, and starts burning while in direct sunlight.
+This vampire's base armor is ineffective against burning, and starts burning while in direct sunlight.
 </td>
 </tr>
 <tr>
@@ -81,8 +79,8 @@ When this vampire falls below 10 health, this ability is automatically triggered
 </tr>
 <tr>
 <td colspan="4"><i>Severing Strike</i> - Action, basic weapon attack
-This attack's precision roll is made against Constitution.
-Deals 10 physical damage and applies bleeding (7 damage) for 1 hit.
+This attack's precision roll is made against Parry.
+Deals 15 physical damage and applies bleeding (7 damage) for 2 hits.
 </td>
 </tr>
 <tr>
@@ -108,8 +106,7 @@ This vampire grows its wings and spreads them around itself, gaining a +1 bonus 
 <tr style="border-bottom: solid 2px"><td colspan="4">Vampires are the reason why forests at night are dangerous. Lesser vampires, especially magic users, are almost always found working or studying under a higher vampire. However, there are sightings of rogue vampires who lead bandits or beasts.</td></tr>
 <tr>  
 <td><b>Health:</b> 60</td>  
-<td colspan="2"><b>Movement:</b> 6 meters</td>  
-<td><b>Initiative:</b> 1</td>  
+<td colspan="3"><b>Movement:</b> 6 meters</td>  
 </tr>
 <tr style="border-bottom: dashed 2px">
 <td><b>Potency:</b> 0</td> 
@@ -129,7 +126,7 @@ This vampire grows its wings and spreads them around itself, gaining a +1 bonus 
 </tr>
 <tr>
 <td colspan="4"><i>Vampiric Affinity</i> - Passive
-Receives double damage from burning, and starts burning while in direct sunlight.
+This vampire's base armor is ineffective against burning, and starts burning while in direct sunlight.
 </td>
 </tr>
 <tr>
@@ -170,8 +167,7 @@ Can be used once per day.
 <tr style="border-bottom: solid 2px"><td colspan="4">Yoohas are a type of dragons. They have human-like bodies with a snake head, and they are able to transform into a fully human shape. They use their shape changing abilities to lure travelers into their camps or villages and ambush them.</td></tr>
 <tr>  
 <td><b>Health:</b> 60</td>  
-<td colspan="2"><b>Movement:</b> 5 meters</td>  
-<td><b>Initiative:</b> -1</td>  
+<td colspan="3"><b>Movement:</b> 5 meters</td>  
 </tr>
 <tr style="border-bottom: dashed 2px">
 <td><b>Potency:</b> 0</td> 
@@ -229,8 +225,7 @@ After charging, this yooha becomes fatigued for 1 round.
 <tr style="border-bottom: solid 2px"><td colspan="4">Yoohas are a type of dragons. They have human-like bodies with a snake head, and they are able to transform into a fully human shape. They use their shape changing abilities to lure travelers into their camps or villages and ambush them.</td></tr>
 <tr>  
 <td><b>Health:</b> 70</td>  
-<td colspan="2"><b>Movement:</b> 5 meters</td>  
-<td><b>Initiative:</b> -1</td>  
+<td colspan="3"><b>Movement:</b> 5 meters</td>  
 </tr>
 <tr style="border-bottom: dashed 2px">
 <td><b>Potency:</b> 0</td> 
@@ -281,3 +276,52 @@ After charging, this yooha becomes fatigued for 1 round.
 </table>
 
 ---
+<table style="width: 100%; max-width: 720px; border-style: inset;">
+<tr>
+<th>Ghost</th>
+<td colspan="3">Level 5 - Minion</td>
+</tr>
+<tr style="border-bottom: solid 2px"><td colspan="4">To do: add lore</td></tr>
+<tr>  
+<td><b>Health:</b> 50</td>  
+<td colspan="3"><b>Movement:</b> 5 meters</td>  
+</tr>
+<tr style="border-bottom: dashed 2px">
+<td><b>Potency:</b> 5</td> 
+<td><b>Control:</b> 0</td> 
+<td colspan="2"><b>Precision Roll:</b> d10 + 2</td> 
+</tr>
+<tr>
+<td><b>Parry:</b> 6</td>  
+<td><b>Warding:</b> 6</td>  
+<td><b>Constitution:</b> 9</td>  
+<td><b>Evasion:</b> 9</td>  
+</tr>
+<tr style="border-bottom: solid 2px">  
+<td colspan="1"><b>Physical Armor:</b> 20</td>
+<td colspan="1"><b>Magical Armor:</b> 0</td>
+<td colspan="2"><b>Weapon:</b> Unarmed</td>
+</tr>
+<tr>
+<td colspan="4"><i>Half Incorporeal</i> - Passive
+This monster's physical armor is ineffective when it is immobilized, stunned or prone.
+</td>
+</tr>
+<tr>
+<td colspan="4"><i>Strike</i> - Action, basic weapon attack
+Deals 15 physical damage and an extra 15 magical damage. 
+</td>
+</tr>
+<tr>
+<td colspan="4"><i>Drain Energy</i> - Rapid action, technique
+This technique's precision roll is made against Constitution.
+Reduces target's energy by 1. 
+</td>
+</tr>
+<tr>
+<td colspan="4"><i>Charge</i> - Full-turn action, basic weapon attack
+This technique's precision roll is made against Constitution.
+This ghost gains a +3 bonus to its movement speed, and charges at its target using its movement speed. Then, it attacks with Strike.
+</td>
+</tr>
+</table>

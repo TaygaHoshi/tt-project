@@ -1,4 +1,5 @@
 # Debilitating Effects
+Debilitating status effects have durations in terms of rounds or longer. 
 
 ## Blinded
 + Reduces line of sight to 1 meter. 
@@ -8,7 +9,7 @@
 ## Cracked Armor
 - This creature's armor is ineffective.
 - Does not affect temporary armor.
-- Does not stack. If target already has cracked armor, only the one with higher duration applies.
+- Does not stack. If target already has cracked armor, only the one with longer duration applies.
 
 ## Disoriented
 + (1 + P/3) penalty on precision rolls.
@@ -21,40 +22,42 @@
 ## Fatigued
 + Reduces movement speed by 2 per stack.
 + Applies a -2 penalty on precision rolls and all resistances per stack.
-+ Stacks up to 5. 
++ Stacks up to 5. When fatigued is reapplied, the stack count increases and all stacks share the longest remaining duration.
 
 ## Immobilized
-+ Lowers walking, swimming, climbing and flying speeds to 0.
-+ Applies a -1 penalty to Evasion.
++ Reduces movement speed to 0.
++ -1 penalty to Evasion.
 + Does not stack. If target is already immobilized, only the longer one applies.
 
 ## Sickened
-+ (1 + P/3) penalty on Constitution.
++ (1 + P/4) penalty to Constitution.
 + Whenever a creature with sickened receives a harmful status effect, one hit is spent immediately.
 + Does not stack. If target is already sickened, only the one with higher potency applies.
 
 ## Slowed
-+ Halves walking, swimming, climbing and flying speeds.
-+ (1 + P/3) penalty on Evasion and initiative.
++ Halves movement speed.
++ (1 + P/4) penalty to Evasion.
++ If a slowed creature is also quickened, this status effect is considered after quickened. 
 + Does not stack. If target is already slowed, only the one with higher potency applies.
 
 ## Soaked
-+ If a creature is soaked and frostbitten or electrified at the start of its turn, it is no longer soaked and that damaging effect deals double damage this turn. If this creature is both frostbitten and electrified, soaked affects the status effect with the lowest damage. 
++ If a creature is soaked and frostbitten or electrified at the start of its turn, it is no longer soaked and that damaging effect deals double damage this turn. 
++ If this creature is both frostbitten and electrified, soaked affects the status effect with the lowest damage. 
 + If target is burning, it is cured and soaked doesn't get applied.
 + Does not stack. If target is already soaked, only the longer one applies.
 
 ## Stunned
-+ Lowers walking, swimming, climbing and flying speeds to 0.
-+ Target is unable to take any action.
-+ Applies a -3 penalty to Parry and Evasion.
++ A stunned creature is unable to take any action or run.
++ -2 penalty to Parry and Evasion.
 + Does not stack. If target is already stunned, only the longer one applies.
 
 ## Weakened Defenses
-+ (1 + P/3) penalty on Parry.
++ (1 + P/4) penalty to Parry.
 + Does not stack. If target's defenses are already weakened, only the one with higher potency applies.
 
 ---
-# Harming Effects
+# Harmful Effects
+Harmful status effects have durations in terms of hits or longer. 
 ## Bleeding
 + Applies 5 armor-ignoring damage per hit.
 + Does not stack. If target is already bleeding, only the one with higher damage applies.
@@ -80,12 +83,13 @@
 
 ---
 # Supportive Effects
+Supportive status effects have durations in terms of rounds or longer. 
 ## Inspired
-- Once, allows the creature to use the result of a dice in one of the following ways:
-	- 1d2 for a precision roll bonus
-	- 1d4 for a skill roll bonus
-	- 2d4 for a bonus to a basic weapon attack's damage
-- Does not stack. If target is already inspired, only the one with higher duration applies.
+- Once, the creature can choose to spend this status effect to gain one of the following bonuses:
+	- A +1 bonus to one precision roll
+	- A 1d4 bonus to one skill roll
+	- A 2d4 bonus to the damage of one basic weapon attack
+- Does not stack. If the target is already inspired, only the effect with the longer duration applies.
 
 ## Protected
 + Once, halves incoming damage after armor.
@@ -93,30 +97,40 @@
 + Does not stack unless all stacks of protected come from the same ability.
 
 ## Predictive Foresight
-+ (1 + P/4) bonus to the next precision roll.
-+ Does not stack. If target is already effected by a predictive foresight, only the one with higher potency applies.
++ +1 bonus to the next precision roll.
++ Does not stack. If target is already effected by a predictive foresight, only the one with longer duration applies.
 
 ## Protective Foresight
-+ (1 + P/4) bonus to all resistances for the next precision roll against this target.
-+ Does not stack. If target is already effected by a protective foresight, only the one with higher potency applies.
++ +1 bonus to all resistances for the next precision roll against this creature.
++ Does not stack. If target is already effected by a protective foresight, only the one with longer duration applies.
+
+## Quickened
+- Movement speed is increased by (2 + P/3) meters.
+- If a quickened creature is also slowed, this status effect is considered before slowed. 
+- Does not stack. If target is already quickened, only the one with higher potency applies.
 
 ## Regeneration
-- Heals for (2 + P/3) per hit.
+- Heals for (2 + P/2) per hit.
 - Does not stack. If target is already regenerating, only the one with higher potency applies.
+
+## Surefooted
+- This creature can't fall prone or be moved unwillingly.
+- Does not stack. If target is already surefooted, only the one with longer duration applies.
 
 ## Temporary Health
 + Increases health until the duration ends.
 + Affected by damage after armor.
-+ Does not stack. If target already has temporary health, only larger the one applies.
++ An unconscious creature cannot regain consciousness from temporary health. 
++ Does not stack. If target already has temporary health, only the larger one applies.
 
 ## Temporary Magical Armor
 + Protects target against magical damage until it breaks or the duration ends.
 + One point of temporary magical armor breaks for every point of magical damage reduced by it.
 + Affected by damage before armor.
-+ Does not stack. If target already has temporary armor, only larger the one applies.
++ Does not stack. If target already has temporary armor, only the larger one applies.
 
 ## Temporary Physical Armor
 + Protects target against physical damage until it breaks or the duration ends.
 + One point of temporary physical armor breaks for every point of physical damage reduced by it.
 + Affected by damage before armor.
-+ Does not stack. If target already has temporary armor, only larger the one applies.
++ Does not stack. If target already has temporary armor, only the larger one applies.
