@@ -1,3 +1,6 @@
+# Striking Verses
+Poets are masters of voice and literature, layering their performance with magical words. A steady rhythm can lift allies’ spirits, while sharp dissonance can distract, weaken, or wound foes. Most of them are travelling storytellers and chroniclers, but an alternate path lies with the Ashik: religious poets who travel in service of a divinity, reflecting that god’s nature in their songs.
+
 # Abilities
 | Level | Ability                             |
 | :---: | ----------------------------------- |

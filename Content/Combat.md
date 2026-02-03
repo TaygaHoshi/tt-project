@@ -100,11 +100,13 @@ Terms in this formula are explained below:
 	**Other bonuses:**  These are bonuses or penalties which come from various sources like status effects, environment and the like.
 	**Target's armor:** Armor is explained in the [[#Armor]] section. 
 
+
+
 In some cases, a specific ability might include a potency bonus or penalty itself. As an example, let's take an ability which includes the phrase "potency bonus to damage is halved for this attack". This simply means "potency" is divided by two in the formula:
 $\text{Action damage} + \frac{\text{Potency}}{2} + \text{other bonuses} - \text{target's armor (when applicable)}$
 
 ### Armor
-Each creature has two kinds of armor: physical armor and magical armor. Normally, damage from weapon attacks and similar abilities are affected by physical armor and damage from magical techniques are affected by magical armor. If something is an exception to this rule, this is noted in the description of that ability.
+Each creature has two kinds of armor: physical armor and magical armor. Normally, damage from physical weapon attacks and similar abilities are affected by physical armor and damage from magical techniques or magical weapons are affected by magical armor. If something is an exception to this rule, this is noted in the description of that ability.
 
 ### Damaging Ability
 For an ability to be considered a "damaging ability", it should have a base damage. Examples could be abilities like "Shield Bash" or the hatchet's "Hack". Some actions only apply a status effect, but do not have a base damage. These abilities are not considered damaging abilities.
