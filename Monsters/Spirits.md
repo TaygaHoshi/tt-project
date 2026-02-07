@@ -203,7 +203,7 @@ Creates a burning area around this spirit, dealing 10 magical damage to all crea
 </td>
 </tr>
 <tr>
-<td colspan="4"><i>Flame Trail</i> - Rapid Action, technique
+<td colspan="4"><i>Flame Trail</i> - Rapid action, technique
 This attack's precision rolls are made against Constitution.
 Whenever this creature moves, it leaves a trail of fire behind the squares it passes through. This trail stays alight for 1 round, and it deals 10 magical damage whenever a creature passes through it, excluding other fire spirits.
 </td>
@@ -383,7 +383,7 @@ This spirit sends three fireballs to its target, each dealing 10 magical damage.
 </td>
 </tr>
 <tr>
-<td colspan="4"><i>Flame Trail</i> - Rapid Action, technique
+<td colspan="4"><i>Flame Trail</i> - Rapid action, technique
 This attack's precision rolls are made against Constitution.
 Whenever this creature moves, it leaves a trail of fire behind the squares it passes through. This trail stays alight for 1 round, and it deals 10 magical damage whenever a creature passes through it, excluding other fire spirits.
 </td>

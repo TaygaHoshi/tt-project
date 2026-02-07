@@ -10,16 +10,16 @@ You can follow along this section with the [character creation website](https://
 Each player character in Sigil has two classes that they need to choose, a path and a branch.
 
 Paths determine a character's base health, their abilities gained by levelling up, and 5 of their techniques. There are currently four paths:
-- [[Path of Warriors]]
-- [[Path of Sorcerers]]
-- [[Path of Guides]]
-- [[Path of Poets]]
++ [[Path of Warriors]]
++ [[Path of Sorcerers]]
++ [[Path of Guides]]
++ [[Path of Poets]]
 
-Meanwhile, the branch choice grants one or more branch abilities and the another 5 techniques. There are currently four branches:
-- [[Wildbond]]
-- [[Warwise]] 
-- [[Iconcraft]]
-- [[Attuner]]
+Meanwhile, the branch choice grants one or more branch abilities and another 5 techniques. There are currently four branches:
++ [[Wildbond]]
++ [[Warwise]] 
++ [[Iconcraft]]
++ [[Attuner]]
 
 ## Energy
 Energy is a resource used for performing techniques and other abilities. As your character levels up, your base energy increases:

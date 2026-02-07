@@ -14,9 +14,9 @@ Your base health is 60.
 
 ## Passage
 As an action, you can temporarily enter the realm of souls for 1 round by spending 3 energy. While in the realm of souls, you are:
-1. unable to be effected by any abilities or status effects,
+1. unable to be affected by any abilities or status effects,
 2. unable to use any abilities or communicate with anyone, and
-3. unable enter areas protected against souls.
+3. unable to enter areas protected against souls.
 
 When you return, you are disoriented for 1 round.
 
@@ -24,7 +24,7 @@ When you return, you are disoriented for 1 round.
 When you use a technique that affects only one creature, you can spend 1 energy to grant them regeneration for 2 hits. 
 
 ## Banish
-This ability's precision roll is done against Constitution.
+This ability's precision roll is made against Constitution.
 You can use your *passage* on a creature you can touch as an action. When this creature returns, it is slowed and disoriented for 1 round. 
 
 ## Offering
@@ -124,4 +124,3 @@ Your *passage* and *banish* abilities last 2 rounds instead. You can dismiss the
 **Cost:** 1 energy
 **Effect**
 	Touch two willing creatures. You can transfer up to 4 energy from one to the other. This technique takes 1 minute to execute for each point of energy transferred.
-

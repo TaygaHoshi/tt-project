@@ -10,7 +10,7 @@
 			1. Move -> Action and Minor Action
 			2. Action and Minor Action -> Move
 			3. Move -> Move (Running)
-			4. Full-turn Action
+			4. Full-turn action
 	3. End phase
 		1. Determining of death, leaving combat and fleeing
 		2. During this phase the *speak* common action is free to use.
@@ -39,7 +39,7 @@ This variant rule produces more realistic measurements and can be used if the ad
 During combat, a creature can move within the battle map grid for a distance up to its speed. There are various types of speeds used for different types of movement, which are explained below.
 
 ### Walking
-* Walking is the simplest way of movement.
++ Walking is the simplest way of movement.
 + Instead of taking an action, a creature might "walk" twice. This is called "running" and unless specified otherwise, it is equal to double the walking speed.
 + A running creature can't take actions, rapid actions, prepared actions or full-turn actions.
 
@@ -64,26 +64,26 @@ These are regular actions. Mostly, only one action can be taken during a turn.
 ### Minor Actions
 There are two kinds of minor actions: rapid actions and prepared actions. Mostly, only one minor action can be taken during a turn.
 
-**Rapid Action**
+**Rapid action**
 During a turn, one rapid action can be taken alongside a regular action.
 
-**Prepared Action**
+**Prepared action**
 During a turn, one prepared action can be taken alongside a regular action. Actions of this type always come with a trigger, and they are always executed outside a character's turn. Prepared actions last until end of the current round, unless explicitly told otherwise.
 
 Some prepared actions may mention "moving into, out of or within an area". In this case, the attack is done after the creature successfully moves to a new square on the battle map, even if it would be out of range otherwise. 
 
-### Full-turn Action
-- A full-turn action takes up your whole turn, meaning you can't move or use any other type of action.
+### Full-turn action
++ A full-turn action takes up your whole turn, meaning you can't move or use any other type of action.
 
 ## Precision Rolls
-Precision rolls determine whether a weapon attack, a technique or any other ability succeeds against an unwilling target. A precision roll is done against a resistance, such as Parry or Evasion. If the result of this roll exceeds or is equal to the resistance it is rolled against, the roll succeeds and the technique or attack connects. 
+Precision rolls determine whether a weapon attack, a technique or any other ability succeeds against an unwilling target. A precision roll is made against a resistance, such as Parry or Evasion. If the result of this roll exceeds or is equal to the resistance, the roll succeeds and the technique or attack connects. 
 
 A precision roll is calculated according to this formula:
 $\text{1d10} + \frac{\text{level}}{2} + \text{weapon precision} + \text{other bonuses}$
 
 Terms in this formula are explained below:
 	**Level:** Your character's current level.
-	**Weapon precision bonus:** This bonus is determined by the type of the weapon held in main hand.
+	**Weapon precision:** This bonus is determined by the type of the weapon held in main hand.
 	**Other bonuses:** These are bonuses or penalties which come from various sources like status effects, environment and the like.
 
 In some cases, a specific spell, an ability or an attack might include a precision bonus or penalty itself. Moreover, some abilities may affect multiple targets. In this case, multiple precision rolls are required to determine which targets get affected by this ability.
@@ -176,7 +176,7 @@ A significant difference in elevation affects projectile attacks' precision roll
 + When a creature falls or goes prone, they need to use half of their walking speed to get up.
 + A prone creature has quarter cover.
 + Attacking a prone creature grants a +1 bonus to precision rolls when adjacent to that creature. This also includes projectile attacks. 
-+ A prone creature can only do basic weapon attacks, dealing half damage after armor and ignoring weapon precision.
++ A prone creature can only do basic weapon attacks. These attacks deal half damage after armor and ignore weapon precision.
 + When a flying creature is immobilized, or falls prone, it loses up to 3 meters of altitude and takes 5 armor-ignoring damage if it collides with the ground or an object.
 
 ## Fall Damage
@@ -201,7 +201,7 @@ When the party ambushes or gets ambushed by one or more foes, the ambushed side 
 ## Transforming
 When a creature transforms into another, several rules should be followed:
 + A creature can only use the abilities of what it transformed into, and its stats are set to the stats of the new form. Status effects or abilities with durations are unaffected by transforming. 
-+ When returning to the original form, a creature's health is set to what it was before the transformation. Going below 0 health does not break the transformation. See: [[Combat#Death|death]].
++ When returning to the original form, a creature's health is set to what it was before the transformation. Going below 0 health does not break the transformation. See: [[Player Characters#Death|death]].
 + If a creature is unwillingly transformed during its own turn, this turn immediately ends.
 + If the new form cannot physically fit within the environment, the creature takes 5 armor-ignoring damage and the transformation fails.
 

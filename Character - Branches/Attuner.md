@@ -33,11 +33,11 @@ Each location corresponds to exactly one element.
 
 ## Cycle of Suppression
 By spending 1 energy when using an ability that uses the element you are enveloped in, you may invert your harmony, treating yourself as enveloped in the element it suppresses instead.
-- *Earth* -> Water
-- *Metal* -> Nature
-- *Fire* -> Metal
-- *Water* -> Fire
-- *Nature* -> Earth 
++ *Earth* -> Water
++ *Metal* -> Nature
++ *Fire* -> Metal
++ *Water* -> Fire
++ *Nature* -> Earth 
 
 # Techniques
 ## Cycle of Cultivation

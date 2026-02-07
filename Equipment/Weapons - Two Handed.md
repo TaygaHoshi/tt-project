@@ -56,7 +56,7 @@ Two handed weapons have three weapon attacks.
 **Prepared action** *Spear brace*
 	Roll against Parry
 	Range: 2 meters
-	Ignores weapon precision
+	Ignores weapon precision.
 	Next time a foe charges or runs into or within range, you attack them and deal 25 physical damage.
 
 ## Long-grip Sword
@@ -70,7 +70,7 @@ Two handed weapons have three weapon attacks.
 **Action** *Thrust*
 	Roll against Evasion
 	Range: 1 meter
-	Ignores weapon precision
+	Ignores weapon precision.
 	Deals 20 physical damage, ignoring physical armor up to 10.
 **Prepared action** *Defensive stance*
 	You have a +1 bonus to Parry against the next physical damaging ability used against you.
@@ -98,7 +98,7 @@ Two handed weapons have three weapon attacks.
 	Ranged weapon
 	+1 weapon precision
 **Passive** *Unsteady aiming*
-	Your projectile attacks with staves have a -2 penalty on precision rolls. 
+	Your projectile attacks with staves have a -2 penalty to precision rolls. 
 **Action** *Bolt* (basic weapon attack)
 	Roll against Warding
 	Range: 10 meters
@@ -118,7 +118,7 @@ Two handed weapons have three weapon attacks.
 	+1 weapon precision
 	-1 stealth penalty
 **Passive** *Unsteady aiming*
-	Your projectile attacks with crossbows have a -2 penalty on precision rolls. 
+	Your projectile attacks with crossbows have a -2 penalty to precision rolls. 
 **Passive** *Reloading*
 	This weapon requires it to be reloaded before shooting, and it can be reloaded as a rapid action or by spending 1 energy.
 **Action** *Shoot* (basic weapon attack)
@@ -133,7 +133,7 @@ Two handed weapons have three weapon attacks.
 **Prepared action** *Bash*
 	Roll against Parry
 	Range: 1 meter
-	Ignores weapon precision
+	Ignores weapon precision.
 	Attack the next foe who moves into, within or out of melee range. Deals 10 physical damage.
 
 ## Recurve Bow
@@ -142,7 +142,7 @@ Two handed weapons have three weapon attacks.
 	0 weapon precision
 	-1 stealth penalty
 **Passive** *Unsteady aiming*
-	Your projectile attacks with recurve bows have a -2 penalty on precision rolls. 
+	Your projectile attacks with recurve bows have a -2 penalty to precision rolls. 
 **Action** *Shoot* (basic weapon attack)
 	Roll against Parry
 	Range: 15 meters
@@ -151,11 +151,11 @@ Two handed weapons have three weapon attacks.
 	Roll against Parry
 	Range: 15 meters
 	Deals 15 physical damage.
-	This attack ignores non-magical covers, as long as the target is in line of sight.
+	This attack ignores non-magical cover, as long as the target is in line of sight.
 **Prepared action** *Bash*
 	Roll against Parry
 	Range: 1 meter
-	Ignores weapon precision
+	Ignores weapon precision.
 	Attack the next foe who moves into, within or out of melee range. Deals 10 physical damage.
 
 ## Reflex Bow
@@ -163,9 +163,9 @@ Two handed weapons have three weapon attacks.
 	Ranged weapon
 	+1 weapon precision
 **Passive** *Unsteady aiming*
-	Your projectile attacks with reflex bows have a -1 penalty on precision rolls. 
+	Your projectile attacks with reflex bows have a -1 penalty to precision rolls. 
 **Passive** *Sidearm*
-	Skills rolls regarding the concealment of this weapon receive a +1 bonus if you are carrying at most 2 arrows and no quivers.
+	Skill rolls regarding the concealment of this weapon receive a +1 bonus if you are carrying at most 2 arrows and no quivers.
 	During your turns, you can use the *swap weapon* action to swap to this weapon freely without using a rapid action. 
 	Swapping weapons in this way drops the previous weapon(s) onto the ground below you.
 **Action** *Shoot* (basic weapon attack)
@@ -180,7 +180,7 @@ Two handed weapons have three weapon attacks.
 **Prepared action** *Bash*
 	Roll against Parry
 	Range: 1 meter
-	Ignores weapon precision
+	Ignores weapon precision.
 	Attack the next foe who moves into, within or out of melee range. Deals 5 physical damage.
 
 ## War Drums
@@ -191,9 +191,9 @@ Two handed weapons have three weapon attacks.
 **Passive** *Playing drums*
 	This weapon's abilities affect all allies who can hear you, allies who are unable to hear are not affected by war drums. 
 	Being stunned, falling or going prone, diving underwater or becoming unavailable to use techniques in any way stops the bonuses granted by this weapon. 
-**Rapid Action** *"Empowering"*
+**Rapid action** *"Empowering"*
 	Hearing range
 	Allies gain a $5+\frac{Potency}{2}$ bonus to their damage with single target damaging abilities for 1 round. 
-**Rapid Action** *"Invigorating"*
+**Rapid action** *"Invigorating"*
 	Hearing range
 	Allies gain $5+\frac{Control}{2}$ temporary health for 1 round.

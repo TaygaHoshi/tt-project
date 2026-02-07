@@ -3,7 +3,7 @@ Skills are miscellaneous abilities of a character, such as being able to hunt mo
 + 1d10 + C/2 + other bonuses
 
 Similar to resistances, you can choose to focus on two skills at first level as your major skills. Your major skills use a different formula:
-- 2d10 + C/2 + other bonuses
++ 2d10 + C/2 + other bonuses
 
 # List of Skills
 ## Physical Skills
@@ -41,7 +41,6 @@ Insight allows a character to sense lies and hidden motives, as well as have an 
 This skill allows a character to use fear, threats, or force of presence to pressure and coerce others.
 ### Persuasion
 This skill covers convincing, lying, deception, and adopting disguises to appear as someone else. 
-
 
 
 

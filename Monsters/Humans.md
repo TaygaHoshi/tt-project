@@ -109,7 +109,7 @@ Deals 5 physical damage.
 </tr>
 <tr>
 <td colspan="4"><i>Charge</i> - Full-turn action, basic weapon attack
--1 penalty on precision roll.
+-1 penalty to precision roll.
 This fighter gains a +3 bonus to its movement speed, and charges at its target using its movement speed. Then, it attacks with slash.
 After charging, this fighter becomes fatigued for 1 round.
 </td>

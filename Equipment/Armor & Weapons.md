@@ -34,10 +34,10 @@ Some abilities may include a phrase similar to "doing a basic weapon attack". Th
 ## Unsteady Aiming
 Projectile attacks of some ranged weapons suffer a penalty to their precision rolls if the shooter moves during the same turn. The severity of the penalty varies by weapon.
 
-As long as there no adjacent foes, the attacker can negate these penalties by spending their movement to steady their aim.
+As long as there are no adjacent foes, the attacker can negate these penalties by spending their movement to steady their aim.
 
 ## Improvised Weapons
-Some objects can be used as de facto weapons, at the GM's discretion. These objects can be used to perform a basic weapon attacks. When making a precision roll with an improvised weapon, it breaks if the roll of the d10 is 3 or below, but the damage is still applied if the attack hits. There are two general sizes of improvised weapons:
+Some objects can be used as de facto weapons, at the GM's discretion. These objects can be used to perform a basic weapon attack. When making a precision roll with an improvised weapon, it breaks if the roll of the d10 is 3 or below, but the damage is still applied if the attack hits. There are two general sizes of improvised weapons:
 
 | Size  | Damage   | Throwable | Weapon Precision |
 | ----- | -------- | --------- | ---------------- |

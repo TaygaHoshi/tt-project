@@ -34,7 +34,7 @@ One handed weapons are divided into two: heavy weapons and light weapons. Light 
 	+1 weapon precision
 **Action** *Slash* (basic weapon attack)
 	Roll against Parry
-	Rage: 1 meter
+	Range: 1 meter
 	Deals 20 physical damage.
 **Action** *Feint*
 	Roll against Evasion
@@ -45,7 +45,7 @@ One handed weapons are divided into two: heavy weapons and light weapons. Light 
 ## Javelin (Heavy)
 **Attributes**
 	Melee weapon, throwable
-	+1 weapon precision
+	0 weapon precision
 	-1 stealth penalty
 **Action** *Thrust* (basic weapon attack)
 	Roll against Parry
@@ -85,7 +85,7 @@ One handed weapons are divided into two: heavy weapons and light weapons. Light 
 	Range: 5 meters
 	Immobilizes the target for $1+\frac{Control}{4}$ rounds.
 **Prepared action** *Magic Protection*
-	Only usable when wielded with off hand.
+	Only usable when wielded with off-hand.
 	Gain $3+\frac{Potency}{3}$ temporary magical armor.
 
 ## Shortsword (Light)
@@ -93,7 +93,7 @@ One handed weapons are divided into two: heavy weapons and light weapons. Light 
 	Melee weapon, throwable
 	+1 weapon precision
 **Passive** *Sidearm*
-	Skills rolls regarding the concealment of this weapon receive a +2 bonus.
+	Skill rolls regarding the concealment of this weapon receive a +2 bonus.
 	During your turns, you can use the *swap weapon* action to swap to this weapon freely without using a rapid action. 
 	Swapping weapons in this way drops the previous weapon(s) onto the ground below you.
 **Action** *Slash* (basic weapon attack)
@@ -105,12 +105,12 @@ One handed weapons are divided into two: heavy weapons and light weapons. Light 
 	Only usable when wielded with main hand.
 	Roll against Evasion
 	Range: 1 meter
-	Ignores weapon precision
+	Ignores weapon precision.
 	Deals 15 physical damage, ignoring up to 5 physical armor.
 **Prepared action** *Countering*
-	Only usable when wielded with off hand.
+	Only usable when wielded with off-hand.
 	Roll against Parry
-	Ignores weapon precision
+	Ignores weapon precision.
 	Next time a creature within range attacks you with a melee weapon, you also attack them.
 	Deals 10 physical damage.
 
@@ -119,7 +119,7 @@ One handed weapons are divided into two: heavy weapons and light weapons. Light 
 	Melee weapon, throwable
 	+1 weapon precision
 **Passive** *Sidearm*
-	Skills rolls regarding the concealment of this weapon receive a +3 bonus.
+	Skill rolls regarding the concealment of this weapon receive a +3 bonus.
 	During your turns, you can use the *swap weapon* action to swap to this weapon freely without using a rapid action. 
 	Swapping weapons in this way drops the previous weapon(s) onto the ground below you.
 **Action** *Stab* (basic weapon attack)
@@ -131,10 +131,10 @@ One handed weapons are divided into two: heavy weapons and light weapons. Light 
 	Only usable when wielded with main hand.
 	Roll against Parry
 	Range: 1 meter
-	Ignores weapon precision
+	Ignores weapon precision.
 	Make two attacks, each dealing 10 physical damage.
 **Prepared action** *Backstab*
-	Only usable when wielded with off hand.
+	Only usable when wielded with off-hand.
 	Roll against Parry
 	Next time a foe you are flanking is attacked, you also attack them.
 	Deals 15 physical damage. 
@@ -155,7 +155,7 @@ One handed weapons are divided into two: heavy weapons and light weapons. Light 
 	Range: 1 meter
 	Applies stunned to the target for 1 round.
 **Prepared action** *Disorienting blow*
-	Only usable when wielded with off hand.
+	Only usable when wielded with off-hand.
 	Roll against Constitution
 	Attack the next foe who moves into, within or out of melee range.
 	Applies 1 round of disoriented.

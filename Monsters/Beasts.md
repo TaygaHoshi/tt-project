@@ -81,7 +81,7 @@ Deals 15 physical damage.
 </tr>
 <tr>
 <td colspan="4"><i>Charge</i> - Full-turn action, basic weapon attack
--2 penalty on precision roll.
+-2 penalty to precision roll.
 Can charge for up to 12 meters and attack with Slash, receiving a -2 penalty to all resistances for 1 round.
 </td>
 </tr>

@@ -7,12 +7,12 @@ Debilitating status effects have durations in terms of rounds or longer.
 + Does not stack. If target is already blinded, only the longer one applies.
 
 ## Cracked Armor
-- This creature's armor is ineffective.
-- Does not affect temporary armor.
-- Does not stack. If target already has cracked armor, only the one with longer duration applies.
++ This creature's armor is ineffective.
++ Does not affect temporary armor.
++ Does not stack. If target already has cracked armor, only the one with longer duration applies.
 
 ## Disoriented
-+ (1 + P/3) penalty on precision rolls.
++ (1 + P/3) penalty to precision rolls.
 + Does not stack. If target is already disoriented, only the one with higher potency applies.
 
 ## Exposed
@@ -21,7 +21,7 @@ Debilitating status effects have durations in terms of rounds or longer.
 
 ## Fatigued
 + Reduces movement speed by 2 per stack.
-+ Applies a -2 penalty on precision rolls and all resistances per stack.
++ Applies a -2 penalty to precision rolls and all resistances per stack.
 + Stacks up to 5. When fatigued is reapplied, the stack count increases and all stacks share the longest remaining duration.
 
 ## Immobilized
@@ -85,11 +85,11 @@ Harmful status effects have durations in terms of hits or longer.
 # Supportive Effects
 Supportive status effects have durations in terms of rounds or longer. 
 ## Inspired
-- Once, the creature can choose to spend this status effect to gain one of the following bonuses:
-	- A +1 bonus to one precision roll
-	- A 1d4 bonus to one skill roll
-	- A 2d4 bonus to the damage of one basic weapon attack
-- Does not stack. If the target is already inspired, only the effect with the longer duration applies.
++ Once, the creature can choose to spend this status effect to gain one of the following bonuses:
+	+ A +1 bonus to one precision roll
+	+ A 1d4 bonus to one skill roll
+	+ A 2d4 bonus to the damage of one basic weapon attack
++ Does not stack. If the target is already inspired, only the effect with the longer duration applies.
 
 ## Protected
 + Once, halves incoming damage after armor.
@@ -98,24 +98,24 @@ Supportive status effects have durations in terms of rounds or longer.
 
 ## Predictive Foresight
 + +1 bonus to the next precision roll.
-+ Does not stack. If target is already effected by a predictive foresight, only the one with longer duration applies.
++ Does not stack. If target is already affected by a predictive foresight, only the one with longer duration applies.
 
 ## Protective Foresight
 + +1 bonus to all resistances for the next precision roll against this creature.
-+ Does not stack. If target is already effected by a protective foresight, only the one with longer duration applies.
++ Does not stack. If target is already affected by a protective foresight, only the one with longer duration applies.
 
 ## Quickened
-- Movement speed is increased by (2 + P/3) meters.
-- If a quickened creature is also slowed, this status effect is considered before slowed. 
-- Does not stack. If target is already quickened, only the one with higher potency applies.
++ Movement speed is increased by (2 + P/3) meters.
++ If a quickened creature is also slowed, this status effect is considered before slowed. 
++ Does not stack. If target is already quickened, only the one with higher potency applies.
 
 ## Regeneration
-- Heals for (2 + P/2) per hit.
-- Does not stack. If target is already regenerating, only the one with higher potency applies.
++ Heals for (2 + P/2) per hit.
++ Does not stack. If target is already regenerating, only the one with higher potency applies.
 
 ## Surefooted
-- This creature can't fall prone or be moved unwillingly.
-- Does not stack. If target is already surefooted, only the one with longer duration applies.
++ This creature can't fall prone or be moved unwillingly.
++ Does not stack. If target is already surefooted, only the one with longer duration applies.
 
 ## Temporary Health
 + Increases health until the duration ends.
