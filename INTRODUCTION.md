@@ -9,7 +9,7 @@ Furthermore, Sigil is a relatively simplified take on the more well-known tablet
 
 In addition, there are various rules for exploration, inventory management, crafting, travelling, interactions with NPCs and other similar activities. Such activities have simple rules, and most of the moment-to-moment decision making outside combat is left to common sense and imagination.
 
-Sigil is not ready for full campaigns yet. You are seeing the version *v1-a10* (alpha).
+Sigil is not ready for full campaigns yet. You are seeing the version *v1-b1* (beta).
 
 ---
 # Where to Start
@@ -39,8 +39,8 @@ Finally, if you want to learn about the various items to obtain and monsters you
 ---
 # Release Cycle
 Sigil of Uchma is versioned using a simple release cycle consisting of the following stages:
-1. Alpha - current version
-2. Beta
+1. Alpha - released on 03/02/2026
+2. Beta - current version
 3. Feature freeze
 4. Full release
 
