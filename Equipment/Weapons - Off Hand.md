@@ -13,28 +13,42 @@ Weapon attacks tagged (Passive) are passive abilities which work only when the w
 
 ---
 ## Shield
-+ (Rapid action) Projectile Defense
-	+ You have quarter cover against physical projectile attacks for 1 round.
-+ (Rapid action) Shield Bash
-	+ Deals 5 physical damage. 
+**Attributes**
+- Melee weapon
+- -1 weapon precision
+**Rapid action** *Shield bash* (basic weapon attack)
+- Roll against Parry
+- Range: 1 meter
+- Deals 5 physical damage.
+**Rapid action** *Projectile defense*
+- You have quarter cover against physical projectile attacks for 1 round.
 
 ## Focus
-+ (Rapid action) Projectile Defense
-	+ You have quarter cover against magical projectile attacks for 1 round.
-+ (Projectile) (Rapid action) Focus Ray
-	+ Range: (2 + C/2) meters. 
-	+ Shoot a ray that deals 3 magical damage. Potency bonus to this attack's damage is halved. 
+**Attributes**
+- Ranged weapon
+- -1 weapon precision
+**Rapid action** *Focus ray* (basic weapon attack)
+- Roll against Warding
+- Range: 3 meters
+- Projectile. Shoot a ray that deals 5 magical damage. Potency bonus to this attack's damage is halved.
+**Rapid action** *Projectile defense*
+- You have quarter cover against magical projectile attacks for 1 round.
 
 ## Charm
-+ (Passive) Weapon Precision Bonus
-	+ A wielded charm gives a +1 bonus to weapon precision.
+**Passive** *Weapon precision bonus*
+- A wielded charm gives a +1 bonus to weapon precision.
 
 ## Warhorn
-+ (Passive) Playing Horn
-	+ This weapon's abilities affect all allies who can hear you.
-	+ Allies who can't hear you are not affected by your warhorn. 
-	+ Being stunned, falling or going prone, diving underwater or becoming unavailable to use techniques in any way stops the bonuses granted by this weapon. 
-+ (Action) "Alacrity"
-	+ Allies within range gain quickened for (1 + C/4) rounds.
-+ (Action) "Persistence"
-	+ Choose a debilitating status effect. Allies are cured of this debilitating status effect.
+**Attributes**
+- Support weapon
+- 0 weapon precision
+- -2 stealth penalty
+**Passive** *Playing horn*
+- This weapon's abilities affect all allies who can hear you, allies who are unable to hear are not affected by your warhorn. 
+- Being stunned, falling or going prone, diving underwater or becoming unavailable to use techniques in any way stops the bonuses granted by this weapon. 
+**Action** *"Alacrity"*
++ Hearing range
++ Allies within range gain quickened for $1+\frac{Control}{4}$ rounds.
+**Action** *"Persistence"*
++ Hearing range
++ Choose a debilitating status effect. Allies are unaffected by that status effect for 1 round.
