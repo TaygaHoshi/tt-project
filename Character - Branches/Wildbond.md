@@ -4,7 +4,7 @@ Instead of focusing on their personal growth, some choose to share their time, t
 ## Call Pet
 Choose a pet category and a damage type (physical or magical) when you take this branch from the list below. Your pet does not count toward your summon limit. It inherits your level and aptitudes. During its turns, it has one action and it uses its basic weapon attack normally unless you tell it to do something else. Otherwise, normal [[sigil-of-uchma/Content/Combat#Summoning|summoning rules]] apply. 
 
-When your pet falls below 1 health, it will use its movement speed to run away if possible. In this case, it will be wounded and can't be used during combat for 1d4 hours or until you use *lick wounds* to bring it back above 0 health. 
+When your pet falls below 1 health, it will become unconscious and fall prone. While in this situation, it will be wounded and can't join combat for 1d4 hours or until you use *lick wounds* to bring it back above 0 health. 
 
 Techniques in the command category are used during your own turns. However, they affect your pet's next turn within up to 1 minute.
 
@@ -37,7 +37,7 @@ Pets can take a variety of forms, but they fall into the four main categories be
 </tr>
 <tr>
 <td colspan="4"><i>Strike</i> - Action, basic weapon attack
-Deals 15 physical or magical damage.
+Deals 15 physical or magical damage. Potency bonus to this attack's damage is halved. 
 </td>
 </tr>
 </table>
@@ -86,7 +86,7 @@ Instead of attacking, your pet can gain 1 stack of protected for 1 round.
 </tr>
 <tr>  
 <td><b>Health:</b> 20</td>  
-<td colspan="3"><b>Movement:</b> 6 meters</td>
+<td colspan="3"><b>Movement:</b> 5 meters</td>
 </tr>
 <tr style="border-bottom: dashed 2px">
 <td><b>Potency:</b> inherited</td> 
@@ -106,8 +106,8 @@ Instead of attacking, your pet can gain 1 stack of protected for 1 round.
 </tr>
 <tr>
 <td colspan="4"><i>Strike</i> - Action, basic weapon attack, projectile
-Range: 5 meters.
-Deals 15 physical or magical damage.
+Range: 10 meters.
+Deals 10 physical or magical damage. Potency bonus to this attack's damage is halved.
 </td>
 </tr>
 </table>
@@ -144,7 +144,7 @@ Wildbond techniques of utility or modification categories have a +1 to their pre
 </tr>
 <tr>
 <td colspan="4"><i>Strike</i> - Action, basic weapon attack
-Deals 5 armor-ignoring damage.
+Deals 5 armor-ignoring damage. Potency bonus to this attack's damage is halved.
 </td>
 </tr>
 </table>
