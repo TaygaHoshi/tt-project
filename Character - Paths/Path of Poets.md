@@ -110,8 +110,8 @@ By spending 1 energy at the start of your turn, you can use the *speak* common a
 **Duration:** Up to 3 rounds
 **Effect**
 	Hostile creatures become charmed with your poetry. While you continue performing, affected creatures are applied different status effects each round, starting the round you begin the poem:
-	1. disoriented for 1 round
-	2. disoriented and weakened defenses for 1 round
+	1. weakened defenses for 1 round
+	2. weakened defenses for 1 round
 	3. stunned for 1 round
 	If you stop performing, the poem ends and no further status effects are applied.
 

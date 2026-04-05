@@ -69,7 +69,7 @@ Deals 15 physical or magical damage. Potency bonus to this attack's damage is ha
 </tr>
 <tr>
 <td colspan="4"><i>Strike</i> - Action, basic weapon attack
-Deals 10 physical or magical damage.
+Deals 10 physical or magical damage. Potency bonus to this attack's damage is halved.
 </td>
 </tr>
 <tr>
