@@ -83,7 +83,7 @@ $\text{1d10} + \frac{\text{level}}{2} + \text{weapon precision} + \text{other bo
 
 Terms in this formula are explained below:
 	**Level:** Your character's current level.
-	**Weapon precision:** This bonus is determined by the type of the weapon held in main hand.
+	**Weapon precision:** This bonus is determined by the type of the currently wielded weapons.
 	**Other bonuses:** These are bonuses or penalties which come from various sources like status effects, environment and the like.
 
 In some cases, a specific spell, an ability or an attack might include a precision bonus or penalty itself. Moreover, some abilities may affect multiple targets. In this case, multiple precision rolls are required to determine which targets get affected by this ability.
@@ -119,7 +119,7 @@ On the other hand, bonus damage is just added into the delivering attack's damag
 ### Stealing Health
 Some abilities, magic items or creatures may have health stealing effects. This is always considered magical damage. 
 
-When a creature tries to steal health, the amount it gains is equal to the health loss of target. Unless specified otherwise, health stealing abilities use normal damage calculation. For example, if an ability steals 20 health and the target has 5 magical armor, the user of the ability would be healed for 15. 
+When a creature successfully hits with a health steal ability, the amount of health it gains is equal to the health loss of target. Unless specified otherwise, health stealing abilities use normal damage calculation. For example, if an ability steals 20 health and the target has 5 magical armor, the user of the ability would be healed for 15. 
 
 ## Turn Order
 At the start of the combat, determine turn order as follows:
@@ -172,7 +172,7 @@ A significant difference in elevation affects projectile attacks' precision roll
 	+ Some magical effects may break line of sight or block sounds.
 
 ## Falling Prone
-+ A creature can go into prone voluntarily if they give up half of their walking speed as a part of their movement during their turn.
++ A creature can go into prone voluntarily if they give up half of their walking speed as part of their movement during their turn.
 + When a creature falls or goes prone, they need to use half of their walking speed to get up.
 + A prone creature has quarter cover.
 + Attacking a prone creature grants a +1 bonus to precision rolls when adjacent to that creature. This also includes projectile attacks. 

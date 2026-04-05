@@ -85,7 +85,7 @@
 **Explanation:**
 	(Projectile)
 	Ignores weapon precision.
-	You throw your weapon to a target or to a square within (5 + C/2) meters. If you have additional ammo of the same weapon or item, you can wield one as a part of this action. 
+	You throw your weapon to a target or to a square within (5 + C/2) meters. If you have additional ammo of the same weapon or item, you can wield one as part of this action. 
 	This action is considered a basic weapon attack.
 
 # Retrieve Weapon

@@ -45,7 +45,7 @@ By spending 1 energy when using an ability that uses the element you are envelop
 **Execution Time:** Special
 **Cost:** 1 energy
 **Effect**
-	You can choose to activate this technique as a part of your *cycle of suppression* ability.
+	You can choose to activate this technique as part of your *cycle of suppression* ability.
 	Instead of inverting your harmony with the primary element in the environment, you can promote it with another element, treating yourself as enveloped in that element instead:
 	*Earth* -> Metal
 	*Metal* -> Water

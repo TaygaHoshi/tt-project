@@ -1,5 +1,5 @@
 # Masters of Weaponry
-Many professions require extensive training with weapons and armor: professional soldiers, bounty hunters, raiders and more. Some of them are lone wolves who rely only on brute force, some know a difficult task requires strong allies and some can even use magic. However, they have one common trait: they are very skilled when it comes to down to combat.
+Many professions require extensive training with weapons and armor: professional soldiers, bounty hunters, raiders, and more. Some of them are lone wolves who rely only on brute force, some know a difficult task requires strong allies, and some can even use magic. However, they have one common trait: they are very skilled when it comes to combat.
 
 # Abilities
 | Level | Ability           |
@@ -15,7 +15,7 @@ Your base health is 80.
 ## Critical Training
 If you roll an unmodified 10 on a precision roll of a damaging ability, you deal (5 + P/2) bonus damage with that ability if it hits. This can happen multiple times per round.
 
-Additionally, you can choose to activate this ability as a part of a basic weapon attack by spending 3 energy.
+Additionally, you can choose to activate this ability as part of a basic weapon attack by spending 3 energy.
 
 ## Weapon Expertise
 During your turns, you can swap weapons without a rapid action by spending 1 energy.
@@ -40,8 +40,8 @@ Instead of dealing bonus damage with *critical training*, you can choose to appl
 **Execution Time:** Special
 **Cost:** 1 energy
 **Effect**
-	You can choose to activate this technique as a part of a damaging basic weapon attack.
-	This attack gains a +5 bonus to its damage, but receives a -2 penalty to its precision rolls.
+	You can choose to activate this technique as part of a damaging basic weapon attack.
+	This attack gains a +5 bonus to its damage but receives a -2 penalty to its precision rolls.
 
 ## Crushing Charge
 **Category:** Modification
@@ -59,7 +59,7 @@ Instead of dealing bonus damage with *critical training*, you can choose to appl
 **Cost:** 1 energy
 **Duration:** 1 round
 **Effect**
-	You can choose to activate this technique as a part of a damaging basic weapon attack, except for with the *charge* common action.
+	You can choose to activate this technique as part of a damaging basic weapon attack, except with the *charge* common action.
 	Choose a resistance. You gain a +1 bonus to this resistance against attacks from this target for the duration.
 
 ## Double Opportunity
@@ -102,7 +102,7 @@ Instead of dealing bonus damage with *critical training*, you can choose to appl
 **Execution Time:** Special 
 **Cost:** 1 energy
 **Effect**
-	You can choose to activate this technique as a part of a damaging basic weapon attack.
+	You can choose to activate this technique as part of a damaging basic weapon attack.
 	If it is a melee attack, its range is increased by 1 meter.
 	If it is a ranged attack, its range is increased by (2 + C/2) meters.
 
@@ -122,5 +122,5 @@ Instead of dealing bonus damage with *critical training*, you can choose to appl
 **Effect**
 	You can choose to activate this technique when you take the *charge* common action.
 	At the end of this charge, you tackle your target instead of making a weapon attack. 
-	You can keep pushing your target for up to (2 + P/4) meters without changing directions. 
+	You can keep pushing your target for up to (2 + P/4) meters without changing direction. 
 	When you stop pushing, the creature falls prone and takes 15 physical damage.

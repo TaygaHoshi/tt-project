@@ -3,7 +3,7 @@
 **Base Price:** 5 gold coins
 **Bulk:** One handed heavy weapon
 **Description:** 
-	Whenever you perform a damaging weapon attack with this sword, you can sacrifice health equal to your potency as a part of it. 
+	Whenever you perform a damaging weapon attack with this sword, you can sacrifice health equal to your potency as part of it. 
 	Potency bonus to that attack's damage is doubled. 
 
 ## Parrying Shield

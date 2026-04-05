@@ -25,7 +25,7 @@ Debilitating status effects have durations in terms of rounds or longer.
 + Stacks up to 5. When fatigued is reapplied, the stack count increases and all stacks share the longest remaining duration.
 
 ## Immobilized
-+ Reduces movement speed to 0.
++ An immobilized creature is unable to move willingly.
 + -1 penalty to Evasion.
 + Does not stack. If target is already immobilized, only the longer one applies.
 

@@ -113,7 +113,7 @@ These actions can be taken by any player character as long as they fulfil the re
 ## Resting and Sleeping
 Usually, a character requires 6 to 8 hours of sleep per day. Not getting proper sleep for a night gives a character one stack of fatigue. Stacks of fatigue received in this way can only be removed by sleeping. Skipping sleep while having 5 stacks of fatigue is lethal and the character dies.
 
-While it is usually the best to sleep at night, it is not rare to see parties resting during the day. When the players decide the party should rest or sleep, they must declare this to the GM. In the case of just resting, the players should also explain what their characters will be doing while resting. In this case, the GM can determine whether or not these activities are allowed as a part of resting.
+While it is usually the best to sleep at night, it is not rare to see parties resting during the day. When the players decide the party should rest or sleep, they must declare this to the GM. In the case of just resting, the players should also explain what their characters will be doing while resting. In this case, the GM can determine whether or not these activities are allowed as part of resting.
 
 There are a few basic requirements to resting and sleeping. For a character to be able to rest, they should:
 1. Be able to sit or lie down. 
