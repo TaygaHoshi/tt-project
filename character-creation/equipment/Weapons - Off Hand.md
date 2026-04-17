@@ -3,7 +3,6 @@ title = 'Weapons - Off Hand'
 weight = 2
 +++
 
-# Off-hand Weapons
 Weapon attacks tagged (Passive) are passive abilities which work only when the weapon is actively wielded in your off-hand.
 
 | Weapon       | Parry | Warding | Physical Armor | Magical Armor | Weapon Precision | Stealth |
@@ -15,7 +14,7 @@ Weapon attacks tagged (Passive) are passive abilities which work only when the w
 | Light Weapon |   0   |    0    |       0        |       0       |        0         |    0    |
 
 ---
-## Shield
+### Shield
 **Attributes**
 	Melee weapon
 	-1 weapon precision
@@ -26,7 +25,7 @@ Weapon attacks tagged (Passive) are passive abilities which work only when the w
 **Rapid action** *Projectile defense*
 	You have quarter cover against physical projectile attacks for 1 round.
 
-## Focus
+### Focus
 **Attributes**
 	Ranged weapon
 	-1 weapon precision
@@ -37,11 +36,11 @@ Weapon attacks tagged (Passive) are passive abilities which work only when the w
 **Rapid action** *Projectile defense*
 	You have quarter cover against magical projectile attacks for 1 round.
 
-## Charm
+### Charm
 **Passive** *Weapon precision bonus*
 	A wielded charm gives a +1 bonus to weapon precision.
 
-## Warhorn
+### Warhorn
 **Attributes**
 	Support weapon
 	0 weapon precision

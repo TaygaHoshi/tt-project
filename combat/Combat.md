@@ -2,8 +2,10 @@
 title = 'Combat'
 type = "chapter"
 weight = 2
+collapsibleMenu = true
 +++
-# Phases of Combat
+
+## Phases of Combat
 1. Setting up the battle map
 2. Determining turn order in case of ties
 3. Determining ambush for the first round
@@ -23,13 +25,13 @@ weight = 2
 	1. Return to round start if the combat is continuing.
 
 ---
-# Basic Rules of Combat
+## Basic Rules of Combat
 Combat has rules for resolving various situations that players and the GM might come across.
 
-## Battle Map
+### Battle Map
 A battle map is a grid of squares overlaid on top of a map, a sketch or a similar image depicting the location that the combat takes place in. Each square in a battle map is a 1 square meter area. Creatures such as [[Character Creation|player characters]] and [[Monsters|monsters]] can be represented with tokens or similar objects on this battle map. Battle maps can be virtual or physical, depending on the medium of play.
 
-### Distances on a Map
+#### Distances on a Map
 Sigil of Uchma has two rule variations for calculating distances on a battle map:
 1) Game distance
 2) Simulation distance
@@ -40,33 +42,33 @@ With this rule, one square of diagonal distance is treated the same as one squar
 **Simulation distance**
 This variant rule produces more realistic measurements and can be used if the additional calculations and tracking is acceptable, especially when using virtual tabletops. With this rule, diagonal movement alternates between 1 meter and 2 meters, causing movement and ability ranges to be more circular. This creates the same effect as counting two diagonal squares as equal to three orthogonal squares.
 
-## Movement
+### Movement
 During combat, a creature can move within the battle map grid for a distance up to its speed. There are various types of speeds used for different types of movement, which are explained below.
 
-### Walking
+#### Walking
 + Walking is the simplest way of movement.
 + Instead of taking an action, a creature might "walk" twice. This is called "running" and unless specified otherwise, it is equal to double the walking speed.
 + A running creature can't take actions, rapid actions, prepared actions or full-turn actions.
 
-### Flying
+#### Flying
 + If a creature can fly, their walking speed is equal to half of its flying speed unless specified otherwise. 
 + Flying speed can be used vertically or horizontally. However, ascending for 1 meter requires 2 meters of flying speed per meter ascended.
 + A flying creature can't use its walking speed unless it lands.
 + Flying creatures are unaffected by effects on the ground unless the effect reaches their altitude.
 
-### Rough Terrain
+#### Rough Terrain
 + There are two kinds of rough terrain: light and heavy.
 	+ Walking or running through light rough terrain such as soft sand or shallow water takes up 2 walking speed per meter walked.
 	+ Walking through heavy rough terrain such as quicksand takes up 3 walking speed per meter walked.
 	+ Movement via swimming, climbing and crawling is considered to be in heavy rough terrain.
 
-## Action Types and Timing
+### Action Types and Timing
 Each round takes approximately 10 seconds in game.
 
-### Action
+#### Action
 These are regular actions. Mostly, only one action can be taken during a turn.
 
-### Minor Actions
+#### Minor Actions
 There are two kinds of minor actions: rapid actions and prepared actions. Mostly, only one minor action can be taken during a turn.
 
 **Rapid action**
@@ -77,10 +79,10 @@ During a turn, one prepared action can be taken alongside a regular action. Acti
 
 Some prepared actions may mention "moving into, out of or within an area". In this case, the attack is done after the creature successfully moves to a new square on the battle map, even if it would be out of range otherwise. 
 
-### Full-turn action
+#### Full-turn action
 + A full-turn action takes up your whole turn, meaning you can't move or use any other type of action.
 
-## Precision Rolls
+### Precision Rolls
 Precision rolls determine whether a weapon attack, a technique or any other ability succeeds against an unwilling target. A precision roll is made against a resistance, such as Parry or Evasion. If the result of this roll exceeds or is equal to the resistance, the roll succeeds and the technique or attack connects. 
 
 A precision roll is calculated according to this formula:
@@ -95,7 +97,7 @@ In some cases, a specific spell, an ability or an attack might include a precisi
 
 Unless specified otherwise, all of the resistances of non-living objects are zero.
 
-## Damage
+### Damage
 When a creature takes damage, this damage value reduces their health. Damage done to a target is calculated according to this formula:
 $\text{Action damage} + \text{Potency} + \text{other bonuses} - \text{target's armor (when applicable)}$
 
@@ -110,23 +112,23 @@ Terms in this formula are explained below:
 In some cases, a specific ability might include a potency bonus or penalty itself. As an example, let's take an ability which includes the phrase "potency bonus to damage is halved for this attack". This simply means "potency" is divided by two in the formula:
 $\text{Action damage} + \frac{\text{Potency}}{2} + \text{other bonuses} - \text{target's armor (when applicable)}$
 
-### Armor
+#### Armor
 Each creature has two kinds of armor: physical armor and magical armor. Normally, damage from physical weapon attacks and similar abilities are affected by physical armor and damage from magical techniques or magical weapons are affected by magical armor. If something is an exception to this rule, this is noted in the description of that ability.
 
-### Damaging Ability
+#### Damaging Ability
 For an ability to be considered a "damaging ability", it should have a base damage. Examples could be abilities like "Shield Bash" or the hatchet's "Hack". Some actions only apply a status effect, but do not have a base damage. These abilities are not considered damaging abilities.
 
-### "Extra damage" versus "Bonus damage"
+#### "Extra damage" versus "Bonus damage"
 Extra damage is a completely different packet of damage that just shares the precision roll of another attack. Extra damage has its own values for action damage, potency, bonuses and it is affected by armor separately from the delivering attack.
 
 On the other hand, bonus damage is just added into the delivering attack's damage calculation. Specifically, into the "other bonuses" term.
 
-### Stealing Health
+#### Stealing Health
 Some abilities, magic items or creatures may have health stealing effects. This is always considered magical damage. 
 
 When a creature successfully hits with a health steal ability, the amount of health it gains is equal to the health loss of target. Unless specified otherwise, health stealing abilities use normal damage calculation. For example, if an ability steals 20 health and the target has 5 magical armor, the user of the ability would be healed for 15. 
 
-## Turn Order
+### Turn Order
 At the start of the combat, determine turn order as follows:
 1. Every opposing group rolls a flat $\text{2d10}$.  
 	• Each group must end with a different roll result; reroll as needed until all results are unique.  
@@ -140,27 +142,27 @@ At the start of the combat, determine turn order as follows:
 A creature can only take one turn per round, even if it would appear again later in the order.
 
 
-## Ability Durations
+### Ability Durations
 + Effects of abilities with a duration of one or more "hits" trigger and end during the recipient's turns: 
 	+ If a creature is bleeding for one hit, they will take bleeding damage at the start of their next turn and the bleeding ends. 
 	+ If the bleeding has a duration of two or more hits, then one hit will be spent when the bleeding damage happens.
 + Effects of abilities with a duration of one or more "rounds" end at the start of the turns of their owners.
 + If multiple effects would end at the same time, they end in the order of application.
 
-## Adjacency
+### Adjacency
 + A creature is adjacent to another if there aren't any battle map squares between them. 
 + Significant height differences caused by the environment may break adjacency.
 
-## Flanking
+### Flanking
 + During battle, whenever a creature has two or more adjacent foes wielding melee weapons, it is considered flanked.
 + Attacking a flanked creature grants a +1 bonus to precision rolls done with melee abilities.
 
-## High and Low Ground
+### High and Low Ground
 A significant difference in elevation affects projectile attacks' precision rolls:
 1. Attacking from high ground grants you a +1 bonus.
 2. Attacking from low ground gives you a -1 penalty.
 
-## Cover and Line of Sight
+### Cover and Line of Sight
 + When a character is behind cover, they are semi-protected against projectile attacks or abilities.
 + There are 3 types of cover:
 	+ Quarter Cover: -1 penalty to precision rolls with projectile abilities.
@@ -176,7 +178,7 @@ A significant difference in elevation affects projectile attacks' precision roll
 	+ Magical remote eyes and ears count as sight and hearing for these effects.
 	+ Some magical effects may break line of sight or block sounds.
 
-## Falling Prone
+### Falling Prone
 + A creature can go into prone voluntarily if they give up half of their walking speed as part of their movement during their turn.
 + When a creature falls or goes prone, they need to use half of their walking speed to get up.
 + A prone creature has quarter cover.
@@ -184,26 +186,26 @@ A significant difference in elevation affects projectile attacks' precision roll
 + A prone creature can only do basic weapon attacks. These attacks deal half damage after armor and ignore weapon precision.
 + When a flying creature is immobilized, or falls prone, it loses up to 3 meters of altitude and takes 5 armor-ignoring damage if it collides with the ground or an object.
 
-## Fall Damage
+### Fall Damage
 A character takes fall damage when they fall more than 5 meters. This damage is armor-ignoring and it is calculated as such:
 $10 \times (\text{fall distance in meters} - 5)$
 
-## Ambushes
+### Ambushes
 When the party ambushes or gets ambushed by one or more foes, the ambushed side is considered disadvantageous and they receive the following effects for the next round of combat:
 + -2 penalty to movement speed, down to a minimum of 1 meter
 + -1 penalty to all precision rolls by this creature
 + +1 bonus to all precision rolls against this creature
 
 ---
-# Advanced Rules of Combat
-## Summoning
+## Advanced Rules of Combat
+### Summoning
 + Summoner can control their minions during combat. A minion disappears immediately when its summoner dies.
 + Summoners have a simple telepathic bond to their minions. A summoner will know where a minion is and how much damage it suffered at all times. 
 + The minions follow the regular turn order. On a turn a minion is summoned, if they have higher movement speed than their summoner, they take their turn immediately after the summoner.
 + Minions gain potency bonus to their damage normally, according to their relevant potency stat.
 + Minions don't use energy for their skills, unless specified otherwise.
 
-## Transforming
+### Transforming
 When a creature transforms into another, several rules should be followed:
 + A creature can only use the abilities of what it transformed into, and its stats are set to the stats of the new form. Status effects or abilities with durations are unaffected by transforming. 
 + When returning to the original form, a creature's health is set to what it was before the transformation. Going below 0 health does not break the transformation. See: [[Character Creation#Death|death]].
@@ -211,11 +213,11 @@ When a creature transforms into another, several rules should be followed:
 + If the new form cannot physically fit within the environment, the creature takes 5 armor-ignoring damage and the transformation fails.
 
 
-## Mounted Combat
+### Mounted Combat
 #TODO 
 
 
-## Player versus Player
+### Player versus Player
 Conflicts between player characters should be resolved with words. However, sometimes arguments might escalate into fights, duels or even ambushes. In this case, rather than starting a combat encounter, the GM may opt to use the simple method of PvP instead:
 1. Players split into teams or stay neutral.
 2. Each team rolls a $\text{1d10}$ per player. The team that rolls the highest in total wins.
@@ -223,7 +225,7 @@ Conflicts between player characters should be resolved with words. However, some
 
 
 ---
-# Formula Reference Guide
+## Formula Reference Guide
 
 | Explanation                                                                                                                                   | Formula                                                                                                  |
 | --------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |

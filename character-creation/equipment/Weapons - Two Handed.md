@@ -3,7 +3,6 @@ title = 'Weapons - Two Handed'
 weight = 3
 +++
 
-# Two Handed weapons
 Two handed weapons have three weapon attacks.
 
 | Weapon          | Damage | Weapon Precision | Stealth |     Range     |
@@ -19,7 +18,7 @@ Two handed weapons have three weapon attacks.
 | War drums       |   0    |        0         |   -2    | Hearing range |
 
 ---
-## Glaive
+### Glaive
 **Attributes**
 	Melee weapon
 	0 weapon precision
@@ -40,7 +39,7 @@ Two handed weapons have three weapon attacks.
 	Range: 2 meters
 	Next time a foe attempts to move into or within range, try to block them. If you succeed, the area within your weapon range is considered light rough terrain for that creature.
 
-## Spear
+### Spear
 **Attributes**
 	Melee weapon
 	+1 weapon precision
@@ -62,7 +61,7 @@ Two handed weapons have three weapon attacks.
 	Ignores weapon precision.
 	Next time a foe charges or runs into or within range, you attack them and deal 25 physical damage.
 
-## Long-grip Sword
+### Long-grip Sword
 **Attributes**
 	Melee weapon
 	+1 weapon precision
@@ -78,7 +77,7 @@ Two handed weapons have three weapon attacks.
 **Prepared action** *Defensive stance*
 	You have a +1 bonus to Parry against the next physical damaging ability used against you.
 
-## War Hammer
+### War Hammer
 **Attributes**
 	Melee weapon
 	0 weapon precision
@@ -96,7 +95,7 @@ Two handed weapons have three weapon attacks.
 	Attack the next foe who falls prone within range.
 	Deals 10 armor-ignoring damage.
 
-## Staff
+### Staff
 **Attributes**
 	Ranged weapon
 	+1 weapon precision
@@ -115,7 +114,7 @@ Two handed weapons have three weapon attacks.
 **Prepared action** *Deflection*
 	You have a +1 bonus to Warding against the next magical damaging ability used against you.
 
-## Crossbow
+### Crossbow
 **Attributes**
 	Ranged weapon
 	+1 weapon precision
@@ -139,7 +138,7 @@ Two handed weapons have three weapon attacks.
 	Ignores weapon precision.
 	Attack the next foe who moves into, within or out of melee range. Deals 10 physical damage.
 
-## Recurve Bow
+### Recurve Bow
 **Attributes**
 	Ranged weapon
 	0 weapon precision
@@ -161,7 +160,7 @@ Two handed weapons have three weapon attacks.
 	Ignores weapon precision.
 	Attack the next foe who moves into, within or out of melee range. Deals 10 physical damage.
 
-## Reflex Bow
+### Reflex Bow
 **Attributes**
 	Ranged weapon
 	+1 weapon precision
@@ -186,7 +185,7 @@ Two handed weapons have three weapon attacks.
 	Ignores weapon precision.
 	Attack the next foe who moves into, within or out of melee range. Deals 5 physical damage.
 
-## War Drums
+### War Drums
 **Attributes**
 	Support weapon
 	0 weapon precision

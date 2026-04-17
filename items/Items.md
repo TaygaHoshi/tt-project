@@ -1,8 +1,12 @@
 +++
-title = 'Items'
+title = 'Items & Crafting'
+type = "chapter"
 weight = 3
 collapsibleMenu = true
-[build]
-  render = 'never'
-  list = 'local'
 +++
+
+## Currency
+While trading is still very common, iron coins are the basic universally accepted currency. 
+
+When large quantities of currency is required, gold coins are sometimes used for simplification. One gold coin is worth one thousand iron coins. 
+

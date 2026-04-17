@@ -3,7 +3,6 @@ title = 'Weapons - One Handed'
 weight = 1
 +++
 
-# One Handed Weapons
 One handed weapons are divided into two: heavy weapons and light weapons. Light weapons can be wielded as an off-hand weapon. When you wield a light weapon with your off-hand, you can only use its prepared action. Conversely, prepared actions of light weapons can't be used while they are wielded with the main hand.
 
 | Weapon        | Damage | Weapon Precision | Stealth |  Range   |
@@ -18,7 +17,7 @@ One handed weapons are divided into two: heavy weapons and light weapons. Light 
 | Unarmed       |   10   |        +1        |    0    | 1 meter  |
 
 ---
-## Hatchet (Heavy)
+### Hatchet (Heavy)
 **Attributes**
 	Melee weapon, throwable
 	0 weapon precision
@@ -31,7 +30,7 @@ One handed weapons are divided into two: heavy weapons and light weapons. Light 
 	Range: 1 meter
 	Applies cracked armor for 1 round. 
 
-## Cavalry Sword (Heavy)
+### Cavalry Sword (Heavy)
 **Attributes**
 	Melee weapon
 	+1 weapon precision
@@ -45,7 +44,7 @@ One handed weapons are divided into two: heavy weapons and light weapons. Light 
 	You have a +1 bonus to precision roll of this attack.
 	Deals 10 physical damage.
 
-## Javelin (Heavy)
+### Javelin (Heavy)
 **Attributes**
 	Melee weapon, throwable
 	0 weapon precision
@@ -59,7 +58,7 @@ One handed weapons are divided into two: heavy weapons and light weapons. Light 
 	Hits 3 squares in front of you
 	Each successful attack deals 10 physical damage.
 
-## Scepter (Heavy)
+### Scepter (Heavy)
 **Attributes**
 	Ranged weapon
 	0 weapon precision
@@ -73,7 +72,7 @@ One handed weapons are divided into two: heavy weapons and light weapons. Light 
 	Create a magical explosion, hitting all creatures within a 1 meter radius.
 	Each successful attack deals 10 magical damage.
 
-## Wand (Light)
+### Wand (Light)
 **Attributes**
 	Ranged weapon
 	0 weapon precision
@@ -91,7 +90,7 @@ One handed weapons are divided into two: heavy weapons and light weapons. Light 
 	Only usable when wielded with off-hand.
 	Gain $3+\frac{Potency}{3}$ temporary magical armor.
 
-## Shortsword (Light)
+### Shortsword (Light)
 **Attributes**
 	Melee weapon, throwable
 	+1 weapon precision
@@ -117,7 +116,7 @@ One handed weapons are divided into two: heavy weapons and light weapons. Light 
 	Next time a creature within range attacks you with a melee weapon, you also attack them.
 	Deals 10 physical damage.
 
-## Dagger (Light)
+### Dagger (Light)
 **Attributes**
 	Melee weapon, throwable
 	+1 weapon precision
@@ -143,7 +142,7 @@ One handed weapons are divided into two: heavy weapons and light weapons. Light 
 	Deals 15 physical damage. 
 
 
-## Unarmed (Light)
+### Unarmed (Light)
 **Attributes**
 	Melee weapon
 	+1 weapon precision

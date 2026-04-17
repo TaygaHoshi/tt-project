@@ -2,10 +2,10 @@
 title = 'Path of Sorcerers'
 +++
 
-# A Dark Source for Power
+## A Dark Source for Power
 Not all shamans are as benevolent as the guides. As shamans of the Underworld, sorcerers are primarily concerned with powers from the lowest layer of existence, where only chaos and death can be found.
 
-# Abilities
+## Abilities
 | Level | Ability                |
 | :---: | ---------------------- |
 |   1   | Boon of Underworld     |
@@ -13,33 +13,33 @@ Not all shamans are as benevolent as the guides. As shamans of the Underworld, s
 |   5   | Blood is Power         |
 |   7   | Death's Edge           |
 |  10   | Hand of the Underworld |
-## Low Base Health
+### Low Base Health
 Your base health is 60.
 
-## Boon of Underworld
+### Boon of Underworld
 Whenever you fail a precision roll, you can sacrifice 5 health to increase the result of that roll by one. You can do this multiple times per failed roll.
 
 In addition, whenever you spend any amount of energy, you are healed for that amount.
 
-## Equivalent Exchange
+### Equivalent Exchange
 As a rapid action, you can sacrifice 5 health to gain 10 temporary health for 1 round. This effect is clearly visible to other creatures.
 
-## Blood is Power
+### Blood is Power
 As a rapid action, you can sacrifice 5 health to increase your aptitudes in one of the following ways, until the end of this round:
 1. Increase either potency or control by 2, or
 2. Increase both by 1 each.
 
-## Death's Edge
+### Death's Edge
 When you are at or below 15 health and use an ability that costs or sacrifices health, you can instead spend 1 energy per 5 health cost to use that ability.
 
-## Hand of the Underworld
+### Hand of the Underworld
 Target a creature as a full-turn action and make a precision roll against their Constitution. This will alert the creature to your location. 
 If you succeed, sacrifice up to 30 health. This creature takes armor-ignoring damage equal to the amount of health you sacrificed. 
 This ability does not get any bonuses to its damage.
 
 ---
-# Techniques
-## Absorption
+## Techniques
+### Absorption
 **Category:** Defense
 **Against:** Constitution
 **Execution Time:** Action
@@ -48,7 +48,7 @@ This ability does not get any bonuses to its damage.
 **Effect**
 	Steal 10 health from the target creature. Potency bonus to this technique's damage is halved. 
 
-## Alteration
+### Alteration
 **Category:** Utility
 **Execution Time:** Action
 **Cost:** 2 energy
@@ -61,7 +61,7 @@ This ability does not get any bonuses to its damage.
 	4. Cut or open holes.
 	This object returns to its original shape and properties after the duration. This ability can't be used on magical items.
 
-## Bane
+### Bane
 **Category:** Offense
 **Execution Time:** Full-turn action
 **Cost:** 3 energy
@@ -72,7 +72,7 @@ This ability does not get any bonuses to its damage.
 	The summoned spiritling shares your level and counts toward your summon limit. The wielder can command the spiritling to attack a creature as a rapid action, otherwise it will attack the foe closest to it.
 	This technique can also be used on a weapon wielded by an adjacent creature.
 
-## Call Chaos
+### Call Chaos
 **Category:** Offense
 **Execution Time:** Full-turn action
 **Cost:** 15 health
@@ -83,7 +83,7 @@ This ability does not get any bonuses to its damage.
 	Summon a spiritling of chaos next to each creature hostile to you within the radius up to a maximum of (2 + P/3) spiritlings for the duration. 
 	Spiritlings summoned by this technique share your level, do not count towards your summon limit, and attack the foe closest to them. 
 
-## Curse Transfer
+### Curse Transfer
 **Category:** Offense
 **Against:** Constitution
 **Execution Time:** Rapid action 
@@ -91,7 +91,7 @@ This ability does not get any bonuses to its damage.
 **Effect**
 	Touch a creature, and transfer a debilitating or harmful status effect from yourself to this creature. 
 
-## Mark of Sacrifice
+### Mark of Sacrifice
 **Category:** Offense
 **Against:** Warding
 **Execution Time:** Action
@@ -101,7 +101,7 @@ This ability does not get any bonuses to its damage.
 **Effect**
 	Mark up to (1 + P/2) creatures for the duration, spending 1 energy per creature marked. If a marked creature dies while affected, adjacent creatures take 15 magical damage without requiring precision rolls.
 
-## Pain Illusion
+### Pain Illusion
 **Category:** Offense
 **Against:** Constitution
 **Execution Time:** Full-turn action
@@ -111,7 +111,7 @@ This ability does not get any bonuses to its damage.
 	Deal 20 magical damage to the target creature.
 	At the start of your next round, unless the creature has died, this damage is reversed and the creature regains health equal to the damage it received to its health. 
 
-## Purge Blessings
+### Purge Blessings
 **Category:** Offense
 **Against:** Warding
 **Execution Time:** Action
@@ -120,7 +120,7 @@ This ability does not get any bonuses to its damage.
 **Effect**
 	Remove (1 + P/4) supportive status effects from the target creature, then deal a combined 10 magical damage per effect removed.
 
-## Spread Curses
+### Spread Curses
 **Category:** Offense
 **Against:** Constitution
 **Execution Time:** Action
@@ -131,7 +131,7 @@ This ability does not get any bonuses to its damage.
 **Effect**
 	Debilitating and harmful status effects that the target creature is affected by spreads to the creatures within the radius around it with their remaining durations. You can choose to reduce the radius of this ability when you use it, to a minimum of 1 meter.
 
-## Weaken Body
+### Weaken Body
 **Category:** Offense
 **Against:** Constitution
 **Execution Time:** Action
@@ -143,7 +143,7 @@ This ability does not get any bonuses to its damage.
 
 
 ---
-# Summons
+## Summons
 
 <table style="width: 100%; max-width: 720px; border-style: inset;">
 <tr>

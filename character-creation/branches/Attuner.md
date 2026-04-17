@@ -2,10 +2,10 @@
 title = 'Attuner'
 +++
 
-# Magicians of the World 
+## Magicians of the World 
 A powerful attuner has control over each of the five elements that composes the material world: earth, metal, fire, water and nature. This connection to the environment isn’t passive either: attuners must constantly journey across the world, uncovering the countless ways these elements manifest. Earth can be fertile or barren; metal is hard but malleable to many shapes; fire burns things to ashes but some worship it; water sustains life but has the power to flood entire cities; and nature is both nurturing and merciless.
 
-## Element-enveloped
+### Element-enveloped
 An attuner is always in harmony with the elements in their environments. Upon entering a different environment you become enveloped with the primary element in that area. Your harmony with an element lasts until the environment changes significantly.
 
 Each location corresponds to exactly one element.
@@ -35,7 +35,7 @@ Each location corresponds to exactly one element.
 + Benevolent status effect: regeneration (hits)
 + Malignant status effect: diseased (hits)
 
-## Cycle of Suppression
+### Cycle of Suppression
 By spending 1 energy when using an ability that uses the element you are enveloped in, you may invert your harmony, treating yourself as enveloped in the element it suppresses instead.
 + *Earth* -> Water
 + *Metal* -> Nature
@@ -43,8 +43,8 @@ By spending 1 energy when using an ability that uses the element you are envelop
 + *Water* -> Fire
 + *Nature* -> Earth 
 
-# Techniques
-## Cycle of Cultivation
+## Techniques
+### Cycle of Cultivation
 **Category:** Modification
 **Execution Time:** Special
 **Cost:** 1 energy
@@ -58,7 +58,7 @@ By spending 1 energy when using an ability that uses the element you are envelop
 	*Nature* -> Fire 
 	You can't choose this technique as your first one.
 
-## Elemental Armor
+### Elemental Armor
 **Category:** Defense
 **Against:** Parry
 **Execution Time:** Rapid action
@@ -67,7 +67,7 @@ By spending 1 energy when using an ability that uses the element you are envelop
 **Effect**
 	Exterior of a creature you can touch becomes enhanced with the element you are enveloped in, granting it the matching benevolent status effect for the duration and applying immobilized for 1 round.
 
-## Elemental Ground
+### Elemental Ground
 **Category:**  Utility
 **Against:** Evasion
 **Execution Time:** Action
@@ -83,7 +83,7 @@ By spending 1 energy when using an ability that uses the element you are envelop
 	*Water:* The ground turns into mud. This area is heavy rough terrain.
 	*Nature:* The ground grows vines, branches, and tall blades of grass. Make a precision roll against creatures walking into or ending their turn within this area. On success, the creature is immobilized for 1 round.
 
-## Elemental Storm
+### Elemental Storm
 **Category:** Utility
 **Execution Time:** Full-turn action
 **Cost:** 4 energy
@@ -98,7 +98,7 @@ By spending 1 energy when using an ability that uses the element you are envelop
 	*Nature:* Pollen storm. Affected creatures are diseased for 1 hit.
 	Alternatively, you can choose to perform a wider and longer version of this technique. This costs double energy and requires 1 hour of uninterrupted casting. In this case, this weather event lasts for (2 + C/2) hours and affects a 50 meter radius area.
 
-## Elemental Weapon
+### Elemental Weapon
 **Category:** Offense
 **Against:** Parry
 **Execution Time:** Rapid action
@@ -108,7 +108,7 @@ By spending 1 energy when using an ability that uses the element you are envelop
 	Enchant a weapon you can touch with the element you are enveloped in. 
 	As part of a single-target damaging weapon attack, this weapon's wielder can consume this enchantment to apply the matching malignant status effect for 1 round or 1 hit. 
 
-## Flaming Trail
+### Flaming Trail
 **Category:** Offense 
 **Against:** Constitution
 **Execution Time:** Full-turn action 
@@ -118,7 +118,7 @@ By spending 1 energy when using an ability that uses the element you are envelop
 	You can move up to your movement speed. As you move, you leave a trail of fire behind the squares you pass through. This trail stays alight for the duration, and it deals 10 magical damage whenever a creature steps into a burning square. Potency bonus to this technique's damage is halved.
 	If you are enveloped in fire element, this technique additionally affects squares adjacent to you when you finish your movement.
 
-## Ice Shards
+### Ice Shards
 **Category:** Offense 
 **Against:** Warding
 **Execution Time:** Action
@@ -131,7 +131,7 @@ By spending 1 energy when using an ability that uses the element you are envelop
 	if both shards hit, target is frostbitten for the duration.
 	If you are enveloped in water element, you shoot three shards instead of two and apply frostbitten if at least two of them hit.
 
-## Landshape
+### Landshape
 **Category:** Utility
 **Execution Time:** Full-turn action
 **Cost:** 4 energy
@@ -141,7 +141,7 @@ By spending 1 energy when using an ability that uses the element you are envelop
 	You can vaguely guide the natural features of the geography around you to change shape. After half of this technique's duration has passed, the geography starts slowly returning to its original shape. While performing this technique, you can choose to spend double the energy cost instead. In this case the technique requires 8 hours of uninterrupted casting but its effects stay permanent.
 	If you are enveloped in earth element, this technique's radius increases by 1 meters and it costs only 2 hours of uninterrupted casting for permanency.
 
-## Metalskin
+### Metalskin
 **Category:**  Offense
 **Execution Time:** Action
 **Cost:** 2 energy
@@ -150,7 +150,7 @@ By spending 1 energy when using an ability that uses the element you are envelop
 	Your skin becomes spiky and thorny for the duration. Whenever you are hit with a melee attack while these thorns are active, deal 5 physical damage to the attacker without requiring precision rolls. 
 	If you are enveloped in metal element, this ability deals armor-ignoring damage instead.
 
-## Sprout
+### Sprout
 **Category:** Offense
 **Execution Time:** Full-turn action 
 **Cost:** 2 energy
@@ -164,7 +164,7 @@ By spending 1 energy when using an ability that uses the element you are envelop
 
 
 ---
-# Summons
+## Summons
 <table style="width: 100%; max-width: 720px; border-style: inset;">
 <tr>
 <th>Sprout</th>

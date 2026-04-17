@@ -2,10 +2,10 @@
 title = 'Path of Guides'
 +++
 
-# Bridge Between Realms
+## Bridge Between Realms
 Guides are shamans who practice their connection with the realm of souls and the Overworld to take care of their communities or tribes by acting as advisors and religious leaders. Some guides, however, start travelling the world in search of a greater purpose.
 
-# Abilities
+## Abilities
 | Level | Ability        |
 | :---: | -------------- |
 |   1   | Passage        |
@@ -13,10 +13,11 @@ Guides are shamans who practice their connection with the realm of souls and the
 |   5   | Banish         |
 |   7   | Offering       |
 |  10   | Soul-bound     |
-## Low Base Health
+
+### Low Base Health
 Your base health is 60.
 
-## Passage
+### Passage
 As an action, you can temporarily enter the realm of souls for 1 round by spending 3 energy. While in the realm of souls, you are:
 1. unable to be affected by any abilities or status effects,
 2. unable to use any abilities or communicate with anyone, and
@@ -24,22 +25,22 @@ As an action, you can temporarily enter the realm of souls for 1 round by spendi
 
 When you return, you are disoriented for 1 round.
 
-## Simple Healing
+### Simple Healing
 When you use a technique that affects only one creature, you can spend 1 energy to grant them regeneration for 2 hits. 
 
-## Banish
+### Banish
 This ability's precision roll is made against Constitution.
 You can use your *passage* on a creature you can touch as an action. When this creature returns, it is slowed and disoriented for 1 round. 
 
-## Offering
+### Offering
 You can choose to stop regenerating energy while resting. If you do, your party's health regeneration per hour during rest is doubled.
 
-## Soul-bound
+### Soul-bound
 Your *passage* and *banish* abilities last 2 rounds instead. You can dismiss them freely during your turns. 
 
 ---
-# Techniques
-## Astral Travel
+## Techniques
+### Astral Travel
 **Category:** Utility
 **Execution Time:** 15 minutes
 **Cost:** 6 energy per hour
@@ -49,7 +50,7 @@ Your *passage* and *banish* abilities last 2 rounds instead. You can dismiss the
 	In this form you are unable enter areas magically protected against souls. 
 	If your body takes any type of damage, you are immediately return to your body and become stunned for 1 round. 
 
-## Clairvoyance
+### Clairvoyance
 **Category:** Utility
 **Execution Time:** 5 minutes
 **Cost:** 4 energy
@@ -58,7 +59,7 @@ Your *passage* and *banish* abilities last 2 rounds instead. You can dismiss the
 	Think of an object that you know the current appearance of. If this object is within radius, you will know its direction and distance from you.
 	Alternatively, you can mark an object using this technique. When an object is marked this way, you will always know its direction and distance for 24 hours.
 
-## Cleanse
+### Cleanse
 **Category:** Defense
 **Against:** Warding
 **Execution Time:** Rapid action
@@ -67,7 +68,7 @@ Your *passage* and *banish* abilities last 2 rounds instead. You can dismiss the
 **Effect**
 	Choose a creature. This creature is relieved of a harmful status effect of your choosing.
 
-## Divination
+### Divination
 **Category:** Utility
 **Against:** Warding
 **Execution Time:** Rapid action
@@ -77,7 +78,7 @@ Your *passage* and *banish* abilities last 2 rounds instead. You can dismiss the
 **Effect**
 	You grant an ally either protective foresight or predictive foresight for the duration.
 
-## Guest Soul
+### Guest Soul
 **Category:** Utility
 **Execution Time:** Full-turn action
 **Cost:** 2 energy
@@ -87,7 +88,7 @@ Your *passage* and *banish* abilities last 2 rounds instead. You can dismiss the
 	If the soul of the target living or dead creature is still in the realm of souls, you can temporarily talk with them.
 	This technique allows communication even if you don't share a language with your target.
 
-## Heal Creatures
+### Heal Creatures
 **Category:** Defense
 **Against:** Evasion
 **Execution Time:** Full-turn action
@@ -96,14 +97,14 @@ Your *passage* and *banish* abilities last 2 rounds instead. You can dismiss the
 **Effect**
 	Heal a creature for (10 + P/2), and heal creatures adjacent to your target for half of that amount. 
 
-## Message
+### Message
 **Category:** Utility
 **Execution Time:** 5 minutes 
 **Cost:** 4 energy
 **Effect**
 	Call a message-bearer soul. Provide a description of the recipient, and the soul will deliver your written message of any length, as long as the recipient is alive and reachable. The time required for your message to reach the recipient depends on the level of detail of the description.
 
-## Protect Creature
+### Protect Creature
 **Category:** Defense
 **Against:** Warding
 **Execution Time:** Action
@@ -113,7 +114,7 @@ Your *passage* and *banish* abilities last 2 rounds instead. You can dismiss the
 **Effect**
 	Choose a creature. Apply protected and regeneration for the duration.
 
-## Quell Effects
+### Quell Effects
 **Category:** Utility
 **Against:** Warding
 **Execution Time:** Action 
@@ -122,7 +123,7 @@ Your *passage* and *banish* abilities last 2 rounds instead. You can dismiss the
 **Effect**
 	Target a creature. Reduce durations of all status effects on this target by 1.
 
-## Transfer Energy
+### Transfer Energy
 **Category:** Utility
 **Execution Time:** Special
 **Cost:** 1 energy

@@ -1,10 +1,10 @@
 +++
 title = 'Wildbond'
 +++
-# One's Best Friend
+## One's Best Friend
 Instead of focusing on their personal growth, some choose to share their time, training and effort with their pets. While these people are sometimes called "masters", most of those specialized in this branch of combat are, in actuality, "tamers" or even "summoners" depending on the nature of their pet.
 
-## Call Pet
+### Call Pet
 Choose a pet category and a damage type (physical or magical) when you take this branch from the list below. Your pet does not count toward your summon limit. It inherits your level and aptitudes. During its turns, it has one action and it uses its basic weapon attack normally unless you tell it to do something else. Otherwise, normal [[Combat#Summoning|summoning rules]] apply. 
 
 When your pet falls below 1 health, it will become unconscious and fall prone. While in this situation, it will be wounded and can't join combat for 1d4 hours or until you use *lick wounds* to bring it back above 0 health. 
@@ -152,14 +152,14 @@ Deals 5 armor-ignoring damage. Potency bonus to this attack's damage is halved.
 </tr>
 </table>
 
-## Lick Wounds
+### Lick Wounds
 As a rapid action, you can spend up to (1 + P/2) energy on this ability, commanding your pet to heal itself.
 
 During its next turn, your pet does not attack and heals for (2 + 1d4) health for every point of energy spent for this ability. 
 
 ---
-# Techniques
-## Commune
+## Techniques
+### Commune
 **Category:** Utility
 **Execution Time:** Full-turn action
 **Cost:** 2 energy
@@ -167,7 +167,7 @@ During its next turn, your pet does not attack and heals for (2 + 1d4) health fo
 **Effect**
 	For the duration, you can talk to a calm animal as if you share a language.
 
-## Distract
+### Distract
 **Category:** Command
 **Against:** Evasion
 **Execution Time:** Rapid action
@@ -177,7 +177,7 @@ During its next turn, your pet does not attack and heals for (2 + 1d4) health fo
 **Effect**
 	Your pet does not attack. Instead, it tries to distract the target. A distracted creature is considered flanked for the duration.
 
-## Find
+### Find
 **Category:** Utility
 **Execution Time:** Action
 **Cost:** Special
@@ -185,7 +185,7 @@ During its next turn, your pet does not attack and heals for (2 + 1d4) health fo
 **Effect**
 	Your pet helps you or another creature search or find an item of a certain description by using its sense of smell, sight, hearing or touch. Your pet assists the search for the duration. For every two points of energy spent on this technique, the relevant skill roll gains a +1 bonus.
 
-## Go For Eyes
+### Go For Eyes
 **Category:** Command
 **Against:** Constitution
 **Execution Time:** Rapid action
@@ -195,7 +195,7 @@ During its next turn, your pet does not attack and heals for (2 + 1d4) health fo
 **Effect**
 	Direct your pet to attack your target's eyes. Your pet's basic weapon attack applies blinded for the duration of this technique.
 
-## Grab and Drag
+### Grab and Drag
 **Category:** Command
 **Against:** Parry
 **Execution Time:** Action
@@ -204,7 +204,7 @@ During its next turn, your pet does not attack and heals for (2 + 1d4) health fo
 **Effect**
 	Your pet does not attack. Instead, it targets a prone creature of your choosing. Your pet grabs this creature and drags it towards you up to (2 + P/3) meters, dealing 5 armor-ignoring damage per meter dragged.
 
-## Pounce
+### Pounce
 **Category:** Command
 **Against:** Parry
 **Execution Time:** Rapid action
@@ -213,14 +213,14 @@ During its next turn, your pet does not attack and heals for (2 + 1d4) health fo
 **Effect**
 	Instead of attacking, your pet pounces on the target of your choosing, making them fall prone.
 
-## Rush
+### Rush
 **Category:** Utility
 **Execution Time:** Rapid action
 **Cost:** 2 energy
 **Effect**
 	Your pet takes the charge common action. If your pet is a sharpshooter pet, it is instead quickened for 1 round.
 
-## Savagery
+### Savagery
 **Category:** Offense
 **Execution Time:** Action
 **Cost:** 4 energy
@@ -228,7 +228,7 @@ During its next turn, your pet does not attack and heals for (2 + 1d4) health fo
 **Effect**
 	Your pet becomes exposed, but it gains a (5 + P/2) bonus to its damage for the duration. 
 
-## Sweeping Attack
+### Sweeping Attack
 **Category:** Command
 **Against:** Evasion
 **Execution Time:** Rapid action

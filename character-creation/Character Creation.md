@@ -2,9 +2,9 @@
 title = "Creating a Character"
 type = "chapter"
 weight = 1
+collapsibleMenu = true
 +++
 
-# Creating a Character
 Player characters are the other part, alongside the Game Master, of Sigil of Uchma. This section will go over the basics of character creation.
 You can follow along this section with the [character creation website](https://sigil-create.tyghsh.cc/).
 

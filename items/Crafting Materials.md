@@ -2,29 +2,29 @@
 title = 'Crafting Materials'
 +++
 
-# Base Materials
-## Common Metals
+## Base Materials
+### Common Metals
 **Category:** Base material
 **Base Price:** 25 iron coins
 **Bulk:** Heavyweight, medium size
 **Description:**
 	Various small nuggets of common metals such as iron, copper, tin, etc.  
 
-## Precious Metals
+### Precious Metals
 **Category:** Base material
 **Base Price:** 50 iron coins 
 **Bulk:** Heavyweight, medium size
 **Description:**
 	Various small nuggets of rare metals such as gold, silver, etc. 
 
-## Glass
+### Glass
 **Category:** Base material
 **Base Price:** 25 iron coins
 **Bulk:** Lightweight, medium size, fragile
 **Description:**
 	One medium-sized piece of clear glass, usually shaped vaguely like a circle or a rectangle. 
 
-## Hide
+### Hide
 **Category:** Base material
 **Base Price:** 10 iron coins
 **Bulk:** Heavyweight, large size
@@ -35,22 +35,22 @@ title = 'Crafting Materials'
 	Success threshold: 10 husbandry.
 	Duration: 1 hour.
 
-## Salt
+### Salt
 **Category:** Base material
 **Base Price:** 15 iron coins
 **Bulk:** Lightweight, small size
 **Description:**
 	A crystalline solid used as a condiment and for food preservation. It is gathered from a type of rock.
 
-## Wool (bundle)
+### Wool (bundle)
 **Category:** Base material
 **Base Price:** 10 iron coins
 **Bulk:** Lightweight, large size
 **Description:**
 	Unprocessed package of fibers sheared from sheep and goats.
 
-# Processed Materials
-## Felt
+## Processed Materials
+### Felt
 **Category:** Material
 **Base Price:** 25 iron coins
 **Bulk:** Lightweight, large size
@@ -61,7 +61,7 @@ title = 'Crafting Materials'
 	Duration: half a day of work. 
 	Materials: 2 units of wool, 1 unit of wood ash and some water. 
 
-## Wooden Plank
+### Wooden Plank
 **Category:** Base material
 **Base Price:** 15 iron coins
 **Bulk:** Heavyweight, large size
@@ -69,7 +69,7 @@ title = 'Crafting Materials'
 	Processed, versatile piece of wood that can be used in various ways.
 	When burned, turns into 3 units of wood ash. 
 
-## Worked Leather
+### Worked Leather
 **Category:** Material
 **Base Price:** 30 iron coins
 **Bulk:** Lightweight, medium size
@@ -81,7 +81,7 @@ title = 'Crafting Materials'
 	Duration: half a day of work. 
 	Materials: 1 unit of hide and 1 unit of salt.  
 
-## Perfected Glass
+### Perfected Glass
 **Category:** Material
 **Base Price:** 200 iron coins
 **Bulk:** Lightweight, small size, fragile 

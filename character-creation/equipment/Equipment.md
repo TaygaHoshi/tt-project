@@ -1,12 +1,13 @@
 +++
 title = 'Armor & Weapons'
 weight = 3
+collapsibleMenu = true
 +++
 
-# Armor
+## Armor
 This equipment protects its wearer from physical and magical damage, depending on its type.
 
-## Armor Types and Armor Rating
+### Armor Types and Armor Rating
 | Armor Type | Physical Armor | Magical Armor | Movement Speed | Stealth |
 | ---------- | :------------: | :-----------: | :------------: | :-----: |
 | Clothing   |       0        |       0       |       8        |    0    |
@@ -16,16 +17,16 @@ This equipment protects its wearer from physical and magical damage, depending o
 | Heavy      |       10       |       0       |       4        |   -2    |
 | Warded     |       0        |      10       |       4        |   -2    |
 
-## Temporary Armor
+### Temporary Armor
 Additional armor can be gained through spells and abilities which grant temporary armor. Rules of temporary armor can be found in the [[Status Effects]] page.
 
-# Weapons
+## Weapons
 Weapons are what creatures use to hit their foes. Most creatures with body parts similar to arms and hands can use every weapon. There are several categories of weapons. Each of these can be found in their respective list:
 1. [[Weapons - One Handed|One Handed weapons]] 
 2. [[Weapons - Off Hand|Off-hand weapons]] 
 3. [[Weapons - Two Handed|Two handed weapons]] 
 
-## Weapon Sets
+### Weapon Sets
 Weapon sets are helpful guides used primarily during character creation. If you take a bow, you will also get a quiver and 30 basic arrows/bolts. If you choose the javelin, you can take up to five javelins. Extra javelins take up space and require a quiver. A weapon set is any of these:
 1. A one handed weapon and an off-hand weapon.
 2. A one handed weapon and a light one handed weapon.
@@ -33,15 +34,15 @@ Weapon sets are helpful guides used primarily during character creation. If you 
 
 Bonuses or penalties from weapons, such as to resistance or armor only apply when you are currently wielding them.
 
-## Basic Weapon Attacks
+### Basic Weapon Attacks
 Some abilities may include a phrase similar to "doing a basic weapon attack". This means using the regular attack of a weapon, which is almost always the first active ability. 
 
-## Unsteady Aiming
+### Unsteady Aiming
 Projectile attacks of some ranged weapons suffer a penalty to their precision rolls if the shooter moves during the same turn. The severity of the penalty varies by weapon.
 
 As long as there are no adjacent foes, the attacker can negate these penalties by spending their movement to steady their aim.
 
-## Improvised Weapons
+### Improvised Weapons
 Some objects can be used as de facto weapons, at the GM's discretion. These objects can be used to perform a basic weapon attack. When making a precision roll with an improvised weapon, it breaks if the roll of the d10 is 3 or below, but the damage is still applied if the attack hits. There are two general sizes of improvised weapons:
 
 | Size  | Damage   | Throwable | Weapon Precision |

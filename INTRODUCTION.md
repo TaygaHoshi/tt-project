@@ -4,7 +4,6 @@ type = "home"
 weight = 1
 +++
 
-# Introduction
 Sigil of Uchma is a work-in-progress fantasy tabletop role playing game inspired by medieval Central Asian mythologies. The name is a reference to historical usage of [Nazar amulets](https://en.wikipedia.org/wiki/Nazar_(amulet)), and it can be abbreviated simply as "Sigil".
 
 The game is played with one game master (GM) and one or more players:
@@ -19,7 +18,7 @@ Sigil is work-in-progress and not ready for full campaigns yet. You are seeing t
 
 ---
 # Where to Start
-## Basics
+### Basics
 Sigil is a d10-based, combat-focused game with a simple action economy. While [[Combat|combat encounters]] are the primary way of resolving conflicts, there are plenty of nonviolent challenges and opportunities handled by [[Skills|skills]].
 
 Each [[Character Creation|player character]] consists of many unique and interesting choices: [[Equipment#Weapons|weapons]] provide active abilities, [[Equipment#Armor|armors]] are strong, [[Character Creation#Techniques|techniques]] carry an impact while not being overpowered, and the two [[Character Creation#Aptitudes|aptitudes]] allow players to fine tune how these abilities scale. Also, there are rarely any limitations: a [[Path of Guides|Guide]] or a [[Path of Sorcerers|Sorcerer]] can wear any type of armor and wield all weapons without penalties.
@@ -28,7 +27,7 @@ During their adventures, the party might come across and fight [[Monsters|monste
 
 They can also endure the offence of enemies through negating it with their innate [[Character Creation#Resistances|resistances]] or mitigating it through equipment such as [[Equipment#Armor|armor]] and defensive [[Weapons - Off Hand|off-hand weapons]], or taking it and keeping on fighting with their health pool. Using the right technique at the right time can provide an edge in combat. Just make sure to spare some [[Character Creation#Energy|energy]] if you’re expecting more fighting soon, as techniques require energy which you need to [[Character Creation#Resting and Sleeping|rest]] to replenish properly.
 
-## Reading this website
+### Reading this website
 The bulk of the rules used within combat encounters are in [[Combat|the combat page]]. While it is a good place to dive into the game, you might want to start from [[Character Creation|the character creation page]] for a more gradual introduction. This step can be followed through via [the character creation website](https://sigil-create.tyghsh.cc).
 
 From there, the natural follow-up is the set of pages that explain what a player character is made of:
@@ -43,19 +42,19 @@ Next pages to read would be the shared abilities and effects used across the gam
 Finally, if you want to learn about the various items to obtain and monsters you could meet during a campaign, check out the pages under the _Items_ category as well as [[Monsters|the monsters page]].
 
 ---
-# Release Cycle
+## Release Cycle
 Sigil of Uchma is versioned using a simple release cycle consisting of the following stages:
 1. Alpha - released on 03/02/2026
 2. Beta - current version
 3. Feature freeze
 4. Full release
 
-# Contact & Contributing
+## Contact & Contributing
 You can contact me through GitHub or Discord (*taygahoshi*). Sigil of Uchma is developed openly in [this GitHub repository](https://github.com/TaygaHoshi/tt-project). Contributors are welcome so feel free to reach out to me.
 
 
 ---
-# Licence
+## Licence
 Game content licenced under CC BY-NC-SA 4.0. Website source code is available under GPL-3.0-or-later. Please see the [GitHub repository](https://github.com/TaygaHoshi/tt-project?tab=readme-ov-file#sigil-of-uchma) for more information.
 
 This site bundles Liberation Serif (SIL OFL 1.1).

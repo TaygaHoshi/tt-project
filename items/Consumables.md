@@ -2,7 +2,7 @@
 title = 'Consumables'
 +++
 
-## Sigil of Tahmu
+### Sigil of Tahmu
 **Category:** Weapon
 **Base Price:** 5 gold coins
 **Bulk:** Off-hand weapon 
@@ -17,7 +17,7 @@ title = 'Consumables'
 	Duration: One day of uninterrupted work. 
 	Materials: 1 unit of circular perfected glass, 1 unit of brown dye and 1 unit of underworld essence.
 
-## Sigil of Uchma
+### Sigil of Uchma
 **Category:** Weapon
 **Base Price:** 5 gold coins
 **Bulk:** Off-hand weapon
@@ -32,7 +32,7 @@ title = 'Consumables'
 	Duration: One day of uninterrupted work. 
 	Materials: 1 unit of circular perfected glass, 1 unit of cyan dye and 1 unit of overworld essence.
 
-## Vial of Corrosive Mixture
+### Vial of Corrosive Mixture
 **Category:** Combat item
 **Base Price:** 100 iron coins
 **Bulk:** Lightweight, small size, quick access item
@@ -44,7 +44,7 @@ title = 'Consumables'
 **Crafting:** 
 	#TODO 
 
-## Vial of Weak Poison
+### Vial of Weak Poison
 **Category:** Combat item
 **Base Price:** 25 iron coins
 **Bulk:** Lightweight, small size, quick access item
@@ -55,7 +55,7 @@ title = 'Consumables'
 **Crafting:** 
 	#TODO 
 
-## Vial of Common Poison
+### Vial of Common Poison
 **Category:** Combat item
 **Base Price:** 50 iron coins
 **Bulk:** Lightweight, small size, quick access item 
@@ -66,7 +66,7 @@ title = 'Consumables'
 **Crafting:** 
 	#TODO 
 
-## Vial of Weak Healing Potion
+### Vial of Weak Healing Potion
 **Category:** Combat item
 **Base price:** 30 iron coins
 **Bulk:** Lightweight, small size, quick access item
@@ -76,7 +76,7 @@ title = 'Consumables'
 **Crafting:** 
 	#TODO 
 
-## Vial of Common Healing Potion
+### Vial of Common Healing Potion
 **Category:** Combat item
 **Base price:** 60 iron coins
 **Bulk:** Lightweight, small size, quick access item
