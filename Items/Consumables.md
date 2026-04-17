@@ -28,6 +28,18 @@
 	Duration: One day of uninterrupted work. 
 	Materials: 1 unit of circular perfected glass, 1 unit of cyan dye and 1 unit of overworld essence.
 
+## Vial of Corrosive Mixture
+**Category:** Combat item
+**Base Price:** 100 iron coins
+**Bulk:** Lightweight, small size, quick access item
+**Uses:** Single use
+**Description:** 
+	A mixture with known corrosive ingredients. 
+	When applied on a damaging physical weapon, it receives a permanent -5 penalty to its damage. The weapon breaks if its damage reaches zero in this way. 
+	Splashing or applying this mixture on an armor similarly damages it, granting the receiver cracked armor for 2 rounds.
+**Crafting:** 
+	#TODO 
+
 ## Vial of Weak Poison
 **Category:** Combat item
 **Base Price:** 25 iron coins
