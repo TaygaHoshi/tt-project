@@ -17,3 +17,4 @@ theme = 'hugo-theme-relearn'
 
 [params]
   themeVariant = 'sigil-light'
+  math = true
