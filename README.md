@@ -33,10 +33,10 @@ Lastly, you can send a pull request to my repository through GitHub.
 
 # Project Structure
 ```
+├── .hugo -> used for website generation
 ├── Character - Branches
 ├── Character - Paths
 ├── Content
-├── docs
 ├── Equipment
 ├── Items
 ├── Monsters
