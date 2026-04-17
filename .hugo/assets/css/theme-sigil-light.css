@@ -1,0 +1,134 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap');
+
+@font-face {
+  font-family: 'Liberation Serif';
+  src: url('/fonts/LiberationSerif-Regular.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Liberation Serif';
+  src: url('/fonts/LiberationSerif-Bold.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Liberation Serif';
+  src: url('/fonts/LiberationSerif-Italic.ttf') format('truetype');
+  font-weight: 400;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'Liberation Serif';
+  src: url('/fonts/LiberationSerif-BoldItalic.ttf') format('truetype');
+  font-weight: 700;
+  font-style: italic;
+}
+
+:root {
+  /* sigil-light */
+
+  /* Fonts */
+  --MAIN-font: "Merriweather", "Georgia", serif;
+  --MAIN-font-weight: 300;
+  --MAIN-font-variation-settings: normal;
+  --MAIN-letter-spacing: normal;
+  --MAIN-BOLD-font-weight: 700;
+
+  --MAIN-TITLES-font: "Merriweather", "Georgia", serif;
+  --MAIN-TITLES-font-weight: 400;
+  --MAIN-TITLES-font-variation-settings: normal;
+
+  --MAIN-TITLES-H1-font: "Merriweather", "Georgia", serif;
+  --MAIN-TITLES-H1-font-weight: 400;
+  --MAIN-TITLES-H1-font-variation-settings: normal;
+  --MAIN-TITLES-H1-TEXT-color: #402D26;
+
+  --MAIN-TITLES-H2-font: "Liberation Serif", "Georgia", serif;
+  --MAIN-TITLES-H2-font-weight: 700;
+  --MAIN-TITLES-H2-font-variation-settings: normal;
+  --MAIN-TITLES-H2-TEXT-color: #3F2B22;
+
+  --MAIN-TITLES-H3-font: "Liberation Serif", "Georgia", serif;
+  --MAIN-TITLES-H3-font-weight: 700;
+  --MAIN-TITLES-H3-font-variation-settings: normal;
+  --MAIN-TITLES-H3-TEXT-color: #3F2B22;
+
+  --MAIN-TITLES-H4-font: "Liberation Serif", "Georgia", serif;
+  --MAIN-TITLES-H4-font-weight: 700;
+  --MAIN-TITLES-H4-font-variation-settings: normal;
+  --MAIN-TITLES-H4-TEXT-color: #3F2B22;
+
+  --MAIN-TITLES-H5-font: "Liberation Serif", "Georgia", serif;
+  --MAIN-TITLES-H5-font-weight: 400;
+  --MAIN-TITLES-H5-font-variation-settings: normal;
+
+  --MAIN-TITLES-H6-font: "Liberation Serif", "Georgia", serif;
+  --MAIN-TITLES-H6-font-weight: 400;
+  --MAIN-TITLES-H6-font-variation-settings: normal;
+
+  /* Main content */
+  --MAIN-BG-color: #F5F0E8;
+  --MAIN-TEXT-color: #3B2F2F;
+  --MAIN-TITLES-TEXT-color: #402D26;
+
+  /* Links - pastel teal */
+  --PRIMARY-color: #5B9EA6;
+  --PRIMARY-HOVER-color: #3D7A82;
+  --SECONDARY-color: #5B9EA6;
+  --SECONDARY-HOVER-color: #3D7A82;
+  --MAIN-LINK-color: #5B9EA6;
+  --MAIN-LINK-HOVER-color: #3D7A82;
+
+  /* Topbar */
+  --TOPBAR-BG-color: #EDE6DA;
+  --MAIN-TOPBAR-BORDER-color: #D4C9B8;
+
+  /* Sidebar */
+  --MENU-HEADER-BG-color: #402D26;
+  --MENU-HEADER-BORDER-color: #33221C;
+  --MENU-HEADER-color: #F5F0E8;
+  --MENU-SECTIONS-BG-color: #402D26;
+  --MENU-SECTIONS-ACTIVE-BG-color: rgba(0, 0, 0, 0.2);
+  --MENU-SECTIONS-LINK-color: #E8DFD0;
+  --MENU-SECTIONS-LINK-HOVER-color: #FFFFFF;
+  --MENU-SECTION-ACTIVE-CATEGORY-color: #402D26;
+  --MENU-SECTION-ACTIVE-CATEGORY-BG-color: #F5F0E8;
+  --MENU-BORDER-color: #33221C;
+  --MENU-TOPBAR-BORDER-color: #402D26;
+  --MENU-TOPBAR-SEPARATOR-color: #33221C;
+  --MENU-SEARCH-color: #E8DFD0;
+  --MENU-SEARCH-BG-color: #33221C;
+  --MENU-SEARCH-BORDER-color: #5C4333;
+  --MENU-HOME-LINK-color: #E8DFD0;
+  --MENU-HOME-LINK-HOVER-color: #FFFFFF;
+  --MENU-HOME-TOP-SEPARATOR-color: #6B5243;
+  --MENU-HOME-SEPARATOR-color: #6B5243;
+  --MENU-HOME-BOTTOM-SEPARATOR-color: #6B5243;
+  --MENU-SECTION-SEPARATOR-color: #6B5243;
+  --MENU-VISITED-color: #7BBAC2;
+
+  /* Code */
+  --CODE-theme: relearn-light;
+  --CODE-BLOCK-color: #3B2F2F;
+  --CODE-BLOCK-BG-color: #EDE6DA;
+  --CODE-BLOCK-BORDER-color: #D4C9B8;
+  --CODE-INLINE-color: #5C4333;
+  --CODE-INLINE-BG-color: #EDE6DA;
+  --CODE-INLINE-BORDER-color: #D4C9B8;
+
+  /* Boxes */
+  --BOX-CAPTION-color: rgba(255, 255, 255, 1);
+  --BOX-BG-color: rgba(245, 240, 232, 0.833);
+  --BOX-TEXT-color: #3B2F2F;
+  --BOX-GREY-color: #D4C9B8;
+
+  /* Layout */
+  --MENU-MAX-width: 100rem;
+
+  /* Misc */
+  --BROWSER-theme: light;
+  --MERMAID-theme: default;
+  --OPENAPI-theme: light;
+  --OPENAPI-CODE-theme: idea;
+}
