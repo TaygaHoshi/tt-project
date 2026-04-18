@@ -17,7 +17,7 @@ In addition, there are various rules for exploration, inventory management, craf
 Sigil is work-in-progress and not ready for full campaigns yet. You are seeing the version *v1-b1* (beta).
 
 ---
-# Where to Start
+## Where to Start
 ### Basics
 Sigil is a d10-based, combat-focused game with a simple action economy. While [[Combat|combat encounters]] are the primary way of resolving conflicts, there are plenty of nonviolent challenges and opportunities handled by [[Skills|skills]].
 
