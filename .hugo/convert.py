@@ -6,7 +6,7 @@ Run from the .hugo/ directory or as: python3 .hugo/convert.py
 
 What it does:
   1. Copies .md files from the repo root into .hugo/content/ with slugified filenames
-  2. Renames index.md → _index.md (Hugo branch bundles)
+  2. Directory-matching files become _index.md (e.g. monsters/Monsters.md → monsters/_index.md)
   3. Maps INTRODUCTION.md → root _index.md (homepage)
   4. Rewrites [[wikilinks]] to standard markdown links
   5. Adds trailing double spaces for CommonMark line breaks
@@ -238,15 +238,22 @@ def rewrite_wikilinks(
 # Line break conversion
 # ---------------------------------------------------------------------------
 
+def _is_pure_html_tag(line: str) -> bool:
+    """Check if a line contains only HTML tags with no visible text content."""
+    text = re.sub(r"<[^>]+>", "", line).strip()
+    return text == ""
+
+
 def add_line_breaks(content: str) -> str:
     """
     Add trailing double spaces so CommonMark renders line breaks.
+    Inside HTML blocks, use <br> instead of trailing spaces.
 
     Obsidian (strict line breaks OFF) treats every newline as a <br>.
     CommonMark treats single newlines as spaces within a paragraph.
     Two trailing spaces force a <br> in CommonMark.
 
-    Skips: frontmatter, fenced code blocks, HTML blocks, headings,
+    Skips: frontmatter, fenced code blocks, headings,
     table rows, and lines that already end with double spaces or \\.
     """
     lines = content.split("\n")
@@ -298,7 +305,29 @@ def add_line_breaks(content: str) -> str:
             if re.search(rf"</{html_tag}\s*>", stripped, re.IGNORECASE):
                 in_html_block = False
                 html_tag = None
-            result.append(line)
+                result.append(line)
+                continue
+
+            # Inside HTML blocks, add <br> for line breaks.
+            # Rules:
+            #   - Lines ending with ">" are tag-terminated (e.g. </td>, <td>text</td>) → no <br>
+            #   - Content lines followed by a pure-tag line (e.g. </td>) → no <br>
+            #   - Content lines followed by another content line → add <br>
+            has_next = i + 1 < len(lines)
+            next_line = lines[i + 1] if has_next else ""
+            next_non_empty = has_next and next_line.strip() != ""
+            ends_with_tag = stripped.endswith(">")
+            next_is_pure_tag = next_non_empty and _is_pure_html_tag(next_line)
+
+            needs_break = (
+                stripped != ""
+                and next_non_empty
+                and not ends_with_tag
+                and not next_is_pure_tag
+                and not line.endswith("<br>")
+            )
+
+            result.append(line + "<br>" if needs_break else line)
             continue
 
         # --- Decide whether to add trailing spaces ---
