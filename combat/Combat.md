@@ -130,14 +130,14 @@ When a creature successfully hits with a health steal ability, the amount of hea
 
 ### Turn Order
 At the start of the combat, determine turn order as follows:
-1. Every opposing group rolls a flat $\text{2d10}$.  
+1. Every opposing group rolls a flat (2d10).  
 	• Each group must end with a different roll result; reroll as needed until all results are unique.  
-	• If a new opposing group enters the combat later, they also roll a flat $\text{2d10}$. If their result matches an existing group, only the new group rerolls until they have a unique result.
+	• If a new opposing group enters the combat later, they also roll a flat (2d10). If their result matches an existing group, only the new group rerolls until they have a unique result.
 2. All creatures in combat are ordered from highest to lowest based on their current movement speed.  
 	• If a creature that has a flying speed is currently on the ground, use its walking speed instead of its flying speed.
 3. Resolve ties in movement speed as follows:  
 	• Allies with the same movement speed decide their acting order beforehand. This order may be changed during combat using the *speak* common action.  
-	• Enemies with the same movement speed use the flat $\text{2d10}$ results from step 1 to determine who acts first.
+	• Enemies with the same movement speed use the flat (2d10) results from step 1 to determine who acts first.
 
 A creature can only take one turn per round, even if it would appear again later in the order.
 
@@ -220,7 +220,7 @@ When a creature transforms into another, several rules should be followed:
 ### Player versus Player
 Conflicts between player characters should be resolved with words. However, sometimes arguments might escalate into fights, duels or even ambushes. In this case, rather than starting a combat encounter, the GM may opt to use the simple method of PvP instead:
 1. Players split into teams or stay neutral.
-2. Each team rolls a $\text{1d10}$ per player. The team that rolls the highest in total wins.
+2. Each team rolls a (1d10) per player. The team that rolls the highest in total wins.
 3. The GM may grant up to a +2 bonus to a team’s total if it has a clear situational advantage aside from numbers.
 
 

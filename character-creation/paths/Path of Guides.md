@@ -44,7 +44,7 @@ Your *passage* and *banish* abilities last 2 rounds instead. You can dismiss the
 **Category:** Utility
 **Execution Time:** 15 minutes
 **Cost:** 6 energy per hour
-**Duration:** Up to (1 + C/4) hours
+**Duration:** Up to (1 + $\frac{\text{Control}}{4}$) hours
 **Effect**
 	While you are meditating, your soul leaves your physical body behind and can move separately. In this form, you have 20 meters of flying speed, become immune to status effects and are invisible to all creatures except those who can see souls. You can willingly return to body at any time.
 	In this form you are unable enter areas magically protected against souls. 
@@ -54,7 +54,7 @@ Your *passage* and *banish* abilities last 2 rounds instead. You can dismiss the
 **Category:** Utility
 **Execution Time:** 5 minutes
 **Cost:** 4 energy
-**Radius:** (5 + P/2) kilometers
+**Radius:** (5 + $\frac{\text{Potency}}{2}$) kilometers
 **Effect**
 	Think of an object that you know the current appearance of. If this object is within radius, you will know its direction and distance from you.
 	Alternatively, you can mark an object using this technique. When an object is marked this way, you will always know its direction and distance for 24 hours.
@@ -95,7 +95,7 @@ Your *passage* and *banish* abilities last 2 rounds instead. You can dismiss the
 **Cost:** 2 energy
 **Range:** 3 meters
 **Effect**
-	Heal a creature for (10 + P/2), and heal creatures adjacent to your target for half of that amount. 
+	Heal a creature for (10 + $\frac{\text{Potency}}{2}$), and heal creatures adjacent to your target for half of that amount. 
 
 ### Message
 **Category:** Utility
@@ -110,7 +110,7 @@ Your *passage* and *banish* abilities last 2 rounds instead. You can dismiss the
 **Execution Time:** Action
 **Cost:** 2 energy
 **Range:** 5 meters
-**Duration:** (2 + C/4) rounds
+**Duration:** (2 + $\frac{\text{Control}}{4}$) rounds
 **Effect**
 	Choose a creature. Apply protected and regeneration for the duration.
 

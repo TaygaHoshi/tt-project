@@ -17,11 +17,11 @@ Debilitating status effects have durations in terms of rounds or longer.
 + Does not stack. If target already has cracked armor, only the one with longer duration applies.
 
 ### Disoriented
-+ (1 + P/3) penalty to precision rolls.
++ (1 + $\frac{\text{Potency}}{3}$) penalty to precision rolls.
 + Does not stack. If target is already disoriented, only the one with higher potency applies.
 
 ### Exposed
-+ Whenever this creature takes damage from a weapon attack, it receives (3 + P/2) bonus damage. 
++ Whenever this creature takes damage from a weapon attack, it receives (3 + $\frac{\text{Potency}}{2}$) bonus damage. 
 + Does not stack. If target is already exposed, only the one with higher potency applies.
 
 ### Fatigued
@@ -35,13 +35,13 @@ Debilitating status effects have durations in terms of rounds or longer.
 + Does not stack. If target is already immobilized, only the longer one applies.
 
 ### Sickened
-+ (1 + P/4) penalty to Constitution.
++ (1 + $\frac{\text{Potency}}{4}$) penalty to Constitution.
 + Whenever a creature with sickened receives a harmful status effect, one hit is spent immediately.
 + Does not stack. If target is already sickened, only the one with higher potency applies.
 
 ### Slowed
 + Halves movement speed.
-+ (1 + P/4) penalty to Evasion.
++ (1 + $\frac{\text{Potency}}{4}$) penalty to Evasion.
 + If a slowed creature is also quickened, this status effect is considered after quickened. 
 + Does not stack. If target is already slowed, only the one with higher potency applies.
 
@@ -57,7 +57,7 @@ Debilitating status effects have durations in terms of rounds or longer.
 + Does not stack. If target is already stunned, only the longer one applies.
 
 ### Weakened Defenses
-+ (1 + P/4) penalty to Parry.
++ (1 + $\frac{\text{Potency}}{4}$) penalty to Parry.
 + Does not stack. If target's defenses are already weakened, only the one with higher potency applies.
 
 ---
@@ -111,12 +111,12 @@ Supportive status effects have durations in terms of rounds or longer.
 + Does not stack. If target is already affected by a protective foresight, only the one with longer duration applies.
 
 ### Quickened
-+ Movement speed is increased by (2 + P/3) meters.
++ Movement speed is increased by (2 + $\frac{\text{Potency}}{3}$) meters.
 + If a quickened creature is also slowed, this status effect is considered before slowed. 
 + Does not stack. If target is already quickened, only the one with higher potency applies.
 
 ### Regeneration
-+ Heals for (2 + P/2) per hit.
++ Heals for (2 + $\frac{\text{Potency}}{2}$) per hit.
 + Does not stack. If target is already regenerating, only the one with higher potency applies.
 
 ### Surefooted

@@ -52,9 +52,9 @@ This ability does not get any bonuses to its damage.
 **Category:** Utility
 **Execution Time:** Action
 **Cost:** 2 energy
-**Duration:** (1 + C/4) hours
+**Duration:** (1 + $\frac{\text{Control}}{4}$) hours
 **Effect**
-	You can precisely manipulate a lifeless object smaller than (15 + C) cubic centimeters. You can apply one of the following:
+	You can precisely manipulate a lifeless object smaller than (15 + $\text{Control}$) cubic centimeters. You can apply one of the following:
 	1. Change the shape.
 	2. Shrink down to at most half size.
 	3. Enlarge up to double size or 25 cubic centimeters, whichever is smaller.
@@ -65,7 +65,7 @@ This ability does not get any bonuses to its damage.
 **Category:** Offense
 **Execution Time:** Full-turn action
 **Cost:** 3 energy
-**Duration:** (1 + C/2) rounds
+**Duration:** (1 + $\frac{\text{Control}}{2}$) rounds
 **Effect**
 	Enchant a weapon you can touch with the aura of the Underworld for the next hour.
 	Once, if a creature is killed with a weapon attack performed with this weapon, a spiritling of chaos is summoned for the duration. 
@@ -77,7 +77,7 @@ This ability does not get any bonuses to its damage.
 **Execution Time:** Full-turn action
 **Cost:** 15 health
 **Radius:** (2 + P/3) meters
-**Duration:** (2 + C/3) rounds
+**Duration:** (2 + $\frac{\text{Control}}{3}$) rounds
 **Effect**
 	Create an area of darkness around you for the duration. This area is considered quarter cover and light rough terrain. 
 	Summon a spiritling of chaos next to each creature hostile to you within the radius up to a maximum of (2 + P/3) spiritlings for the duration. 
@@ -97,7 +97,7 @@ This ability does not get any bonuses to its damage.
 **Execution Time:** Action
 **Cost:** Special
 **Range:** 5 meters
-**Duration:** (2 + C/3) rounds
+**Duration:** (2 + $\frac{\text{Control}}{3}$) rounds
 **Effect**
 	Mark up to (1 + P/2) creatures for the duration, spending 1 energy per creature marked. If a marked creature dies while affected, adjacent creatures take 15 magical damage without requiring precision rolls.
 
@@ -126,7 +126,7 @@ This ability does not get any bonuses to its damage.
 **Execution Time:** Action
 **Cost:** 10 health
 **Range:** 5 meters
-**Radius:** (2 + C/4) meters
+**Radius:** (2 + $\frac{\text{Control}}{4}$) meters
 **Duration:** Special
 **Effect**
 	Debilitating and harmful status effects that the target creature is affected by spreads to the creatures within the radius around it with their remaining durations. You can choose to reduce the radius of this ability when you use it, to a minimum of 1 meter.
@@ -137,7 +137,7 @@ This ability does not get any bonuses to its damage.
 **Execution Time:** Action
 **Cost:** 2 energy 
 **Range:** 5 meters
-**Duration:** (2 + C/4) rounds
+**Duration:** (2 + $\frac{\text{Control}}{4}$) rounds
 **Effect**
 	Apply sickened and exposed to the target creature for the duration. Additionally, you can apply fatigue by spending 4 energy instead.
 

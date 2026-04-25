@@ -4,10 +4,10 @@ weight = 4
 +++
 
 Skills are miscellaneous abilities of a character, such as being able to hunt more efficiently or identify a plant. At any point, the GM might ask for a skill roll of a specific skill against a success threshold from a player. When making a skill roll, the following formula is used: 
-+ 1d10 + C/2 + other bonuses
+$\text{1d10} + \frac{\text{Control}}{2} + \text{other bonuses}$
 
 Similar to resistances, you can choose to focus on two skills at first level as your major skills. Your major skills use a different formula:
-+ 2d10 + C/2 + other bonuses
+$\text{2d10} + \frac{\text{Control}}{2} + \text{other bonuses}$
 
 ## List of Skills
 ### Physical Skills

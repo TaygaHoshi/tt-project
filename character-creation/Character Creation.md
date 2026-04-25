@@ -9,8 +9,9 @@ Player characters are the other part, alongside the Game Master, of Sigil of Uch
 You can follow along this section with the [character creation website](https://sigil-create.tyghsh.cc/).
 
 ## Sample Characters
-#TODO 
+Below, you can find a few example characters. Clicking their names will bring you to their character sheets.
 
+#TODO 
 
 ## Classes
 Each player character in Sigil has two classes that they need to choose, a path and a branch.

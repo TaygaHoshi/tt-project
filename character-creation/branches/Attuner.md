@@ -63,7 +63,7 @@ By spending 1 energy when using an ability that uses the element you are envelop
 **Against:** Parry
 **Execution Time:** Rapid action
 **Cost:** 2 energy
-**Duration:** (1 + C/2) rounds or hits
+**Duration:** (1 + $\frac{\text{Control}}{2}$) rounds or hits
 **Effect**
 	Exterior of a creature you can touch becomes enhanced with the element you are enveloped in, granting it the matching benevolent status effect for the duration and applying immobilized for 1 round.
 
@@ -73,8 +73,8 @@ By spending 1 energy when using an ability that uses the element you are envelop
 **Execution Time:** Action
 **Cost:** 3 energy
 **Range:** 5 meters
-**Radius:** (2 + C/4) meters
-**Duration:** (2 + C/2) rounds
+**Radius:** (2 + $\frac{\text{Control}}{4}$) meters
+**Duration:** (2 + $\frac{\text{Control}}{2}$) rounds
 **Effect**
 	Infuse an area with the element you are enveloped in, creating an effect depending on the element:
 	*Earth:* The ground starts shifting, waving and spiralling. Make a precision roll against creatures walking into or ending their turn within this area. On success, the creature falls prone.
@@ -88,7 +88,7 @@ By spending 1 energy when using an ability that uses the element you are envelop
 **Execution Time:** Full-turn action
 **Cost:** 4 energy
 **Radius:** 5 meters
-**Duration:** (2 + C/2) rounds
+**Duration:** (2 + $\frac{\text{Control}}{2}$) rounds
 **Effect**
 	You create a large and stationary weather event around you. Any creature who starts or ends their turn within this area are affected by the event without requiring precision rolls unless they have cover from weather. This technique can only be used outside or interiors with sufficient space.
 	*Earth:* Sandstorm. Creatures within this area are considered to have quarter cover.
@@ -96,14 +96,14 @@ By spending 1 energy when using an ability that uses the element you are envelop
 	*Fire:* Firestorm. Affected creatures are burning for 1 hit.
 	*Water:* Rain. Affected creatures are soaked for 1 round.
 	*Nature:* Pollen storm. Affected creatures are diseased for 1 hit.
-	Alternatively, you can choose to perform a wider and longer version of this technique. This costs double energy and requires 1 hour of uninterrupted casting. In this case, this weather event lasts for (2 + C/2) hours and affects a 50 meter radius area.
+	Alternatively, you can choose to perform a wider and longer version of this technique. This costs double energy and requires 1 hour of uninterrupted casting. In this case, this weather event lasts for (1 + $\frac{\text{Control}}{2}$) hours and affects a 50 meter radius area.
 
 ### Elemental Weapon
 **Category:** Offense
 **Against:** Parry
 **Execution Time:** Rapid action
 **Cost:** 2 energy
-**Duration:** (1 + C/2) rounds
+**Duration:** (1 + $\frac{\text{Control}}{2}$) rounds
 **Effect**
 	Enchant a weapon you can touch with the element you are enveloped in. 
 	As part of a single-target damaging weapon attack, this weapon's wielder can consume this enchantment to apply the matching malignant status effect for 1 round or 1 hit. 
@@ -113,7 +113,7 @@ By spending 1 energy when using an ability that uses the element you are envelop
 **Against:** Constitution
 **Execution Time:** Full-turn action 
 **Cost:** 2 energy
-**Duration:** (1 + C/3) rounds
+**Duration:** (1 + $\frac{\text{Control}}{3}$) rounds
 **Effect**
 	You can move up to your movement speed. As you move, you leave a trail of fire behind the squares you pass through. This trail stays alight for the duration, and it deals 10 magical damage whenever a creature steps into a burning square. Potency bonus to this technique's damage is halved.
 	If you are enveloped in fire element, this technique additionally affects squares adjacent to you when you finish your movement.
@@ -124,7 +124,7 @@ By spending 1 energy when using an ability that uses the element you are envelop
 **Execution Time:** Action
 **Cost:** 2 energy
 **Range:** 5 meters
-**Duration:** (1 + C/3) hits
+**Duration:** (1 + $\frac{\text{Control}}{3}$) hits
 **Effect**
 	(Projectile)
 	Shoot two shards of ice at the target creature. Each shard deals 5 magical damage. Potency bonus to this technique's damage is halved.
@@ -135,8 +135,8 @@ By spending 1 energy when using an ability that uses the element you are envelop
 **Category:** Utility
 **Execution Time:** Full-turn action
 **Cost:** 4 energy
-**Radius:** (3 + P/2) meters
-**Duration:** (2 + C/2) hours
+**Radius:** (3 + $\frac{\text{Potency}}{2}$) meters
+**Duration:** (2 + $\frac{\text{Control}}{2}$) hours
 **Effect**
 	You can vaguely guide the natural features of the geography around you to change shape. After half of this technique's duration has passed, the geography starts slowly returning to its original shape. While performing this technique, you can choose to spend double the energy cost instead. In this case the technique requires 8 hours of uninterrupted casting but its effects stay permanent.
 	If you are enveloped in earth element, this technique's radius increases by 1 meters and it costs only 2 hours of uninterrupted casting for permanency.
@@ -145,7 +145,7 @@ By spending 1 energy when using an ability that uses the element you are envelop
 **Category:**  Offense
 **Execution Time:** Action
 **Cost:** 2 energy
-**Duration:** (2 + C/2) rounds
+**Duration:** (2 + $\frac{\text{Control}}{2}$) rounds
 **Effect**
 	Your skin becomes spiky and thorny for the duration. Whenever you are hit with a melee attack while these thorns are active, deal 5 physical damage to the attacker without requiring precision rolls. 
 	If you are enveloped in metal element, this ability deals armor-ignoring damage instead.
@@ -159,7 +159,7 @@ By spending 1 energy when using an ability that uses the element you are envelop
 **Effect**
 	Grow a stationary and autonomous plant, which shoots needles to your foes within radius.
 	A sprout summoned by this technique shares your level, and attack the creature hostile to you closest to them.
-	Sprouts you create do not count towards your summon limit, and you can have up to (1 + P/4) sprouts at any time.
+	Sprouts you create do not count towards your summon limit, and you can have up to (1 + $\frac{\text{Potency}}{4}$) sprouts at any time.
 	If you are enveloped in nature element, your sprout is summoned two levels higher and has 20 health instead of 10.
 
 
@@ -175,15 +175,15 @@ By spending 1 energy when using an ability that uses the element you are envelop
 <td colspan="3"><b>Movement:</b> immobile (0 meters)</td>
 </tr>
 <tr style="border-bottom: dashed 2px">
-<td><b>Potency:</b> level/2</td> 
-<td><b>Control:</b> level/2</td> 
-<td colspan="2"><b>Precision Roll:</b> d10 + level/2</td> 
+<td><b>Potency:</b> $\frac{\text{Level}}{2}$</td> 
+<td><b>Control:</b> $\frac{\text{Level}}{2}$</td> 
+<td colspan="2"><b>Precision Roll:</b> d10 + $\frac{\text{Level}}{2}$</td> 
 </tr>
 <tr>
-<td><b>Parry:</b> 5 + level/2</td>  
-<td><b>Warding:</b> 5 + level/2</td>  
-<td><b>Constitution:</b> 5 + level/2</td> 
-<td><b>Evasion:</b> 4 + level/2</td>  
+<td><b>Parry:</b> 5 + $\frac{\text{Level}}{2}$</td>  
+<td><b>Warding:</b> 5 + $\frac{\text{Level}}{2}$</td>  
+<td><b>Constitution:</b> 5 + $\frac{\text{Level}}{2}$</td> 
+<td><b>Evasion:</b> 4 + $\frac{\text{Level}}{2}$</td>  
 </tr>
 <tr style="border-bottom: solid 2px">  
 <td colspan="1"><b>Physical Armor:</b> 0</td>
@@ -199,7 +199,7 @@ Immune to debilitating status effects.
 <td colspan="4"><i>Shoot</i> - Action, basic weapon attack, projectile
 Range: 5 meters.
 This attack's precision roll is made against Constitution. 
-Applies (2 + C/2) hits of bleeding. 
+Applies (2 + $\frac{\text{Control}}{2}$) hits of bleeding. 
 </td>
 </tr>
 </table>

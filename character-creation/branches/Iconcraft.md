@@ -41,14 +41,14 @@ Rituals of icon magic are techniques with two special properties:
 **Execution Time:** Rapid action
 **Cost:** 2 energy
 **Effect**
-	You can use this technique if you are currently performing a ritual. This ritual's radius is doubled, but lasts only for (1 + C/2) rounds.
+	You can use this technique if you are currently performing a ritual. This ritual's radius is doubled, but lasts only for (1 + $\frac{\text{Control}}{2}$) rounds.
 
 ### Manifest
 **Category:** Offense
 **Execution Time:** Full-turn action
 **Cost:** 4 energy
-**Radius:** (3 + C/3) meters
-**Duration:** (1 + C/6) rounds
+**Radius:** (3 + $\frac{\text{Control}}{3}$) meters
+**Duration:** (1 + $\frac{\text{Control}}{6}$) rounds
 **Effect**
 	This technique does not require precision rolls.
 	Summon a shadow of your icon on your current location for the duration. Creatures starting their turns within the radius take 10 magical damage, fall prone and receive immobilized for 1 round. 
@@ -58,17 +58,17 @@ Rituals of icon magic are techniques with two special properties:
 **Category:** Offense
 **Execution Time:** Full-turn action
 **Cost:** 6 energy
-**Radius:** (2 + C/4) meters
+**Radius:** (2 + $\frac{\text{Control}}{4}$) meters
 **Duration:** 1 hour
 **Effect**
 	This ritual does not require precision rolls.
-	Your icon strengthens the creatures within the area, granting their weapon attacks (3 + P/2) bonus damage. 
+	Your icon strengthens the creatures within the area, granting their weapon attacks (3 + $\frac{\text{Potency}}{2}$) bonus damage. 
 
 ### Ritual of Catalysis
 **Category:** Offense
 **Execution Time:** Full-turn action
 **Cost:** 6 energy
-**Radius:** (2 + C/4) meters
+**Radius:** (2 + $\frac{\text{Control}}{4}$) meters
 **Duration:** 1 hour
 **Effect**
 	This ritual does not require precision rolls.
@@ -79,16 +79,16 @@ Rituals of icon magic are techniques with two special properties:
 **Against:** Constitution
 **Execution Time:** Full-turn action
 **Cost:** 6 energy
-**Radius:** (2 + C/4) meters
+**Radius:** (2 + $\frac{\text{Control}}{4}$) meters
 **Duration:** 1 hour
 **Effect**
-	Your icon manifests an area of banishment. Make a precision roll against any creature who end their turn within this area. If this roll succeeds, that creature is pushed (1 + P/4) meters away from the center of this area. 
+	Your icon manifests an area of banishment. Make a precision roll against any creature who end their turn within this area. If this roll succeeds, that creature is pushed (1 + $\frac{\text{Potency}}{4}$) meters away from the center of this area. 
 
 ### Ritual of Shrouding
 **Category:** Defense
 **Execution Time:** Full-turn action
 **Cost:** 6 energy
-**Radius:** (2 + C/4) meters
+**Radius:** (2 + $\frac{\text{Control}}{4}$) meters
 **Duration:** 1 hour
 **Effect**
 	This ritual does not require precision rolls.
@@ -102,7 +102,7 @@ Rituals of icon magic are techniques with two special properties:
 **Category:** Utility
 **Execution Time:** Full-turn action
 **Cost:** 6 energy
-**Radius:** (2 + C/4) meters
+**Radius:** (2 + $\frac{\text{Control}}{4}$) meters
 **Duration:** 1 hour
 **Effect**
 	A soundproof barrier encompassing the area is created by your icon's power. Sounds from outside cannot be heard within the radius, and sounds from within cannot be heard outside.
@@ -112,7 +112,7 @@ Rituals of icon magic are techniques with two special properties:
 **Against:** Constitution
 **Execution Time:** Full-turn action
 **Cost:** 6 energy
-**Radius:** (2 + C/4) meters
+**Radius:** (2 + $\frac{\text{Control}}{4}$) meters
 **Duration:** 1 hour
 **Effect**
 	A semi-transparent fog falls upon the area around your totem, weighing down creatures within radius. Make a precision roll against any creature starting or ending their turn within this area. If this roll succeeds, the creature receives slowed and weakened defenses for 1 round. 
@@ -121,7 +121,7 @@ Rituals of icon magic are techniques with two special properties:
 **Category:** Defense
 **Execution Time:** Full-turn action
 **Cost:** 6 energy
-**Radius:** (2 + C/4) meters
+**Radius:** (2 + $\frac{\text{Control}}{4}$) meters
 **Duration:** 1 hour
 **Effect**
 	This ritual does not require precision rolls.

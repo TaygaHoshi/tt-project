@@ -17,7 +17,7 @@ Many professions require extensive training with weapons and armor: professional
 Your base health is 80.
 
 ### Critical Training
-If you roll an unmodified 10 on a precision roll of a damaging ability, you deal (5 + P/2) bonus damage with that ability if it hits. This can happen multiple times per round.
+If you roll an unmodified 10 on a precision roll of a damaging ability, you deal (5 + $\frac{\text{Potency}}{2}$) bonus damage with that ability if it hits. This can happen multiple times per round.
 
 Additionally, you can choose to activate this ability as part of a basic weapon attack by spending 3 energy.
 
@@ -96,7 +96,7 @@ Instead of dealing bonus damage with *critical training*, you can choose to appl
 **Against:** Constitution
 **Execution Time:** Special
 **Cost:** 2 energy
-**Duration:** (1 + C/3) rounds
+**Duration:** (1 + $\frac{\text{Control}}{3}$) rounds
 **Effect**
 	You can choose to activate this technique when you attempt a damaging basic weapon attack.
 	This attack also applies slowed for the duration.
@@ -108,13 +108,13 @@ Instead of dealing bonus damage with *critical training*, you can choose to appl
 **Effect**
 	You can choose to activate this technique as part of a damaging basic weapon attack.
 	If it is a melee attack, its range is increased by 1 meter.
-	If it is a ranged attack, its range is increased by (2 + C/2) meters.
+	If it is a ranged attack, its range is increased by (2 + $\frac{\text{Control}}{2}$) meters.
 
 ### Stability
 **Category:** Defense
 **Execution Time:** Rapid action
 **Cost:** 2 energy
-**Duration:** (1 + C/2) rounds
+**Duration:** (1 + $\frac{\text{Control}}{2}$) rounds
 **Effect**
 	For the duration of this technique, you gain 5 temporary health and surefooted.
 
@@ -126,5 +126,5 @@ Instead of dealing bonus damage with *critical training*, you can choose to appl
 **Effect**
 	You can choose to activate this technique when you take the *charge* common action.
 	At the end of this charge, you tackle your target instead of making a weapon attack. 
-	You can keep pushing your target for up to (2 + P/4) meters without changing direction. 
+	You can keep pushing your target for up to (2 + $\frac{\text{Potency}}{4}$) meters without changing direction. 
 	When you stop pushing, the creature falls prone and takes 15 physical damage.

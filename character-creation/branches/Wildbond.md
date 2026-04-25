@@ -25,13 +25,13 @@ Pets can take a variety of forms, but they fall into the four main categories be
 <tr style="border-bottom: dashed 2px">
 <td><b>Potency:</b> inherited</td> 
 <td><b>Control:</b> inherited</td> 
-<td colspan="2"><b>Precision Roll:</b> d10 + level/2</td> 
+<td colspan="2"><b>Precision Roll:</b> d10 + $\frac{\text{Level}}{2}$</td> 
 </tr>
 <tr>
-<td><b>Parry:</b> 4 + level/2</td>  
-<td><b>Warding:</b> 4 + level/2</td>  
-<td><b>Constitution:</b> 4 + level/2</td>  
-<td><b>Evasion:</b> 5 + level/2</td>  
+<td><b>Parry:</b> 4 + $\frac{\text{Level}}{2}$ </td>  
+<td><b>Warding:</b> 4 + $\frac{\text{Level}}{2}$ </td>  
+<td><b>Constitution:</b> 4 + $\frac{\text{Level}}{2}$ </td>  
+<td><b>Evasion:</b> 5 + $\frac{\text{Level}}{2}$ </td>  
 </tr>
 <tr style="border-bottom: solid 2px">  
 <td colspan="1"><b>Physical Armor:</b> 0</td>
@@ -57,13 +57,13 @@ Deals 15 physical or magical damage. Potency bonus to this attack's damage is ha
 <tr style="border-bottom: dashed 2px">
 <td><b>Potency:</b> inherited</td> 
 <td><b>Control:</b> inherited</td> 
-<td colspan="2"><b>Precision Roll:</b> d10 + level/2</td> 
+<td colspan="2"><b>Precision Roll:</b> d10 + $\frac{\text{Level}}{2}$</td> 
 </tr>
 <tr>
-<td><b>Parry:</b> 4 + level/2</td>  
-<td><b>Warding:</b> 4 + level/2</td>  
-<td><b>Constitution:</b> 5 + level/2</td>  
-<td><b>Evasion:</b> 4 + level/2</td>  
+<td><b>Parry:</b> 4 + $\frac{\text{Level}}{2}$ </td>  
+<td><b>Warding:</b> 4 + $\frac{\text{Level}}{2}$</td>  
+<td><b>Constitution:</b> 5 +  $\frac{\text{Level}}{2}$</td>  
+<td><b>Evasion:</b> 4 + $\frac{\text{Level}}{2}$ </td>  
 </tr>
 <tr style="border-bottom: solid 2px">  
 <td colspan="1"><b>Physical Armor:</b> 5</td>
@@ -94,13 +94,13 @@ Instead of attacking, your pet can gain 1 stack of protected for 1 round.
 <tr style="border-bottom: dashed 2px">
 <td><b>Potency:</b> inherited</td> 
 <td><b>Control:</b> inherited</td> 
-<td colspan="2"><b>Precision Roll:</b> d10 + level/2</td> 
+<td colspan="2"><b>Precision Roll:</b> d10 + $\frac{\text{Level}}{2}$</td> 
 </tr>
 <tr>
-<td><b>Parry:</b> 4 + level/2</td>  
-<td><b>Warding:</b> 4 + level/2</td>  
-<td><b>Constitution:</b> 4 + level/2</td>  
-<td><b>Evasion:</b> 4 + level/2</td>  
+<td><b>Parry:</b> 4 + $\frac{\text{Level}}{2}$ </td>  
+<td><b>Warding:</b> 4 + $\frac{\text{Level}}{2}$ </td>  
+<td><b>Constitution:</b> 4 + $\frac{\text{Level}}{2}$ </td>  
+<td><b>Evasion:</b> 4 + $\frac{\text{Level}}{2}$ </td>  
 </tr>
 <tr style="border-bottom: solid 2px">  
 <td colspan="1"><b>Physical Armor:</b> 0</td>
@@ -127,13 +127,13 @@ Deals 10 physical or magical damage. Potency bonus to this attack's damage is ha
 <tr style="border-bottom: dashed 2px">
 <td><b>Potency:</b> inherited</td> 
 <td><b>Control:</b> inherited</td> 
-<td colspan="2"><b>Precision Roll:</b> d10 + level/2</td> 
+<td colspan="2"><b>Precision Roll:</b> d10 + $\frac{\text{Level}}{2}$</td> 
 </tr>
 <tr>
-<td><b>Parry:</b> 4 + level/2</td>  
-<td><b>Warding:</b> 4 + level/2</td>  
-<td><b>Constitution:</b> 4 + level/2</td>  
-<td><b>Evasion:</b> 6 + level/2</td>  
+<td><b>Parry:</b> 4 + $\frac{\text{Level}}{2}$ </td>  
+<td><b>Warding:</b> 4 + $\frac{\text{Level}}{2}$ </td>  
+<td><b>Constitution:</b> 4 + $\frac{\text{Level}}{2}$ </td>  
+<td><b>Evasion:</b> 6 + $\frac{\text{Level}}{2}$ </td>  
 </tr>
 <tr style="border-bottom: solid 2px">  
 <td colspan="1"><b>Physical Armor:</b> 0</td>
@@ -153,7 +153,7 @@ Deals 5 armor-ignoring damage. Potency bonus to this attack's damage is halved.
 </table>
 
 ### Lick Wounds
-As a rapid action, you can spend up to (1 + P/2) energy on this ability, commanding your pet to heal itself.
+As a rapid action, you can spend up to (1 + $\frac{\text{Potency}}{2}$) energy on this ability, commanding your pet to heal itself.
 
 During its next turn, your pet does not attack and heals for (2 + 1d4) health for every point of energy spent for this ability. 
 
@@ -173,7 +173,7 @@ During its next turn, your pet does not attack and heals for (2 + 1d4) health fo
 **Execution Time:** Rapid action
 **Cost:** 2 energy
 **Range:** 5 meters
-**Duration:** (1 + C/3) rounds
+**Duration:** (1 + $\frac{\text{Control}}{3}$) rounds
 **Effect**
 	Your pet does not attack. Instead, it tries to distract the target. A distracted creature is considered flanked for the duration.
 
@@ -181,7 +181,7 @@ During its next turn, your pet does not attack and heals for (2 + 1d4) health fo
 **Category:** Utility
 **Execution Time:** Action
 **Cost:** Special
-**Duration:** (30 - 2 x C) minutes
+**Duration:** (30 - 2 x $\text{Control}$) minutes
 **Effect**
 	Your pet helps you or another creature search or find an item of a certain description by using its sense of smell, sight, hearing or touch. Your pet assists the search for the duration. For every two points of energy spent on this technique, the relevant skill roll gains a +1 bonus.
 
@@ -191,7 +191,7 @@ During its next turn, your pet does not attack and heals for (2 + 1d4) health fo
 **Execution Time:** Rapid action
 **Cost:** 2 energy
 **Range:** Pet's range
-**Duration:** (1 + C/4) rounds
+**Duration:** (1 + $\frac{\text{Control}}{4}$) rounds
 **Effect**
 	Direct your pet to attack your target's eyes. Your pet's basic weapon attack applies blinded for the duration of this technique.
 
@@ -202,7 +202,7 @@ During its next turn, your pet does not attack and heals for (2 + 1d4) health fo
 **Cost:** 1 energy
 **Range:** 1 meter
 **Effect**
-	Your pet does not attack. Instead, it targets a prone creature of your choosing. Your pet grabs this creature and drags it towards you up to (2 + P/3) meters, dealing 5 armor-ignoring damage per meter dragged.
+	Your pet does not attack. Instead, it targets a prone creature of your choosing. Your pet grabs this creature and drags it towards you up to (2 + $\frac{\text{Potency}}{3}$) meters, dealing 5 armor-ignoring damage per meter dragged.
 
 ### Pounce
 **Category:** Command
@@ -224,9 +224,9 @@ During its next turn, your pet does not attack and heals for (2 + 1d4) health fo
 **Category:** Offense
 **Execution Time:** Action
 **Cost:** 4 energy
-**Duration:** (1 + P/3) rounds
+**Duration:** (1 + $\frac{\text{Potency}}{3}$) rounds
 **Effect**
-	Your pet becomes exposed, but it gains a (5 + P/2) bonus to its damage for the duration. 
+	Your pet becomes exposed, but it gains a (5 + $\frac{\text{Potency}}{2}$) bonus to its damage for the duration. 
 
 ### Sweeping Attack
 **Category:** Command

@@ -18,16 +18,16 @@ You can use this ability as part of a damaging weapon attack by spending 1 energ
 **Category:** Modification
 **Execution Time:** Special
 **Cost:** 2 energy
-**Duration:** (1 + C/3) rounds
+**Duration:** (1 + $\frac{\text{Control}}{3}$) rounds
 **Effect**
 	You can choose to activate this ability as part of the *speak* common action. This technique costs an additional 1 energy per affected creature. This energy cost excludes yourself.
-	For the duration of this technique, allies who can hear you ignore the penalties of attacking from low ground and their attacks from high ground gain (3 + P/2) bonus damage. 
+	For the duration of this technique, allies who can hear you ignore the penalties of attacking from low ground and their attacks from high ground gain (3 + $\frac{\text{Potency}}{2}$) bonus damage. 
 
 ### Adapt to Formation
 **Category:** Modification
 **Execution Time:** Special
 **Cost:** 2 energy
-**Duration:** (1 + C/4) rounds
+**Duration:** (1 + $\frac{\text{Control}}{4}$) rounds
 **Effect**
 	You can choose to activate this ability as part of the *speak* common action. This technique costs an additional 2 energy per affected creature. This energy cost excludes yourself.
 	Allies who can hear you do not trigger prepared actions with their movement for the duration. 
@@ -36,7 +36,7 @@ You can use this ability as part of a damaging weapon attack by spending 1 energ
 **Category:** Modification
 **Execution Time:** Special
 **Cost:** 2 energy
-**Duration:** (1 + C/3) rounds
+**Duration:** (1 + $\frac{\text{Control}}{3}$) rounds
 **Effect**
 	You can choose to activate this ability as part of the *speak* common action. This technique costs an additional 1 energy per affected creature. This energy cost excludes yourself.
 	Allies who can hear you ignore movement penalties from rough terrain for the duration of this technique. 
@@ -55,7 +55,7 @@ You can use this ability as part of a damaging weapon attack by spending 1 energ
 **Execution Time:** Action
 **Cost:** 3 energy
 **Range:** 5 meters
-**Duration:** (2 + C/4) rounds
+**Duration:** (2 + $\frac{\text{Control}}{4}$) rounds
 **Effect**
 	Study your target, applying exposed and cracked armor for the duration of this technique.  
 
@@ -65,7 +65,7 @@ You can use this ability as part of a damaging weapon attack by spending 1 energ
 **Cost:** 2 energy
 **Effect**
 	You can choose to activate this technique when you take any full-turn action or after spending your movement against *unsteady aiming*.
-	You can move up to (2 + C/4) meters before taking that action.
+	You can move up to (2 + $\frac{\text{Control}}{4}$) meters before taking that action.
 
 ### Inspect
 **Category:** Utility
@@ -84,7 +84,7 @@ You can use this ability as part of a damaging weapon attack by spending 1 energ
 **Category:** Utility
 **Execution Time:** Full-turn action
 **Cost:** Special
-**Duration:** (1 + C/2) rounds
+**Duration:** (1 + $\frac{\text{Control}}{2}$) rounds
 **Effect**
 	This technique costs 4 energy per affected creature. 
 	Unconscious allies within hearing distance regain their consciousness and gain temporary health until they are at 10 health for the duration.

@@ -55,7 +55,7 @@ You can contact me through GitHub or Discord (*taygahoshi*). Sigil of Uchma is d
 
 ---
 ## Licence
-Game content licenced under CC BY-NC-SA 4.0. Website source code is available under GPL-3.0-or-later. Please see the [GitHub repository](https://github.com/TaygaHoshi/tt-project?tab=readme-ov-file#sigil-of-uchma) for more information.
+Game content licenced under CC BY-NC-SA 4.0. Website source code is available under GPL-3.0. Please see the [GitHub repository](https://github.com/TaygaHoshi/tt-project?tab=readme-ov-file#sigil-of-uchma) for more information.
 
 This site bundles Liberation Serif (SIL OFL 1.1).
 Theme: Hugo Relearn (MIT).

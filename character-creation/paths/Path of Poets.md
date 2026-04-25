@@ -24,7 +24,7 @@ You are still able to use your minor action normally.
 ### Magical Poetry
 You can upkeep your magical songs and poems to affect allies or foes. Songs and poems can be started with a *speak* common action used with an action or a rapid action and you can keep them up freely as long as you keep speaking each round in your turns.
 
-Some songs and poems require precision rolls. In this case, you only need to roll once per creature unless they were unable to hear your performance at any point. In this case, you need to roll for that creature again. 
+Some songs and poems require precision rolls. In this case, you only need to roll once per creature.
 
 You can only have one song or poem active at any time and you are unable to speak while singing. If your target gets out of range or you become unable to sing in any way, your upkeep ends. You can also end your song or poem freely at any time.
 
@@ -78,7 +78,7 @@ By spending 1 energy at the start of your turn, you can use the *speak* common a
 **Category:** Offense
 **Execution Time:** Special
 **Cost:** 4 energy
-**Duration:** Up to (2 + C/4) rounds
+**Duration:** Up to (2 + $\frac{\text{Control}}{4}$) rounds
 **Effect**
 	Your poem is paced inconsistently. When you start or upkeep this poem, affected hostile creatures are applied disoriented for 1 round. 
 
@@ -86,7 +86,7 @@ By spending 1 energy at the start of your turn, you can use the *speak* common a
 **Category:** Offense
 **Execution Time:** Special
 **Cost:** 4 energy
-**Duration:** Up to (3 + C/4) rounds
+**Duration:** Up to (3 + $\frac{\text{Control}}{4}$) rounds
 **Effect**
 	Your poem induces might and courage within allies, increasing their potencies by 2. 
 
@@ -94,7 +94,7 @@ By spending 1 energy at the start of your turn, you can use the *speak* common a
 **Category:** Defense
 **Execution Time:** Special
 **Cost:** 4 energy
-**Duration:** Up to (3 + C/4) rounds
+**Duration:** Up to (3 + $\frac{\text{Control}}{4}$) rounds
 **Effect**
 	Allies hearing you are unaffected by immobilized and slowed status effects.
 
@@ -102,7 +102,7 @@ By spending 1 energy at the start of your turn, you can use the *speak* common a
 **Category:** Offense
 **Execution Time:** Special
 **Cost:** 4 energy
-**Duration:** Up to (2 + C/4) rounds
+**Duration:** Up to (2 + $\frac{\text{Control}}{4}$) rounds
 **Effect**
 	You start singing an encouraging poem. When you start or upkeep this poem, apply inspired to allies who can hear you for 1 round.
 
@@ -124,7 +124,7 @@ By spending 1 energy at the start of your turn, you can use the *speak* common a
 **Against:** Constitution
 **Execution Time:** Special
 **Cost:** 4 energy
-**Duration:** Up to (2 + C/4) rounds
+**Duration:** Up to (2 + $\frac{\text{Control}}{4}$) rounds
 **Effect**
 	Affected hostile creatures are immune to inspired, and they can't apply any helpful status effects to themselves. 
 
@@ -133,6 +133,6 @@ By spending 1 energy at the start of your turn, you can use the *speak* common a
 **Against:** Warding
 **Execution Time:** Special
 **Cost:** 4 energy
-**Duration:** Up to (3 + C/4) rounds
+**Duration:** Up to (3 + $\frac{\text{Control}}{4}$) rounds
 **Effect**
 	Whenever an affected hostile creature misses a precision roll, they take 5 magical damage.
