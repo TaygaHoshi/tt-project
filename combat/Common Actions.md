@@ -22,7 +22,7 @@ weight = 1
 	Any melee weapon in main hand.
 **Explanation:**
 	Ignores weapon precision.
-	You gain a (3 + C/4) bonus to your movement speed, and you charge your target using your movement speed. Then, you perform a basic weapon attack.
+	You gain a (3 + $\frac{\text{Control}}{4}$) bonus to your movement speed, and you charge your target using your movement speed. Then, you perform a basic weapon attack.
 	After charging, you become fatigued for 1 round.
 
 ## Disarm
@@ -68,7 +68,7 @@ weight = 1
 	Any melee weapon in main hand.
 **Explanation:**
 	This ability's precision roll is made against Constitution.
-	Perform a basic weapon attack with your main hand weapon. This attack deals half damage after armor, and applies bleeding for (2 + C/4) hits.
+	Perform a basic weapon attack with your main hand weapon. This attack deals half damage after armor, and applies bleeding for (2 + $\frac{\text{Control}}{4}$) rounds.
 	This action is not a basic weapon attack.
 
 ## Swap Weapons
@@ -88,7 +88,7 @@ weight = 1
 **Explanation:**
 	(Projectile)
 	Ignores weapon precision.
-	You throw your weapon to a target or to a square within (5 + C/2) meters. If you have additional ammo of the same weapon or item, you can wield one as part of this action. 
+	You throw your weapon to a target or to a square within (5 + $\frac{\text{Control}}{2}$) meters. If you have additional ammo of the same weapon or item, you can wield one as part of this action. 
 	This action is considered a basic weapon attack.
 
 ## Retrieve Weapon

@@ -143,10 +143,12 @@ A creature can only take one turn per round, even if it would appear again later
 
 
 ### Ability Durations
-+ Effects of abilities with a duration of one or more "hits" trigger and end during the recipient's turns: 
-	+ If a creature is bleeding for one hit, they will take bleeding damage at the start of their next turn and the bleeding ends. 
-	+ If the bleeding has a duration of two or more hits, then one hit will be spent when the bleeding damage happens.
-+ Effects of abilities with a duration of one or more "rounds" end at the start of the turns of their owners.
++ All ability durations are measured in rounds.
++ At the start of a creature's turn, damaging effects and regeneration trigger:
+	+ If a creature is bleeding for 1 round, it takes bleeding damage at the start of its turn, then the bleeding ends at the end of that same turn.
+	+ If the bleeding has a duration of 2 or more rounds, it triggers at the start of the turn as normal, then the duration decrements by one at the end of that turn.
++ At the end of a creature's turn, all active effect durations decrement by one. Effects that reach zero rounds end.
++ Durations of abilities that does not target creatures, such as *elemental ground*, decrement at the end of the user's turns starting from their next turn.
 + If multiple effects would end at the same time, they end in the order of application.
 
 ### Adjacency

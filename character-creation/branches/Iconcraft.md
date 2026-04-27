@@ -72,7 +72,7 @@ Rituals of icon magic are techniques with two special properties:
 **Duration:** 1 hour
 **Effect**
 	This ritual does not require precision rolls.
-	Your icon acts as a catalyzer for curses. Whenever a creature within this area is applied a harmful status effect, its duration is increased by 1 hit.
+	Your icon acts as a catalyzer for curses. Whenever a creature within this area is applied a harmful status effect, its duration is increased by 1 round.
 
 ### Ritual of Repulsion
 **Category:** Defense

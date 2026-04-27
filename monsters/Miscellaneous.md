@@ -77,7 +77,7 @@ In addition, its base armor is ineffective against burning.
 <tr>
 <td colspan="4"><i>Slash</i> - Action, basic weapon attack
 Range: 2 meters.
-Deals 20 physical damage and applies bleeding (6 damage) for 1 hit.
+Deals 20 physical damage and applies bleeding (6 damage) for 1 round.
 </td>
 </tr>
 <tr>
@@ -85,7 +85,7 @@ Deals 20 physical damage and applies bleeding (6 damage) for 1 hit.
 This attack's precision roll is made against Evasion.
 Range: 5 meters.
 Radius: 1 meter.
-Applies bleeding (6 damage) for 1 hit to all creatures within radius.
+Applies bleeding (6 damage) for 1 round to all creatures within radius.
 </td>
 </tr>
 <tr>

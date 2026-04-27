@@ -312,7 +312,7 @@ This cultist can attack with slash twice and gains inspired at the start of its 
 <tr>
 <td colspan="4"><i>Poison of Wounds</i> - Rapid action, technique
 This technique's precision roll is made against Constitution.
-This cultist's next slash within this round applies 2 hits of bleeding (5 damage) if it hits. 
+This cultist's next slash within this round applies 2 rounds of bleeding (5 damage) if it hits. 
 </td>
 </tr>
 <tr>
@@ -365,13 +365,13 @@ Deals 25 magical damage.
 <td colspan="4"><i>Scarring Flames</i> - Rapid action, technique
 This technique's precision roll is made against Constitution.
 Range: 5 meters.
-Applies bleeding (7 damage) for 1 hit. If the target is burning, the duration is increased to 2 hits.
+Applies bleeding (7 damage) for 1 round. If the target is burning, the duration is increased to 2 rounds.
 </td>
 </tr>
 <tr>
 <td colspan="4"><i>Blazing Opportunity</i> - Prepared action, technique
 This attack's precision roll is made against Evasion.
-This witch attacks the next foe who moves into, within or out of a 2 meter radius around it, applying burning (12 damage) for 1 hit.
+This witch attacks the next foe who moves into, within or out of a 2 meter radius around it, applying burning (12 damage) for 1 round.
 </tr>
 </table>
 

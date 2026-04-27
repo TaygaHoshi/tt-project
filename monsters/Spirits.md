@@ -37,7 +37,7 @@ If this spirit is soaked or frostbitten, it is also slowed.
 <tr>
 <td colspan="4"><i>Burning Claw</i> - Action, basic weapon attack
 Deals 10 physical damage.
-Applies burning (12 damage) for 2 hits.
+Applies burning (12 damage) for 2 rounds.
 </td>
 </tr>
 <tr>
@@ -195,7 +195,7 @@ If this spirit is soaked or frostbitten, it is also slowed.
 <tr>
 <td colspan="4"><i>Burning Claw</i> - Action, basic weapon attack
 Deals 10 physical damage.
-Applies burning (14 damage) for 2 hits.
+Applies burning (14 damage) for 2 rounds.
 </td>
 </tr>
 <tr>
@@ -369,7 +369,7 @@ If this spirit is soaked or frostbitten, it is also slowed.
 <tr>
 <td colspan="4"><i>Burning Claw</i> - Action, basic weapon attack
 Deals 15 physical damage.
-Applies burning (15 damage) for 3 hits.
+Applies burning (15 damage) for 3 rounds.
 </td>
 </tr>
 <tr>
@@ -382,7 +382,7 @@ Creates a burning area around this spirit, dealing 15 magical damage to all crea
 <tr>
 <td colspan="4"><i>Inferno</i> - Full-turn action, technique, projectile
 Range: 5 meters.
-This spirit sends three fireballs to its target, each dealing 10 magical damage. If all three fireballs hit, the target starts burning (15 damage) for 1 hit.
+This spirit sends three fireballs to its target, each dealing 10 magical damage. If all three fireballs hit, the target starts burning (15 damage) for 1 round.
 </td>
 </tr>
 <tr>

@@ -27,7 +27,7 @@ During your turns, you can swap weapons without a rapid action by spending 1 ene
 ### Keen Rejuvenation
 Your *critical training* triggers on an unmodified roll of 9 or above, and you gain 1 energy if you successfully hit with your ability.
 
-Instead of dealing bonus damage with *critical training*, you can choose to gain regeneration for 2 hits.
+Instead of dealing bonus damage with *critical training*, you can choose to gain regeneration for 2 rounds.
 
 ### Armor Expertise
 When you gain temporary armor of one type, you also gain an equal amount of the other type for the same duration.
@@ -89,7 +89,7 @@ Instead of dealing bonus damage with *critical training*, you can choose to appl
 **Cost:** 2 energy
 **Effect**
 	You can choose to activate this technique when you take the *sever* common action.
-	The bleeding is applied with a duration of 1 hit if this attack misses.
+	The bleeding is applied with a duration of 1 round if this attack misses.
 
 ### Hamstring
 **Category:** Modification

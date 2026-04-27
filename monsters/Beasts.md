@@ -36,7 +36,7 @@ Deals 20 physical damage.
 <tr>
 <td colspan="4"><i>Bite</i> - Action, technique
 This attack's precision roll is made against Constitution.
-Applies bleeding (5 damage) for 2 hits.
+Applies bleeding (5 damage) for 2 rounds. 
 </td>
 </tr>
 <tr>
@@ -134,7 +134,7 @@ This wolf leaps at its target, dealing 10 physical damage and making them fall p
 <tr>
 <td colspan="4"><i>Ferocious Bite</i> - Rapid action, weapon attack
 This attack's precision roll is made against Constitution.
-Applies bleeding (7 damage) for 2 hits if the target is prone.
+Applies bleeding (7 damage) for 2 rounds if the target is prone.
 </td>
 </tr>
 <tr>
@@ -287,7 +287,7 @@ Deals 25 physical damage to the target and 15 physical damage to a creature adja
 <td colspan="4"><i>Breath</i> - Rapid action, technique
 This attack's precision rolls are made against Evasion.
 The wyrm breathes out a blast to 15 squares in a conic shape in front of it.
-Deals 20 magical damage and applies 2 hits of burning (15 dpr).
+Deals 20 magical damage and applies 2 rounds of burning (15 dpr).
 This technique can only be used after the wyrm catches its breath.
 </td>
 </tr>
@@ -355,7 +355,7 @@ Triggers the passive ability Poisonous.
 This attack's precision rolls are made against Evasion.
 Range: 10 meters.
 Radius: 1 meters.
-The worm conjures up and throws several jagged daggers out of stone, dealing 10 physical damage and applying bleeding (10 damage) for 3 hits.
+The worm conjures up and throws several jagged daggers out of stone, dealing 10 physical damage and applying bleeding (10 damage) for 3 rounds.
 </td>
 </tr>
 <tr>

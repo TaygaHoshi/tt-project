@@ -178,7 +178,7 @@ Diseased status effect does not spread to this spiritling.
 <tr>
 <td colspan="4"><i>Strike</i> - Action, basic weapon attack
 This attack's precision roll is made against Constitution. 
-Applies 1 hit of diseased (5 damage).
+Applies 1 round of diseased (5 damage).
 </td>
 </tr>
 </table>

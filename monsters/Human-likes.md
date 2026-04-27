@@ -84,7 +84,7 @@ When this vampire falls below 10 health, this ability is automatically triggered
 <tr>
 <td colspan="4"><i>Severing Strike</i> - Action, basic weapon attack
 This attack's precision roll is made against Parry.
-Deals 15 physical damage and applies bleeding (7 damage) for 2 hits.
+Deals 15 physical damage and applies bleeding (7 damage) for 2 rounds.
 </td>
 </tr>
 <tr>

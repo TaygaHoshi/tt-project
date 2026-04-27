@@ -4,8 +4,6 @@ weight = 2
 +++
 
 ## Debilitating Effects
-Debilitating status effects have durations in terms of rounds or longer. 
-
 ### Blinded
 + Reduces line of sight to 1 meter. 
 + Grants a -5 penalty to precision rolls. 
@@ -36,7 +34,7 @@ Debilitating status effects have durations in terms of rounds or longer.
 
 ### Sickened
 + (1 + $\frac{\text{Potency}}{4}$) penalty to Constitution.
-+ Whenever a creature with sickened receives a harmful status effect, one hit is spent immediately.
++ Whenever a creature with sickened receives a harmful status effect, one round of duration is spent immediately after dealing its damage.
 + Does not stack. If target is already sickened, only the one with higher potency applies.
 
 ### Slowed
@@ -62,34 +60,31 @@ Debilitating status effects have durations in terms of rounds or longer.
 
 ---
 ## Harmful Effects
-Harmful status effects have durations in terms of hits or longer. 
 ### Bleeding
-+ Applies 5 armor-ignoring damage per hit.
++ Applies 5 armor-ignoring damage at the start of the target's turns.
 + Does not stack. If target is already bleeding, only the one with higher damage applies.
 
 ### Burning
-+ Applies 10 physical damage per hit.
++ Applies 10 physical damage at the start of the target's turns.
 + If target is frostbitten or soaked, it is cured and burning doesn't get applied.
 + Does not stack. If target is already burning, only the one with higher damage applies.
 
 ### Diseased
-+ Applies 5 armor-ignoring damage per hit. This status effect does not gain potency bonus to its damage.
-+ At the end of a diseased creature's turn, if that creature is still diseased, all adjacent creatures receive the disease for 1 hit.
++ Applies 5 armor-ignoring damage at the start of the target's turns. This status effect does not gain potency bonus to its damage.
++ At the end of a diseased creature's turn, all adjacent creatures receive the disease for 1 round.
 + Does not stack. If target is already diseased, only the one with higher damage applies.
 
 ### Electrified
-+ Applies 10 magical damage per hit.
++ Applies 10 magical damage at the start of the target's turns.
 + Does not stack. If target is already electrified, only the one with higher damage applies.
 
 ### Frostbitten
-+ Applies 5 armor-ignoring damage per hit.
++ Applies 5 armor-ignoring damage at the start of the target's turns.
 + If target is burning, it is cured and frostbitten doesn't get applied.
 + Does not stack. If target is already frostbitten, only the one with higher damage applies.
 
 ---
 ## Supportive Effects
-Supportive status effects have durations in terms of rounds or longer. 
-
 ### Inspired
 + Once, the creature can choose to spend this status effect to gain one of the following bonuses:
 	+ A +1 bonus to one precision roll
@@ -103,11 +98,11 @@ Supportive status effects have durations in terms of rounds or longer.
 + Does not stack unless all stacks of protected come from the same ability.
 
 ### Predictive Foresight
-+ +1 bonus to the next precision roll.
++ Once, +1 bonus to the next precision roll.
 + Does not stack. If target is already affected by a predictive foresight, only the one with longer duration applies.
 
 ### Protective Foresight
-+ +1 bonus to all resistances for the next precision roll against this creature.
++ Once, +1 bonus to all resistances for the next precision roll against this creature.
 + Does not stack. If target is already affected by a protective foresight, only the one with longer duration applies.
 
 ### Quickened
@@ -116,7 +111,7 @@ Supportive status effects have durations in terms of rounds or longer.
 + Does not stack. If target is already quickened, only the one with higher potency applies.
 
 ### Regeneration
-+ Heals for (2 + $\frac{\text{Potency}}{2}$) per hit.
++ Heals for (2 + $\frac{\text{Potency}}{2}$) at the start of the target's turns.
 + Does not stack. If target is already regenerating, only the one with higher potency applies.
 
 ### Surefooted
@@ -131,12 +126,12 @@ Supportive status effects have durations in terms of rounds or longer.
 
 ### Temporary Magical Armor
 + Protects target against magical damage until it breaks or the duration ends.
-+ One point of temporary magical armor breaks for every point of magical damage reduced by it.
++ One point of temporary magical armor breaks for every point of magical damage prevented by it.
 + Affected by damage before armor.
 + Does not stack. If target already has temporary armor, only the larger one applies.
 
 ### Temporary Physical Armor
 + Protects target against physical damage until it breaks or the duration ends.
-+ One point of temporary physical armor breaks for every point of physical damage reduced by it.
++ One point of temporary physical armor breaks for every point of physical damage prevented by it.
 + Affected by damage before armor.
 + Does not stack. If target already has temporary armor, only the larger one applies.

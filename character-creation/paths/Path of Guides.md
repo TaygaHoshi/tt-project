@@ -26,7 +26,7 @@ As an action, you can temporarily enter the realm of souls for 1 round by spendi
 When you return, you are disoriented for 1 round.
 
 ### Simple Healing
-When you use a technique that affects only one creature, you can spend 1 energy to grant them regeneration for 2 hits. 
+When you use a technique that affects only one creature, you can spend 1 energy to grant them regeneration for 2 rounds. 
 
 ### Banish
 This ability's precision roll is made against Constitution.
