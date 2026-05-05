@@ -8,7 +8,7 @@ The Warwise concern themselves not with the foe in front of them, but the whole 
 ### Battle Overseer
 You can keep the whole battlefield in your mind as a mental image:
 1. You can't be ambushed by non-magical means. You can take the *speak* common action to alert your allies, ending their ambushed status. 
-2. As long as you clearly hear or see a creature once, you can track their location within a 25 meter radius for up to 1 hour from the last time you hear or see it. 
+2. As long as you clearly hear or see a creature once, you can track their location within a 25 meter radius for up to 1 hour from the last time you hear or see it. You are considered to have line of sight to the creatures you are tracking via this ability. 
 
 ### Backup Plan
 You can use this ability as part of a damaging weapon attack by spending 1 energy. If you fail all of the precision rolls of this attack, you can instead use a non-damaging ability in its place. For example, if this damaging weapon attack is an action, you can perform a non-damaging action.
@@ -40,6 +40,16 @@ You can use this ability as part of a damaging weapon attack by spending 1 energ
 **Effect**
 	You can choose to activate this ability as part of the *speak* common action. This technique costs an additional 1 energy per affected creature. This energy cost excludes yourself.
 	Allies who can hear you ignore movement penalties from rough terrain for the duration of this technique. 
+
+### Call Out
+**Category:** Modification
+**Execution Time:** Special
+**Cost:** 2 energy
+**Duration:** (1 + $\frac{\text{Potency}}{4}$) rounds
+**Effect**
+	You can choose to activate this ability as part of the *speak* common action.
+	Tell an ally the location of a creature you can see normally or via *battle overseer*. For the duration, this ally can target that creature as if they have line of sight to it. 
+    The ally receives a -1 penalty to precision rolls against the creature when they can't directly see it.
 
 ### Focused Defense
 **Category:** Defense
@@ -79,6 +89,15 @@ You can use this ability as part of a damaging weapon attack by spending 1 energ
 	2. One resistance
 	3. Current health
 	4. One ability
+
+### Plan Ahead
+**Category:** Utility
+**Execution Time:** 10 minutes
+**Cost:** 3 energy
+**Duration:** 30 minutes
+**Effect**
+	Gain a +1 bonus to skill rolls of your major skills and scouting for 30 minutes. 
+	If you succeed a skill roll for gathering combat intelligence with one of these skills while the bonus is active, you can share your findings from the roll with your allies as part of the *speak* common action. These allies gain 1 stack of protected and predictive foresight for the duration. 
 
 ### Rally
 **Category:** Utility

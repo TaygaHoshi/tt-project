@@ -82,6 +82,16 @@ Some prepared actions may mention "moving into, out of or within an area". In th
 #### Full-turn action
 + A full-turn action takes up your whole turn, meaning you can't move or use any other type of action.
 
+### Targeting and Line of Sight
++ A creature has line of sight to objects and creatures it can directly see.
+	+ Some abilities may grant line of sight to a creature or object that isn't directly visible.
++ Targeting an object or a creature requires line of sight. However, some abilities such as most weapon attacks, area of effect abilities and projectiles will not reach the target if a sufficiently large and durable object such as a wall is in the way. 
++ In addition, some abilities such as the *speak* common action may require hearing:
+	+ Under most circumstances, sounds are clearly hearable up to 15 meters.
+	+ Rocks, deep water, or similar materials block sound. Similarly, some magical effects may block sounds.
+	+ Sounds can pass through up to 1 meter of wood, metal, shallow water, or similar materials.
+	+ Magical remote ears count as hearing.
+
 ### Precision Rolls
 Precision rolls determine whether a weapon attack, a technique or any other ability succeeds against an unwilling target. A precision roll is made against a resistance, such as Parry or Evasion. If the result of this roll exceeds or is equal to the resistance, the roll succeeds and the technique or attack connects. 
 
@@ -173,12 +183,6 @@ A significant difference in elevation affects projectile attacks' precision roll
 + Having other creatures in the way while determining cover counts as half cover. This doesn't increase with the amount of creatures in the way.
 + Cover does not stack, only the highest applicable one is used.
 + If a creature is completely blocked from another's point of view, they are out of line of sight and can't be interacted with targeted attacks and techniques.
-+ Abilities, techniques and attacks which affect an area may require hearing or sight:
-	+ Sounds cannot pass through rocks, deep water, or similar materials.
-	+ Sounds can pass through up to 1 meter of wood, metal, shallow water, or similar materials.
-	+ Cover of any kind doesn't break line of sight.
-	+ Magical remote eyes and ears count as sight and hearing for these effects.
-	+ Some magical effects may break line of sight or block sounds.
 
 ### Falling Prone
 + A creature can go into prone voluntarily if they give up half of their walking speed as part of their movement during their turn.
