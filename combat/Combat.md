@@ -90,7 +90,6 @@ Some prepared actions may mention "moving into, out of or within an area". In th
 	+ Under most circumstances, sounds are clearly hearable up to 15 meters.
 	+ Rocks, deep water, or similar materials block sound. Similarly, some magical effects may block sounds.
 	+ Sounds can pass through up to 1 meter of wood, metal, shallow water, or similar materials.
-	+ Magical remote ears count as hearing.
 
 ### Precision Rolls
 Precision rolls determine whether a weapon attack, a technique or any other ability succeeds against an unwilling target. A precision roll is made against a resistance, such as Parry or Evasion. If the result of this roll exceeds or is equal to the resistance, the roll succeeds and the technique or attack connects. 
