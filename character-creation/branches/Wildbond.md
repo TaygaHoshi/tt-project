@@ -142,7 +142,7 @@ Deals 10 physical or magical damage. Potency bonus to this attack's damage is ha
 </tr>
 <tr>
 <td colspan="4"><i>Scout Affinity</i> - Passive
-Wildbond techniques of utility or modification categories have a +1 to their precision rolls when performed by scout pets.
+Wildbond techniques have a +1 bonus to their precision rolls when performed by scout pets.
 </td>
 </tr>
 <tr>
@@ -155,7 +155,7 @@ Deals 5 armor-ignoring damage. Potency bonus to this attack's damage is halved.
 ### Lick Wounds
 As a rapid action, you can spend up to (1 + $\frac{\text{Potency}}{2}$) energy on this ability, commanding your pet to heal itself.
 
-During its next turn, your pet does not attack and heals for (2 + 1d4) health for every point of energy spent for this ability. 
+During its next turn, your pet does not attack and heals for (1d4 + 2) health for every point of energy spent for this ability. 
 
 ---
 ## Techniques
@@ -203,7 +203,6 @@ During its next turn, your pet does not attack and heals for (2 + 1d4) health fo
 **Range:** 1 meter
 **Effect**
 	Your pet does not attack. Instead, it targets a prone creature of your choosing. Your pet grabs this creature and drags it towards you up to (2 + $\frac{\text{Potency}}{3}$) meters, dealing 5 armor-ignoring damage per meter dragged.
-
 ### Pounce
 **Category:** Command
 **Against:** Parry
@@ -218,7 +217,7 @@ During its next turn, your pet does not attack and heals for (2 + 1d4) health fo
 **Execution Time:** Rapid action
 **Cost:** 2 energy
 **Effect**
-	Your pet takes the charge common action. If your pet is a sharpshooter pet, it is instead quickened for 1 round.
+	Your pet takes the *charge* common action. If your pet is the sharpshooter type, it is instead quickened for 1 round.
 
 ### Savagery
 **Category:** Offense
@@ -226,7 +225,7 @@ During its next turn, your pet does not attack and heals for (2 + 1d4) health fo
 **Cost:** 4 energy
 **Duration:** (1 + $\frac{\text{Potency}}{3}$) rounds
 **Effect**
-	Your pet becomes exposed, but it gains a (5 + $\frac{\text{Potency}}{2}$) bonus to its damage for the duration. 
+	Your pet becomes exposed, but gains a (5 + $\frac{\text{Potency}}{2}$) bonus to its damage for the duration. 
 
 ### Sweeping Attack
 **Category:** Command
@@ -234,4 +233,12 @@ During its next turn, your pet does not attack and heals for (2 + 1d4) health fo
 **Execution Time:** Rapid action
 **Cost:** 3 energy
 **Effect**
-	For this round, your pet's movement speed drops to zero but it attacks two creatures adjacent to it.
+	Your pet does not move. Instead, it attacks two creatures adjacent to it.
+
+### Take Opportunity
+**Category:** Command
+**Against:** Evasion
+**Execution Time:** Rapid action
+**Cost:** 3 energy
+**Effect**
+	Alongside its normal attack, your pet takes the *opportunistic strike* common action. Sharpshooter pets are considered have a range of 1 meter for the purpose of this technique. 
