@@ -106,7 +106,7 @@ weight = 2
 + Does not stack. If target is already affected by a protective foresight, only the one with longer duration applies.
 
 ### Quickened
-+ Movement speed is increased by (2 + $\frac{\text{Potency}}{3}$) meters.
++ Movement speed is increased by (2 + $\frac{\text{Potency}}{4}$) meters.
 + If a quickened creature is also slowed, this status effect is considered before slowed. 
 + Does not stack. If target is already quickened, only the one with higher potency applies.
 
