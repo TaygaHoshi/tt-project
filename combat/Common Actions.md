@@ -11,7 +11,6 @@ weight = 1
 
 ## Self Cure
 **Execution Time:** Full-turn action
-**Cost:** 2 energy
 **Explanation:**
 	Remove a status effect of your choosing from yourself.
 
@@ -22,7 +21,7 @@ weight = 1
 	Any melee weapon in main hand.
 **Explanation:**
 	Ignores weapon precision.
-	You gain a (3 + $\frac{\text{Control}}{4}$) bonus to your movement speed, and you charge your target using your movement speed. Then, you perform a basic weapon attack.
+	You gain a (3 + $\frac{\text{Control}}{4}$) bonus to your movement speed, and you charge your target in a straight unobstructed path using your movement speed. Then, you perform a basic weapon attack.
 	After charging, you become fatigued for 1 round.
 
 ## Disarm
@@ -51,7 +50,7 @@ weight = 1
 **Explanation:**
 	Ignores weapon precision.
 	Attack the next foe who moves into, within or out of this weapon's range.
-	This attack deals half damage after armor.
+	This attack deals half damage after armor. Similarly, any status effects applied by this attack has half duration with a minimum of 1 round.
 
 ## First Aid
 **Execution Time:** Action
