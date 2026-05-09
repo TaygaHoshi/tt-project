@@ -71,7 +71,7 @@ weight = 2
 
 ### Diseased
 + Applies 5 armor-ignoring damage at the start of the target's turns. This status effect does not gain potency bonus to its damage.
-+ At the end of a diseased creature's turn, all adjacent creatures receive the disease for 1 round.
++ At the start of a diseased creature's turn, all adjacent creatures receive the disease for the remaining duration, with a minimum of 1 round.
 + Does not stack. If target is already diseased, only the one with higher damage applies.
 
 ### Electrified
