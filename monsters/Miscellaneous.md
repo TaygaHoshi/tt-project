@@ -24,9 +24,8 @@ title = 'Miscellaneous'
 <td><b>Evasion:</b> 5</td>  
 </tr>
 <tr style="border-bottom: solid 2px">  
-<td colspan="1"><b>Physical Armor:</b> 0</td>
-<td colspan="1"><b>Magical Armor:</b> 0</td>
-<td colspan="2"><b>Weapon:</b> Magical body</td>
+<td colspan="2"><b>Major skills:</b> Magic Sense, Stealth</td> 
+<td colspan="2"><b>Weapon:</b> Unarmed</td>
 </tr>
 <tr>
 <td colspan="4"><i>Small Creature</i> - Passive
@@ -53,8 +52,7 @@ Deals 10 magical damage.
 <td colspan="3"><b>Movement:</b> 3 meters</td>  
 </tr>
 <tr style="border-bottom: dashed 2px">
-<td><b>Potency:</b> 1</td> 
-<td><b>Control:</b> 0</td> 
+<td colspan="2"><b>Major skills:</b> None</td> 
 <td colspan="2"><b>Precision Roll:</b> d10</td> 
 </tr>
 <tr>
@@ -66,7 +64,7 @@ Deals 10 magical damage.
 <tr style="border-bottom: solid 2px">  
 <td colspan="1"><b>Physical Armor:</b> 10</td>
 <td colspan="1"><b>Magical Armor:</b> 5</td>
-<td colspan="2"><b>Weapon:</b> Branches</td>
+<td colspan="2"><b>Weapon:</b> Unarmed</td>
 </tr>
 <tr>
 <td colspan="4"><i>Tree Affinity</i> - Passive
@@ -77,7 +75,8 @@ In addition, its base armor is ineffective against burning.
 <tr>
 <td colspan="4"><i>Slash</i> - Action, basic weapon attack
 Range: 2 meters.
-Deals 20 physical damage and applies bleeding (6 damage) for 1 round.
+Deals 20 physical damage.
+Applies bleeding (6 damage) for 1 round.
 </td>
 </tr>
 <tr>
@@ -107,8 +106,7 @@ This tree gains 10 temporary physical armor for 1 round, and it is immobilized a
 <td colspan="3"><b>Movement:</b> 6 meters</td>  
 </tr>
 <tr style="border-bottom: dashed 2px">
-<td><b>Potency:</b> 0</td> 
-<td><b>Control:</b> 5</td> 
+<td colspan="2"><b>Major skills:</b> Magic Sense</td> 
 <td colspan="2"><b>Precision Roll:</b> d10 + 2</td> 
 </tr>
 <tr>
@@ -120,7 +118,7 @@ This tree gains 10 temporary physical armor for 1 round, and it is immobilized a
 <tr style="border-bottom: solid 2px">  
 <td colspan="1"><b>Physical Armor:</b> 0</td>
 <td colspan="1"><b>Magical Armor:</b> 5</td>
-<td colspan="2"><b>Weapon:</b> Magical body</td>
+<td colspan="2"><b>Weapon:</b> Unarmed</td>
 </tr>
 <tr>
 <td colspan="4"><i>Magic Blast</i> - Action, basic weapon attack, projectile
