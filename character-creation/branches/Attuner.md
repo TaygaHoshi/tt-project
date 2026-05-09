@@ -63,9 +63,9 @@ By spending 1 energy when using an ability that uses the element you are envelop
 **Against:** Parry
 **Execution Time:** Rapid action
 **Cost:** 2 energy
-**Duration:** (1 + $\frac{\text{Control}}{2}$) rounds
+**Duration:** (2 + $\frac{\text{Control}}{2}$) rounds
 **Effect**
-	Exterior of a creature you can touch becomes enhanced with the element you are enveloped in, granting it the matching benevolent status effect for the duration and applying immobilized for 1 round.
+	Exterior of a creature you can touch becomes enhanced with the element you are enveloped in, granting it the matching benevolent status effect for the duration.
 
 ### Elemental Ground
 **Category:**  Utility
@@ -147,7 +147,7 @@ By spending 1 energy when using an ability that uses the element you are envelop
 **Cost:** 2 energy
 **Duration:** (2 + $\frac{\text{Control}}{2}$) rounds
 **Effect**
-	Your skin becomes spiky and thorny for the duration. Whenever you are hit with a melee attack while these thorns are active, deal 5 physical damage to the attacker without requiring precision rolls. 
+	Your skin grows sharp spikes for the duration. Whenever you are hit with a melee attack while these spikes are active, deal 5 physical damage to the attacker without requiring precision rolls. 
 	If you are enveloped in metal element, this ability deals armor-ignoring damage instead.
 
 ### Sprout
