@@ -168,14 +168,8 @@ If you are carrying more than what would be comfortable or tolerable, you can ch
 2. Your travel speed is reduced by 10 kilometers.
 
 ## Death
-+ When a player character falls below 1 health, they fall unconscious.
-+ An unconscious character is considered prone, immobilized and stunned.
-+ If a player character takes damage equal to or more than double their base maximum health in total, they die immediately.
-+ At the end phase of each round, unconscious characters make a death save roll against increased thresholds:
-	+ Death save rolls are calculated as $\text{1d10} + \frac{\text{level}}{2}$
-	+ 1st round: 3
-	+ 2nd round: 5
-	+ 3rd round: 7
-	+ 4th round: 9
-+ A character dies if they fail any of their death saves or when they reach their 5th consecutive round in unconscious state. 
-+ If a character is healed to at least 1 health during unconscious state, they become conscious again and they are considered prone. Temporary health does not count as healing for this purpose.
++ When a player character falls below 1 health, they fall unconscious. An unconscious character is prone, immobilized, blinded and stunned.
++ Every time a character goes unconscious, they receive 1 stack of fatigued temporarily until they sleep for at least 12 hours in a safe space. This application of fatigued stacks normally. 
++ A character dies when they reach their 4th consecutive round in unconscious state. 
++ If a character is healed to at least 1 health during unconscious state, they become conscious again and they are prone until they stand up. Temporary health does not count as healing for this purpose.
++ Finally, if a character takes damage equal to or more than double their base maximum health in total, they die immediately.

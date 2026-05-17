@@ -57,8 +57,8 @@ weight = 1
 **Requirements:** 
 	An adjacent unconscious creature.
 **Explanation:**
-	Make a Healing skill roll for the target creature against (3 + their current death save threshold).
-	If you succeed, this creature is returned to 1 health and stabilized. 
+	Make a Healing skill roll for the target creature against (7 + stacks of fatigued applied to the creature).
+	If you succeed, this creature is returned to 1 health and no longer unconscious. 
 
 ## Sever
 **Execution Time:** Action

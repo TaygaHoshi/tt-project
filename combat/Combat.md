@@ -230,7 +230,9 @@ Conflicts between player characters should be resolved with words. However, some
 
 
 ---
-## Formula Reference Guide
+## Quick Reference Guide
+Unless specified otherwise, values in the formulas below and in ability descriptions always round down. 
+
 
 | Explanation                                                                                                                                   | Formula                                                                                                  |
 | --------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
@@ -238,7 +240,5 @@ Conflicts between player characters should be resolved with words. However, some
 | Precision roll formula                                                                                                                        | $\text{1d10} + \frac{\text{level}}{2} + \text{weapon precision} + \text{other bonuses}$                  |
 | Dealing damage, including status effects                                                                                                      | $\text{Action damage} + \text{Potency} + \text{other bonuses} - \text{target's armor (when applicable)}$ |
 | Fall damage                                                                                                                                   | $10 \times (\text{fall distance in meters} - 5)$                                                         |
-| Death save rolls                                                                                                                              | $\text{1d10} + \frac{\text{level}}{2}$                                                                   |
-| Death save success thresholds per round                                                                                                       | 1st round: 3<br>2nd round: 5<br>3rd round: 7<br>4th round: 9                                             |
 | Skill roll (normal skill)                                                                                                                     | $\text{1d10} + \frac{\text{Control}}{2} + \text{other bonuses}$                                          |
 | Skill roll (major skill)                                                                                                                      | $\text{2d10} + \frac{\text{Control}}{2} + \text{other bonuses}$                                          |
