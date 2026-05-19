@@ -17,7 +17,7 @@ fi
 if [[ "${1:-}" == "--test" ]]; then
     sed -i \
         "s|baseURL = 'https://sigil.tyghsh.cc/'|baseURL = 'https://sigil-test.tyghsh.cc/'|" \
-        "$SCRIPT_DIR/Hugo.toml"
+        "$SCRIPT_DIR/hugo.toml"
 fi
 
 echo ""
