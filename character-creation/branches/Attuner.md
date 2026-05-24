@@ -56,7 +56,7 @@ By spending 1 energy when using an ability that uses the element you are envelop
 	*Fire* -> Earth
 	*Water* -> Nature
 	*Nature* -> Fire 
-	You can't choose this technique as your first one.
+	You can't choose this technique as your first one from this branch.
 
 ### Elemental Armor
 **Category:** Defense

@@ -5,9 +5,10 @@ weight = 1
 
 ## Speak
 **Execution Time:** Action or minor action
+**Radius:** Hearing distance
 **Explanation:**
-	During your turn, you can shout a few sentences. Your voice is heard within a reasonable radius. Alternatively, you can whisper to an adjacent creature or object. In this case, your voice is only heard by that creature or object.
-	This ability can be used freely in the end phase of a combat round. If you choose to use this ability as a prepared action, you can set an event as the trigger. You can shout or whisper if you see this event happen.
+	During your turn, you can shout a few sentences. Alternatively, you can whisper to an adjacent creature or object. In this case, your voice is only heard by that creature or object.
+	This ability can be used freely in the end phase of a combat round. If you choose to use this ability as a prepared action, you can set an event as the trigger. You can shout or whisper if you notice this event happen.
 
 ## Self Cure
 **Execution Time:** Full-turn action

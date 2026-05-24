@@ -115,7 +115,7 @@ This vampire grows its wings and spreads them around itself, gaining a +1 bonus 
 <tr style="border-bottom: dashed 2px">
 <td><b>Potency:</b> 0</td> 
 <td><b>Control:</b> 3</td> 
-<td colspan="2"><b>Precision Roll:</b> d10 + 2</td> 
+<td colspan="2"><b>Precision Roll:</b> d10 + 1</td> 
 </tr>
 <tr>
 <td><b>Parry:</b> 7</td>  
@@ -155,7 +155,7 @@ As a part of this technique, this vampire can also sacrifice a Vampire Kin withi
 </tr>
 <tr>
 <td colspan="4"><i>Call Vampire Kins</i> - Full-turn action, technique
-Summons two Vampire Kins in adjacent squares.
+Summons two Vampire Kins in adjacent squares, which the vampire can command with the speak common action.
 Lasts for 24 hours or until another set of Vampire Kins are summoned.
 Can be used once per day.
 </td>

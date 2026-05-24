@@ -5,11 +5,11 @@ title = 'Wildbond'
 Instead of focusing on their personal growth, some choose to share their time, training and effort with their pets. While these people are sometimes called "masters", most of those specialized in this branch of combat are, in actuality, "tamers" or even "summoners" depending on the nature of their pet.
 
 ### Call Pet
-Choose a pet category and a damage type (physical or magical) when you take this branch from the list below. Your pet does not count toward your summon limit. It inherits your level and aptitudes. During its turns, it has one action and it uses its basic weapon attack normally unless you tell it to do something else. Otherwise, normal [[Combat#Summoning|summoning rules]] apply. 
+Choose a pet category and a damage type (physical or magical) when you take this branch from the list below. Your pet does not count toward your summon limit. It inherits your level and aptitudes. During its turns, it has one action and it uses its basic weapon attack to the best of its abilities unless you tell it to do something else by using the *speak* common action. Otherwise, normal [[Combat#Summoning|summoning rules]] apply. 
+
+However, the bond between a wildbond and their pet is strong to the point of being almost telepathic. By performing techniques in the *command* category, you can ask your pet to do unique actions without requiring *speak* common action or even line of sight. Such techniques are used during your own turns, but affect your pet's next turn within 1 minute.
 
 When your pet falls below 1 health, it will become unconscious and fall prone. While in this situation, it will be wounded and can't join combat for 1d4 hours or until you use *lick wounds* to bring it back above 0 health. 
-
-Techniques in the command category are used during your own turns. However, they affect your pet's next turn within up to 1 minute.
 
 Pets can take a variety of forms, but they fall into the four main categories below:
 
@@ -239,6 +239,6 @@ During its next turn, your pet does not attack and heals for (1d4 + 2) health fo
 **Category:** Command
 **Against:** Evasion
 **Execution Time:** Rapid action
-**Cost:** 3 energy
+**Cost:** 2 energy
 **Effect**
 	Alongside its normal attack, your pet takes the *opportunistic strike* common action. Sharpshooter pets are considered have a range of 1 meter for the purpose of this technique. 

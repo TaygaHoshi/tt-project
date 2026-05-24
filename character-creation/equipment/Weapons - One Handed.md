@@ -141,7 +141,6 @@ One handed weapons are divided into two: heavy weapons and light weapons. Light 
 	Next time a foe you are flanking is attacked, you also attack them.
 	Deals 15 physical damage. 
 
-
 ### Unarmed (Light)
 **Attributes**
 	Melee weapon

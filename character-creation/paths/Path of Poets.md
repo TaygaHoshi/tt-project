@@ -31,6 +31,8 @@ You can only have one song or poem active at any time and you are unable to spea
 ### Insert Lyrics
 By spending 1 energy during your turns, you can say a few words as part of a *speak* common action used for starting or upkeeping a song or a poem. You can't whisper when using this ability.  
 
+You do not need to spend the energy cost of *insert lyrics* when performing an ability that is activated as part of *speak*, provided that ability has an energy cost by itself. 
+
 ### In Rhythm
 By spending 2 energy during your turns, you can use both a rapid action and a prepared action. 
 
@@ -135,4 +137,4 @@ By spending 1 energy at the start of your turn, you can use the *speak* common a
 **Cost:** 4 energy
 **Duration:** Up to (3 + $\frac{\text{Control}}{4}$) rounds
 **Effect**
-	Whenever an affected hostile creature misses a precision roll, they take 5 magical damage.
+	Whenever an affected hostile creature fails a precision roll, they take 5 magical damage.

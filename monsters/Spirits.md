@@ -287,7 +287,7 @@ Creatures with fire affinity are unaffected by this technique.
 </tr>
 <tr>
 <td colspan="4"><i>Opportunistic Claw</i> - Prepared action, weapon attack
-This spirit attacks the next foe who moves into, out of or within range, dealing 10 physical damage.
+Attacks the next foe who moves into, out of or within range, dealing 10 physical damage.
 </td>
 </tr>
 </table>
@@ -340,7 +340,7 @@ Applies soaked for 1 round.
 <tr>
 <td colspan="4"><i>Opportunistic Splash</i> - Prepared action, weapon attack
 Range: 2 meters (melee)
-This spirit attacks the next foe who moves into, out of or within range, dealing 10 physical damage.
+Attacks the next foe who moves into, out of or within range, dealing 10 physical damage.
 </td>
 </tr>
 </table>
@@ -463,7 +463,7 @@ Creatures with fire affinity are unaffected by this technique.
 </tr>
 <tr>
 <td colspan="4"><i>Opportunistic Claw</i> - Prepared action, weapon attack
-This spirit attacks the next foe who moves into, out of or within range, dealing 12 physical damage.
+Attacks the next foe who moves into, out of or within range, dealing 12 physical damage.
 </td>
 </tr>
 </table>
@@ -521,7 +521,7 @@ This spirit empowers itself, gaining predictive foresight for 2 rounds.
 <tr>
 <td colspan="4"><i>Opportunistic Splash</i> - Prepared action, weapon attack
 Range: 2 meters (melee).
-This spirit attacks the next foe who moves into, out of or within range, dealing 12 physical damage.
+Attacks the next foe who moves into, out of or within range, dealing 12 physical damage.
 </td>
 </tr>
 </table>
@@ -656,7 +656,7 @@ Creatures with fire affinity are unaffected by this technique.
 </tr>
 <tr>
 <td colspan="4"><i>Opportunistic Claw</i> - Prepared action, weapon attack
-This spirit attacks the next foe who moves into, out of or within range, dealing 15 physical damage.
+Attacks the next foe who moves into, out of or within range, dealing 15 physical damage.
 </td>
 </tr>
 </table>
