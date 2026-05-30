@@ -13,8 +13,7 @@ title = 'Miscellaneous'
 <td colspan="3"><b>Movement:</b> 6 meters</td>  
 </tr>
 <tr style="border-bottom: dashed 2px">
-<td><b>Potency:</b> 0</td> 
-<td><b>Control:</b> 1</td> 
+<td colspan="2"><b>Major skills:</b> Magic Sense, Stealth</td> 
 <td colspan="2"><b>Precision Roll:</b> d10</td> 
 </tr>
 <tr>
@@ -24,7 +23,8 @@ title = 'Miscellaneous'
 <td><b>Evasion:</b> 5</td>  
 </tr>
 <tr style="border-bottom: solid 2px">  
-<td colspan="2"><b>Major skills:</b> Magic Sense, Stealth</td> 
+<td colspan="1"><b>Physical Armor:</b> 0</td>
+<td colspan="1"><b>Magical Armor:</b> 0</td>
 <td colspan="2"><b>Weapon:</b> Unarmed</td>
 </tr>
 <tr>
@@ -106,7 +106,7 @@ This tree gains 10 temporary physical armor for 1 round, and it is immobilized a
 <td colspan="3"><b>Movement:</b> 6 meters</td>  
 </tr>
 <tr style="border-bottom: dashed 2px">
-<td colspan="2"><b>Major skills:</b> Magic Sense</td> 
+<td colspan="2"><b>Major skills:</b> Magic Sense, Stealth</td> 
 <td colspan="2"><b>Precision Roll:</b> d10 + 2</td> 
 </tr>
 <tr>
