@@ -37,6 +37,20 @@ title = 'Basic Items'
 	A long bag that can be worn sideways or to the back.
 	When worn, it can hold up to 30 arrows or 6 javelins.
 
+### Dagger brace
+**Category:** Container
+**Base Price:** 1 gold coin
+**Bulk:** Ammo container, small size
+**Description:** 
+	A connected set of leather straps on a leather square. 
+	When worn, it can hold up to 3 daggers. 
+	This item is very rare and can only be purchased from specialty crafters.
+**Crafting:**
+	Requires leatherworking equipment. 
+	Success threshold: 12 husbandry.
+	Duration: One day of work. 
+	Materials: 1 unit of worked leather.
+
 ## Household Items
 ### Mirror
 **Category:** Household item
