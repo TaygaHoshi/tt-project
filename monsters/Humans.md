@@ -544,7 +544,6 @@ Allies of this poet are unaffected by a status effect of its choosing for 1 roun
 <td colspan="4"><i>Poem of Mockery</i> - Action or rapid action, technique
 This attack's precision rolls are made against Warding.
 For 1 round, creatures hostile to this poet within hearing range receive 6 magical damage whenever they fail a precision roll.
-Ends if the poet is unable to sing in any way.
 </td>
 </tr>
 </table>
