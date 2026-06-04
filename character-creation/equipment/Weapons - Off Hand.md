@@ -38,7 +38,7 @@ Weapon attacks tagged (Passive) are passive abilities which work only when the w
 
 ### Charm
 **Passive** *Weapon precision bonus*
-	A wielded charm gives a +1 bonus to weapon precision.
+	A wielded charm grants a +1 bonus weapon precision.
 
 ### Warhorn
 **Attributes**

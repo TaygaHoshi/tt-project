@@ -100,13 +100,12 @@ Two handed weapons have three weapon attacks.
 	Ranged weapon
 	+1 weapon precision
 **Passive** *Unsteady aiming*
-	Your projectile attacks with staves have a -2 penalty to precision rolls. 
+	Your projectile attacks with staves have a -2 penalty to precision rolls while unsteady.
 **Action** *Bolt* (basic weapon attack)
 	Roll against Warding
 	Range: 10 meters
 	Projectile. Deals 20 magical damage. 
 **Action** *Projectile shielding*
-	Roll against Evasion
 	Range: 5 meters
 	Choose a 2 meters by 2 meters area. You create a spherical magical shield there.
 	This shield acts like half cover against projectiles passing through it and lasts for 1 round.
@@ -120,7 +119,7 @@ Two handed weapons have three weapon attacks.
 	+1 weapon precision
 	-1 stealth penalty
 **Passive** *Unsteady aiming*
-	Your projectile attacks with crossbows have a -2 penalty to precision rolls. 
+	Your projectile attacks with crossbows have a -2 penalty to precision rolls while unsteady. 
 **Passive** *Reloading*
 	This weapon requires it to be reloaded before shooting, and it can be reloaded as a rapid action or by spending 1 energy.
 **Action** *Shoot* (basic weapon attack)
@@ -144,7 +143,7 @@ Two handed weapons have three weapon attacks.
 	0 weapon precision
 	-1 stealth penalty
 **Passive** *Unsteady aiming*
-	Your projectile attacks with recurve bows have a -2 penalty to precision rolls. 
+	Your projectile attacks with recurve bows have a -2 penalty to precision rolls while unsteady.
 **Action** *Shoot* (basic weapon attack)
 	Roll against Parry
 	Range: 15 meters
@@ -165,7 +164,7 @@ Two handed weapons have three weapon attacks.
 	Ranged weapon
 	+1 weapon precision
 **Passive** *Unsteady aiming*
-	Your projectile attacks with reflex bows have a -1 penalty to precision rolls. 
+	Your projectile attacks with reflex bows have a -1 penalty to precision rolls while unsteady.
 **Passive** *Sidearm*
 	Skill rolls regarding the concealment of this weapon receive a +1 bonus if you are carrying at most 2 arrows and no quivers.
 	During your turns, you can use the *swap weapon* action to swap to this weapon freely without using a rapid action. 

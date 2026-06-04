@@ -181,9 +181,9 @@ During its next turn, your pet does not attack and heals for (1d4 + 2) health fo
 **Category:** Utility
 **Execution Time:** Action
 **Cost:** Special
-**Duration:** (30 - 2 x $\text{Control}$) minutes
+**Duration:** (30 + 3 x $\text{Control}$) minutes
 **Effect**
-	Your pet helps you or another creature search or find an item of a certain description by using its sense of smell, sight, hearing or touch. Your pet assists the search for the duration. For every two points of energy spent on this technique, the relevant skill roll gains a +1 bonus.
+	Your pet helps you or another creature search or find an item of a certain description by using its sense of smell, sight, hearing or touch. Your pet assists the search for the duration. For every two points of energy spent on this technique, the relevant skill roll gains a +1 bonus, doubled for a scout pet.
 
 ### Go For Eyes
 **Category:** Command

@@ -11,7 +11,8 @@ collapsibleMenu = true
 3. Determining ambush for the first round
 4. Round start
 	1. Start phase
-		1. Applying effects from the environment, if any
+		1. If any, applying effects from the environment such as weather.
+		2. Reorder the turn orders of the participants if needed. 
 	2. Action phase
 		1. Players and NPCs take their turns in order, choosing and executing one of the following ordered groups:
 			1. Move -> Action and Minor Action
@@ -20,7 +21,7 @@ collapsibleMenu = true
 			4. Full-turn action
 	3. End phase
 		1. Determining of death, leaving combat and fleeing
-		2. During this phase the *speak* common action is free to use.
+		2. During this phase the *speak* common action is free to use without requiring action economy.
 5. End of round
 	1. Return to round start if the combat is continuing.
 
@@ -90,6 +91,8 @@ Some prepared actions may mention "moving into, out of or within an area". In th
 	+ Under most circumstances, sounds are clearly hearable up to 15 meters.
 	+ Rocks, deep water, or similar materials block sound. Similarly, some magical effects may block sounds.
 	+ Sounds can pass through up to 1 meter of wood, metal, shallow water, or similar materials.
++ If an ability allows you to choose one or more targets, as long as you only target one creature, that ability is considered a single target ability. This does not apply to radius based area of effect abilities.
++ In addition to the above rules, unless specified otherwise, you count as your own ally. 
 
 ### Precision Rolls
 Precision rolls determine whether a weapon attack, a technique or any other ability succeeds against an unwilling target. A precision roll is made against a resistance, such as Parry or Evasion. If the result of this roll exceeds or is equal to the resistance, the roll succeeds and the technique or attack connects. 
@@ -102,9 +105,9 @@ Terms in this formula are explained below:
 	**Weapon precision:** This bonus is determined by the type of the currently wielded weapons.
 	**Other bonuses:** These are bonuses or penalties which come from various sources like status effects, environment and the like.
 
-In some cases, a specific spell, an ability or an attack might include a precision bonus or penalty itself. Moreover, some abilities may affect multiple targets. In this case, multiple precision rolls are required to determine which targets get affected by this ability.
+In some cases, a specific technique, an attack or another ability might include a precision bonus or penalty itself. Moreover, some abilities may affect multiple targets or the same target multiple times, in which case separate precision rolls are required.
 
-Unless specified otherwise, all of the resistances of non-living objects are zero.
+Unless specified otherwise, all resistances of non-living objects are zero.
 
 ### Damage
 When a creature takes damage, this damage value reduces their health. Damage done to a target is calculated according to this formula:
@@ -116,8 +119,6 @@ Terms in this formula are explained below:
 	**Other bonuses:**  These are bonuses or penalties which come from various sources like status effects, environment and the like.
 	**Target's armor:** Armor is explained in the [[#Armor]] section. 
 
-
-
 In some cases, a specific ability might include a potency bonus or penalty itself. As an example, let's take an ability which includes the phrase "potency bonus to damage is halved for this attack". This simply means "potency" is divided by two in the formula:
 $\text{Action damage} + \frac{\text{Potency}}{2} + \text{other bonuses} - \text{target's armor (when applicable)}$
 
@@ -127,8 +128,8 @@ Each creature has two kinds of armor: physical armor and magical armor. Normally
 #### Damaging Ability
 For an ability to be considered a "damaging ability", it should have a base damage. Examples could be abilities like "Shield Bash" or the hatchet's "Hack". Some actions only apply a status effect, but do not have a base damage. These abilities are not considered damaging abilities.
 
-#### "Extra damage" versus "Bonus damage"
-Extra damage is a completely different packet of damage that just shares the precision roll of another attack. Extra damage has its own values for action damage, potency, bonuses and it is affected by armor separately from the delivering attack.
+#### Damage Packets
+Extra damage is a completely different packet of damage that just shares the precision roll of another attack. Extra damage has its own values for action damage, potency, bonuses and it is affected by armor separately from the delivering attack. 
 
 On the other hand, bonus damage is just added into the delivering attack's damage calculation. Specifically, into the "other bonuses" term.
 
@@ -147,6 +148,8 @@ At the start of the combat, determine turn order as follows:
 3. Resolve ties in movement speed as follows:  
 	• Allies with the same movement speed decide their acting order beforehand. This order may be changed during combat using the *speak* common action.  
 	• Enemies with the same movement speed use the flat (2d10) results from step 1 to determine who acts first.
+
+At the start of every round, the creatures participating in the encounter are reordered based on their current movement speed, based on the steps #2 and #3 described above.  
 
 A creature can only take one turn per round, even if it would appear again later in the order.
 
