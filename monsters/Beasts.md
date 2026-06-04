@@ -94,6 +94,45 @@ Can charge for up to 12 meters and attack with Slash, receiving a -2 penalty to 
 ---
 <table style="width: 100%; max-width: 720px; border-style: inset;">
 <tr>
+<th>Common Horse</th>
+<td colspan="3">Level 2 - Minion, mount</td>
+</tr>
+<tr style="border-bottom: solid 2px"><td colspan="4">To do: add lore</td></tr>
+<tr>  
+<td><b>Health:</b> 80</td>  
+<td colspan="3"><b>Movement:</b> 6 meters</td>  
+</tr>
+<tr style="border-bottom: dashed 2px">
+<td colspan="2"><b>Major skills:</b> Athletics, Insight </td> 
+<td colspan="2"><b>Precision Roll:</b> d10 + 1</td> 
+</tr>
+<tr>
+<td><b>Parry:</b> 5</td>  
+<td><b>Warding:</b> 5</td>  
+<td><b>Constitution:</b> 7</td>  
+<td><b>Evasion:</b> 6</td>  
+</tr>
+<tr style="border-bottom: solid 2px">  
+<td colspan="1"><b>Physical Armor:</b> 5</td>
+<td colspan="1"><b>Magical Armor:</b> 0</td>
+<td colspan="2"><b>Weapon:</b> Unarmed</td>
+</tr>
+<tr>
+<td colspan="4"><i>Strike</i> - Action, basic weapon attack
+Deals 25 physical damage.
+</td>
+</tr>
+<tr>
+<td colspan="4"><i>Gallop</i> - Full-turn action, technique
+This horse moves in a straight line, moving up to 3 times. This is considered running.
+After galloping, this horse is fatigued for 1 round.
+</td>
+</tr>
+</table>
+
+---
+<table style="width: 100%; max-width: 720px; border-style: inset;">
+<tr>
 <th>Common Wolf</th>
 <td colspan="3">Level 2 - Minion</td>
 </tr>
@@ -103,8 +142,7 @@ Can charge for up to 12 meters and attack with Slash, receiving a -2 penalty to 
 <td colspan="3"><b>Movement:</b> 6 meters</td>  
 </tr>
 <tr style="border-bottom: dashed 2px">
-<td><b>Potency:</b> 1</td> 
-<td><b>Control:</b> 1</td> 
+<td colspan="2"><b>Major skills:</b> Reflexes, Stealth </td> 
 <td colspan="2"><b>Precision Roll:</b> d10 + 2</td> 
 </tr>
 <tr>
@@ -116,7 +154,7 @@ Can charge for up to 12 meters and attack with Slash, receiving a -2 penalty to 
 <tr style="border-bottom: solid 2px">  
 <td colspan="1"><b>Physical Armor:</b> 5</td>
 <td colspan="1"><b>Magical Armor:</b> 0</td>
-<td colspan="2"><b>Weapon:</b> Claws and teeth</td>
+<td colspan="2"><b>Weapon:</b> Unarmed</td>
 </tr>
 <tr>
 <td colspan="4"><i>Strike</i> - Action, basic weapon attack
@@ -134,7 +172,7 @@ This wolf leaps at its target, dealing 10 physical damage and making them fall p
 <tr>
 <td colspan="4"><i>Ferocious Bite</i> - Rapid action, weapon attack
 This attack's precision roll is made against Constitution.
-Applies bleeding (7 damage) for 2 rounds if the target is prone.
+Applies bleeding (6 damage) for 2 rounds.
 </td>
 </tr>
 <tr>
