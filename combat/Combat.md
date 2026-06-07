@@ -195,8 +195,8 @@ A significant difference in elevation affects projectile attacks' precision roll
 + When a flying creature is immobilized, or falls prone, it loses up to 3 meters of altitude and takes 5 armor-ignoring damage if it collides with the ground or an object.
 
 ### Fall Damage
-A character takes fall damage when they fall more than 5 meters. This damage is armor-ignoring and it is calculated as such:
-$10 \times (\text{fall distance in meters} - 5)$
+A character takes fall damage when they fall more than 4 meters. This damage is armor-ignoring and it is calculated as such:
+$10 \times (\text{fall distance in meters} - 4)$
 
 ### Ambushes
 When the party ambushes or gets ambushed by one or more foes, the ambushed side is considered disadvantageous and they receive the following effects for the next round of combat:
@@ -207,10 +207,11 @@ When the party ambushes or gets ambushed by one or more foes, the ambushed side 
 ---
 ## Advanced Rules of Combat
 ### Summoning
-+ Summoner can control their minions during combat. A minion disappears immediately when its summoner dies.
++ Summoner can control their minions during combat. Normally, a summoner can control only one minion unless that minion does not count toward the summon limit. In case the summoner wants a second minion, they can choose which minion to keep when summoning a new one.
++ A minion disappears immediately when its summoner dies. 
 + Summoners have a simple telepathic bond to their minions. A summoner will know where a minion is and how much damage it suffered at all times. 
 + The minions follow the regular turn order. On a turn a minion is summoned, if they have higher movement speed than their summoner, they take their turn immediately after the summoner.
-+ Minions gain potency bonus to their damage normally, according to their relevant potency stat.
++ Minions gain potency bonus to their damage normally unless specified otherwise, according to their relevant potency stat.
 + Minions don't use energy for their skills, unless specified otherwise.
 
 ### Transforming
@@ -234,14 +235,13 @@ Conflicts between player characters should be resolved with words. However, some
 
 ---
 ## Quick Reference Guide
-Unless specified otherwise, values in the formulas below and in ability descriptions always round down. 
-
+Unless specified otherwise, values in the formulas below and in ability descriptions are always rounded down. 
 
 | Explanation                                                                                                                                   | Formula                                                                                                  |
 | --------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
 | Turn order tiebreak formula, e.g. member of the team that rolled higher goes earlier than member of another team with the same movement speed | $\text{2d10}$                                                                                            |
 | Precision roll formula                                                                                                                        | $\text{1d10} + \frac{\text{level}}{2} + \text{weapon precision} + \text{other bonuses}$                  |
 | Dealing damage, including status effects                                                                                                      | $\text{Action damage} + \text{Potency} + \text{other bonuses} - \text{target's armor (when applicable)}$ |
-| Fall damage                                                                                                                                   | $10 \times (\text{fall distance in meters} - 5)$                                                         |
+| Fall damage                                                                                                                                   | $10 \times (\text{fall distance in meters} - 4)$                                                         |
 | Skill roll (normal skill)                                                                                                                     | $\text{1d10} + \frac{\text{Control}}{2} + \text{other bonuses}$                                          |
 | Skill roll (major skill)                                                                                                                      | $\text{2d10} + \frac{\text{Control}}{2} + \text{other bonuses}$                                          |
