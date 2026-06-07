@@ -13,8 +13,7 @@ title = 'Human-likes'
 <td colspan="3"><b>Movement:</b> 6 meters</td>  
 </tr>
 <tr style="border-bottom: dashed 2px">
-<td><b>Potency:</b> 0</td> 
-<td><b>Control:</b> 2</td> 
+<td colspan="2"><b>Major skills:</b> Stealth</td> 
 <td colspan="2"><b>Precision Roll:</b> d10 + 1</td> 
 </tr>
 <tr>
@@ -55,8 +54,7 @@ This monster is unable to move or use any other ability while tickling someone.
 <td colspan="3"><b>Movement:</b> 6 meters</td>  
 </tr>
 <tr style="border-bottom: dashed 2px">
-<td><b>Potency:</b> 2</td> 
-<td><b>Control:</b> 1</td> 
+<td colspan="2"><b>Major skills:</b> Athlethics, Insight</td> 
 <td colspan="2"><b>Precision Roll:</b> d10 + 2</td> 
 </tr>
 <tr>
@@ -113,8 +111,7 @@ This vampire grows its wings and spreads them around itself, gaining a +1 bonus 
 <td colspan="3"><b>Movement:</b> 6 meters</td>  
 </tr>
 <tr style="border-bottom: dashed 2px">
-<td><b>Potency:</b> 0</td> 
-<td><b>Control:</b> 3</td> 
+<td colspan="2"><b>Major skills:</b> Lorekeeping, Insight</td> 
 <td colspan="2"><b>Precision Roll:</b> d10 + 1</td> 
 </tr>
 <tr>
@@ -174,8 +171,7 @@ Can be used once per day.
 <td colspan="3"><b>Movement:</b> 5 meters</td>  
 </tr>
 <tr style="border-bottom: dashed 2px">
-<td><b>Potency:</b> 0</td> 
-<td><b>Control:</b> 3</td> 
+<td colspan="2"><b>Major skills:</b> Persuasion</td> 
 <td colspan="2"><b>Precision Roll:</b> d10 + 2</td> 
 </tr>
 <tr>
@@ -232,8 +228,7 @@ After charging, this yooha becomes fatigued for 1 round.
 <td colspan="3"><b>Movement:</b> 5 meters</td>  
 </tr>
 <tr style="border-bottom: dashed 2px">
-<td><b>Potency:</b> 0</td> 
-<td><b>Control:</b> 4</td> 
+<td colspan="2"><b>Major skills:</b> Intimidation, Persuasion</td> 
 <td colspan="2"><b>Precision Roll:</b> d10 + 3</td> 
 </tr>
 <tr>
@@ -291,8 +286,7 @@ After charging, this yooha becomes fatigued for 1 round.
 <td colspan="3"><b>Movement:</b> 5 meters</td>  
 </tr>
 <tr style="border-bottom: dashed 2px">
-<td><b>Potency:</b> 5</td> 
-<td><b>Control:</b> 0</td> 
+<td colspan="2"><b>Major skills:</b> Magic Sense</td> 
 <td colspan="2"><b>Precision Roll:</b> d10 + 2</td> 
 </tr>
 <tr>

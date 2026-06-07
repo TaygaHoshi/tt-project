@@ -13,8 +13,7 @@ title = 'Beasts'
 <td colspan="3"><b>Movement:</b> 6 meters</td>  
 </tr>
 <tr style="border-bottom: dashed 2px">
-<td><b>Potency:</b> 1</td> 
-<td><b>Control:</b> 0</td> 
+<td colspan="2"><b>Major skills:</b> Reflexes, Stealth </td> 
 <td colspan="2"><b>Precision Roll:</b> d10</td> 
 </tr>
 <tr>
@@ -63,8 +62,7 @@ Attacks the next foe who moves into, within or out of melee range, dealing 10 ph
 <td colspan="3"><b>Movement:</b> 6 meters</td>  
 </tr>
 <tr style="border-bottom: dashed 2px">
-<td><b>Potency:</b> 1</td> 
-<td><b>Control:</b> 0</td> 
+<td colspan="2"><b>Major skills:</b> Reflexes </td> 
 <td colspan="2"><b>Precision Roll:</b> d10</td> 
 </tr>
 <tr>
@@ -103,7 +101,7 @@ Can charge for up to 12 meters and attack with Slash, receiving a -2 penalty to 
 <td colspan="3"><b>Movement:</b> 6 meters</td>  
 </tr>
 <tr style="border-bottom: dashed 2px">
-<td colspan="2"><b>Major skills:</b> Athletics, Insight </td> 
+<td colspan="2"><b>Major skills:</b> Athletics </td> 
 <td colspan="2"><b>Precision Roll:</b> d10 + 1</td> 
 </tr>
 <tr>
@@ -194,8 +192,7 @@ Attacks the next foe who moves into, within or out of melee range, dealing 10 ph
 <td colspan="3"><b>Movement:</b> 8 meters (flying) and 4 meters (walking)</td>  
 </tr>
 <tr style="border-bottom: dashed 2px">
-<td><b>Potency:</b> 0</td> 
-<td><b>Control:</b> 3</td> 
+<td colspan="2"><b>Major skills:</b> Scouting, Insight </td> 
 <td colspan="2"><b>Precision Roll:</b> d10 + 1</td> 
 </tr>
 <tr>
@@ -234,8 +231,7 @@ Deals 10 physical damage.
 <td colspan="3"><b>Movement:</b> 6 meters</td>  
 </tr>
 <tr style="border-bottom: dashed 2px">
-<td><b>Potency:</b> 4</td> 
-<td><b>Control:</b> 2</td> 
+<td colspan="2"><b>Major skills:</b> Lorekeeping, Magic Sense, Insight </td> 
 <td colspan="2"><b>Precision Roll:</b> d10 + 3</td> 
 </tr>
 <tr>
@@ -290,8 +286,7 @@ Attacks the next foe who moves into, within or out of melee range, dealing 10 ph
 <td colspan="3"><b>Movement:</b> 8 meters (flying) and 4 meters (walking)</td>  
 </tr>
 <tr style="border-bottom: dashed 2px">
-<td><b>Potency:</b> 6</td> 
-<td><b>Control:</b> 0</td> 
+<td colspan="2"><b>Major skills:</b> Athlethics, Reflexes, Lorekeeping </td> 
 <td colspan="2"><b>Precision Roll:</b> d10 + 3</td> 
 </tr>
 <tr>
@@ -348,8 +343,7 @@ The wyrm recharges its breath ability.
 <td colspan="3"><b>Movement:</b> 3 meters</td>  
 </tr>
 <tr style="border-bottom: dashed 2px">
-<td><b>Potency:</b> 8</td> 
-<td><b>Control:</b> 2</td> 
+<td colspan="2"><b>Major skills:</b> Athlethics </td> 
 <td colspan="2"><b>Precision Roll:</b> d10 + 5</td> 
 </tr>
 <tr>
@@ -376,7 +370,7 @@ Touching the outer skin of this worm in any way applies 1 round of sickened (-3)
 <tr>
 <td colspan="4"><i>Bite</i> - Action, basic weapon attack
 Range: 2 meters.
-Deals 35 physical damage.
+Deals 40 physical damage.
 Does not trigger the passive ability Poisonous.
 </td>
 </tr>
@@ -393,7 +387,7 @@ Triggers the passive ability Poisonous.
 This attack's precision rolls are made against Evasion.
 Range: 10 meters.
 Radius: 1 meters.
-The worm conjures up and throws several jagged daggers out of stone, dealing 10 physical damage and applying bleeding (10 damage) for 3 rounds.
+The worm conjures up and throws several jagged daggers out of stone, dealing 15 physical damage and applying bleeding (10 damage) for 3 rounds.
 </td>
 </tr>
 <tr>
