@@ -35,7 +35,7 @@ This skill allows characters to craft magical tablets, create magical items, and
 #### Apothecary
 This skill lets characters recognize herbs, brew potions or poisons, and prepare herbal meals.
 #### Husbandry
-This skill covers hunting, tracking, trapping, and butchering animals. Additionally, it includes preparing meals and crafting from animal remains.
+This skill covers hunting, tracking, trapping, and butchering animals. Additionally, it includes day-to-day care of farm animals as well as preparing meals and crafting from animal remains.
 #### Healing
 A character skilled in healing can treat simple illnesses, apply first aid and stabilize those near death.
 #### Scouting
@@ -49,3 +49,16 @@ Insight allows a character to sense lies and hidden motives, as well as have an 
 This skill allows a character to use fear, threats, or force of presence to pressure and coerce others.
 #### Persuasion
 This skill covers convincing, lying, deception, and adopting disguises to appear as someone else. 
+
+---
+## Common Success Thresholds
+#TODO This section is only for reference. 
+
+| Difficulty       | Success Threshold | Example |
+| ---------------- | :---------------: | ------- |
+| Basic task       |         6         |         |
+| Regular task     |         9         |         |
+| Challenging task |        12         |         |
+| Difficult task   |        15         |         |
+| Formidable task  |        18         |         |
+| Extreme task     |        21         |         |
