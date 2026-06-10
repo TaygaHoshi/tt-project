@@ -78,6 +78,7 @@ By spending 1 energy at the start of your turn, you can use the *speak* common a
 
 ### Poem of Dissonance
 **Category:** Offense
+**Against:** Constitution
 **Execution Time:** Special
 **Cost:** 4 energy
 **Duration:** Up to (2 + $\frac{\text{Control}}{4}$) rounds
