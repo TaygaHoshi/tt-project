@@ -102,7 +102,7 @@ Can charge for up to 12 meters and attack with Slash, receiving a -2 penalty to 
 </tr>
 <tr style="border-bottom: dashed 2px">
 <td colspan="2"><b>Major skills:</b> Athletics </td> 
-<td colspan="2"><b>Precision Roll:</b> d10 + 1</td> 
+<td colspan="2"><b>Precision Roll:</b> d10</td> 
 </tr>
 <tr>
 <td><b>Parry:</b> 5</td>  
@@ -116,14 +116,26 @@ Can charge for up to 12 meters and attack with Slash, receiving a -2 penalty to 
 <td colspan="2"><b>Weapon:</b> Unarmed</td>
 </tr>
 <tr>
+<td colspan="4"><i>Mount</i> - Passive
+Ridable by creatures of roughly human size and weight.
+A rider who is not familiar to this horse must make a Riding skill roll against a success threshold of 6 in order to mount it.
+</td>
+</tr>
+<tr>
+<td colspan="4"><i>Recognize Face</i> - Passive
+To make this horse feel familiar to it, a creature can attempt a Husbandry skill roll against a success threshold of 6. This task takes one day.
+</td>
+</tr>
+<tr>
 <td colspan="4"><i>Strike</i> - Action, basic weapon attack
 Deals 25 physical damage.
+When commanded by a rider, performing this attack requires a Riding skill roll against a success threshold of 9.
 </td>
 </tr>
 <tr>
 <td colspan="4"><i>Gallop</i> - Full-turn action, technique
-This horse moves in a straight line, moving up to 3 times. This is considered running.
-After galloping, this horse is fatigued for 1 round.
+This horse moves in a straight line, moving up to 3 times, and this movement is considered running.
+After galloping, this horse is fatigued for 1 round. 
 </td>
 </tr>
 </table>

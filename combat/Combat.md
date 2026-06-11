@@ -153,7 +153,6 @@ At the start of every round, the creatures participating in the encounter are re
 
 A creature can only take one turn per round, even if it would appear again later in the order.
 
-
 ### Ability Durations
 + All ability durations are measured in rounds.
 + At the start of a creature's turn, damaging effects and regeneration trigger:
@@ -221,17 +220,21 @@ When a creature transforms into another, several rules should be followed:
 + If a creature is unwillingly transformed during its own turn, this turn immediately ends.
 + If the new form cannot physically fit within the environment, the creature takes 5 armor-ignoring damage and the transformation fails.
 
-
 ### Mounted Combat
-#TODO 
-
+A creature can ride a suitable mount during or outside combat. While mounted, the following rules apply:
+* A creature can get on an adjacent mount as an action, and can dismount as an action. Getting on a mount who is not familiar with the rider requires a Riding skill roll. The success threshold is different for each type of mount and how a mount becomes familiar with a creature is also determined by the mount's type.
+* If the rider or the mount falls prone, it is forcibly dismounted, falling to an adjacent square of their choosing. The rider takes 5 armor-ignoring damage as fall damage, and both the rider and the mount are prone.
+* Health, status effects, and similar values are handled separately for the rider and the mount. However, only the rider's movement speed is used to determine turn order.
+* The mount uses its movement as the rider's move: when the rider would move, the mount moves for them using its movement speed, carrying the rider with it. The rider's move otherwise works as normal. A rider cannot run while mounted.
+* To make the mount run, or to have it take an action, a minor action, or a full-turn action, the rider can use the *speak* common action to command it. Some mount actions commanded this way may require a Riding skill roll.
+* An ability that affects the ground can only affect the mount. For any other targeted or non-targeted ability, the attacker chooses whether to target the mount or the rider.
+* Most mounts treat stairs and similar features as light rough terrain, since such features are built mainly for bipedal creatures. Depending on a mount's body shape, certain surfaces or materials may be impossible for it to walk on at all.
 
 ### Player versus Player
 Conflicts between player characters should be resolved with words. However, sometimes arguments might escalate into fights, duels or even ambushes. In this case, rather than starting a combat encounter, the GM may opt to use the simple method of PvP instead:
 1. Players split into teams or stay neutral.
 2. Each team rolls a (1d10) per player. The team that rolls the highest in total wins.
 3. The GM may grant up to a +2 bonus to a team’s total if it has a clear situational advantage aside from numbers.
-
 
 ---
 ## Quick Reference Guide
