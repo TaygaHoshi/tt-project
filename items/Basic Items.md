@@ -2,6 +2,21 @@
 title = 'Basic Items'
 +++
 
+## Adventuring Gear
+### Torch
+**Category:** Adventuring gear  
+**Base Price:** 30 iron coins
+**Bulk:** Lightweight, medium size
+**Description:**  
+	A simple handheld source of light made from cloth, felt and bark wrapped around a wooden shaft and soaked in fat.
+	It burns brightly for about 1 hour under normal conditions, but is vulnerable to wind and moisture. 
+	This item can illuminate dark places. Creatures and objects within 20 meters have their visibility improved by one step: objects in darkness become moonlit, and moonlit objects become brightly lit.
+**Crafting:**  
+	Requires firemaking equipment.  
+	Success threshold: 6 scouting.  
+	Duration: 8 hours of work produces 5 torches.
+	Materials: 1 unit of felt, 1 unit of wooden plank and 1 unit of worked leather.  
+
 ## Containers
 ### Belt Pouch
 **Category:** Container
@@ -12,8 +27,8 @@ title = 'Basic Items'
 	When worn, it grants one quick access slot for a small item. 
 **Crafting:**
 	Requires leatherworking equipment. 
-	Success threshold: 10 husbandry.
-	Duration: One day of work. 
+	Success threshold: 9 husbandry.
+	Duration: 8 hours of work. 
 	Materials: 1 unit of worked leather, 1 unit of felt and 1 unit of common metals.
 
 ### Shoulder Bag
@@ -25,8 +40,8 @@ title = 'Basic Items'
 	This container can't be equipped during combat. 
 **Crafting:**
 	Requires leatherworking equipment. 
-	Success threshold: 7 husbandry.
-	Duration: Half a day of work. 
+	Success threshold: 6 husbandry.
+	Duration: 4 hours of work. 
 	Materials: 1 unit of worked leather. 
 
 ### Quiver
@@ -44,18 +59,18 @@ title = 'Basic Items'
 **Description:** 
 	A connected set of leather straps on a leather square. 
 	When worn, it can hold up to 3 daggers. 
-	This item is very rare and can only be purchased from specialty crafters.
+	This item is very rare and can only be purchased from speciality crafters.
 **Crafting:**
 	Requires leatherworking equipment. 
 	Success threshold: 12 husbandry.
-	Duration: One day of work. 
+	Duration: 8 hours of work. 
 	Materials: 1 unit of worked leather.
 
 ## Household Items
 ### Mirror
 **Category:** Household item
 **Base Price:** 25 iron coins
-**Bulk:** Lightweight, small size
+**Bulk:** Lightweight, small size, fragile
 **Description:** 
 	One of the more expensive household items. Reflects light and allows a creature to see itself.
 **Crafting:** #TODO 

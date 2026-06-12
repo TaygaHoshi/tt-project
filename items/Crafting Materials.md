@@ -32,8 +32,9 @@ title = 'Crafting Materials'
 	Part of an animal skin treated for human use.
 **Crafting:**
 	Requires a cutting weapon, like a sword or a dagger. 
-	Success threshold: 10 husbandry.
-	Duration: 1 hour.
+	Success threshold: 9 husbandry.
+	Duration: 2 hours of work.
+	Materials: carcass of a suitable animal.
 
 ### Salt
 **Category:** Base material
@@ -57,8 +58,8 @@ title = 'Crafting Materials'
 **Description:**
 	A piece of textile created from entangling, condensing and pressing wool fibers together. It is resistant to water and fire. 
 **Crafting:** 
-	Success threshold: 7 husbandry.
-	Duration: half a day of work. 
+	Success threshold: 6 husbandry.
+	Duration: 4 hours of work.
 	Materials: 2 units of wool, 1 unit of wood ash and some water. 
 
 ### Wooden Plank
@@ -77,8 +78,8 @@ title = 'Crafting Materials'
 	A tough piece of cured and processed animal hide. 
 **Crafting:** 
 	Requires leatherworking equipment. 
-	Success threshold: 10 husbandry.
-	Duration: half a day of work. 
+	Success threshold: 9 husbandry.
+	Duration: 4 hours of work. 
 	Materials: 1 unit of hide and 1 unit of salt.  
 
 ### Perfected Glass
@@ -90,5 +91,5 @@ title = 'Crafting Materials'
 **Crafting:** 
 	Requires glassblowing equipment. 
 	Success threshold: 15 runecarving.
-	Duration: half a day of uninterrupted work. 
+	Duration: 4 hours of uninterrupted work.
 	Materials: 1 unit of glass, 1 unit of common metals and 1 unit of precious metals. 

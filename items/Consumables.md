@@ -13,8 +13,8 @@ title = 'Consumables'
 	As an equipment, this sigil can be used to reroll a succeeded precision roll against the wielder. When this sigil is used two times in this way, it shatters.
 **Crafting:** 
 	Requires glassblowing equipment. 
-	Success threshold: 18 runecarving.
-	Duration: One day of uninterrupted work. 
+	Success threshold: 21 runecarving.
+	Duration: 8 hours of uninterrupted work. 
 	Materials: 1 unit of circular perfected glass, 1 unit of brown dye and 1 unit of underworld essence.
 
 ### Sigil of Uchma
@@ -28,8 +28,8 @@ title = 'Consumables'
 	As an equipment, this sigil can be used to reroll a failed precision roll or skill roll. When this sigil is used two times in this way, it shatters.
 **Crafting:** 
 	Requires glassblowing equipment. 
-	Success threshold: 18 runecarving.
-	Duration: One day of uninterrupted work. 
+	Success threshold: 21 runecarving.
+	Duration: 8 hours of uninterrupted work. 
 	Materials: 1 unit of circular perfected glass, 1 unit of cyan dye and 1 unit of overworld essence.
 
 ### Vial of Corrosive Mixture
