@@ -5,7 +5,7 @@ weight = 2
 
 ## Debilitating Effects
 ### Blinded
-+ Reduces line of sight to 1 meter. 
++ All creatures and objects are considered to be in darkness for target. 
 + Grants a -5 penalty to precision rolls. 
 + Does not stack. If target is already blinded, only the longer one applies.
 
@@ -72,7 +72,7 @@ weight = 2
 ### Diseased
 + Applies 5 armor-ignoring damage at the start of the target's turns. This status effect does not gain potency bonus to its damage.
 + At the start of a diseased creature's turn, all adjacent creatures receive the disease for the remaining duration, with a minimum of 1 round.
-+ Does not stack. If target is already diseased, only the one with higher damage applies.
++ Does not stack. If target is already diseased, only the one with higher duration applies.
 
 ### Electrified
 + Applies 10 magical damage at the start of the target's turns.

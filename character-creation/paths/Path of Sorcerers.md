@@ -79,7 +79,7 @@ This ability does not get any bonuses to its damage.
 **Radius:** (2 + P/3) meters
 **Duration:** (2 + $\frac{\text{Control}}{3}$) rounds
 **Effect**
-	Create an area of darkness around you for the duration. This area is considered quarter cover and light rough terrain. 
+	Create an area of chaos around you for the duration. This area is considered light rough terrain, and creatures within it are moonlit unless they were already in darkness. 
 	Summon a spiritling of chaos next to each creature hostile to you within the radius up to a maximum of (2 + P/3) spiritlings for the duration. 
 	Spiritlings summoned by this technique share your level, do not count towards your summon limit, and attack the foe closest to them. 
 

@@ -806,7 +806,7 @@ This witch touches a creature, and transfers a debilitating or harmful status ef
 <tr>
 <td colspan="4"><i>Call Chaos</i> - Full-turn action, technique
 Radius: 3 meters.
-This witch creates an area of darkness around itself for 2 rounds. This area is considered quarter cover and light rough terrain. 
+This witch creates an area of chaos around itself for 2 rounds. This area is considered light rough terrain, and creatures within it are moonlit unless they were already in darkness.
 Additionally, a spiritling of chaos is summoned next to each creature hostile to this witch within the radius up to a maximum of 2 spiritlings for 2 rounds. 
 Spiritlings summoned by this technique are level 4 and attack the foe closest to them.
 Can be used once per day.

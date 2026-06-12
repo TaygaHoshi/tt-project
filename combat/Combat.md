@@ -86,7 +86,8 @@ Some prepared actions may mention "moving into, out of or within an area". In th
 ### Targeting and Line of Sight
 + A creature has line of sight to objects and creatures it can directly see.
 	+ Some abilities may grant line of sight to a creature or object that isn't directly visible.
-+ Targeting an object or a creature requires line of sight. However, some abilities such as most weapon attacks, area of effect abilities and projectiles will not reach the target if a sufficiently large and durable object such as a wall is in the way. 
++ If a creature is completely blocked from another's point of view, they are out of line of sight and can't be interacted with targeted attacks and techniques.
++ However, even when there is line of sight, some abilities such as most weapon attacks, area of effect abilities and projectiles will not reach the target if a sufficiently large and durable object such as a wall is in the way. 
 + In addition, some abilities such as the *speak* common action may require hearing:
 	+ Under most circumstances, sounds are clearly hearable up to 15 meters.
 	+ Rocks, deep water, or similar materials block sound. Similarly, some magical effects may block sounds.
@@ -175,7 +176,7 @@ A significant difference in elevation affects projectile attacks' precision roll
 1. Attacking from high ground grants you a +1 bonus.
 2. Attacking from low ground gives you a -1 penalty.
 
-### Cover and Line of Sight
+### Cover
 + When a character is behind cover, they are semi-protected against projectile attacks or abilities.
 + There are 3 types of cover:
 	+ Quarter Cover: -1 penalty to precision rolls with projectile abilities.
@@ -183,7 +184,6 @@ A significant difference in elevation affects projectile attacks' precision roll
 	+ Full Cover: -4 penalty to precision rolls with projectile abilities.
 + Having other creatures in the way while determining cover counts as half cover. This doesn't increase with the amount of creatures in the way.
 + Cover does not stack, only the highest applicable one is used.
-+ If a creature is completely blocked from another's point of view, they are out of line of sight and can't be interacted with targeted attacks and techniques.
 
 ### Falling Prone
 + A creature can go into prone voluntarily if they give up half of their walking speed as part of their movement during their turn.
@@ -205,6 +205,26 @@ When the party ambushes or gets ambushed by one or more foes, the ambushed side 
 
 ---
 ## Advanced Rules of Combat
+### Light and Visibility 
+Combat in darker areas such as at night or in a dark room is more difficult due to low visibility. There are three degrees of darkness: bright, moonlight and dark. 
+- "Brightly lit" is the normal visibility.
+- "Moonlit" is equivalent to fighting in nighttime. 
+- "Darkness" is equivalent to being in a cave without a torch.
+
+When a creature or an object's visibility is "moonlit", it is under quarter cover and the line of sight to it breaks after a distance of 5 meters. Similarly, if its visibility is "in darkness", it has half cover and the line of sight to it breaks after 1 meter. Your own visibility level does not affect you in any way. 
+
+In most cases, instead of determining each creature's visibility one by one, it is inherited from the area and time of day: during nighttime, all creatures and objects are moonlit if they are fighting outside without any light sources. 
+
+### Mounted Combat
+A creature can ride a suitable mount during or outside combat. While mounted, the following rules apply:
+* A creature can get on an adjacent mount as an action, and can dismount as an action. Getting on a mount who is not familiar with the rider requires a Riding skill roll. The success threshold is different for each type of mount and how a mount becomes familiar with a creature is also determined by the mount's type.
+* If the rider or the mount falls prone, it is forcibly dismounted, falling to an adjacent square of their choosing. The rider takes 5 armor-ignoring damage as fall damage, and both the rider and the mount are prone.
+* Health, status effects, and similar values are handled separately for the rider and the mount. However, only the rider's movement speed is used to determine turn order.
+* The mount uses its movement as the rider's move: when the rider would move, the mount moves for them using its movement speed, carrying the rider with it. The rider's move otherwise works as normal. A rider cannot run while mounted.
+* To make the mount run, or to have it take an action, a minor action, or a full-turn action, the rider can use the *speak* common action to command it. Some mount actions commanded this way may require a Riding skill roll.
+* An ability that affects the ground can only affect the mount. For any other targeted or non-targeted ability, the attacker chooses whether to target the mount or the rider.
+* Most mounts treat stairs and similar features as light rough terrain, since such features are built mainly for bipedal creatures. Depending on a mount's body shape, certain surfaces or materials may be impossible for it to walk on at all. 
+
 ### Summoning
 + Summoner can control their minions during combat. Normally, a summoner can control only one minion unless that minion does not count toward the summon limit. In case the summoner wants a second minion, they can choose which minion to keep when summoning a new one.
 + A minion disappears immediately when its summoner dies. 
@@ -219,16 +239,6 @@ When a creature transforms into another, several rules should be followed:
 + When returning to the original form, a creature's health is set to what it was before the transformation. Going below 0 health does not break the transformation. See: [[Character Creation#Death|death]].
 + If a creature is unwillingly transformed during its own turn, this turn immediately ends.
 + If the new form cannot physically fit within the environment, the creature takes 5 armor-ignoring damage and the transformation fails.
-
-### Mounted Combat
-A creature can ride a suitable mount during or outside combat. While mounted, the following rules apply:
-* A creature can get on an adjacent mount as an action, and can dismount as an action. Getting on a mount who is not familiar with the rider requires a Riding skill roll. The success threshold is different for each type of mount and how a mount becomes familiar with a creature is also determined by the mount's type.
-* If the rider or the mount falls prone, it is forcibly dismounted, falling to an adjacent square of their choosing. The rider takes 5 armor-ignoring damage as fall damage, and both the rider and the mount are prone.
-* Health, status effects, and similar values are handled separately for the rider and the mount. However, only the rider's movement speed is used to determine turn order.
-* The mount uses its movement as the rider's move: when the rider would move, the mount moves for them using its movement speed, carrying the rider with it. The rider's move otherwise works as normal. A rider cannot run while mounted.
-* To make the mount run, or to have it take an action, a minor action, or a full-turn action, the rider can use the *speak* common action to command it. Some mount actions commanded this way may require a Riding skill roll.
-* An ability that affects the ground can only affect the mount. For any other targeted or non-targeted ability, the attacker chooses whether to target the mount or the rider.
-* Most mounts treat stairs and similar features as light rough terrain, since such features are built mainly for bipedal creatures. Depending on a mount's body shape, certain surfaces or materials may be impossible for it to walk on at all.
 
 ### Player versus Player
 Conflicts between player characters should be resolved with words. However, sometimes arguments might escalate into fights, duels or even ambushes. In this case, rather than starting a combat encounter, the GM may opt to use the simple method of PvP instead:
