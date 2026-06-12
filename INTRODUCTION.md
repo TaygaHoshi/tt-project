@@ -14,7 +14,7 @@ Furthermore, Sigil is a relatively simplified take on the more well-known tablet
 
 In addition, there are various rules for exploration, inventory management, crafting, travelling, interactions with NPCs and other similar activities. Such activities have simple rules, and most of the moment-to-moment decision making outside combat is left to common sense and imagination.
 
-Sigil is work-in-progress and not ready for full campaigns yet. You are seeing the version *v1-b1* (beta).
+Sigil is work-in-progress and not ready for full campaigns yet. You are seeing the version *v1-b2* (beta).
 
 ---
 ## Where to Start
