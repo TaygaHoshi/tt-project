@@ -1,1 +1,9 @@
-Secrets/
+# Generated files by hugo
+.hugo/public/
+.hugo/content/
+.hugo/resources/_gen/
+.hugo/assets/jsconfig.json
+.hugo/hugo_stats.json
+
+# Temporary lock file while building
+.hugo/.hugo_build.lock

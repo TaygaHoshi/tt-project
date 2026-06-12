@@ -1,0 +1,20 @@
+baseURL = 'https://sigil.tyghsh.cc/'
+locale = 'en-us'
+title = 'Sigil of Uchma'
+theme = 'hugo-theme-relearn'
+
+[author]
+  name = 'TaygaHoshi'
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+    [markup.goldmark.parser]
+      [markup.goldmark.parser.attribute]
+        block = true
+
+[params]
+  themeVariant = 'sigil-light'
+  math = true
