@@ -2,7 +2,6 @@
 title = 'Monsters'
 type = "chapter"
 weight = 4
-collapsibleMenu = true
 +++
 
 In Sigil of Uchma, the party might come across various enemies or even allies in the form of NPCs. Monsters are a compendium of premade NPCs supplied for the convenience of Game Masters, and are considered spoilers for players.

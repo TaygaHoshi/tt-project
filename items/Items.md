@@ -2,7 +2,6 @@
 title = 'Items & Crafting'
 type = "chapter"
 weight = 3
-collapsibleMenu = true
 +++
 
 ## Currency

@@ -1,7 +1,6 @@
 +++
 title = 'Armor & Weapons'
 weight = 3
-collapsibleMenu = true
 +++
 
 ## Armor

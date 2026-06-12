@@ -1,0 +1,3 @@
++++
+title = 'Loot Tables'
++++

@@ -2,7 +2,6 @@
 title = 'Combat'
 type = "chapter"
 weight = 2
-collapsibleMenu = true
 +++
 
 ## Phases of Combat

@@ -2,7 +2,6 @@
 title = "Creating a Character"
 type = "chapter"
 weight = 1
-collapsibleMenu = true
 +++
 
 Player characters are the other part, alongside the Game Master, of Sigil of Uchma. This section will go over the basics of character creation.
