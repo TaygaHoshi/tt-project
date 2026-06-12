@@ -32,7 +32,7 @@ Two handed weapons have three weapon attacks.
 **Action** *Cleave*
 	Roll against Parry
 	Range: 2 meters
-	Choose a direction: clockwise or counter-clockwise. Attack a target, then continue attacking the next creature in the direction you chose. You continue this until you complete a full rotation, or until an adjacent obstacle such as a creature blocks your attack.
+	Choose a direction: clockwise or counter-clockwise. Attack a target or a square, then continue attacking the next creature in the direction you chose. You continue this until you complete a full rotation, or until an adjacent obstacle such as a creature blocks your attack.
 	Each successful attack deals 15 physical damage.
 **Prepared action** *Hilt block*
 	Roll against Parry
