@@ -199,7 +199,7 @@ Immune to debilitating status effects.
 <td colspan="4"><i>Shoot</i> - Action, basic weapon attack, projectile
 Range: 5 meters.
 This attack's precision roll is made against Constitution. 
-Applies (2 + $\frac{\text{Control}}{2}$) roundw of bleeding. 
+Applies (2 + $\frac{\text{Control}}{2}$) rounds of bleeding. 
 </td>
 </tr>
 </table>

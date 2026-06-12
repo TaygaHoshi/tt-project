@@ -5,12 +5,10 @@ Sigil of Uchma is a work-in-progress tabletop role playing game. The game is cur
 
 You can start reading the rules from [this website](https://sigil.tyghsh.cc). If you want to read the in-development version instead, check out [the test website](https://sigil-test.tyghsh.cc).
 
-You can send feedback from this form: https://forms.gle/7NwTYqGUWpBfBWNg8.
-
 This repository is for keeping track of changes to the game rules between versions. It may or may not be up to date. Playable books will be posted in the releases page after they are made publicly available.
 
 # Contributing
-Feel free to submit a pull request, but you must read [the introduction](https://taygahoshi.github.io/tt-project/sigil-of-uchma/introduction.html). You can contribute to most of the places labeled with "#TODO". I use [Obsidian](https://obsidian.md/) to edit of these notes, so this project uses [Obsidian Flavored Markdown](https://help.obsidian.md/Editing+and+formatting/Obsidian+Flavored+Markdown) except for this README.md file.
+Feel free to submit a pull request, but you must read [the introduction page](https://taygahoshi.github.io/tt-project/sigil-of-uchma/introduction.html). You can contribute to most of the places labelled with "#TODO". I use [Obsidian](https://obsidian.md/) to edit of these notes, so this project uses [Obsidian Flavored Markdown](https://help.obsidian.md/Editing+and+formatting/Obsidian+Flavored+Markdown) except for this README.md file.
 
 To contribute, you can simply fork this repository, then clone your fork into Obsidian or any equivalent software:
 ```bash
@@ -50,7 +48,7 @@ This work is licensed under the [Creative Commons Attribution-NonCommercial-Shar
 
 Sigil of Uchma consists of assets in the form of gameplay rules, art, music, books, e-books and more. Assets may or may not be in this repository. Unless explicitly stated otherwise, all assets share this licence. See [LICENCE - Game Rules.md](LICENCE%20-%20Game%20Rules.md) for the full text.
 
-Unless explicitly stated otherwise, files under the `.hugo/` directory, including website assets, code, scripts and other files, are licensed under the GPL-3.0-or-later. See [LICENCE - Code.md](LICENCE%20-%20Code.md) for the full text.
+Unless explicitly stated otherwise, files under the `.hugo/` directory, including website assets, code, scripts and other files (excluding gameplay rules), are licensed under the GPL-3.0-or-later. See [LICENCE - Code.md](LICENCE%20-%20Code.md) for the full text.
 
 Bundled third-party assets are distributed under their own licences:
 
