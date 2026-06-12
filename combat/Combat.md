@@ -154,6 +154,16 @@ At the start of every round, the creatures participating in the encounter are re
 
 A creature can only take one turn per round, even if it would appear again later in the order.
 
+#### Fleeing from Combat
+When a creature wants to flee from combat, it needs to reach one of the open edges of the battle map. Once reached the edge, it can attempt to escape at the end phase of the round, at which point pursuers are also determined. For this creature to successfully escape, there are a few conditions that needs to be met:
+1. If the creature is faster than all of its pursuers, it can run away successfully unless the terrain or another obstacle prevents its escape. 
+2. If the creature's movement speed is equal to its fastest pursuers:
+	- It must make an athletics skill check of against a success threshold of 9.
+	- Alternatively, if there are ways for it to lose its pursuers such as moving through a dense forest, the creature can make a scouting skill check. The GM determines the success threshold depending on the situation. 
+3. If the creature's movement speed is slower than the fastest of its pursuers, it needs a way to lose its pursuers via a scouting skill roll as described above. Otherwise it can't flee from combat.
+
+On a successful escape, both the fleeing creature and its pursuers leave the battle map.
+
 ### Ability Durations
 + All ability durations are measured in rounds.
 + At the start of a creature's turn, damaging effects and regeneration trigger:

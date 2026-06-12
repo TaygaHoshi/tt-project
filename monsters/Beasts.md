@@ -128,14 +128,21 @@ To make this horse feel familiar to it, a creature can attempt a Husbandry skill
 </tr>
 <tr>
 <td colspan="4"><i>Strike</i> - Action, basic weapon attack
-Deals 25 physical damage.
 When commanded by a rider, performing this attack requires a Riding skill roll against a success threshold of 9.
+Deals 25 physical damage.
 </td>
 </tr>
 <tr>
-<td colspan="4"><i>Gallop</i> - Full-turn action, technique
-This horse moves in a straight line, moving up to 3 times, and this movement is considered running.
-After galloping, this horse is fatigued for 1 round. 
+<td colspan="4"><i>Canter</i> - Running style
+This horse moves in a straight line up to 5 times its movement speed. This ability's speed can be used to flee from combat.
+If this horse is fatigued, it can't canter.
+</td>
+</tr>
+<tr>
+<td colspan="4"><i>Gallop</i> - Running style
+When commanded by a rider, performing this attack requires a Riding skill roll against a success threshold of 6.
+This horse moves in a straight line up to 10 times its movement speed.
+If this horse gallops for more than 1 minute, it is fatigued for 1d4 hours, and it can't gallop while fatigued.
 </td>
 </tr>
 </table>
