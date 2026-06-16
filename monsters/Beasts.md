@@ -305,7 +305,7 @@ Attacks the next foe who moves into, within or out of melee range, dealing 10 ph
 <td colspan="3"><b>Movement:</b> 8 meters (flying) and 4 meters (walking)</td>  
 </tr>
 <tr style="border-bottom: dashed 2px">
-<td colspan="2"><b>Major skills:</b> Athlethics, Reflexes, Lorekeeping </td> 
+<td colspan="2"><b>Major skills:</b> Athletics, Reflexes, Lorekeeping </td> 
 <td colspan="2"><b>Precision Roll:</b> d10 + 3</td> 
 </tr>
 <tr>
@@ -317,7 +317,7 @@ Attacks the next foe who moves into, within or out of melee range, dealing 10 ph
 <tr style="border-bottom: solid 2px">  
 <td colspan="1"><b>Physical Armor:</b> 5</td>
 <td colspan="1"><b>Magical Armor:</b> 10</td>
-<td colspan="2"><b>Weapon:</b> Teeth and tail</td>
+<td colspan="2"><b>Weapon:</b> Unarmed</td>
 </tr>
 <tr>
 <td colspan="4"><i>Large Creature</i> - Passive
@@ -353,6 +353,66 @@ The wyrm recharges its breath ability.
 ---
 <table style="width: 100%; max-width: 720px; border-style: inset;">
 <tr>
+<th>Kirin</th>
+<td colspan="3">Level 8 - Minion, mount</td>
+</tr>
+<tr style="border-bottom: solid 2px"><td colspan="4">To do: add lore</td></tr>
+<tr>  
+<td><b>Health:</b> 80</td>  
+<td colspan="3"><b>Movement:</b> 5 meters</td>  
+</tr>
+<tr style="border-bottom: dashed 2px">
+<td colspan="2"><b>Major skills:</b> Athletics, Insight</td> 
+<td colspan="2"><b>Precision Roll:</b> d10+4</td> 
+</tr>
+<tr>
+<td><b>Parry:</b> 8</td>  
+<td><b>Warding:</b> 9</td>  
+<td><b>Constitution:</b> 9</td>  
+<td><b>Evasion:</b> 9</td>  
+</tr>
+<tr style="border-bottom: solid 2px">  
+<td colspan="1"><b>Physical Armor:</b> 5</td>
+<td colspan="1"><b>Magical Armor:</b> 5</td>
+<td colspan="2"><b>Weapon:</b> Unarmed</td>
+</tr>
+<tr>
+<td colspan="4"><i>Mount</i> - Passive
+Ridable by creatures of roughly human size and weight.
+A rider who is not familiar to this kirin must make a Riding skill roll against a success threshold of 15 in order to mount it.
+</td>
+</tr>
+<tr>
+<td colspan="4"><i>Bond</i> - Passive
+To make this kirin feel familiar to it, a creature can attempt a Magic Sense skill roll against a success threshold of 18. This task takes seven days, which can be spread up to a month.
+</td>
+</tr>
+<tr>
+<td colspan="4"><i>Strike</i> - Action, basic weapon attack
+When commanded by a rider, performing this attack requires a Riding skill roll against a success threshold of 9.
+Deals 25 magical damage.
+</td>
+</tr>
+<tr>
+<td colspan="4"><i>Blast</i> - Action, technique
+When commanded by a rider, performing this attack requires a Riding skill roll against a success threshold of 12.
+This attack's precision rolls are made against Evasion.
+This kirin creates a magical explosion, hitting all creatures within a 1 meter radius around itself.
+Deals 10 magical damage and applies burning (10 damage) for 1 round. 
+</td>
+</tr>
+<tr>
+<td colspan="4"><i>Canter</i> - Running style
+This kirin moves in a straight line up to 5 times its movement speed. While cantering, the kirin can walk on water. 
+This ability's speed can be used to flee from combat.
+If this kirin is fatigued, it can't canter.
+</td>
+</tr>
+</table>
+
+---
+<table style="width: 100%; max-width: 720px; border-style: inset;">
+<tr>
 <th>Legendary Earthworm</th>
 <td colspan="3">Level 10 - Boss</td>
 </tr>
@@ -374,7 +434,7 @@ The wyrm recharges its breath ability.
 <tr style="border-bottom: solid 2px">  
 <td colspan="1"><b>Physical Armor:</b> 10</td>
 <td colspan="1"><b>Magical Armor:</b> 5</td>
-<td colspan="2"><b>Weapon:</b> Scales, tail and teeth</td>
+<td colspan="2"><b>Weapon:</b> Unarmed</td>
 </tr>
 <tr>
 <td colspan="4"><i>Large Creature</i> - Passive
