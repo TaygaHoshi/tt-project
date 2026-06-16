@@ -29,10 +29,10 @@ Weapon attacks tagged (Passive) are passive abilities which work only when the w
 **Attributes**
 	Ranged weapon
 	-1 weapon precision
-**Rapid action** *Focus ray* (basic weapon attack)
+**Rapid action** *Blast* (basic weapon attack)
 	Roll against Warding
-	Range: 3 meters
-	Projectile. Shoot a ray that deals 5 magical damage. Potency bonus to this attack's damage is halved.
+	Range: 1 meter
+	Deals 5 magical damage.
 **Rapid action** *Projectile defense*
 	You have quarter cover against magical projectile attacks for 1 round.
 

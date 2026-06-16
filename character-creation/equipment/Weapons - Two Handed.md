@@ -12,7 +12,7 @@ Two handed weapons have three weapon attacks.
 | Long-grip sword |   25   |        +1        |    0    |    1 meter    |
 | War hammer      |   20   |        0         |    0    |    1 meter    |
 | Staff           |   20   |        +1        |    0    |   10 meters   |
-| Crossbow        |   20   |        +1        |   -1    |   10 meters   |
+| Crossbow        |   20   |        +1        |   -2    |   10 meters   |
 | Recurve bow     |   20   |        0         |   -1    |   15 meters   |
 | Reflex bow      |   15   |        +1        |    0    |   10 meters   |
 | War drums       |   0    |        0         |   -2    | Hearing range |
@@ -117,20 +117,20 @@ Two handed weapons have three weapon attacks.
 **Attributes**
 	Ranged weapon
 	+1 weapon precision
-	-1 stealth penalty
+	-2 stealth penalty
 **Passive** *Unsteady aiming*
 	Your projectile attacks with crossbows have a -2 penalty to precision rolls while unsteady. 
 **Passive** *Reloading*
-	This weapon requires it to be reloaded before shooting, and it can be reloaded as a rapid action or by spending 1 energy.
+	This weapon requires it to be reloaded before shooting, and it can be reloaded as a rapid action.
 **Action** *Shoot* (basic weapon attack)
 	Roll against Parry
 	Range: 10 meters
-	Projectile. Deals 20 physical damage.
-**Action** *Piercing shot*
+	Projectile. Deals 20 physical damage. 
+**Rapid action** *Hasty shot*
 	Roll against Evasion
-	Range: 5 meters
-	Additionally attack the next creature directly behind your target within range. 
-	Each successful attack deals 10 armor-ignoring damage.
+	Range: 10 meters
+	Ignores weapon precision.
+	Projectile. Deals 15 physical damage. Potency bonus to this attack's damage is halved. 
 **Prepared action** *Bash*
 	Roll against Parry
 	Range: 1 meter
@@ -151,7 +151,7 @@ Two handed weapons have three weapon attacks.
 **Action** *Curving shot*
 	Roll against Parry
 	Range: 15 meters
-	Deals 15 physical damage.
+	Projectile. Deals 15 physical damage.
 	This attack ignores non-magical cover, as long as the target is in line of sight.
 **Prepared action** *Bash*
 	Roll against Parry
