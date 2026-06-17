@@ -22,7 +22,7 @@ If you roll an unmodified 10 on a precision roll of a damaging ability, you deal
 Additionally, you can choose to activate this ability as part of a basic weapon attack by spending 3 energy.
 
 ### Weapon Expertise
-During your turns, you can swap weapons without a rapid action by spending 1 energy.
+During your turns, you can perform the *swap weapons* common action without a rapid action by spending 1 energy.
 
 ### Keen Rejuvenation
 Your *critical training* triggers on an unmodified roll of 9 or above, and you gain 1 energy if you successfully hit with your ability.
