@@ -42,10 +42,10 @@ Instead of dealing bonus damage with *critical training*, you can choose to appl
 ### Brutal Attack
 **Category:** Modification
 **Execution Time:** Special
-**Cost:** 1 energy
+**Cost:** 2 energy
 **Effect**
 	You can choose to activate this technique as part of a damaging basic weapon attack.
-	This attack gains a +5 bonus to its damage but receives a -2 penalty to its precision rolls.
+	This attack gains a +5 bonus to its damage but receives a -1 penalty to its precision rolls.
 
 ### Crushing Charge
 **Category:** Modification
