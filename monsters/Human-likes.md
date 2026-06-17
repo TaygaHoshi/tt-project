@@ -25,7 +25,7 @@ title = 'Human-likes'
 <tr style="border-bottom: solid 2px">  
 <td colspan="1"><b>Physical Armor:</b> 5</td>
 <td colspan="1"><b>Magical Armor:</b> 5</td>
-<td colspan="2"><b>Weapon:</b> Claws</td>
+<td colspan="2"><b>Weapon:</b> Unarmed</td>
 </tr>
 <tr>
 <td colspan="4"><i>Slash</i> - Action, basic weapon attack
@@ -66,7 +66,7 @@ This monster is unable to move or use any other ability while tickling someone.
 <tr style="border-bottom: solid 2px">  
 <td colspan="1"><b>Physical Armor:</b> 5</td>
 <td colspan="1"><b>Magical Armor:</b> 0</td>
-<td colspan="2"><b>Weapon:</b> Various melee weapons</td>
+<td colspan="2"><b>Weapon:</b> Long-grip sword</td>
 </tr>
 <tr>
 <td colspan="4"><i>Vampiric Affinity</i> - Passive
@@ -183,7 +183,7 @@ Can be used once per day.
 <tr style="border-bottom: solid 2px">  
 <td colspan="1"><b>Physical Armor:</b> 5</td>
 <td colspan="1"><b>Magical Armor:</b> 5</td>
-<td colspan="2"><b>Weapon:</b> Claws and teeth</td>
+<td colspan="2"><b>Weapon:</b> Unarmed</td>
 </tr>
 <tr>
 <td colspan="4"><i>Human Transformation</i> - Full-turn action, technique
@@ -191,20 +191,21 @@ This monster has a human form that they can transform into for 8 hours per day. 
 </td>
 </tr>
 <tr>
-<td colspan="4"><i>Slash</i> - Action, basic weapon attack
+<td colspan="4"><i>Bite</i> - Action, basic weapon attack
 Deals 20 physical damage.
+</td>
+</tr>
+<tr>
+<td colspan="4"><i>Dizzying Looks</i> - Action, technique
+This technique's precision roll is made against Constitution.
+Range: 5 meters.
+Applies disoriented (-2) for 2 rounds.
 </td>
 </tr>
 <tr>
 <td colspan="4"><i>Charming</i> - Rapid action, technique
 Range: 5 meters.
 Applies weakened defenses (-2) for 1 round.
-</td>
-</tr>
-<tr>
-<td colspan="4"><i>Attraction</i> - Full-turn action, technique
-Range: 5 meters.
-Applies disoriented (-2) for 2 rounds.
 </td>
 </tr>
 <tr>
@@ -240,7 +241,7 @@ After charging, this yooha becomes fatigued for 1 round.
 <tr style="border-bottom: solid 2px">  
 <td colspan="1"><b>Physical Armor:</b> 5</td>
 <td colspan="1"><b>Magical Armor:</b> 5</td>
-<td colspan="2"><b>Weapon:</b> Claws and teeth</td>
+<td colspan="2"><b>Weapon:</b> Unarmed</td>
 </tr>
 <tr>
 <td colspan="4"><i>Human Transformation</i> - Full-turn action, technique
@@ -248,21 +249,21 @@ This monster has a human form that they can transform into for 16 hours per day.
 </td>
 </tr>
 <tr>
-<td colspan="4"><i>Slash</i> - Action, basic weapon attack
+<td colspan="4"><i>Bite</i> - Action, basic weapon attack
 Deals 25 physical damage.
+</td>
+</tr>
+<tr>
+<td colspan="4"><i>Dizzying Looks</i> - Action, technique
+This technique's precision roll is made against Constitution.
+Range: 5 meters.
+Applies disoriented (-2) for 2 rounds. If the target is already disoriented, it is instead immobilized for 2 rounds.
 </td>
 </tr>
 <tr>
 <td colspan="4"><i>Poem of Recovery</i> - Rapid action, technique
 Range: 3 meters.
 Heals the target creature for 6 health.
-</td>
-</tr>
-<tr>
-<td colspan="4"><i>Attraction</i> - Full-turn action, technique
-Range: 5 meters.
-Applies disoriented (-2) for 2 rounds.
-If the target is already disoriented, it is instead immobilized for 2 rounds.
 </td>
 </tr>
 <tr>

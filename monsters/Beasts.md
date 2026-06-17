@@ -25,7 +25,7 @@ title = 'Beasts'
 <tr style="border-bottom: solid 2px">  
 <td colspan="1"><b>Physical Armor:</b> 0</td>
 <td colspan="1"><b>Magical Armor:</b> 0</td>
-<td colspan="2"><b>Weapon:</b> Claws and teeth</td>
+<td colspan="2"><b>Weapon:</b> Unarmed</td>
 </tr>
 <tr>
 <td colspan="4"><i>Strike</i> - Action, basic weapon attack
@@ -74,7 +74,7 @@ Attacks the next foe who moves into, within or out of melee range, dealing 10 ph
 <tr style="border-bottom: solid 2px">  
 <td colspan="1"><b>Physical Armor:</b> 0</td>
 <td colspan="1"><b>Magical Armor:</b> 0</td>
-<td colspan="2"><b>Weapon:</b> Claws and teeth</td>
+<td colspan="2"><b>Weapon:</b> Unarmed</td>
 </tr>
 <tr>
 <td colspan="4"><i>Slash</i> - Action, basic weapon attack
@@ -223,7 +223,7 @@ Attacks the next foe who moves into, within or out of melee range, dealing 10 ph
 <tr style="border-bottom: solid 2px">  
 <td colspan="1"><b>Physical Armor:</b> 0</td>
 <td colspan="1"><b>Magical Armor:</b> 0</td>
-<td colspan="2"><b>Weapon:</b> Claws</td>
+<td colspan="2"><b>Weapon:</b> Unarmed</td>
 </tr>
 <tr>
 <td colspan="4"><i>Flight</i> - Passive
@@ -262,7 +262,7 @@ Deals 10 physical damage.
 <tr style="border-bottom: solid 2px">  
 <td colspan="1"><b>Physical Armor:</b> 5</td>
 <td colspan="1"><b>Magical Armor:</b> 5</td>
-<td colspan="2"><b>Weapon:</b> Antlers</td>
+<td colspan="2"><b>Weapon:</b> Unarmed</td>
 </tr>
 <tr>
 <td colspan="4"><i>Nature Bond</i> - Passive
