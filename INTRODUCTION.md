@@ -4,17 +4,15 @@ type = "home"
 weight = 1
 +++
 
-Sigil of Uchma is a work-in-progress fantasy tabletop role playing game inspired by medieval Central Asian mythologies. The name is a reference to historical usage of [Nazar amulets](https://en.wikipedia.org/wiki/Nazar_(amulet)), and it can be abbreviated simply as "Sigil".
+Sigil of Uchma is a work-in-progress fantasy tabletop role playing game inspired by medieval Central Asian mythologies. The name is a reference to historical usage of [Nazar amulets](https://en.wikipedia.org/wiki/Nazar_(amulet)), and it can be abbreviated simply as "Sigil". The game not ready for full campaigns yet. 
 
 The game is played with one game master (GM) and one or more players:
 - The GM builds and runs the campaign, enforces the rules of the game, applies or creates resolution mechanics as necessary and controls the non-player characters (NPCs). 
 - Each player controls a single player character (PC). Through their characters, players can explore the world, battle enemies, interact with NPCs, pursue and complete quests, find treasures and go on adventures.
 
-Furthermore, Sigil is a relatively simplified take on the more well-known tabletop games. There are not many calculations to slow turns down during combat. Most numbers like damage of a weapon can be calculated beforehand. With proper notes, turns can get fast.
+Sigil is a combat based game. However, there are not many calculations to slow turns down during combat: most numbers like damage of a weapon can be calculated beforehand. With proper notes, turns can get fast. There are also various rules for exploration, inventory management, crafting, travelling, interactions with NPCs and other similar activities. Such activities have simple rules, meaning most of the moment-to-moment decision making outside combat follows easy rules or are left to common sense.
 
-In addition, there are various rules for exploration, inventory management, crafting, travelling, interactions with NPCs and other similar activities. Such activities have simple rules, and most of the moment-to-moment decision making outside combat is left to common sense and imagination.
-
-Sigil is work-in-progress and not ready for full campaigns yet. You are seeing the version *v1-b2* (beta).
+You are seeing the version *v1-b2* (beta).
 
 ---
 ## Where to Start
@@ -23,9 +21,9 @@ Sigil is a d10-based, combat-focused game with a simple action economy. While [[
 
 Each [[Character Creation|player character]] consists of many unique and interesting choices: [[Equipment#Weapons|weapons]] provide active abilities, [[Equipment#Armor|armors]] are strong, [[Character Creation#Techniques|techniques]] carry an impact while not being overpowered, and the two [[Character Creation#Aptitudes|aptitudes]] allow players to fine tune how these abilities scale. Also, there are rarely any limitations: a [[Path of Guides|Guide]] or a [[Path of Sorcerers|Sorcerer]] can wear any type of armor and wield all weapons without penalties.
 
-During their adventures, the party might come across and fight [[Monsters|monsters]] such as charming snake-women, tickling sheep-men, elemental spirits as protectors of the nature or owl-vampires. In combat, a player character can use actions granted by their [[Equipment#Weapons|weapons]], or the [[Common Actions|common actions]] available to every character, to attack their foes. Should regular offence not be sufficient, the characters also have [[Character Creation#Techniques|techniques]] (and class abilities) granted by their [[Character Creation#Classes|Paths]], their main background in life, and [[Character Creation#Classes|Branches]], their secondary expertise. A character's Path also defines their health.
+During their adventures, the party might come across and fight [[Monsters|monsters]] such as charming snake-women, tickling sheep-men, elemental spirits as protectors of the nature and owl-vampires. In combat, a player character can use actions granted by their [[Equipment#Weapons|weapons]], or the [[Common Actions|common actions]] available to every character, to attack their foes. Should regular offence not be sufficient, the characters also have [[Character Creation#Techniques|techniques]] (and class abilities) granted by their [[Character Creation#Classes|Paths]], their main background in life, and [[Character Creation#Classes|Branches]], their secondary expertise. A character's Path also defines their health.
 
-They can also endure the offence of enemies through negating it with their innate [[Character Creation#Resistances|resistances]] or mitigating it through equipment such as [[Equipment#Armor|armor]] and defensive [[Weapons - Off Hand|off-hand weapons]], or taking it and keeping on fighting with their health pool. Using the right technique at the right time can provide an edge in combat. Just make sure to spare some [[Character Creation#Energy|energy]] if you’re expecting more fighting soon, as techniques require energy which you need to [[Character Creation#Resting and Sleeping|rest]] to replenish properly.
+They can also endure the attacks of enemies through negating it with their innate [[Character Creation#Resistances|resistances]] or mitigating it through equipment such as [[Equipment#Armor|armor]] and defensive [[Weapons - Off Hand|off-hand weapons]], or taking it and keeping on fighting with their health pool. Using the right technique at the right time can provide an edge in combat. Just make sure to spare some [[Character Creation#Energy|energy]] if you’re expecting more fighting soon, as many abilities require energy which you need to [[Character Creation#Resting and Sleeping|rest]] to replenish properly.
 
 ### Reading this website
 The bulk of the rules used within combat encounters are in [[Combat|the combat page]]. While it is a good place to dive into the game, you might want to start from [[Character Creation|the character creation page]] for a more gradual introduction. This step can be followed through via [the character creation website](https://sigil-create.tyghsh.cc).
