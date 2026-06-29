@@ -422,7 +422,7 @@ If this kirin is fatigued, it can't canter.
 <td colspan="3"><b>Movement:</b> 3 meters</td>  
 </tr>
 <tr style="border-bottom: dashed 2px">
-<td colspan="2"><b>Major skills:</b> Athlethics </td> 
+<td colspan="2"><b>Major skills:</b> Athletics </td> 
 <td colspan="2"><b>Precision Roll:</b> d10 + 5</td> 
 </tr>
 <tr>

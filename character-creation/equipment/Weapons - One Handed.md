@@ -88,7 +88,7 @@ One handed weapons are divided into two: heavy weapons and light weapons. Light 
 	Immobilizes the target for $1+\frac{Control}{4}$ rounds.
 **Prepared action** *Magic Protection*
 	Only usable when wielded with off-hand.
-	Gain $3+\frac{Potency}{3}$ temporary magical armor.
+	Gain $3+\frac{Potency}{3}$ temporary magical armor for the duration of this preparation.
 
 ### Shortsword (Light)
 **Attributes**
