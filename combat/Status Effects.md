@@ -26,6 +26,7 @@ weight = 2
 + Reduces movement speed by 2 per stack.
 + Applies a -2 penalty to precision rolls and all resistances per stack.
 + Stacks up to 5. When fatigued is reapplied, the stack count increases and all stacks share the longest remaining duration.
++ This status effect can't be removed normally via techniques or abilities. 
 
 ### Immobilized
 + An immobilized creature is unable to move willingly.
