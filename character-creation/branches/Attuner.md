@@ -139,7 +139,7 @@ By spending 1 energy when using an ability that uses the element you are envelop
 **Duration:** (2 + $\frac{\text{Control}}{2}$) hours
 **Effect**
 	You can vaguely guide the natural features of the geography around you to change shape. After half of this technique's duration has passed, the geography starts slowly returning to its original shape. While performing this technique, you can choose to spend double the energy cost instead. In this case the technique requires 8 hours of uninterrupted casting but its effects stay permanent.
-	If you are enveloped in earth element, this technique's radius increases by 1 meters and it costs only 2 hours of uninterrupted casting for permanency.
+	If you are enveloped in earth element, this technique's radius increases by 1 meters and it costs only 2 hours of uninterrupted casting for its effects to be permanent.
 
 ### Metalskin
 **Category:**  Offense

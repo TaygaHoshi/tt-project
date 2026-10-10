@@ -19,7 +19,7 @@ title = 'Unique Weapons'
 **Bulk:** Off-hand weapon
 **Description:**
 	A smaller and lighter shield which is as good at parrying as regular shields.
-	While it does not grant any physical armor, it does not incur the weapon precision penalty that a heavier shield would. 
+	While it does not grant any physical armor, it does not incur the weapon precision penalty that a regular shield would. 
 
 ## Two handed weapons
 ### Repeating Crossbow

@@ -92,7 +92,7 @@ Some prepared actions may mention "moving into, out of or within an area". In th
 	+ Rocks, deep water, or similar materials block sound. Similarly, some magical effects may block sounds.
 	+ Sounds can pass through up to 1 meter of wood, metal, shallow water, or similar materials.
 + If an ability allows you to choose one or more targets, as long as you only target one creature, that ability is considered a single target ability. This does not apply to radius based area of effect abilities.
-+ In addition to the above rules, unless specified otherwise, you count as your own ally. 
++ In addition to the above rules, unless specified otherwise, creatures are considered allies of themselves. 
 
 ### Precision Rolls
 Precision rolls determine whether a weapon attack, a technique or any other ability succeeds against an unwilling target. A precision roll is made against a resistance, such as Parry or Evasion. If the result of this roll exceeds or is equal to the resistance, the roll succeeds and the technique or attack connects. 
