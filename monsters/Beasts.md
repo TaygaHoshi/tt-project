@@ -5,7 +5,7 @@ title = 'Beasts'
 <table style="width: 100%; max-width: 720px; border-style: inset;">
 <tr>
 <th>Wild Dog</th>
-<td colspan="3">Level 1 - Minion</td>
+<td colspan="3">Level 1 - Combatant</td>
 </tr>
 <tr style="border-bottom: solid 2px"><td colspan="4">While domesticated dogs are great companions, wild dogs are not. These dogs will do everything to ensure their survival. They are usually found in small packs.</td></tr>
 <tr>  
@@ -54,7 +54,7 @@ Attacks the next foe who moves into, within or out of melee range, dealing 10 ph
 <table style="width: 100%; max-width: 720px; border-style: inset;">
 <tr>
 <th>Vampire Kin</th>
-<td colspan="3">Level 1 - Minion</td>
+<td colspan="3">Level 1 - Combatant</td>
 </tr>
 <tr style="border-bottom: solid 2px"><td colspan="4">Weak vampire kins are flightless beasts. They are almost exclusively found as summons from vampires.</td></tr>
 <tr>  
@@ -93,7 +93,7 @@ Can charge for up to 12 meters and attack with Slash, receiving a -2 penalty to 
 <table style="width: 100%; max-width: 720px; border-style: inset;">
 <tr>
 <th>Common Horse</th>
-<td colspan="3">Level 2 - Minion, mount</td>
+<td colspan="3">Level 2 - Combatant, mount</td>
 </tr>
 <tr style="border-bottom: solid 2px"><td colspan="4">To do: add lore</td></tr>
 <tr>  
@@ -151,7 +151,7 @@ If this horse gallops for more than 1 minute, it is fatigued for 1d4 hours, and 
 <table style="width: 100%; max-width: 720px; border-style: inset;">
 <tr>
 <th>Common Wolf</th>
-<td colspan="3">Level 2 - Minion</td>
+<td colspan="3">Level 2 - Combatant</td>
 </tr>
 <tr style="border-bottom: solid 2px"><td colspan="4">Wolves are pack animals found almost everywhere, although rarely. They are ferocious beasts and regularly ambush travelers, raid small settlements and steal farm animals. Their strength and resilience also makes them common objects of admiration among people.</td></tr>
 <tr>  
@@ -242,7 +242,7 @@ Deals 10 physical damage.
 <table style="width: 100%; max-width: 720px; border-style: inset;">
 <tr>
 <th>Mystical Deer</th>
-<td colspan="3">Level 6 - Boss</td>
+<td colspan="3">Level 6 - Leader</td>
 </tr>
 <tr style="border-bottom: solid 2px"><td colspan="4">A large, white deer. They are thought to be normal deer infused with the magic from a magical point of interest found naturally.</td></tr>
 <tr>  
@@ -297,7 +297,7 @@ Attacks the next foe who moves into, within or out of melee range, dealing 10 ph
 <table style="width: 100%; max-width: 720px; border-style: inset;">
 <tr>
 <th>Wyrm</th>
-<td colspan="3">Level 6 - Minion</td>
+<td colspan="3">Level 6 - Combatant</td>
 </tr>
 <tr style="border-bottom: solid 2px"><td colspan="4">To do: add lore</td></tr>
 <tr>  
@@ -354,7 +354,7 @@ The wyrm recharges its breath ability.
 <table style="width: 100%; max-width: 720px; border-style: inset;">
 <tr>
 <th>Kirin</th>
-<td colspan="3">Level 8 - Minion, mount</td>
+<td colspan="3">Level 8 - Combatant, mount</td>
 </tr>
 <tr style="border-bottom: solid 2px"><td colspan="4">To do: add lore</td></tr>
 <tr>  
@@ -414,7 +414,7 @@ If this kirin is fatigued, it can't canter.
 <table style="width: 100%; max-width: 720px; border-style: inset;">
 <tr>
 <th>Legendary Earthworm</th>
-<td colspan="3">Level 10 - Boss</td>
+<td colspan="3">Level 10 - Leader</td>
 </tr>
 <tr style="border-bottom: solid 2px"><td colspan="4">To do: add lore</td></tr>
 <tr>  

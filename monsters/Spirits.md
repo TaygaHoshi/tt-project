@@ -10,9 +10,9 @@ Spirits are protectors of the material world, usually found near important point
 <table style="width: 100%; max-width: 720px; border-style: inset;">
 <tr>
 <th>Aspect of Fire</th>
-<td colspan="3">Level 0 - Minion</td>
+<td colspan="3">Level 0 - Combatant</td>
 </tr>
-<tr style="border-bottom: solid 2px"><td colspan="4">To do: add lore</td></tr>
+<tr style="border-bottom: solid 2px"><td colspan="4">Aspects of fire are born from small unattended flames. Most are too weak to make themselves known. In rare cases and under the right conditions, an aspect may manifest a small body for itself.</td></tr>
 <tr>  
 <td><strong>Health:</strong> 20</td>  
 <td colspan="3"><strong>Movement:</strong> 5 meters</td>  
@@ -56,9 +56,9 @@ Applies burning (10 damage) for 1 round.
 <table style="width: 100%; max-width: 720px; border-style: inset;">
 <tr>
 <th>Aspect of Water</th>
-<td colspan="3">Level 0 - Minion</td>
+<td colspan="3">Level 0 - Combatant</td>
 </tr>
-<tr style="border-bottom: solid 2px"><td colspan="4">To do: add lore</td></tr>
+<tr style="border-bottom: solid 2px"><td colspan="4">Aspects of water inhabit tiny bodies of water such as puddles. Most are too weak to make themselves known. In rare cases and under the right conditions, an aspect may manifest a small body for itself.</td></tr>
 <tr>  
 <td><strong>Health:</strong> 20</td>  
 <td colspan="3"><strong>Movement:</strong> 5 meters</td>  
@@ -100,9 +100,9 @@ Applies soaked for 1 round.
 <table style="width: 100%; max-width: 720px; border-style: inset;">
 <tr>
 <th>Aspect of Metal</th>
-<td colspan="3">Level 0 - Minion</td>
+<td colspan="3">Level 0 - Combatant</td>
 </tr>
-<tr style="border-bottom: solid 2px"><td colspan="4">To do: add lore</td></tr>
+<tr style="border-bottom: solid 2px"><td colspan="4">Aspects of metal can be found in various places such as near veins of ore or forges used to work metal. Most are too weak to make themselves known. In rare cases and under the right conditions, an aspect may manifest a small body for itself.</td></tr>
 <tr>  
 <td><strong>Health:</strong> 20</td>  
 <td colspan="3"><strong>Movement:</strong> 5 meters</td>  
@@ -145,9 +145,9 @@ Applies electrified (10 damage) for 1 round.
 <table style="width: 100%; max-width: 720px; border-style: inset;">
 <tr>
 <th>Aspect of Earth</th>
-<td colspan="3">Level 0 - Minion</td>
+<td colspan="3">Level 0 - Combatant</td>
 </tr>
-<tr style="border-bottom: solid 2px"><td colspan="4">To do: add lore</td></tr>
+<tr style="border-bottom: solid 2px"><td colspan="4">Aspects of earth live in caves or mountains. Most are too weak to make themselves known. In rare cases and under the right conditions, an aspect may manifest a small body for itself.</td></tr>
 <tr>  
 <td><strong>Health:</strong> 20</td>  
 <td colspan="3"><strong>Movement:</strong> 5 meters</td>  
@@ -190,9 +190,9 @@ This spirit shoots two daggers at the same target, each dealing 5 armor-ignoring
 <table style="width: 100%; max-width: 720px; border-style: inset;">
 <tr>
 <th>Aspect of Nature</th>
-<td colspan="3">Level 0 - Minion</td>
+<td colspan="3">Level 0 - Combatant</td>
 </tr>
-<tr style="border-bottom: solid 2px"><td colspan="4">To do: add lore</td></tr>
+<tr style="border-bottom: solid 2px"><td colspan="4">Aspects of nature are born from trees or bushes. Most are too weak to make themselves known. In rare cases and under the right conditions, an aspect may manifest a small body for itself.</td></tr>
 <tr>  
 <td><strong>Health:</strong> 20</td>  
 <td colspan="3"><strong>Movement:</strong> 5 meters</td>  
@@ -236,16 +236,16 @@ Deals 10 magical damage.
 
 <table style="width: 100%; max-width: 720px; border-style: inset;">
 <tr>
-<th>Minor Fire Spirit</th>
-<td colspan="3">Level 2 - Minion</td>
+<th>Hearth Spirit</th>
+<td colspan="3">Level 2 - Combatant</td>
 </tr>
-<tr style="border-bottom: solid 2px"><td colspan="4">To do: add lore</td></tr>
+<tr style="border-bottom: solid 2px"><td colspan="4">Hearth spirits are minor guardian spirits that settle within household ovens and communal hearths. They reflect the treatment of the fires they inhabit, appearing healthy and radiant where the hearth is respected, and gaunt or hostile where it is neglected or insulted.</td></tr>
 <tr>  
 <td><strong>Health:</strong> 60</td> 
 <td colspan="3"><strong>Movement:</strong> 6 meters</td>  
 </tr>
 <tr style="border-bottom: dashed 2px">
-<td colspan="2"><strong>Major skills:</strong> Magic Sense, Insight</td> 
+<td colspan="2"><strong>Major skills:</strong> Magic Sense</td> 
 <td colspan="2"><strong>Precision Roll:</strong> d10 + 1</td> 
 </tr>
 <tr>
@@ -266,23 +266,27 @@ While this spirit is soaked or frostbitten, it is also slowed.
 </td>
 </tr>
 <tr>
+<td colspan="4"><em>Guardian</em> - Passive
+If this spirit has settled within a fireplace, hostile spirits of its level or lower cannot come within 5 meters of the fireplace.
+</td>
+</tr>
+<tr>
 <td colspan="4"><em>Burning Claw</em> - Action, basic weapon attack
 Deals 10 physical damage.
 Applies burning (10 damage) for 2 rounds.
 </td>
 </tr>
 <tr>
+<td colspan="4"><em>Housewarmth</em> - Action, technique
+Radius: 2 meters.
+Allies of this spirit within radius gain 5 temporary magical armor for 1 round. 
+</td>
+</tr> 
+<tr>
 <td colspan="4"><em>Conflagration</em> - Rapid action, technique
 This ability's precision rolls are made against Evasion. 
 Radius: 2 meters.
 Burning creatures within radius take 10 magical damage.
-</td>
-</tr>
-<tr>
-<td colspan="4"><em>Flaming Trail</em> - Full-turn action, technique
-This ability's precision rolls are made against Constitution.
-This spirit moves up to its movement speed, leaving a trail of fire behind the squares it passes through. This trail stays alight for 1 round and deals 10 magical damage whenever a creature steps into a burning square.
-Creatures with fire affinity are unaffected by this technique.
 </td>
 </tr>
 <tr>
@@ -295,16 +299,16 @@ Attacks the next foe who moves into, out of or within range, dealing 10 physical
 ---
 <table style="width: 100%; max-width: 720px; border-style: inset;">
 <tr>
-<th>Minor Water Spirit</th>
-<td colspan="3">Level 2 - Minion</td>
+<th>River Spirit</th>
+<td colspan="3">Level 2 - Combatant</td>
 </tr>
-<tr style="border-bottom: solid 2px"><td colspan="4">To do: add lore</td></tr>
+<tr style="border-bottom: solid 2px"><td colspan="4">River spirits, sometimes called stream spirits, are minor spirits inhabiting bodies of flowing freshwater. They are unpredictable and known to drown animals and people on a whim. If disturbed, they will cause their stream to overflow, damaging anything nearby.</td></tr>
 <tr>  
 <td><strong>Health:</strong> 60</td>  
 <td colspan="3"><strong>Movement:</strong> 6 meters</td>  
 </tr>
 <tr style="border-bottom: dashed 2px">
-<td colspan="2"><strong>Major skills:</strong> Magic Sense, Insight</td> 
+<td colspan="2"><strong>Major skills:</strong> Magic Sense</td> 
 <td colspan="2"><strong>Precision Roll:</strong> d10 + 1</td> 
 </tr>
 <tr>
@@ -320,20 +324,26 @@ Attacks the next foe who moves into, out of or within range, dealing 10 physical
 </tr>
 <tr>
 <td colspan="4"><em>Water Affinity</em> - Passive
-This spirit can't be soaked, but it takes a +5 bonus damage from electrified and frostbitten.
+This spirit can't be soaked, but it takes a +5 bonus damage from electrified. 
 </td>
 </tr>
 <tr>
-<td colspan="4"><em>Ice Shards</em> - Action, basic weapon attack, projectile
-This spirit shoots two shards of ice at its target creature. Each shard deals 10 magical damage.
-if both shards hit, target is frostbitten (5 damage) for 1 round.
+<td colspan="4"><em>Splash</em> - Action, basic weapon attack
+Range: 3 meters.
+Deals 20 physical damage.
+</td>
+</tr>
+<tr>
+<td colspan="4"><em>Overflow</em> - Full-turn action, technique
+The river of this spirit gradually expands at a rate of 1 meter every 2 rounds starting from the next round, up to a maximum of 3 meters. It will then return to normal within half a day.
+This ability is considered an environmental effect.
 </td>
 </tr>
 <tr>
 <td colspan="4"><em>Waterjet</em> - Rapid action, technique, projectile
 This attack's precision roll is made against Evasion.
 Range: 2 meters.
-This spirit creates a jet of water, dealing 5 physical damage and pushing its target for up to two meters.
+This spirit shoots a stream of pressurized water, dealing 5 physical damage and pushing its target for up to two meters.
 Applies soaked for 1 round.
 </td>
 </tr>
@@ -349,7 +359,7 @@ Attacks the next foe who moves into, out of or within range, dealing 10 physical
 <table style="width: 100%; max-width: 720px; border-style: inset;">
 <tr>
 <th>Minor Metal Spirit</th>
-<td colspan="3">Level 2 - Minion</td>
+<td colspan="3">Level 2 - Combatant</td>
 </tr>
 <tr style="border-bottom: solid 2px"><td colspan="4">To do: add lore</td></tr>
 <tr>  
@@ -408,7 +418,7 @@ After charging, the spirit becomes fatigued for 1 round.
 <table style="width: 100%; max-width: 720px; border-style: inset;">
 <tr>
 <th>Common Fire Spirit</th>
-<td colspan="3">Level 4 - Minion</td>
+<td colspan="3">Level 4 - Combatant</td>
 </tr>
 <tr style="border-bottom: solid 2px"><td colspan="4">To do: add lore</td></tr>
 <tr>  
@@ -472,7 +482,7 @@ Attacks the next foe who moves into, out of or within range, dealing 12 physical
 <table style="width: 100%; max-width: 720px; border-style: inset;">
 <tr>
 <th>Common Water Spirit</th>
-<td colspan="3">Level 4 - Minion</td>
+<td colspan="3">Level 4 - Combatant</td>
 </tr>
 <tr style="border-bottom: solid 2px"><td colspan="4">To do: add lore</td></tr>
 <tr>  
@@ -501,6 +511,8 @@ This spirit can't be soaked, but it takes a +5 bonus damage from electrified and
 </tr>
 <tr>
 <td colspan="4"><em>Ice Shards</em> - Action, basic weapon attack, projectile
+This attack's precision roll is made against Warding.
+Range: 5 meters.
 This spirit shoots two shards of ice at its target creature. Each shard deals 12 magical damage.
 if both shards hit, target is frostbitten (6 damage) for 1 round.
 </td>
@@ -530,7 +542,7 @@ Attacks the next foe who moves into, out of or within range, dealing 12 physical
 <table style="width: 100%; max-width: 720px; border-style: inset;">
 <tr>
 <th>Common Metal Spirit</th>
-<td colspan="3">Level 4 - Minion</td>
+<td colspan="3">Level 4 - Combatant</td>
 </tr>
 <tr style="border-bottom: solid 2px"><td colspan="4">To do: add lore</td></tr>
 <tr>  
@@ -594,7 +606,7 @@ After charging, the spirit becomes fatigued for 1 round.
 <table style="width: 100%; max-width: 720px; border-style: inset;">
 <tr>
 <th>Major Fire Spirit</th>
-<td colspan="3">Level 8 - Minion</td>
+<td colspan="3">Level 8 - Combatant</td>
 </tr>
 <tr style="border-bottom: solid 2px"><td colspan="4">To do: add lore</td></tr>
 <tr>  
@@ -665,7 +677,7 @@ Attacks the next foe who moves into, out of or within range, dealing 15 physical
 <table style="width: 100%; max-width: 720px; border-style: inset;">
 <tr>
 <th>Major Water Spirit</th>
-<td colspan="3">Level 8 - Minion</td>
+<td colspan="3">Level 8 - Combatant</td>
 </tr>
 <tr style="border-bottom: solid 2px"><td colspan="4">To do: add lore</td></tr>
 <tr>  
@@ -694,6 +706,8 @@ This spirit can't be soaked, but it takes a +5 bonus damage from electrified and
 </tr>
 <tr>
 <td colspan="4"><em>Ice Shards</em> - Action, basic weapon attack, projectile
+This attack's precision roll is made against Warding.
+Range: 5 meters.
 This spirit shoots two shards of ice at its target creature. Each shard deals 15 magical damage.
 if both shards hit, target is frostbitten (10 damage) for 1 round.
 </td>
@@ -724,3 +738,4 @@ This spirit creates a large and stationary weather event around itself. Any crea
 </td>
 </tr>
 </table>
+

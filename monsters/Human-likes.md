@@ -5,7 +5,7 @@ title = 'Human-likes'
 <table style="width: 100%; max-width: 720px; border-style: inset;">
 <tr>
 <th>Shurali</th>
-<td colspan="3">Level 2 - Minion</td>
+<td colspan="3">Level 2 - Combatant</td>
 </tr>
 <tr style="border-bottom: solid 2px"><td colspan="4">The Shurali are humanoid sheep with one horn. They are pranksters known for tickling people to death.</td></tr>
 <tr>  
@@ -46,7 +46,7 @@ This monster is unable to move or use any other ability while tickling someone.
 <table style="width: 100%; max-width: 720px; border-style: inset;">
 <tr>
 <th>Lesser Vampire Warrior</th>
-<td colspan="3">Level 3 - Minion or Boss</td>
+<td colspan="3">Level 3 - Combatant or Leader</td>
 </tr>
 <tr style="border-bottom: solid 2px"><td colspan="4">Vampires are the reason why forests at night are dangerous. Lesser vampires are almost always found working or studying under a higher vampire. However, there are sightings of rogue vampires. Some even lead bandits or beasts.</td></tr>
 <tr>  
@@ -103,7 +103,7 @@ This vampire grows its wings and spreads them around itself, gaining a +1 bonus 
 <table style="width: 100%; max-width: 720px; border-style: inset;">
 <tr>
 <th>Lesser Vampire Kincaller</th>
-<td colspan="3">Level 3 - Boss</td>
+<td colspan="3">Level 3 - Leader</td>
 </tr>
 <tr style="border-bottom: solid 2px"><td colspan="4">Vampires are the reason why forests at night are dangerous. Lesser vampires, especially magic users, are almost always found working or studying under a higher vampire. However, there are sightings of rogue vampires who lead bandits or beasts.</td></tr>
 <tr>  
@@ -163,7 +163,7 @@ Can be used once per day.
 <table style="width: 100%; max-width: 720px; border-style: inset;">
 <tr>
 <th>Lesser Yooha</th>
-<td colspan="3">Level 3 - Minion</td>
+<td colspan="3">Level 3 - Combatant</td>
 </tr>
 <tr style="border-bottom: solid 2px"><td colspan="4">Yoohas are a type of dragons. They have human-like bodies with a snake head, and they are able to transform into a fully human shape. They use their shape changing abilities to lure travelers into their camps or villages and ambush them.</td></tr>
 <tr>  
@@ -221,7 +221,7 @@ After charging, this yooha becomes fatigued for 1 round.
 <table style="width: 100%; max-width: 720px; border-style: inset;">
 <tr>
 <th>Yooha Chieftain</th>
-<td colspan="3">Level 4 - Boss</td>
+<td colspan="3">Level 4 - Leader</td>
 </tr>
 <tr style="border-bottom: solid 2px"><td colspan="4">Yoohas are a type of dragons. They have human-like bodies with a snake head, and they are able to transform into a fully human shape. They use their shape changing abilities to lure travelers into their camps or villages and ambush them.</td></tr>
 <tr>  
@@ -279,7 +279,7 @@ After charging, this yooha becomes fatigued for 1 round.
 <table style="width: 100%; max-width: 720px; border-style: inset;">
 <tr>
 <th>Ghost</th>
-<td colspan="3">Level 5 - Minion</td>
+<td colspan="3">Level 5 - Combatant</td>
 </tr>
 <tr style="border-bottom: solid 2px"><td colspan="4">To do: add lore</td></tr>
 <tr>  
@@ -329,7 +329,7 @@ This ghost gains a +3 bonus to its movement speed, and charges at its target usi
 <table style="width: 100%; max-width: 720px; border-style: inset;">
 <tr>
 <th>Tepegoz</th>
-<td colspan="3">Level 12 - Boss</td>
+<td colspan="3">Level 12 - Leader</td>
 </tr>
 <tr style="border-bottom: solid 2px"><td colspan="4">To do: add lore</td></tr>
 <tr>  

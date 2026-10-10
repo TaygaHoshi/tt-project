@@ -5,7 +5,7 @@ title = 'Miscellaneous'
 <table style="width: 100%; max-width: 720px; border-style: inset;">
 <tr>
 <th>Magicspawn</th>
-<td colspan="3">Level 0 - Minion</td>
+<td colspan="3">Level 0 - Combatant</td>
 </tr>
 <tr style="border-bottom: solid 2px"><td colspan="4">The magicspawn are small, unconscious beings of various shapes found near magically active places. They attack anything they think is a disturbance to the place they are guarding.</td></tr>
 <tr>  
@@ -44,7 +44,7 @@ Deals 10 magical damage.
 <table style="width: 100%; max-width: 720px; border-style: inset;">
 <tr>
 <th>Sentient Thornbranch</th>
-<td colspan="3">Level 1 - Minion</td>
+<td colspan="3">Level 1 - Combatant</td>
 </tr>
 <tr style="border-bottom: solid 2px"><td colspan="4">Some plants can gain sentience due to various magical effects. Sentient thornbranches are prime examples of such plants. They are trees which can grow up to between 5 and 10 meters tall. Thornbranches, sentient or not, produce a type of date called "thornbranch fruit". Sentient thornbranches are mostly passive and will not attack unprovoked. When provoked, however, they can be a tough opponent utilizing their namesake thorns to great effect.</td></tr>
 <tr>  
@@ -98,7 +98,7 @@ This tree gains 10 temporary physical armor for 1 round, and it is immobilized a
 <table style="width: 100%; max-width: 720px; border-style: inset;">
 <tr>
 <th>Large Magicspawn</th>
-<td colspan="3">Level 5 - Minion</td>
+<td colspan="3">Level 5 - Combatant</td>
 </tr>
 <tr style="border-bottom: solid 2px"><td colspan="4">Large magicspawn are a very rare variant of magicspawns. They are significantly bigger and pose an actual threat unlike common magicspawns.</td></tr>
 <tr>  

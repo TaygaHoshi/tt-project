@@ -7,7 +7,7 @@ title = 'Humans'
 <table style="width: 100%; max-width: 720px; border-style: inset;">
 <tr>
 <th>Nomad</th>
-<td colspan="3">Level 0 - Minion</td>
+<td colspan="3">Level 0 - Civilian</td>
 </tr>
 <tr style="border-bottom: solid 2px"><td colspan="4">Nomads are commoners and civilians of a village or a tribe and they are untrained in combat. Most of them have an area of expertise which they earn their livelihood from. Nomads usually have two locations they migrate between seasonally.</td></tr>
 <tr>  
@@ -40,7 +40,7 @@ Deals 10 physical damage.
 <table style="width: 100%; max-width: 720px; border-style: inset;">
 <tr>
 <th>Nomad Poet</th>
-<td colspan="3">Level 0 - Minion</td>
+<td colspan="3">Level 0 - Civilian</td>
 </tr>
 <tr style="border-bottom: solid 2px"><td colspan="4">Nomads are commoners and civilians of a village or a tribe and they are untrained in combat. Most of them have an area of expertise which they earn their livelihood from. Nomads usually have two locations they migrate between seasonally. Nomad poets do not wander far from their tribe, so they are not as experienced in poetry as their higher level variants. However, they are valuable in propagating their tribe's legends and stories to the next generation.</td></tr>
 <tr>  
@@ -83,7 +83,7 @@ Allies of this nomad within hearing range gain a +2 bonus to their damage with b
 <table style="width: 100%; max-width: 720px; border-style: inset;">
 <tr>
 <th>Nomad Guide</th>
-<td colspan="3">Level 0 - Minion</td>
+<td colspan="3">Level 0 - Civilian</td>
 </tr>
 <tr style="border-bottom: solid 2px"><td colspan="4">Nomads are commoners and civilians of a village or a tribe and they are untrained in combat. Most of them have an area of expertise which they earn their livelihood from. Nomads usually have two locations they migrate between seasonally. Nomad guides are the spiritual leaders and healers of their tribe.</td></tr>
 <tr>  
@@ -133,7 +133,7 @@ This nomad gains protected for 2 rounds.
 <table style="width: 100%; max-width: 720px; border-style: inset;">
 <tr>
 <th>Militia Fighter</th>
-<td colspan="3">Level 1 - Minion</td>
+<td colspan="3">Level 1 - Combatant</td>
 </tr>
 <tr style="border-bottom: solid 2px"><td colspan="4">Militia consists of somewhat trained civilians and is usually the primary defense force of a tribe. They are armored and armed enough to deter bandits and weak monsters.</td></tr>
 <tr>  
@@ -183,7 +183,7 @@ This militia attacks the next foe who moves into, out of or within range, dealin
 <table style="width: 100%; max-width: 720px; border-style: inset;">
 <tr>
 <th>Militia Spearman</th>
-<td colspan="3">Level 1 - Minion</td>
+<td colspan="3">Level 1 - Combatant</td>
 </tr>
 <tr style="border-bottom: solid 2px"><td colspan="4">Militia consists of somewhat trained civilians and is usually the primary defense force of a tribe. They are armored and armed enough to deter bandits and weak monsters.</td></tr>
 <tr>  
@@ -237,7 +237,7 @@ This militia attacks the next foe who charges or runs into or within range, deal
 <table style="width: 100%; max-width: 720px; border-style: inset;">
 <tr>
 <th>Militia Hunter</th>
-<td colspan="3">Level 1 - Minion</td>
+<td colspan="3">Level 1 - Combatant</td>
 </tr>
 <tr style="border-bottom: solid 2px"><td colspan="4">Militia consists of somewhat trained civilians and is usually the primary defense force of a tribe. They are armored and armed enough to deter bandits and weak monsters.</td></tr>
 <tr>  
@@ -292,7 +292,7 @@ Attacks the next foe who moves into, within or out of melee range, dealing 5 phy
 <table style="width: 100%; max-width: 720px; border-style: inset;">
 <tr>
 <th>Novice Fighter</th>
-<td colspan="3">Level 3 - Minion</td>
+<td colspan="3">Level 3 - Combatant</td>
 </tr>
 <tr style="border-bottom: solid 2px"><td colspan="4">Low level fighters are heavily armored, powerful warriors. They are usually professional soldiers, guards, duelists or even raiders and bandits.</td></tr>
 <tr>  
@@ -355,7 +355,7 @@ After charging, this fighter becomes fatigued for 1 round.
 <table style="width: 100%; max-width: 720px; border-style: inset;">
 <tr>
 <th>Novice Spearman</th>
-<td colspan="3">Level 3 - Minion</td>
+<td colspan="3">Level 3 - Combatant</td>
 </tr>
 <tr style="border-bottom: solid 2px"><td colspan="4">Low level spearmen are medium armored, powerful warriors. They are usually professional soldiers, guards, duelists or even raiders and bandits.</td></tr>
 <tr>  
@@ -421,7 +421,7 @@ After charging, this fighter becomes fatigued for 1 round.
 <table style="width: 100%; max-width: 720px; border-style: inset;">
 <tr>
 <th>Novice Archer</th>
-<td colspan="3">Level 3 - Minion</td>
+<td colspan="3">Level 3 - Combatant</td>
 </tr>
 <tr style="border-bottom: solid 2px"><td colspan="4">Novice archers wear light armor, and they can shoot targets from long distances. They are mostly found as hunters, wall defenders or outlaws.</td></tr>
 <tr>  
@@ -614,7 +614,7 @@ Grants an ally protective foresight for 1 round.
 <table style="width: 100%; max-width: 720px; border-style: inset;">
 <tr>
 <th>Trained Skirmisher</th>
-<td colspan="3">Level 5 - Minion</td>
+<td colspan="3">Level 5 - Combatant</td>
 </tr>
 <tr style="border-bottom: solid 2px"><td colspan="4">Trained skirmishers are well-armored, powerful combatants. They are usually professional soldiers who serve as lieutenants or commanders within armies. However, some of them can be found as independent mercenaries or bodyguards.</td></tr>
 <tr>
@@ -691,7 +691,7 @@ After charging, this skirmisher becomes fatigued for 1 round.
 <table style="width: 100%; max-width: 720px; border-style: inset;">
 <tr>
 <th>Cultist</th>
-<td colspan="3">Level 2 - Minion</td>
+<td colspan="3">Level 2 - Combatant</td>
 </tr>
 <tr style="border-bottom: solid 2px"><td colspan="4">To do: add lore</td></tr>
 <tr>  
@@ -752,7 +752,7 @@ Can be used once per day.
 <table style="width: 100%; max-width: 720px; border-style: inset;">
 <tr>
 <th>Witch of Chaos</th>
-<td colspan="3">Level 4 - Boss</td>
+<td colspan="3">Level 4 - Leader</td>
 </tr>
 <tr style="border-bottom: solid 2px"><td colspan="4">To do: add lore</td></tr>
 <tr>  
@@ -823,7 +823,7 @@ This witch uses its staff as a magical shield, gaining a +1 bonus to Warding aga
 <table style="width: 100%; max-width: 720px; border-style: inset;">
 <tr>
 <th>Witch of the Material</th>
-<td colspan="3">Level 4 - Boss</td>
+<td colspan="3">Level 4 - Leader</td>
 </tr>
 <tr style="border-bottom: solid 2px"><td colspan="4">To do: add lore</td></tr>
 <tr>  
