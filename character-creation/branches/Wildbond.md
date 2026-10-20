@@ -147,6 +147,7 @@ Wildbond techniques have a +1 bonus to their precision rolls when performed by s
 </tr>
 <tr>
 <td colspan="4"><i>Strike</i> - Action, basic weapon attack
+This attack's precision roll is made against Evasion.
 Deals 5 armor-ignoring damage. Potency bonus to this attack's damage is halved.
 </td>
 </tr>
@@ -155,7 +156,7 @@ Deals 5 armor-ignoring damage. Potency bonus to this attack's damage is halved.
 ### Lick Wounds
 As a rapid action, you can spend up to (1 + $\frac{\text{Potency}}{2}$) energy on this ability, commanding your pet to heal itself.
 
-During its next turn, your pet does not attack and heals for (1d4 + 2) health for every point of energy spent for this ability. 
+During its next turn, your pet does not attack and heals for (1d4 + 2) health for every point of energy spent for this ability. If it is out of combat, it heals at the start of next round instead.
 
 ---
 ## Techniques

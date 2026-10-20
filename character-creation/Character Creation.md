@@ -167,8 +167,10 @@ If you are carrying more than what would be comfortable or tolerable, you can ch
 2. Your travel speed is reduced by 10 kilometers.
 
 ## Death
-+ When a player character falls below 1 health, they fall unconscious. An unconscious character is prone, immobilized, blinded and stunned.
-+ Every time a character goes unconscious, they receive 1 stack of fatigued temporarily until they sleep for at least 12 hours in a safe space. This application of fatigued stacks normally. 
-+ A character dies when they reach their 4th consecutive round in unconscious state. 
-+ If a character is healed to at least 1 health during unconscious state, they become conscious again and they are prone until they stand up. Temporary health does not count as healing for this purpose.
-+ Finally, if a character takes damage equal to or more than double their base maximum health in total, they die immediately.
++ When a creature falls below 1 health, they fall unconscious. An unconscious character is prone, immobilized, blinded and stunned.
++ Non-player characters die in the end phase of a round if they are still unconscious.
++ Player characters follow a different process:
+	+ Every time a player character goes unconscious, they receive 1 stack of fatigued temporarily until they sleep for at least 12 hours in a safe space. This application of fatigued stacks normally. 
+	+ A character dies when they reach their 4th consecutive round in unconscious state. 
+	+ If a character is healed to at least 1 health during unconscious state, they become conscious again and they are prone until they stand up. Temporary health does not count as healing for this purpose.
+	+ Finally, a character dies instantly if their health reaches a negative value equal to their maximum health.

@@ -140,7 +140,7 @@ If this horse is fatigued, it can't canter.
 </tr>
 <tr>
 <td colspan="4"><em>Gallop</em> - Running style
-When commanded by a rider, performing this attack requires a Riding skill roll against a success threshold of 6.
+When commanded by a rider, performing this ability requires a Riding skill roll against a success threshold of 6.
 This horse moves in a straight line up to 10 times its movement speed.
 If this horse gallops for more than 1 minute, it is fatigued for 1d4 hours, and it can't gallop while fatigued.
 </td>

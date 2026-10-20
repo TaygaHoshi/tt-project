@@ -10,7 +10,7 @@ Weapon attacks tagged (Passive) are passive abilities which work only when the w
 | Shield       |  +1   |    0    |       +5       |       0       |        -1        |   -1    |
 | Focus        |   0   |   +1    |       0        |      +5       |        -1        |   -1    |
 | Charm        |   0   |    0    |       0        |       0       |        +1        |    0    |
-| Warhorn      |   0   |    0    |       0        |       0       |        0         |    0    |
+| Warhorn      |   0   |    0    |       0        |       0       |        0         |   -2    |
 | Light Weapon |   0   |    0    |       0        |       0       |        0         |    0    |
 
 ---
