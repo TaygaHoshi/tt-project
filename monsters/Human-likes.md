@@ -54,7 +54,7 @@ This monster is unable to move or use any other ability while tickling someone.
 <td colspan="3"><strong>Movement:</strong> 6 meters</td>  
 </tr>
 <tr style="border-bottom: dashed 2px">
-<td colspan="2"><strong>Major skills:</strong> Athlethics, Insight</td> 
+<td colspan="2"><strong>Major skills:</strong> Athletics, Insight</td> 
 <td colspan="2"><strong>Precision Roll:</strong> d10 + 2</td> 
 </tr>
 <tr>
