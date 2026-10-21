@@ -49,6 +49,14 @@ weight = 1
 	Attack the next foe who moves into, within or out of this weapon's range.
 	This attack deals half damage after armor. Similarly, any status effects applied by this attack has half duration with a minimum of 1 round.
 
+## Interact
+**Execution Time:** Action or rapid action
+**Explanation:**
+	When you perform this ability as an action, you can:
+	1. Interact with objects adjacent to you such as doors and windows, or
+	2. Destroy an item adjacent to you without a health value.
+	When performed as a rapid action, you can pick up an item from the ground.
+
 ## Self Cure
 **Execution Time:** Full-turn action
 **Explanation:**
