@@ -54,7 +54,7 @@ weight = 1
 **Explanation:**
 	When you perform this ability as an action, you can:
 	1. Interact with objects adjacent to you such as doors and windows, or
-	2. Destroy an item adjacent to you without a health value.
+	2. Destroy an adjacent item without a health value.
 	When performed as a rapid action, you can pick up an item from the ground.
 
 ## Self Cure
