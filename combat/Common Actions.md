@@ -3,18 +3,6 @@ title = 'Common Actions'
 weight = 1
 +++
 
-## Speak
-**Execution Time:** Action or minor action
-**Radius:** Hearing distance
-**Explanation:**
-	During your turn, you can shout a few sentences. Alternatively, you can whisper to an adjacent creature or object. In this case, your voice is only heard by that creature or object.
-	This ability can be used freely in the end phase of a combat round. If you choose to use this ability as a prepared action, you can set an event as the trigger. You can shout or whisper if you notice this event happen.
-
-## Self Cure
-**Execution Time:** Full-turn action
-**Explanation:**
-	Remove a status effect of your choosing from yourself.
-
 ## Charge
 **Execution Time:** Full-turn action
 **Requirements:** 
@@ -44,6 +32,14 @@ weight = 1
 	Your off-hand weapon attack gets a -2 penalty to its precision roll and doesn't receive potency bonus to its damage.
 	This ability itself is not a basic weapon attack. 
 
+## First Aid
+**Execution Time:** Action
+**Requirements:** 
+	An adjacent unconscious creature.
+**Explanation:**
+	Make a Healing skill roll for the target creature against (7 + stacks of fatigued applied to the creature).
+	If you succeed, this creature is returned to 1 health and no longer unconscious. 
+
 ## Opportunistic Strike
 **Execution Time:** Prepared action
 **Requirements:** 
@@ -53,13 +49,10 @@ weight = 1
 	Attack the next foe who moves into, within or out of this weapon's range.
 	This attack deals half damage after armor. Similarly, any status effects applied by this attack has half duration with a minimum of 1 round.
 
-## First Aid
-**Execution Time:** Action
-**Requirements:** 
-	An adjacent unconscious creature.
+## Self Cure
+**Execution Time:** Full-turn action
 **Explanation:**
-	Make a Healing skill roll for the target creature against (7 + stacks of fatigued applied to the creature).
-	If you succeed, this creature is returned to 1 health and no longer unconscious. 
+	Remove a status effect of your choosing from yourself.
 
 ## Sever
 **Execution Time:** Action
@@ -70,6 +63,13 @@ weight = 1
 	This ability's precision roll is made against Constitution.
 	Perform a basic weapon attack with your main hand weapon. This attack deals half damage after armor, and applies bleeding for (2 + $\frac{\text{Control}}{4}$) rounds.
 	This action is not a basic weapon attack.
+
+## Speak
+**Execution Time:** Action or minor action
+**Radius:** Hearing distance
+**Explanation:**
+	During your turn, you can shout a few sentences. Alternatively, you can whisper to an adjacent creature or object. In this case, your voice is only heard by that creature or object.
+	This ability can be used freely in the end phase of a combat round. If you choose to use this ability as a prepared action, you can set an event as the trigger. You can shout or whisper if you notice this event happen.
 
 ## Swap Weapons
 **Execution Time:** Rapid action
