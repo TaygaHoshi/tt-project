@@ -325,6 +325,7 @@ Attacks the next foe who moves into, out of or within range, dealing 10 physical
 <tr>
 <td colspan="4"><em>Water Affinity</em> - Passive
 This spirit can't be soaked, but it takes a +5 bonus damage from electrified. 
+Additionally, this spirit is not affected by rough terrain of water or mud.
 </td>
 </tr>
 <tr>
@@ -358,13 +359,13 @@ Attacks the next foe who moves into, out of or within range, dealing 10 physical
 ---
 <table style="width: 100%; max-width: 720px; border-style: inset;">
 <tr>
-<th>Minor Metal Spirit</th>
+<th>Forge Spirit</th>
 <td colspan="3">Level 2 - Combatant</td>
 </tr>
-<tr style="border-bottom: solid 2px"><td colspan="4">To do: add lore</td></tr>
+<tr style="border-bottom: solid 2px"><td colspan="4">Forge spirits are summoned by smiths raising a seasonal forge, starting the first fire with an offering of fat. Afterwards, they attend the furnace and anvil, lending their strength to smiths who work honestly and spoiling the work of careless amateurs. When the season changes and the work is done, they depart until next year.</td></tr>
 <tr>  
 <td><strong>Health:</strong> 80</td>  
-<td colspan="3"><strong>Movement:</strong> 4 meters</td>  
+<td colspan="3"><strong>Movement:</strong> 5 meters</td>  
 </tr>
 <tr style="border-bottom: dashed 2px">
 <td colspan="2"><strong>Major skills:</strong> Magic Sense, Insight</td> 
@@ -383,7 +384,7 @@ Attacks the next foe who moves into, out of or within range, dealing 10 physical
 </tr>
 <tr>
 <td colspan="4"><em>Metal Affinity</em> - Passive
-Damage from burning ignores the armor of this creature.
+This spirit takes half damage from electrified, but damage from burning ignores its armor.
 </td>
 </tr>
 <tr>
@@ -392,10 +393,11 @@ Deals 25 physical damage.
 </td>
 </tr>
 <tr>
-<td colspan="4"><em>Lightning</em> - Action, weapon attack, projectile
-This attack's precision roll is made against Evasion.
+<td colspan="4"><em>Blunt</em> - Action, technique
+This technique's precision roll is made against Warding.
 Range: 5 meters.
-Applies electrified (10 damage) for 2 rounds.
+This spirit blunts a weapon within range. Damaging weapon attacks performed with this weapon deal 10 less damage before armor for 2 rounds.
+This technique does not require a precision roll against unattended weapons.
 </td>
 </tr>
 <tr>
@@ -566,7 +568,7 @@ Attacks the next foe who moves into, out of or within range, dealing 12 physical
 </tr>
 <tr>
 <td colspan="4"><em>Metal Affinity</em> - Passive
-Damage from burning ignores the armor of this creature.
+This spirit takes half damage from electrified, but damage from burning ignores its armor.
 </td>
 </tr>
 <tr>
