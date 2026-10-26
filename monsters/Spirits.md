@@ -396,7 +396,7 @@ Deals 25 physical damage.
 <td colspan="4"><em>Blunt</em> - Action, technique
 This technique's precision roll is made against Warding.
 Range: 5 meters.
-This spirit blunts a weapon within range. Damaging weapon attacks performed with this weapon deal 10 less damage before armor for 2 rounds.
+This spirit blunts a weapon within range. Damaging weapon attacks performed with this weapon deal 10 less damage before armor for 2 rounds. If this weapon was made in this spirit's forge, this penalty is permanent instead.
 This technique does not require a precision roll against unattended weapons.
 </td>
 </tr>

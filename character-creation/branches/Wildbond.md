@@ -204,6 +204,7 @@ During its next turn, your pet does not attack and heals for (1d4 + 2) health fo
 **Range:** 1 meter
 **Effect**
 	Your pet does not attack. Instead, it targets a prone creature of your choosing. Your pet grabs this creature and drags it towards you up to (2 + $\frac{\text{Potency}}{3}$) meters, dealing 5 armor-ignoring damage per meter dragged.
+
 ### Pounce
 **Category:** Command
 **Against:** Parry
