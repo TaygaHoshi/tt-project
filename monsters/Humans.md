@@ -106,18 +106,19 @@ Allies of this nomad within hearing range gain a +2 bonus to their damage with b
 <td colspan="2"><strong>Weapon:</strong> Improvised wand</td>
 </tr>
 <tr>
-<td colspan="4"><em>Strike</em> - Action, basic weapon attack
+<td colspan="4"><em>Bolt</em> - Action, basic weapon attack
 Range: 3 meters.
 Deals 5 magical damage. 
 </td>
 </tr>
 <tr>
 <td colspan="4"><em>Simple Healing</em> - Rapid action, technique
+Range: 3 meters.
 Grants the target 2 rounds of regeneration (2 health).
 </td>
 </tr>
 <tr>
-<td colspan="4"><em>Cure</em> - Full-turn action, technique
+<td colspan="4"><em>Cure</em> - Rapid action, technique
 Range: 3 meters.
 Removes one debilitating or harmful status effect from the target.
 </td>
