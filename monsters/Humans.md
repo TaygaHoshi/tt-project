@@ -74,7 +74,7 @@ Deals 5 physical damage.
 </tr>
 <tr>
 <td colspan="4"><em>Poem of Fury</em> - Rapid action, technique
-Allies of this nomad within hearing range gain a +2 bonus to their damage with basic weapon attacks for 1 round.
+Allies of this nomad within hearing range gain a +2 bonus damage with basic weapon attacks for 1 round.
 </td>
 </tr>
 </table>
@@ -170,7 +170,7 @@ Applies cracked armor for 1 round.
 <tr>
 <td colspan="4"><em>Brutal Attack</em> - Action, weapon attack
 -2 penalty to precision roll.
-Deals 30 physical damage.
+Deals 35 physical damage.
 </td>
 </tr>
 <tr>
@@ -624,7 +624,7 @@ Grants an ally protective foresight for 1 round.
 </tr>
 <tr style="border-bottom: dashed 2px">
 <td colspan="2"><strong>Major skills:</strong> Athletics, Riding</td> 
-<td colspan="2"><strong>Precision Roll:</strong> d10 + 1</td> 
+<td colspan="2"><strong>Precision Roll:</strong> d10 + 2</td> 
 </tr>
 <tr>
 <td><strong>Parry:</strong> 10</td> 

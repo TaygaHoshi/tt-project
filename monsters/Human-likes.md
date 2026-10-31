@@ -204,6 +204,7 @@ Applies disoriented (-2) for 2 rounds.
 </tr>
 <tr>
 <td colspan="4"><em>Charming</em> - Rapid action, technique
+This technique's precision roll is made against Constitution.
 Range: 5 meters.
 Applies weakened defenses (-2) for 1 round.
 </td>

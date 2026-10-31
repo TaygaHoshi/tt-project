@@ -215,7 +215,7 @@ During its next turn, your pet does not attack and heals for (1d4 + 2) health fo
 	Instead of attacking, your pet pounces on the target of your choosing, making them fall prone.
 
 ### Rush
-**Category:** Utility
+**Category:** Command
 **Execution Time:** Rapid action
 **Cost:** 2 energy
 **Effect**
