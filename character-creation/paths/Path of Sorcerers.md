@@ -76,11 +76,11 @@ This ability does not get any bonuses to its damage.
 **Category:** Offense
 **Execution Time:** Full-turn action
 **Cost:** 15 health
-**Radius:** (2 + P/3) meters
+**Radius:** (2 + $\frac{\text{Potency}}{3}$) meters
 **Duration:** (2 + $\frac{\text{Control}}{3}$) rounds
 **Effect**
 	Create an area of chaos around you for the duration. This area is considered light rough terrain, and creatures within it are moonlit unless they were already in darkness. 
-	Summon a spiritling of chaos next to each creature hostile to you within the radius up to a maximum of (2 + P/3) spiritlings for the duration. 
+	Summon a spiritling of chaos next to each creature hostile to you within the radius up to a maximum of (2 + $\frac{\text{Potency}}{3}$) spiritlings for the duration. 
 	Spiritlings summoned by this technique share your level, do not count towards your summon limit, and attack the foe closest to them. 
 
 ### Curse Transfer
@@ -99,7 +99,7 @@ This ability does not get any bonuses to its damage.
 **Range:** 5 meters
 **Duration:** (2 + $\frac{\text{Control}}{3}$) rounds
 **Effect**
-	Mark up to (1 + P/2) creatures for the duration, spending 1 energy per creature marked. If a marked creature dies while affected, adjacent creatures take 15 magical damage without requiring precision rolls.
+	Mark up to (1 + $\frac{\text{Potency}}{2}$) creatures for the duration, spending 1 energy per creature marked. If a marked creature dies while affected, adjacent creatures take 15 magical damage without requiring precision rolls.
 
 ### Pain Illusion
 **Category:** Offense
@@ -108,7 +108,7 @@ This ability does not get any bonuses to its damage.
 **Cost:** 10 health
 **Range:** 5 meters
 **Effect**
-	Deal 20 magical damage to the target creature.
+	Deal 30 magical damage to the target creature.
 	At the start of your next round, unless the creature has died, this damage is reversed and the creature regains health equal to the damage it received to its health. 
 
 ### Purge Blessings
@@ -118,7 +118,7 @@ This ability does not get any bonuses to its damage.
 **Cost:** 5 health
 **Range:** 5 meters
 **Effect**
-	Remove (1 + P/4) supportive status effects from the target creature, then deal a combined 10 magical damage per effect removed.
+	Remove (1 + $\frac{\text{Potency}}{4}$) supportive status effects from the target creature, then deal a combined 10 magical damage per effect removed.
 
 ### Spread Curses
 **Category:** Offense
